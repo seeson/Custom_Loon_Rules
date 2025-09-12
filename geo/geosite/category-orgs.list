@@ -1,12 +1,13 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 06:05:40
+# UPDATED: 2025-09-13 07:10:53
 # DOMAIN: 10
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 112
 # IP-CIDR: 0
 # TOTAL: 122
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -16,7 +17,6 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -31,6 +31,35 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
+DOMAIN-SUFFIX,f-dro1d.org
+DOMAIN-SUFFIX,f-droid.com
+DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,fdroid.org
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,bookbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,messybrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
+DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ieee.tv
 DOMAIN-SUFFIX,tryengineering.org
@@ -85,17 +114,6 @@ DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,vtsociety.org
-DOMAIN-SUFFIX,acousticbrainz.org
-DOMAIN-SUFFIX,bookbrainz.org
-DOMAIN-SUFFIX,coverartarchive.org
-DOMAIN-SUFFIX,critiquebrainz.org
-DOMAIN-SUFFIX,listenbrainz.org
-DOMAIN-SUFFIX,messybrainz.org
-DOMAIN-SUFFIX,metabrainz.org
-DOMAIN-SUFFIX,musicbrainz.org
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,ppy.sh
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
@@ -107,25 +125,7 @@ DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,4pcdn.org
 DOMAIN-SUFFIX,4plebs.org
-DOMAIN-SUFFIX,f-dro1d.org
-DOMAIN-SUFFIX,f-droid.com
-DOMAIN-SUFFIX,f-droid.org
-DOMAIN-SUFFIX,fdroid.org
 DOMAIN-SUFFIX,emojipedia.org
 DOMAIN-SUFFIX,worldemojiawards.com
 DOMAIN-SUFFIX,worldemojiday.com
 DOMAIN-SUFFIX,xn--yt8h.la
-DOMAIN-SUFFIX,openmaps.org
-DOMAIN-SUFFIX,openstreetmap.com
-DOMAIN-SUFFIX,openstreetmap.net
-DOMAIN-SUFFIX,openstreetmap.org
-DOMAIN-SUFFIX,openstreetmaps.org
-DOMAIN-SUFFIX,osm.org
-DOMAIN-SUFFIX,osmfoundation.org
-DOMAIN-SUFFIX,stateofthemap.com
-DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,ccstatic.org
-DOMAIN-SUFFIX,creativecommons.org
-DOMAIN-SUFFIX,creativecommons.engineering
-DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,csis.org
