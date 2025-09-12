@@ -119,6 +119,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 获取上海时间
+          TIME=$(python3 -c "import datetime, pytz; print(datetime.datetime.now(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'))")
+          
           git add geo/geosite
-          git commit -m "Update geosite rules" || echo "No changes"
+          git commit -m "Updated on $TIME" || echo "No changes to commit"
           git push
