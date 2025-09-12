@@ -1,7 +1,7 @@
 # NAME: category-games-!cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 06:05:36
+# UPDATED: 2025-09-13 07:10:46
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 30
@@ -19,6 +19,24 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,mariokart.cn
 DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,supermariobros.com.cn
+DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
+DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
+DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
@@ -36,21 +54,3 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
-DOMAIN,menu-static.gog-statics.com
-DOMAIN,productcard.gog-statics.com
-DOMAIN,static-login.gog-statics.com
-DOMAIN,www4-static.gog-statics.com
-DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
-DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
-DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
-DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn.akamaized.net
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn

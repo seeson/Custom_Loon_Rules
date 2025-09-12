@@ -1,7 +1,7 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 06:05:42
+# UPDATED: 2025-09-13 07:10:56
 # DOMAIN: 4
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 574
@@ -11,8 +11,31 @@ DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
-DOMAIN-SUFFIX,facnbook.com
-DOMAIN-SUFFIX,facebookshop.com
+DOMAIN-SUFFIX,facecook.com
+DOMAIN-SUFFIX,facebookmsn.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,vk-apps.com
@@ -211,7 +234,7 @@ DOMAIN-SUFFIX,facebookmarketing.info
 DOMAIN-SUFFIX,facebookmarketingpartner.com
 DOMAIN-SUFFIX,facebookmarketingpartners.com
 DOMAIN-SUFFIX,facebookmobile.com
-DOMAIN-SUFFIX,facebookmsn.com
+DOMAIN-SUFFIX,facecook.org
 DOMAIN-SUFFIX,facebooknews.com
 DOMAIN-SUFFIX,facebooknfl.com
 DOMAIN-SUFFIX,facebooknude.com
@@ -234,7 +257,7 @@ DOMAIN-SUFFIX,facebookportal.com
 DOMAIN-SUFFIX,facebooks.com
 DOMAIN-SUFFIX,facebooksafety.com
 DOMAIN-SUFFIX,facebooksecurity.net
-DOMAIN-SUFFIX,facrbook.com
+DOMAIN-SUFFIX,facebookshop.com
 DOMAIN-SUFFIX,facebooksignup.net
 DOMAIN-SUFFIX,facebooksite.net
 DOMAIN-SUFFIX,facebookstories.com
@@ -272,9 +295,9 @@ DOMAIN-SUFFIX,facebzook.com
 DOMAIN-SUFFIX,facecbgook.com
 DOMAIN-SUFFIX,facecbook.com
 DOMAIN-SUFFIX,facecbook.org
-DOMAIN-SUFFIX,facecook.com
-DOMAIN-SUFFIX,facecook.org
-DOMAIN-SUFFIX,facedbook.com
+DOMAIN-SUFFIX,fbthirdpartypixel.com
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,faceebok.com
 DOMAIN-SUFFIX,faceebook.com
 DOMAIN-SUFFIX,faceebot.com
@@ -295,9 +318,9 @@ DOMAIN-SUFFIX,facewook.com
 DOMAIN-SUFFIX,facfacebook.com
 DOMAIN-SUFFIX,facfebook.com
 DOMAIN-SUFFIX,fackebook.com
-DOMAIN-SUFFIX,ferabook.com
-DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,facnbook.com
+DOMAIN-SUFFIX,facrbook.com
+DOMAIN-SUFFIX,facvebook.com
 DOMAIN-SUFFIX,facwebook.com
 DOMAIN-SUFFIX,facxebook.com
 DOMAIN-SUFFIX,fadebook.com
@@ -335,7 +358,7 @@ DOMAIN-SUFFIX,fbrpms.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbsbx.net
 DOMAIN-SUFFIX,fbsupport-covid.net
-DOMAIN-SUFFIX,fbthirdpartypixel.com
+DOMAIN-SUFFIX,facedbook.com
 DOMAIN-SUFFIX,fbthirdpartypixel.net
 DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,fburl.com
@@ -358,7 +381,7 @@ DOMAIN-SUFFIX,feceboock.com
 DOMAIN-SUFFIX,feceboox.com
 DOMAIN-SUFFIX,fececbook.com
 DOMAIN-SUFFIX,feook.com
-DOMAIN-SUFFIX,facvebook.com
+DOMAIN-SUFFIX,ferabook.com
 DOMAIN-SUFFIX,fescebook.com
 DOMAIN-SUFFIX,fesebook.com
 DOMAIN-SUFFIX,ffacebook.com
@@ -540,43 +563,20 @@ DOMAIN-SUFFIX,misskey.flowers
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,twitterstat.us
-DOMAIN-SUFFIX,twitteroauth.com
-DOMAIN-SUFFIX,twitterinc.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,twitterflightschool.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tellapart.com
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,l-0005.l-msedge.net
-DOMAIN-SUFFIX,msk.kitazawa.me
-DOMAIN-SUFFIX,misskey.noellabo.jp
-DOMAIN-SUFFIX,misskey.ranranhome.info
-DOMAIN-SUFFIX,mof.kemomi.me
-DOMAIN-SUFFIX,mk.yopo.work
-DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,misskey.04.si
+DOMAIN-SUFFIX,misskey.gamelore.fun
+DOMAIN-SUFFIX,msk.ilnk.info
+DOMAIN-SUFFIX,mof.kemomi.me
+DOMAIN-SUFFIX,misskey.ranranhome.info
 DOMAIN-SUFFIX,misskey.always-we-need.games
 DOMAIN-SUFFIX,misskey.yukineko.me
-DOMAIN-SUFFIX,msk.ilnk.info
-DOMAIN-SUFFIX,misskey.gamelore.fun
-DOMAIN-SUFFIX,mi.nakn.jp
+DOMAIN-SUFFIX,l-0005.l-msedge.net
+DOMAIN-SUFFIX,mk.yopo.work
+DOMAIN-SUFFIX,mk.shrimpia.network
+DOMAIN-SUFFIX,misskey.noellabo.jp
+DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
+DOMAIN-SUFFIX,mi.nakn.jp
 DOMAIN-SUFFIX,mi.mashiro.site
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,labo.wovs.tk
