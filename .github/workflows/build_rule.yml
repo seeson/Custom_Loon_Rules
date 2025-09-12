@@ -1,0 +1,131 @@
+name: Download & Convert DustinWin release JSON -> Loon rule lists
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 2 * * *'  # daily at 02:00 UTC, 按需修改或删除
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y jq curl git
+
+      - name: Download release JSONs and convert
+        env:
+          API_TAG: sing-box-ruleset
+          API_OWNER: DustinWin
+          API_REPO: ruleset_geodata
+          OUT_REPO: https://github.com/seeson/Custom_Loon_Rules
+          AUTHOR_NAME: SeesoN
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          OUT_DIR="loon/rules"
+          mkdir -p "${OUT_DIR}"
+          API_URL="https://api.github.com/repos/${API_OWNER}/${API_REPO}/releases/tags/${API_TAG}"
+
+          echo "Fetching release info for ${API_OWNER}/${API_REPO} tag ${API_TAG} ..."
+          RESP=$(curl -s -H "Accept: application/vnd.github+json" -H "Authorization: token ${GITHUB_TOKEN}" "${API_URL}")
+
+          mapfile -t ASSETS < <(echo "$RESP" | jq -r '.assets[] | select(.name|endswith(".json")) | .browser_download_url + " " + .name')
+
+          if [ ${#ASSETS[@]} -eq 0 ]; then
+            echo "No JSON assets found in release ${API_TAG}."
+            exit 0
+          fi
+
+          for entry in "${ASSETS[@]}"; do
+            url=$(echo "$entry" | awk '{print $1}')
+            name=$(echo "$entry" | awk '{print $2}')
+            base="${name%.json}"
+            echo "-------------------------------------------------------"
+            echo "Processing asset: $name"
+            tmpfile="$(mktemp)"
+            curl -L -s -H "Authorization: token ${GITHUB_TOKEN}" "$url" -o "$tmpfile"
+
+            # safe counts (如果字段不存在就为0)
+            domain_count=$(jq 'if has("domain") and (.domain|type=="array") then (.domain|length) else 0 end' "$tmpfile")
+            suffix_count=$(jq 'if has("domain_suffix") and (.domain_suffix|type=="array") then (.domain_suffix|length) else 0 end' "$tmpfile")
+            keyword_count=$(jq 'if has("domain_keyword") and (.domain_keyword|type=="array") then (.domain_keyword|length) else 0 end' "$tmpfile")
+            ip_total=$(jq 'if has("ip_cidr") and (.ip_cidr|type=="array") then (.ip_cidr|length) else 0 end' "$tmpfile")
+            total=$((domain_count + suffix_count + keyword_count + ip_total))
+
+            updated="$(date -u +'%Y-%m-%d %H:%M:%S')"
+
+            outfile="${OUT_DIR}/${base}.list"
+            # 写文件头：只有当对应 count > 0 时才写那一行
+            {
+              echo "# NAME: ${base}"
+              echo "# AUTHOR: ${AUTHOR_NAME}"
+              echo "# REPO: ${OUT_REPO}"
+              echo "# UPDATED: ${updated}"
+
+              if [ "$domain_count" -gt 0 ]; then
+                echo "# DOMAIN: ${domain_count}"
+              fi
+              if [ "$keyword_count" -gt 0 ]; then
+                echo "# DOMAIN-KEYWORD: ${keyword_count}"
+              fi
+              if [ "$suffix_count" -gt 0 ]; then
+                echo "# DOMAIN-SUFFIX: ${suffix_count}"
+              fi
+              if [ "$ip_total" -gt 0 ]; then
+                echo "# IP-CIDR: ${ip_total}"
+              fi
+
+              echo "# TOTAL: ${total}"
+              echo
+
+              # 1) DOMAIN (直接输出 DOMAIN,<domain>)
+              jq -r '.domain[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+                printf 'DOMAIN,%s\n' "$v"
+              done
+
+              # 2) DOMAIN-SUFFIX
+              jq -r '.domain_suffix[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+                printf 'DOMAIN-SUFFIX,%s\n' "$v"
+              done
+
+              # 3) DOMAIN-KEYWORD
+              jq -r '.domain_keyword[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+                printf 'DOMAIN-KEYWORD,%s\n' "$v"
+              done
+
+              # 4) IPs: IPv6 -> IP-CIDR6, IPv4 -> IP-CIDR
+              jq -r '.ip_cidr[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+                if [[ "$v" == *:* ]]; then
+                  printf 'IP-CIDR6,%s\n' "$v"
+                else
+                  printf 'IP-CIDR,%s\n' "$v"
+                fi
+              done
+            } > "$outfile"
+
+            rm -f "$tmpfile"
+            echo "Wrote $outfile (DOMAIN:${domain_count} SUFFIX:${suffix_count} KEYWORD:${keyword_count} IPS:${ip_total})"
+          done
+
+      - name: Commit converted rules if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add loon/rules || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(rules): update converted rules from ${API_OWNER}/${API_REPO}@${API_TAG} [skip ci]" || true
+            git push
+          fi
