@@ -56,17 +56,16 @@ jobs:
             tmpfile="$(mktemp)"
             curl -L -s -H "Authorization: token ${GITHUB_TOKEN}" "$url" -o "$tmpfile"
 
-            # safe counts (如果字段不存在就为0)
-            domain_count=$(jq 'if has("domain") and (.domain|type=="array") then (.domain|length) else 0 end' "$tmpfile")
-            suffix_count=$(jq 'if has("domain_suffix") and (.domain_suffix|type=="array") then (.domain_suffix|length) else 0 end' "$tmpfile")
-            keyword_count=$(jq 'if has("domain_keyword") and (.domain_keyword|type=="array") then (.domain_keyword|length) else 0 end' "$tmpfile")
-            ip_total=$(jq 'if has("ip_cidr") and (.ip_cidr|type=="array") then (.ip_cidr|length) else 0 end' "$tmpfile")
+            # 计算：同时检查顶层和 rules[] 下的数组（兼容两种结构）
+            domain_count=$(jq '[ (.domain[]? // empty), (.rules[]?.domain[]? // empty) ] | length' "$tmpfile")
+            suffix_count=$(jq '[ (.domain_suffix[]? // empty), (.rules[]?.domain_suffix[]? // empty) ] | length' "$tmpfile")
+            keyword_count=$(jq '[ (.domain_keyword[]? // empty), (.rules[]?.domain_keyword[]? // empty) ] | length' "$tmpfile")
+            ip_total=$(jq '[ (.ip_cidr[]? // empty), (.rules[]?.ip_cidr[]? // empty) ] | length' "$tmpfile")
             total=$((domain_count + suffix_count + keyword_count + ip_total))
 
             updated="$(date -u +'%Y-%m-%d %H:%M:%S')"
 
             outfile="${OUT_DIR}/${base}.list"
-            # 写文件头：只有当对应 count > 0 时才写那一行
             {
               echo "# NAME: ${base}"
               echo "# AUTHOR: ${AUTHOR_NAME}"
@@ -89,23 +88,24 @@ jobs:
               echo "# TOTAL: ${total}"
               echo
 
-              # 1) DOMAIN (直接输出 DOMAIN,<domain>)
-              jq -r '.domain[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+              # 输出项：同时从顶层和 rules[] 获取，去掉空行
+              # 1) DOMAIN
+              jq -r '(.domain[]? , .rules[]?.domain[]?) | select(.)' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
                 printf 'DOMAIN,%s\n' "$v"
               done
 
               # 2) DOMAIN-SUFFIX
-              jq -r '.domain_suffix[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+              jq -r '(.domain_suffix[]? , .rules[]?.domain_suffix[]?) | select(.)' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
                 printf 'DOMAIN-SUFFIX,%s\n' "$v"
               done
 
               # 3) DOMAIN-KEYWORD
-              jq -r '.domain_keyword[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+              jq -r '(.domain_keyword[]? , .rules[]?.domain_keyword[]?) | select(.)' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
                 printf 'DOMAIN-KEYWORD,%s\n' "$v"
               done
 
               # 4) IPs: IPv6 -> IP-CIDR6, IPv4 -> IP-CIDR
-              jq -r '.ip_cidr[]? // empty' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
+              jq -r '(.ip_cidr[]? , .rules[]?.ip_cidr[]?) | select(.)' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
                 if [[ "$v" == *:* ]]; then
                   printf 'IP-CIDR6,%s\n' "$v"
                 else
