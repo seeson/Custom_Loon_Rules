@@ -11,6 +11,16 @@ permissions:
 jobs:
   convert:
     runs-on: ubuntu-latest
+    env:
+      API_TAG: sing-box-ruleset
+      API_OWNER: DustinWin
+      API_REPO: ruleset_geodata
+      OUT_REPO: https://github.com/seeson/Custom_Loon_Rules
+      AUTHOR_NAME: SeesoN
+      # 本地时区（已改为上海）
+      LOCALE_TZ: Asia/Shanghai
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,13 +33,6 @@ jobs:
           sudo apt-get install -y jq curl git
 
       - name: Download release JSONs and convert
-        env:
-          API_TAG: sing-box-ruleset
-          API_OWNER: DustinWin
-          API_REPO: ruleset_geodata
-          OUT_REPO: https://github.com/seeson/Custom_Loon_Rules
-          AUTHOR_NAME: SeesoN
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
 
@@ -63,7 +66,8 @@ jobs:
             ip_total=$(jq '[ (.ip_cidr[]? // empty), (.rules[]?.ip_cidr[]? // empty) ] | length' "$tmpfile")
             total=$((domain_count + suffix_count + keyword_count + ip_total))
 
-            updated="$(date -u +'%Y-%m-%d %H:%M:%S')"
+            # 使用上海时区时间戳（用于文件头）
+            updated="$(TZ="${LOCALE_TZ}" date +'%Y-%m-%d %H:%M:%S %Z')"
 
             outfile="${OUT_DIR}/${base}.list"
             {
@@ -118,14 +122,20 @@ jobs:
             echo "Wrote $outfile (DOMAIN:${domain_count} SUFFIX:${suffix_count} KEYWORD:${keyword_count} IPS:${ip_total})"
           done
 
-      - name: Commit converted rules if changed
+      - name: Commit converted rules if changed (commit message = 上海时间)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add loon/rules || true
+
+          # 生成上海时区的提交信息，格式： "更新时间: 2025-09-12 20:12:29 CST"
+          COMMIT_TIME="$(TZ="${LOCALE_TZ}" date +'%Y-%m-%d %H:%M:%S %Z')"
+          COMMIT_MESSAGE="Updated on: ${COMMIT_TIME}"
+          echo "Commit message will be: ${COMMIT_MESSAGE}"
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore(rules): update converted rules from ${API_OWNER}/${API_REPO}@${API_TAG} [skip ci]" || true
+            git commit -m "${COMMIT_MESSAGE}" || true
             git push
           fi
