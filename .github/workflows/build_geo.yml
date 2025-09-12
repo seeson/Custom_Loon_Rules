@@ -20,13 +20,18 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install deps
+      - name: Install dependencies
         run: pip install requests pytz
 
       - name: Download & Convert
         run: |
-          import os, requests, datetime, pytz
+          python3 <<'EOF'
+          import os
+          import requests
+          import datetime
+          import pytz
 
+          # 读取文件列表
           files_path = "geo/files.txt"
           if not os.path.exists(files_path):
               print(f"❌ {files_path} not found")
@@ -47,6 +52,7 @@ jobs:
                   continue
 
               lines = r.text.strip().splitlines()
+              rules_set = set()
               domains, suffixes, keywords, cidrs = [], [], [], []
 
               for line in lines:
@@ -54,37 +60,103 @@ jobs:
                   if not line or line.startswith("#"):
                       continue
                   if line.startswith("+."):
-                      suffixes.append(f"DOMAIN-SUFFIX,{line[2:]}")
-                  elif line.startswith("keyword:"):
-                      keywords.append(f"DOMAIN-KEYWORD,{line.split(':',1)[1]}")
-                  elif any(line.startswith(p) for p in ["ip-cidr:", "ip6-cidr:"]):
-                      cidrs.append(f"IP-CIDR,{line.split(':',1)[1]}")
-                  else:
-                      domains.append(f"DOMAIN,{line}")
+                      rule = f"DOMAIN-SUFFIX,{line[2:]}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          suffixes.append(rule)
+                  elif line.startswith(".@"):
+                      rule = f"DOMAIN-KEYWORD,{line[2:]}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          keywords.append(rule)
+                  elif any(c.isalpha() for c in line) and "." in line:
+                      rule = f"DOMAIN,{line}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          domains.append(rule)
+                  elif all(c.isdigit() or c=="." for c in line):
+                      rule = f"IP-CIDR,{line}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          cidrs.appe
+name: Download & Convert geosite rules
 
-              now = datetime.datetime.now(pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S")
-              header = [
-                  f"# NAME: {file}",
-                  f"# AUTHOR: SeesoN",
-                  f"# REPO: https://github.com/seeson/Custom_Loon_Rules",
-                  f"# UPDATED: {now}"
-              ]
-              if domains: header.append(f"# DOMAIN: {len(domains)}")
-              if keywords: header.append(f"# DOMAIN-KEYWORD: {len(keywords)}")
-              if suffixes: header.append(f"# DOMAIN-SUFFIX: {len(suffixes)}")
-              if cidrs: header.append(f"# IP-CIDR: {len(cidrs)}")
-              total = len(domains) + len(suffixes) + len(keywords) + len(cidrs)
-              header.append(f"# TOTAL: {total}")
-              header.append("")
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 20 * * *'  # 每天 20:00 UTC
 
-              content = "\n".join(header + domains + keywords + suffixes + cidrs)
-              with open(f"geo/geosite/{file}.list", "w", encoding="utf-8") as f:
-                  f.write(content)
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-      - name: Commit changes
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests pytz
+
+      - name: Download & Convert
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add geo/geosite
-          git commit -m "Update geosite rules" || echo "No changes"
-          git push
+          python3 <<'EOF'
+          import os
+          import requests
+          import datetime
+          import pytz
+
+          # 读取文件列表
+          files_path = "geo/files.txt"
+          if not os.path.exists(files_path):
+              print(f"❌ {files_path} not found")
+              exit(1)
+
+          with open(files_path, encoding="utf-8") as f:
+              FILES = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+
+          os.makedirs("geo/geosite", exist_ok=True)
+
+          for file in FILES:
+              url = f"https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/{file}.list"
+              print(f"Processing {file} ...")
+
+              r = requests.get(url)
+              if r.status_code != 200:
+                  print(f"❌ Failed to download {url}")
+                  continue
+
+              lines = r.text.strip().splitlines()
+              rules_set = set()
+              domains, suffixes, keywords, cidrs = [], [], [], []
+
+              for line in lines:
+                  line = line.strip()
+                  if not line or line.startswith("#"):
+                      continue
+                  if line.startswith("+."):
+                      rule = f"DOMAIN-SUFFIX,{line[2:]}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          suffixes.append(rule)
+                  elif line.startswith(".@"):
+                      rule = f"DOMAIN-KEYWORD,{line[2:]}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          keywords.append(rule)
+                  elif any(c.isalpha() for c in line) and "." in line:
+                      rule = f"DOMAIN,{line}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          domains.append(rule)
+                  elif all(c.isdigit() or c=="." for c in line):
+                      rule = f"IP-CIDR,{line}"
+                      if rule not in rules_set:
+                          rules_set.add(rule)
+                          cidrs.appe
