@@ -108,12 +108,12 @@ jobs:
                 printf 'DOMAIN-KEYWORD,%s\n' "$v"
               done
 
-              # 4) IPs: IPv6 -> IP-CIDR6, IPv4 -> IP-CIDR
+              # 4) IPs: IPv6 -> IP-CIDR6, IPv4 -> IP-CIDR (末尾加 no-resolve)
               jq -r '(.ip_cidr[]? , .rules[]?.ip_cidr[]?) | select(.)' "$tmpfile" | sed '/^$/d' | while IFS= read -r v; do
                 if [[ "$v" == *:* ]]; then
-                  printf 'IP-CIDR6,%s\n' "$v"
+                  printf 'IP-CIDR6,%s,no-resolve\n' "$v"
                 else
-                  printf 'IP-CIDR,%s\n' "$v"
+                  printf 'IP-CIDR,%s,no-resolve\n' "$v"
                 fi
               done
             } > "$outfile"
