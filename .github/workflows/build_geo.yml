@@ -110,7 +110,7 @@ jobs:
               content = "\n".join(header + sorted_rules)
               save_path = f"geo/geosite/{file}.list"
               with open(save_path, "w", encoding="utf-8") as f:
-                  f.write(content)
+                  f.write(content + "\n")  # 保证文件以换行结尾
 
               print(f"✅ Saved {save_path}")
           EOF
