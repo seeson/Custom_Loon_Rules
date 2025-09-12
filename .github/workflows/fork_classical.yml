@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 23 * * *' #UTC TIME
+
 permissions:
   contents: write
 
@@ -15,7 +16,7 @@ jobs:
       REPO_URL: https://github.com/seeson/Custom_Loon_Rules
       AUTHOR: SeesoN
     steps:
-      - name: Checkout current repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Install dependencies
@@ -30,45 +31,44 @@ jobs:
 
       - name: Download and process geo/geosite lists
         run: |
-          BASE_URL="https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical"
-          FILES=$(curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/geo/geosite/classical?ref=meta | jq -r '.[] | select(.name|endswith(".list")) | .name')
-          for file in $FILES; do
-            curl -s $BASE_URL/$file -o geo/geosite/$file
-            NAME=${file%.list}
-            # 统计规则数量
-            TOTAL=$(grep -vE '^\s*#|^\s*$' geo/geosite/$file | wc -l)
-            DOMAIN=$(grep -cE '^DOMAIN,' geo/geosite/$file || echo "")
-            DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' geo/geosite/$file || echo "")
-            DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' geo/geosite/$file || echo "")
-            IP_CIDR=$(grep -cE '^IP-CIDR,' geo/geosite/$file || echo "")
-            # 更新时间
-            UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
-            # 添加注释
-            sed -i "1i# NAME: $NAME\n# AUTHOR: $AUTHOR\n# REPO: $REPO_URL\n# UPDATED: $UPDATED\n# DOMAIN: $DOMAIN\n# DOMAIN-KEYWORD: $DOMAIN_KEYWORD\n# DOMAIN-SUFFIX: $DOMAIN_SUFFIX\n# IP-CIDR: $IP_CIDR\n# TOTAL: $TOTAL" geo/geosite/$file
-          done
+          process_dir() {
+            LOCAL_DIR=$1
+            REMOTE_DIR=$2
+            BASE_URL="https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/$REMOTE_DIR"
+            FILES=$(curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/$REMOTE_DIR?ref=meta | jq -r '.[] | select(.name|endswith(".list")) | .name')
+            
+            for file in $FILES; do
+              curl -s $BASE_URL/$file -o "$LOCAL_DIR/$file"
+              NAME=${file%.list}
 
-      - name: Download and process geo/geoip lists
-        run: |
-          BASE_URL="https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/classical"
-          FILES=$(curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/geo/geoip/classical?ref=meta | jq -r '.[] | select(.name|endswith(".list")) | .name')
-          for file in $FILES; do
-            curl -s $BASE_URL/$file -o geo/geoip/$file
-            NAME=${file%.list}
-            # 统计规则数量
-            TOTAL=$(grep -vE '^\s*#|^\s*$' geo/geoip/$file | wc -l)
-            DOMAIN=$(grep -cE '^DOMAIN,' geo/geoip/$file || echo "")
-            DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' geo/geoip/$file || echo "")
-            DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' geo/geoip/$file || echo "")
-            IP_CIDR=$(grep -cE '^IP-CIDR,' geo/geoip/$file || echo "")
-            UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
-            sed -i "1i# NAME: $NAME\n# AUTHOR: $AUTHOR\n# REPO: $REPO_URL\n# UPDATED: $UPDATED\n# DOMAIN: $DOMAIN\n# DOMAIN-KEYWORD: $DOMAIN_KEYWORD\n# DOMAIN-SUFFIX: $DOMAIN_SUFFIX\n# IP-CIDR: $IP_CIDR\n# TOTAL: $TOTAL" geo/geoip/$file
-          done
+              # 统计规则数量
+              TOTAL=$(grep -vE '^\s*#|^\s*$' "$LOCAL_DIR/$file" | wc -l)
+              DOMAIN=$(grep -cE '^DOMAIN,' "$LOCAL_DIR/$file" || echo "")
+              DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' "$LOCAL_DIR/$file" || echo "")
+              DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' "$LOCAL_DIR/$file" || echo "")
+              IP_CIDR=$(grep -cE '^IP-CIDR,' "$LOCAL_DIR/$file" || echo "")
+              UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
+
+              # 构建注释，只显示非零项
+              printf "%s\n" \
+              "# NAME: $NAME" \
+              "# AUTHOR: $AUTHOR" \
+              "# REPO: $REPO_URL" \
+              "# UPDATED: $UPDATED" \
+              "${DOMAIN:+# DOMAIN: $DOMAIN}" \
+              "${DOMAIN_KEYWORD:+# DOMAIN-KEYWORD: $DOMAIN_KEYWORD}" \
+              "${DOMAIN_SUFFIX:+# DOMAIN-SUFFIX: $DOMAIN_SUFFIX}" \
+              "${IP_CIDR:+# IP-CIDR: $IP_CIDR}" \
+              "# TOTAL: $TOTAL" | cat - "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
+            done
+          }
+
+          # 处理 geo/geosite
+          process_dir geo/geosite geo/geosite/classical
+          # 处理 geo/geoip
+          process_dir geo/geoip geo/geoip/classical
 
       - name: Commit and push changes
         run: |
           git config user.name "$AUTHOR"
-          git config user.email "actions@github.com"
-          git add geo/
-          UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
-          git commit -m "Released on $UPDATED" || echo "No changes to commit"
-          git push
+          git config user.email "ac
