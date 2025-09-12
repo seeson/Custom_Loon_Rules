@@ -1,0 +1,23 @@
+# NAME: aisiku
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:07
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 14
+# IP-CIDR: 0
+# TOTAL: 14
+DOMAIN-SUFFIX,learnywhere.cn
+DOMAIN-SUFFIX,bbdc.cn
+DOMAIN-SUFFIX,beingfine.cn
+DOMAIN-SUFFIX,1tyy.cn
+DOMAIN-SUFFIX,qtyy.cn
+DOMAIN-SUFFIX,coolab.top
+DOMAIN-SUFFIX,is-cool.cn
+DOMAIN-SUFFIX,qlisten.cn
+DOMAIN-SUFFIX,langeasy.cn
+DOMAIN-SUFFIX,beingfine.com.cn
+DOMAIN-SUFFIX,langeasy.com.cn
+DOMAIN-SUFFIX,learnywhere.com.cn
+DOMAIN-SUFFIX,is-cool.com.cn
+DOMAIN-SUFFIX,bubei.com.cn

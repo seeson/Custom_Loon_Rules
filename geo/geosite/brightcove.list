@@ -1,0 +1,23 @@
+# NAME: brightcove
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:25
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 11
+# IP-CIDR: 0
+# TOTAL: 14
+DOMAIN,bcovlive-a.akamaihd.net
+DOMAIN,bcsecure01-a.akamaihd.net
+DOMAIN,brightcove.imgix.net
+DOMAIN-SUFFIX,bcove.video
+DOMAIN-SUFFIX,bcovlive.io
+DOMAIN-SUFFIX,bcvp0rtal.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.services
+DOMAIN-SUFFIX,brightcovecdn.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com

@@ -1,0 +1,15 @@
+# NAME: category-dev@ads
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:33
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 6
+# IP-CIDR: 0
+# TOTAL: 6
+DOMAIN-SUFFIX,ads.unitychina.cn
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
+DOMAIN-SUFFIX,splash-ads.unitychina.cn
+DOMAIN-SUFFIX,unityads.unity.cn
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unityads.unitychina.cn

@@ -1,0 +1,14 @@
+# NAME: cygames
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:54
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 0
+# TOTAL: 5
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,worldflipper.akamaized.net
+DOMAIN-SUFFIX,umamusume.akamaized.net

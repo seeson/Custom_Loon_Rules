@@ -1,0 +1,18 @@
+# NAME: bing@cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:21
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 7
+# IP-CIDR: 0
+# TOTAL: 9
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.mm.bing.net
+DOMAIN-SUFFIX,ditu.live.com
+DOMAIN-SUFFIX,r.bing.com
+DOMAIN-SUFFIX,th.bing.com
+DOMAIN,bj1.api.bing.com
+DOMAIN,emoi-cncdn.bing.com

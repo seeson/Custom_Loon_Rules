@@ -1,0 +1,14 @@
+# NAME: category-enhance-gaming@cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:34
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 0
+# TOTAL: 5
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,yeshen.com
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,rpglogs.cn

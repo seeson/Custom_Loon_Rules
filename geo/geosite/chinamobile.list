@@ -1,0 +1,27 @@
+# NAME: chinamobile
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:45
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 18
+# IP-CIDR: 0
+# TOTAL: 18
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinamobileltd.com
+DOMAIN-SUFFIX,migucloud.com
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,andfx.cn
+DOMAIN-SUFFIX,andfx.net
+DOMAIN-SUFFIX,cmicrwx.cn
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,fetion-portal.com
+DOMAIN-SUFFIX,fetionpic.com
+DOMAIN-SUFFIX,mmarket.com
+DOMAIN-SUFFIX,mmarket6.com
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com

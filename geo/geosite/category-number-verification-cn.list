@@ -1,0 +1,16 @@
+# NAME: category-number-verification-cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:39
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 1
+# IP-CIDR: 0
+# TOTAL: 7
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn
+DOMAIN,hs.wosms.cn
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-REGEX,^nis.+\.10010\.com$

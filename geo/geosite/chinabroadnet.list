@@ -1,0 +1,17 @@
+# NAME: chinabroadnet
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:45
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 8
+# IP-CIDR: 0
+# TOTAL: 8
+DOMAIN-SUFFIX,chn.cn
+DOMAIN-SUFFIX,ahitv.com
+DOMAIN-SUFFIX,cqccn.com
+DOMAIN-SUFFIX,sc96655.com
+DOMAIN-SUFFIX,isxtv.com
+DOMAIN-SUFFIX,sdgdwljt.com
+DOMAIN-SUFFIX,10099.com.cn
+DOMAIN-SUFFIX,gcable.com.cn

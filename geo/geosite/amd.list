@@ -1,0 +1,14 @@
+# NAME: amd
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 4
+# IP-CIDR: 0
+# TOTAL: 5
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN,www.amd.com

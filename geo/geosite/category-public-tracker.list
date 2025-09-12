@@ -1,10 +1,12 @@
 # NAME: category-public-tracker
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 05:48:25
+# UPDATED: 2025-09-13 06:05:41
 # DOMAIN: 174
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 0
+# IP-CIDR: 0
 # TOTAL: 174
-
 DOMAIN,10.rarbg.com
 DOMAIN,12.rarbg.me
 DOMAIN,1337.abcvg.info

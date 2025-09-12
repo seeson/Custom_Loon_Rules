@@ -1,0 +1,12 @@
+# NAME: category-ai-chat-!cn@ads
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:30
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 0
+# IP-CIDR: 0
+# TOTAL: 3
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaicom.imgix.net
+DOMAIN,browser-intake-datadoghq.com

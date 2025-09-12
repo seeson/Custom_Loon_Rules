@@ -1,0 +1,16 @@
+# NAME: category-hospital-cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:37
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 0
+# TOTAL: 7
+DOMAIN,hospital.pku.edu.cn
+DOMAIN,ss.bjmu.edu.cn
+DOMAIN-SUFFIX,fuwai.com
+DOMAIN-SUFFIX,pkuh6.cn
+DOMAIN-SUFFIX,yctdyy.com
+DOMAIN-SUFFIX,smuszh.com
+DOMAIN-SUFFIX,puh3.net.cn

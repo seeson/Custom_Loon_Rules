@@ -1,0 +1,13 @@
+# NAME: bilibili@!cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:21
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 3
+# IP-CIDR: 0
+# TOTAL: 4
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN,upos-hz-mirrorakam.akamaized.net

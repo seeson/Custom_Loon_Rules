@@ -1,0 +1,25 @@
+# NAME: citic
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:47
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 16
+# IP-CIDR: 0
+# TOTAL: 16
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,xn--fiq64b
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csci.hk

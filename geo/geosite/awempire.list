@@ -1,0 +1,14 @@
+# NAME: awempire
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:16
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 0
+# TOTAL: 5
+DOMAIN-SUFFIX,awempire.com
+DOMAIN-SUFFIX,dditsadn.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,docleradn.com
+DOMAIN-SUFFIX,doclercdn.com

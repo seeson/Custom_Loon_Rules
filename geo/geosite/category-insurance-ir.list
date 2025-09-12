@@ -1,0 +1,28 @@
+# NAME: category-insurance-ir
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:37
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 19
+# IP-CIDR: 0
+# TOTAL: 19
+DOMAIN-SUFFIX,iraninsurance.ir
+DOMAIN-SUFFIX,tins.ir
+DOMAIN-SUFFIX,alborzinsurance.ir
+DOMAIN-SUFFIX,bimeonline.com
+DOMAIN-SUFFIX,dana-insurance.com
+DOMAIN-SUFFIX,dayins.com
+DOMAIN-SUFFIX,hafezinsurance.ir
+DOMAIN-SUFFIX,karafarin-insurance.ir
+DOMAIN-SUFFIX,bimehasia.com
+DOMAIN-SUFFIX,bimeh.com
+DOMAIN-SUFFIX,novininsurance.com
+DOMAIN-SUFFIX,mellatinsurance.com
+DOMAIN-SUFFIX,omid-insurance.ir
+DOMAIN-SUFFIX,parsianinsurance.ir
+DOMAIN-SUFFIX,razi-insurance.ir
+DOMAIN-SUFFIX,risc.ir
+DOMAIN-SUFFIX,sinainsurance.com
+DOMAIN-SUFFIX,tamin.ir
+DOMAIN-SUFFIX,ihio.gov.ir

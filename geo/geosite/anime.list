@@ -1,0 +1,30 @@
+# NAME: anime
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:11
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 21
+# IP-CIDR: 0
+# TOTAL: 21
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.tv
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agemys.org
+DOMAIN-SUFFIX,agedm.app
+DOMAIN-SUFFIX,animedao-tv.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,vrv.co
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogoanime3.co
+DOMAIN-SUFFIX,gogotaku.info
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,hidive.com

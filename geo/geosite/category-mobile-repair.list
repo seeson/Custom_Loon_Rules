@@ -1,0 +1,18 @@
+# NAME: category-mobile-repair
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:38
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 9
+# IP-CIDR: 0
+# TOTAL: 9
+DOMAIN-SUFFIX,androidfilehost.com
+DOMAIN-SUFFIX,unlocktool.net
+DOMAIN-SUFFIX,borneo.world
+DOMAIN-SUFFIX,borneoasia.com
+DOMAIN-SUFFIX,borneoschematic.com
+DOMAIN-SUFFIX,bosharso.net
+DOMAIN-SUFFIX,hostborneo.org
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com

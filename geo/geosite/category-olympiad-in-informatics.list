@@ -1,0 +1,25 @@
+# NAME: category-olympiad-in-informatics
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:40
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 16
+# IP-CIDR: 0
+# TOTAL: 16
+DOMAIN-SUFFIX,jisuanke.com
+DOMAIN-SUFFIX,acwing.com
+DOMAIN-SUFFIX,lingkou.xyz
+DOMAIN-SUFFIX,lingkou.com
+DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,51nod.com
+DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,hihocoder.com
+DOMAIN-SUFFIX,lingkou.cn
+DOMAIN-SUFFIX,kidsccshow.com
+DOMAIN-SUFFIX,vijos.org
+DOMAIN-SUFFIX,oi-wiki.com
+DOMAIN-SUFFIX,openjudge.cn
+DOMAIN-SUFFIX,rqnoj.cn
+DOMAIN-SUFFIX,uoj.ac
+DOMAIN-SUFFIX,luogu.com.cn

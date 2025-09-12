@@ -1,0 +1,20 @@
+# NAME: chinatelecom
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:46
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 11
+# IP-CIDR: 0
+# TOTAL: 11
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,chinatelecom-h.com
+DOMAIN-SUFFIX,chntel.com
+DOMAIN-SUFFIX,chinatelecom.com.cn
+DOMAIN-SUFFIX,chinatelecomglobal.com
+DOMAIN-SUFFIX,chinatelecomhk.com
+DOMAIN-SUFFIX,ctexcel.ca
+DOMAIN-SUFFIX,ctexcel.com
+DOMAIN-SUFFIX,ctexcel.com.hk
+DOMAIN-SUFFIX,ctexcel.fr
+DOMAIN-SUFFIX,ctexcel.us

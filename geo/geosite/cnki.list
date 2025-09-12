@@ -1,0 +1,12 @@
+# NAME: cnki
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-09-13 06:05:50
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 3
+# IP-CIDR: 0
+# TOTAL: 3
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cnki.com.cn
