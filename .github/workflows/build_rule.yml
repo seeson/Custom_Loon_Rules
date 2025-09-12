@@ -3,7 +3,7 @@ name: Download & Convert DustinWin release JSON -> Loon rule lists
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 2 * * *'  # daily at 02:00 UTC, 按需修改或删除
+    - cron: '0 20 * * *'  # daily at 20:00 UTC, 按需修改或删除
 
 permissions:
   contents: write
