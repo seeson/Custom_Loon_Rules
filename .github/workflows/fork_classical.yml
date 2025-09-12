@@ -3,8 +3,7 @@ name: Update Classical Lists
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * *'  # 每天20:00 UTC, 即北京时间04:00
-
+    - cron: '0 23 * * *' #UTC TIME
 permissions:
   contents: write
 
