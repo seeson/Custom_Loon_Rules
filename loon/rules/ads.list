@@ -1,9 +1,9 @@
 # NAME: ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 04:37:53 CST
-# DOMAIN-SUFFIX: 94965
-# TOTAL: 94965
+# UPDATED: 2025-09-14 04:21:08 CST
+# DOMAIN-SUFFIX: 94964
+# TOTAL: 94964
 
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
@@ -74162,7 +74162,6 @@ DOMAIN-SUFFIX,snoutcapacity.com
 DOMAIN-SUFFIX,snoutochrana.digital
 DOMAIN-SUFFIX,snow001.com
 DOMAIN-SUFFIX,snowdayonline.xyz
-DOMAIN-SUFFIX,snowflake.qq.com
 DOMAIN-SUFFIX,snowldupes.digital
 DOMAIN-SUFFIX,snowman.odencat.com
 DOMAIN-SUFFIX,snowmansphereabrasive.com
