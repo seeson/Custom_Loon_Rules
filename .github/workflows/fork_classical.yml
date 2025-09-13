@@ -67,10 +67,10 @@ jobs:
               done
           }
 
-# 处理 geo/geosite
-process_dir geo/geosite geo/geosite/classical
-# 处理 geo/geoip
-process_dir geo/geoip geo/geoip/classical
+            # 处理 geo/geosite
+            process_dir geo/geosite geo/geosite/classical
+            # 处理 geo/geoip
+            process_dir geo/geoip geo/geoip/classical
 
       - name: Commit and push changes
         run: |
