@@ -1,0 +1,16 @@
+# NAME: Custom_Port
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_OpenClash_Rules
+# 强制代理端口，避免BT,PT走流量
+
+DEST-PORT,22
+DEST-PORT,25
+DEST-PORT,53
+DEST-PORT,143
+DEST-PORT,465
+DEST-PORT,587
+DEST-PORT,853
+DEST-PORT,993
+DEST-PORT,995
+DEST-PORT,80
+DEST-PORT,443
