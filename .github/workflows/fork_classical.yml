@@ -71,4 +71,9 @@ jobs:
       - name: Commit and push changes
         run: |
           git config user.name "$AUTHOR"
-          git config user.email "ac
+          git config user.email "actions@github.com"
+          git add geo/
+          UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
+          git commit -m "Released on $UPDATED" || echo "No changes to commit"
+          git pull --rebase origin main || true
+          git push origin main
