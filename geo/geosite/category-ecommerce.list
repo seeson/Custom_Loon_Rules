@@ -1,12 +1,10 @@
 # NAME: category-ecommerce
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:32
-# DOMAIN: 4
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 927
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:32
 # TOTAL: 931
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 927
 DOMAIN,api-p.videomarket.jp
 DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
 DOMAIN,ecapi-pchome.cdn.hinet.net

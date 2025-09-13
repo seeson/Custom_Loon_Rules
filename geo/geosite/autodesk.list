@@ -1,12 +1,9 @@
 # NAME: autodesk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:17
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 558
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:16
 # TOTAL: 558
+# DOMAIN-SUFFIX: 558
 DOMAIN-SUFFIX,123dapp.com
 DOMAIN-SUFFIX,123dappipad.com
 DOMAIN-SUFFIX,123dartisan.com

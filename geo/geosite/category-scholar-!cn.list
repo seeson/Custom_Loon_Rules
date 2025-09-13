@@ -1,12 +1,10 @@
 # NAME: category-scholar-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:40
-# DOMAIN: 90
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 5902
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:40
 # TOTAL: 5992
+# DOMAIN: 90
+# DOMAIN-SUFFIX: 5902
 DOMAIN,medone-education.thieme.com
 DOMAIN,angle.com.tw
 DOMAIN,beck-online.beck.de

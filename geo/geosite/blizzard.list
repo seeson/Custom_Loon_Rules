@@ -1,12 +1,10 @@
 # NAME: blizzard
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:22
-# DOMAIN: 9
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 14
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:22
 # TOTAL: 23
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 14
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net

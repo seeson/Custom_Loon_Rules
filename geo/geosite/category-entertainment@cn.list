@@ -1,12 +1,10 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:34
-# DOMAIN: 12
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 48
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:34
 # TOTAL: 66
+# DOMAIN: 12
+# DOMAIN-SUFFIX: 48
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com

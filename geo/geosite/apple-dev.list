@@ -1,12 +1,10 @@
 # NAME: apple-dev
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:14
-# DOMAIN: 5
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 32
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:12
 # TOTAL: 37
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 32
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net

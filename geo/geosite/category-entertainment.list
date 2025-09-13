@@ -1,12 +1,10 @@
 # NAME: category-entertainment
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:34
-# DOMAIN: 134
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 1353
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:34
 # TOTAL: 1501
+# DOMAIN: 134
+# DOMAIN-SUFFIX: 1353
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN,apple-tv-plus-press.apple.com
 DOMAIN,hls-amt.itunes.apple.com

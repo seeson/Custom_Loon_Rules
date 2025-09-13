@@ -1,11 +1,8 @@
 # NAME: airchina
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:09
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 2
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:07
 # TOTAL: 2
+# DOMAIN-SUFFIX: 2
 DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,airchina.com.cn

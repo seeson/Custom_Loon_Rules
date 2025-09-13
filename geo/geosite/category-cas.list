@@ -1,12 +1,10 @@
 # NAME: category-cas
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:30
-# DOMAIN: 29
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 416
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:30
 # TOTAL: 445
+# DOMAIN: 29
+# DOMAIN-SUFFIX: 416
 DOMAIN,cdn.js7k.com
 DOMAIN,publicca.googleapis.com
 DOMAIN,preprod-publicca.googleapis.com

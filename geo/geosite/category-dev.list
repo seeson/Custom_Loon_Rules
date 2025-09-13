@@ -1,12 +1,10 @@
 # NAME: category-dev
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:32
-# DOMAIN: 44
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 469
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:32
 # TOTAL: 515
+# DOMAIN: 44
+# DOMAIN-SUFFIX: 469
 DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com
 DOMAIN,firebaseappcheck.googleapis.com

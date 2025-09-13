@@ -1,12 +1,10 @@
 # NAME: category-scholar-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:40
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 88
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:40
 # TOTAL: 89
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 88
 DOMAIN,www.libvideo.com
 DOMAIN-SUFFIX,wenxin-ge.com
 DOMAIN-SUFFIX,ersjk.com

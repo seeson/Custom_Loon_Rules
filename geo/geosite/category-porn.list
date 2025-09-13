@@ -1,12 +1,10 @@
 # NAME: category-porn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:39
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 6387
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:39
 # TOTAL: 6526
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 6387
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,widgets.stripst.com
 DOMAIN,misa-prod.s3.ap-northeast-1.amazonaws.com

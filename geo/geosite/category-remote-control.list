@@ -1,12 +1,10 @@
 # NAME: category-remote-control
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:40
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 6
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:40
 # TOTAL: 8
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 6
 DOMAIN,client-teamviewer-com.trafficmanager.net
 DOMAIN,teamviewer.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,anydesk.com

@@ -1,12 +1,10 @@
 # NAME: connectivity-check
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:50
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 9
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:49
 # TOTAL: 12
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 9
 DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN,connectivitycheck.platform.hicloud.com
 DOMAIN,connect.rom.miui.com

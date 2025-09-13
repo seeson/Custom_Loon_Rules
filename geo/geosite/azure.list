@@ -1,12 +1,10 @@
 # NAME: azure
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:18
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 142
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:17
 # TOTAL: 144
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 142
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
 DOMAIN-SUFFIX,azure

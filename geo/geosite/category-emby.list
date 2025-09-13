@@ -1,12 +1,10 @@
 # NAME: category-emby
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:33
-# DOMAIN: 59
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 27
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:33
 # TOTAL: 86
+# DOMAIN: 59
+# DOMAIN-SUFFIX: 27
 DOMAIN,plex.llon.net
 DOMAIN,emby.nexitally.com
 DOMAIN,emby.cjpc.cc

@@ -1,12 +1,10 @@
 # NAME: category-media-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:37
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 207
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:37
 # TOTAL: 209
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 207
 DOMAIN-SUFFIX,sohu
 DOMAIN-SUFFIX,yuweikuijianzhan.com
 DOMAIN-SUFFIX,huxiu.com

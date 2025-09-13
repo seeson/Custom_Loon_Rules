@@ -1,12 +1,10 @@
 # NAME: amazon
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:11
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 217
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:09
 # TOTAL: 222
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 217
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,xn--cckwcxetd
 DOMAIN-SUFFIX,xn--jlq480n2rg

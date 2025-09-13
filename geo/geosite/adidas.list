@@ -1,12 +1,9 @@
 # NAME: adidas
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:07
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 19
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:05
 # TOTAL: 19
+# DOMAIN-SUFFIX: 19
 DOMAIN-SUFFIX,adidas.ie
 DOMAIN-SUFFIX,adidas.ch
 DOMAIN-SUFFIX,adidas.de

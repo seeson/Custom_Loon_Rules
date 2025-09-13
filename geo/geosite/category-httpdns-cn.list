@@ -1,12 +1,9 @@
 # NAME: category-httpdns-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:36
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 48
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:36
 # TOTAL: 48
+# DOMAIN-SUFFIX: 48
 DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
 DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
 DOMAIN-SUFFIX,httpdns.alicdn.com

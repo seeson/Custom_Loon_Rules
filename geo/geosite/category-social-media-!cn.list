@@ -1,12 +1,10 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:41
-# DOMAIN: 4
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 574
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:40
 # TOTAL: 578
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 574
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com

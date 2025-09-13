@@ -1,12 +1,10 @@
 # NAME: category-games-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:35
-# DOMAIN: 65
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 570
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:35
 # TOTAL: 641
+# DOMAIN: 65
+# DOMAIN-SUFFIX: 570
 DOMAIN,opgg-static.akamaized.net
 DOMAIN,ea.tt.omtrdc.net
 DOMAIN,eaassets-a.akamaihd.net

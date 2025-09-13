@@ -1,12 +1,10 @@
 # NAME: anthropic
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:13
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 3
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:11
 # TOTAL: 4
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai

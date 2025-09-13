@@ -1,12 +1,9 @@
 # NAME: category-news-ir
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:38
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 55
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:38
 # TOTAL: 55
+# DOMAIN-SUFFIX: 55
 DOMAIN-SUFFIX,aftabnews.ir
 DOMAIN-SUFFIX,alef.ir
 DOMAIN-SUFFIX,asriran.com

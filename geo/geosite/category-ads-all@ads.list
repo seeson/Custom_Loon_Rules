@@ -1,12 +1,10 @@
 # NAME: category-ads-all@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:28
-# DOMAIN: 9
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 692
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:28
 # TOTAL: 703
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 692
 DOMAIN-SUFFIX,7box.vip
 DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,adinplay.com

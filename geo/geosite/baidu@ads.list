@@ -1,12 +1,9 @@
 # NAME: baidu@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:18
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 156
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:18
 # TOTAL: 156
+# DOMAIN-SUFFIX: 156
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,ad.duapps.com
 DOMAIN-SUFFIX,ad.player.baidu.com

@@ -1,12 +1,9 @@
 # NAME: category-game-platforms-download@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:35
-# DOMAIN: 22
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 0
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:35
 # TOTAL: 22
+# DOMAIN: 22
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,blzdist-phx.necdn.leihuo.netease.com
 DOMAIN,blzdist-wow.necdn.leihuo.netease.com

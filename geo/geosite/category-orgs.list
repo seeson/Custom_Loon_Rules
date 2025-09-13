@@ -1,12 +1,10 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:39
-# DOMAIN: 10
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 112
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:39
 # TOTAL: 122
+# DOMAIN: 10
+# DOMAIN-SUFFIX: 112
 DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh

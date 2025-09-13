@@ -1,12 +1,10 @@
 # NAME: amp
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:12
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 4
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:10
 # TOTAL: 6
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 4
 DOMAIN,amp.akamaized.net
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com

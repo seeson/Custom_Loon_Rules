@@ -1,12 +1,9 @@
 # NAME: category-container
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:31
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 9
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:31
 # TOTAL: 10
+# DOMAIN-SUFFIX: 9
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ecr.aws

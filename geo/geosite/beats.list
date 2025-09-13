@@ -1,12 +1,10 @@
 # NAME: beats
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:19
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 715
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:19
 # TOTAL: 716
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 715
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,1monsterbeatsbydreus.com

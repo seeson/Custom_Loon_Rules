@@ -1,12 +1,10 @@
 # NAME: bilibili
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:21
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 48
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:20
 # TOTAL: 50
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 48
 DOMAIN,manga.bilibili.com
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com

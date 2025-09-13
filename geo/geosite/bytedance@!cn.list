@@ -1,12 +1,10 @@
 # NAME: bytedance@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:27
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 26
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:26
 # TOTAL: 28
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 26
 DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net

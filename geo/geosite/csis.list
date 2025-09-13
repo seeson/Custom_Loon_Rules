@@ -1,11 +1,9 @@
 # NAME: csis
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:51
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 1
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:51
 # TOTAL: 2
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
 DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,csis.org

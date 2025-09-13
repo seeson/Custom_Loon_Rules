@@ -1,12 +1,9 @@
 # NAME: twitter
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:31:20
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 0
-# IP-CIDR: 21
+# UPDATED: 2025-09-13 08:51:21
 # TOTAL: 21
+# IP-CIDR: 21
 IP-CIDR,8.25.194.0/23
 IP-CIDR,8.25.196.0/23
 IP-CIDR,64.63.0.0/18

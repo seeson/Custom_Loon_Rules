@@ -1,12 +1,10 @@
 # NAME: category-forums
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:35
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 88
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:35
 # TOTAL: 89
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 88
 DOMAIN,bbs.boingboing.net
 DOMAIN-SUFFIX,18p2p.com
 DOMAIN-SUFFIX,8chan.moe

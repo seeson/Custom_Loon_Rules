@@ -1,12 +1,10 @@
 # NAME: category-games-!cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:35
-# DOMAIN: 12
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 30
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:35
 # TOTAL: 47
+# DOMAIN: 12
+# DOMAIN-SUFFIX: 30
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn

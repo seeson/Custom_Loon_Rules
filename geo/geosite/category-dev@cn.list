@@ -1,12 +1,10 @@
 # NAME: category-dev@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:32
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 9
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:32
 # TOTAL: 11
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 9
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn

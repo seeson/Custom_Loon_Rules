@@ -1,12 +1,10 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:15
-# DOMAIN: 265
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 62
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:13
 # TOTAL: 327
+# DOMAIN: 265
+# DOMAIN-SUFFIX: 62
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-store.cn

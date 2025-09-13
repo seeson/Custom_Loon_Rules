@@ -1,12 +1,10 @@
 # NAME: category-entertainment-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:34
-# DOMAIN: 12
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 49
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:34
 # TOTAL: 61
+# DOMAIN: 12
+# DOMAIN-SUFFIX: 49
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,log3-applog-hl.fqnovel.com

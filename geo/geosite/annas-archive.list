@@ -1,12 +1,9 @@
 # NAME: annas-archive
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:12
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 3
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:11
 # TOTAL: 3
+# DOMAIN-SUFFIX: 3
 DOMAIN-SUFFIX,annas-archive.li
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,annas-archive.se

@@ -1,12 +1,9 @@
 # NAME: category-logistics-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:36
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 151
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:37
 # TOTAL: 151
+# DOMAIN-SUFFIX: 151
 DOMAIN-SUFFIX,yuantongyizhan.com
 DOMAIN-SUFFIX,yto56test.com
 DOMAIN-SUFFIX,cainiaoyizhan.com

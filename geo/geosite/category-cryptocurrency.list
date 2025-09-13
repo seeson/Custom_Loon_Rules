@@ -1,12 +1,10 @@
 # NAME: category-cryptocurrency
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:31
-# DOMAIN: 4
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 164
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:32
 # TOTAL: 168
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 164
 DOMAIN,onekey.zendesk.com
 DOMAIN,deribit.cdn.prismic.io
 DOMAIN,bybit-exchange.github.io

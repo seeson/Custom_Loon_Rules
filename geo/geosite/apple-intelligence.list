@@ -1,12 +1,9 @@
 # NAME: apple-intelligence
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:14
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 0
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:12
 # TOTAL: 3
+# DOMAIN: 3
 DOMAIN,apple-relay.mask.apple-dns.net
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com

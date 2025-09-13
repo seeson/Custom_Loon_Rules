@@ -1,12 +1,9 @@
 # NAME: akamai
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:09
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 79
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:08
 # TOTAL: 79
+# DOMAIN-SUFFIX: 79
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net

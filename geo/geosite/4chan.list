@@ -1,12 +1,9 @@
 # NAME: 4chan
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:04
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 3
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:01
 # TOTAL: 3
+# DOMAIN-SUFFIX: 3
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4chan.org
 DOMAIN-SUFFIX,4channel.org

@@ -1,12 +1,9 @@
 # NAME: archive
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:15
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 8
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:14
 # TOTAL: 8
+# DOMAIN-SUFFIX: 8
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org

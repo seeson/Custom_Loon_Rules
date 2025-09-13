@@ -1,12 +1,9 @@
 # NAME: category-food-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:34
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 9
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:34
 # TOTAL: 9
+# DOMAIN-SUFFIX: 9
 DOMAIN-SUFFIX,3songshu.com
 DOMAIN-SUFFIX,haidilao.com
 DOMAIN-SUFFIX,lkcoffee.com

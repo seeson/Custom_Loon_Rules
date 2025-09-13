@@ -1,12 +1,9 @@
 # NAME: ccb
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:30:43
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 16
-# IP-CIDR: 0
+# UPDATED: 2025-09-13 08:50:42
 # TOTAL: 16
+# DOMAIN-SUFFIX: 16
 DOMAIN-SUFFIX,ccbfutures.com
 DOMAIN-SUFFIX,ccbfund.com
 DOMAIN-SUFFIX,ccb.com
