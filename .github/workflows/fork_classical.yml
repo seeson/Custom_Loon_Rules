@@ -32,43 +32,45 @@ jobs:
       - name: Download and process lists
         run: |
           process_dir() {
-            LOCAL_DIR=$1
-            REMOTE_DIR=$2
-            BASE_URL="https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/$REMOTE_DIR"
-            FILES=$(curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/$REMOTE_DIR?ref=meta | jq -r '.[] | select(.name|endswith(".list")) | .name')
+              LOCAL_DIR=$1
+              REMOTE_DIR=$2
+              BASE_URL="https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/$REMOTE_DIR"
+              FILES=$(curl -s https://api.github.com/repos/MetaCubeX/meta-rules-dat/contents/$REMOTE_DIR?ref=meta | jq -r '.[] | select(.name|endswith(".list")) | .name')
+              
+              for file in $FILES; do
+                curl -s $BASE_URL/$file -o "$LOCAL_DIR/$file"
+                NAME=${file%.list}
             
-            for file in $FILES; do
-              curl -s $BASE_URL/$file -o "$LOCAL_DIR/$file"
-              NAME=${file%.list}
+                # 统计规则数量
+                TOTAL=$(grep -vE '^\s*#|^\s*$' "$LOCAL_DIR/$file" | wc -l)
+                DOMAIN=$(grep -cE '^DOMAIN,' "$LOCAL_DIR/$file" || echo "0")
+                DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' "$LOCAL_DIR/$file" || echo "0")
+                DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' "$LOCAL_DIR/$file" || echo "0")
+                IP_CIDR=$(grep -cE '^IP-CIDR,' "$LOCAL_DIR/$file" || echo "0")
+                UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
+            
+                # 构建注释
+                {
+                  echo "# NAME: $NAME"
+                  echo "# AUTHOR: $AUTHOR"
+                  echo "# REPO: $REPO_URL"
+                  echo "# UPDATED: $UPDATED"
+                  echo "# TOTAL: $TOTAL"
+                  [ "$DOMAIN" -gt 0 ] && echo "# DOMAIN: $DOMAIN"
+                  [ "$DOMAIN_KEYWORD" -gt 0 ] && echo "# DOMAIN-KEYWORD: $DOMAIN_KEYWORD"
+                  [ "$DOMAIN_SUFFIX" -gt 0 ] && echo "# DOMAIN-SUFFIX: $DOMAIN_SUFFIX"
+                  [ "$IP_CIDR" -gt 0 ] && echo "# IP-CIDR: $IP_CIDR"
+                } > header.tmp
+            
+                cat header.tmp "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
+                rm -f header.tmp
+              done
+          }
 
-              # 统计规则数量
-              TOTAL=$(grep -vE '^\s*#|^\s*$' "$LOCAL_DIR/$file" | wc -l)
-              DOMAIN=$(grep -cE '^DOMAIN,' "$LOCAL_DIR/$file" || echo "0")
-              DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' "$LOCAL_DIR/$file" || echo "0")
-              DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' "$LOCAL_DIR/$file" || echo "0")
-              IP_CIDR=$(grep -cE '^IP-CIDR,' "$LOCAL_DIR/$file" || echo "0")
-              UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
-
-              # 构建注释
-              {
-                echo "# NAME: $NAME"
-                echo "# AUTHOR: $AUTHOR"
-                echo "# REPO: $REPO_URL"
-                echo "# UPDATED: $UPDATED"
-                echo "# TOTAL: $TOTAL"
-                [ "$DOMAIN" -gt 0 ] && echo "# DOMAIN: $DOMAIN"
-                [ "$DOMAIN_KEYWORD" -gt 0 ] && echo "# DOMAIN-KEYWORD: $DOMAIN_KEYWORD"
-                [ "$DOMAIN_SUFFIX" -gt 0 ] && echo "# DOMAIN-SUFFIX: $DOMAIN_SUFFIX"
-                [ "$IP_CIDR" -gt 0 ] && echo "# IP-CIDR: $IP_CIDR"
-              } > header.tmp
-
-              cat header.tmp "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
-              rm -f header.tmp
-
-          # 处理 geo/geosite
-          process_dir geo/geosite geo/geosite/classical
-          # 处理 geo/geoip
-          process_dir geo/geoip geo/geoip/classical
+# 处理 geo/geosite
+process_dir geo/geosite geo/geosite/classical
+# 处理 geo/geoip
+process_dir geo/geoip geo/geoip/classical
 
       - name: Commit and push changes
         run: |
