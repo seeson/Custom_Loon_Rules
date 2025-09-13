@@ -49,23 +49,21 @@ jobs:
               IP_CIDR=$(grep -cE '^IP-CIDR,' "$LOCAL_DIR/$file" || echo "0")
               UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
 
-              # 构建注释，只显示非零项
-              HEADER="# NAME: $NAME
-# AUTHOR: $AUTHOR
-# REPO: $REPO_URL
-# UPDATED: $UPDATED"
+              # 构建注释
+              {
+                echo "# NAME: $NAME"
+                echo "# AUTHOR: $AUTHOR"
+                echo "# REPO: $REPO_URL"
+                echo "# UPDATED: $UPDATED"
+                echo "# TOTAL: $TOTAL"
+                [ "$DOMAIN" -gt 0 ] && echo "# DOMAIN: $DOMAIN"
+                [ "$DOMAIN_KEYWORD" -gt 0 ] && echo "# DOMAIN-KEYWORD: $DOMAIN_KEYWORD"
+                [ "$DOMAIN_SUFFIX" -gt 0 ] && echo "# DOMAIN-SUFFIX: $DOMAIN_SUFFIX"
+                [ "$IP_CIDR" -gt 0 ] && echo "# IP-CIDR: $IP_CIDR"
+              } > header.tmp
 
-              [ "$DOMAIN" -gt 0 ] && HEADER="$HEADER"$'\n'"# DOMAIN: $DOMAIN"
-              [ "$DOMAIN_KEYWORD" -gt 0 ] && HEADER="$HEADER"$'\n'"# DOMAIN-KEYWORD: $DOMAIN_KEYWORD"
-              [ "$DOMAIN_SUFFIX" -gt 0 ] && HEADER="$HEADER"$'\n'"# DOMAIN-SUFFIX: $DOMAIN_SUFFIX"
-              [ "$IP_CIDR" -gt 0 ] && HEADER="$HEADER"$'\n'"# IP-CIDR: $IP_CIDR"
-
-              HEADER="$HEADER"$'\n'"# TOTAL: $TOTAL"
-
-              # 添加到文件开头
-              echo "$HEADER" | cat - "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
-            done
-          }
+              cat header.tmp "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
+              rm -f header.tmp
 
           # 处理 geo/geosite
           process_dir geo/geosite geo/geosite/classical
