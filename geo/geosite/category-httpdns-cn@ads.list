@@ -1,7 +1,7 @@
 # NAME: category-httpdns-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:50:36
+# UPDATED: 2025-09-14 07:10:25
 # TOTAL: 48
 # DOMAIN-SUFFIX: 48
 DOMAIN-SUFFIX,httpdns-api.aliyuncs.com

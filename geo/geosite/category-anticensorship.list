@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:50:29
+# UPDATED: 2025-09-14 07:10:16
 # TOTAL: 93
 # DOMAIN-SUFFIX: 93
 DOMAIN-SUFFIX,freeweibo.com
@@ -57,13 +57,10 @@ DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
-DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ray.cool
 DOMAIN-SUFFIX,v2fly.org
@@ -81,16 +78,19 @@ DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,gateway.pinata.cloud
-DOMAIN-SUFFIX,ipfs.eternum.io
-DOMAIN-SUFFIX,ipfs.best-practice.se
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,ipfs.best-practice.se
+DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,ipfs.runfission.com
 DOMAIN-SUFFIX,ipfs.anonymize.com
 DOMAIN-SUFFIX,trojan-gfw.github.io
