@@ -3,7 +3,7 @@ name: Update Classical Lists
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * *' #UTC TIME
+    - cron: '0 23 * * *'  # 每天23:00 UTC，即北京时间07:00
 
 permissions:
   contents: write
@@ -29,7 +29,7 @@ jobs:
           mkdir -p geo/geosite
           mkdir -p geo/geoip
 
-      - name: Download and process geo/geosite lists
+      - name: Download and process lists
         run: |
           process_dir() {
             LOCAL_DIR=$1
@@ -43,23 +43,27 @@ jobs:
 
               # 统计规则数量
               TOTAL=$(grep -vE '^\s*#|^\s*$' "$LOCAL_DIR/$file" | wc -l)
-              DOMAIN=$(grep -cE '^DOMAIN,' "$LOCAL_DIR/$file" || echo "")
-              DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' "$LOCAL_DIR/$file" || echo "")
-              DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' "$LOCAL_DIR/$file" || echo "")
-              IP_CIDR=$(grep -cE '^IP-CIDR,' "$LOCAL_DIR/$file" || echo "")
+              DOMAIN=$(grep -cE '^DOMAIN,' "$LOCAL_DIR/$file" || echo "0")
+              DOMAIN_KEYWORD=$(grep -cE '^DOMAIN-KEYWORD,' "$LOCAL_DIR/$file" || echo "0")
+              DOMAIN_SUFFIX=$(grep -cE '^DOMAIN-SUFFIX,' "$LOCAL_DIR/$file" || echo "0")
+              IP_CIDR=$(grep -cE '^IP-CIDR,' "$LOCAL_DIR/$file" || echo "0")
               UPDATED=$(date '+%Y-%m-%d %H:%M:%S')
 
               # 构建注释，只显示非零项
-              printf "%s\n" \
-              "# NAME: $NAME" \
-              "# AUTHOR: $AUTHOR" \
-              "# REPO: $REPO_URL" \
-              "# UPDATED: $UPDATED" \
-              "${DOMAIN:+# DOMAIN: $DOMAIN}" \
-              "${DOMAIN_KEYWORD:+# DOMAIN-KEYWORD: $DOMAIN_KEYWORD}" \
-              "${DOMAIN_SUFFIX:+# DOMAIN-SUFFIX: $DOMAIN_SUFFIX}" \
-              "${IP_CIDR:+# IP-CIDR: $IP_CIDR}" \
-              "# TOTAL: $TOTAL" | cat - "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
+              HEADER="# NAME: $NAME
+# AUTHOR: $AUTHOR
+# REPO: $REPO_URL
+# UPDATED: $UPDATED"
+
+              [ "$DOMAIN" -gt 0 ] && HEADER="$HEADER"$'\n'"# DOMAIN: $DOMAIN"
+              [ "$DOMAIN_KEYWORD" -gt 0 ] && HEADER="$HEADER"$'\n'"# DOMAIN-KEYWORD: $DOMAIN_KEYWORD"
+              [ "$DOMAIN_SUFFIX" -gt 0 ] && HEADER="$HEADER"$'\n'"# DOMAIN-SUFFIX: $DOMAIN_SUFFIX"
+              [ "$IP_CIDR" -gt 0 ] && HEADER="$HEADER"$'\n'"# IP-CIDR: $IP_CIDR"
+
+              HEADER="$HEADER"$'\n'"# TOTAL: $TOTAL"
+
+              # 添加到文件开头
+              echo "$HEADER" | cat - "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
             done
           }
 
