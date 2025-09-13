@@ -1,13 +1,14 @@
 # NAME: bahamut
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-13 08:21:31
+# UPDATED: 2025-09-13 08:30:18
 # DOMAIN: 2
+# DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 3
+# IP-CIDR: 0
 # TOTAL: 5
-
-DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
