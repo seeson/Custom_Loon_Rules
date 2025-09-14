@@ -1,7 +1,7 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-14 07:10:27
+# UPDATED: 2025-09-15 07:11:16
 # TOTAL: 122
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 112
@@ -29,10 +29,10 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
-DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com
-DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,f-dro1d.org
+DOMAIN-SUFFIX,f-droid.com
+DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,fdroid.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ieee.tv
 DOMAIN-SUFFIX,tryengineering.org
@@ -87,9 +87,6 @@ DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,vtsociety.org
-DOMAIN-SUFFIX,ppy.sh
-DOMAIN-SUFFIX,rolfoundation.org
-DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,nist.gov
 DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,openmaps.org
@@ -101,7 +98,7 @@ DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,ppy.sh
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org
@@ -114,11 +111,13 @@ DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,creativecommons.engineering
 DOMAIN-SUFFIX,licensebuttons.net
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,csis.org
-DOMAIN-SUFFIX,f-dro1d.org
-DOMAIN-SUFFIX,f-droid.com
-DOMAIN-SUFFIX,f-droid.org
-DOMAIN-SUFFIX,fdroid.org
 DOMAIN-SUFFIX,acousticbrainz.org
 DOMAIN-SUFFIX,bookbrainz.org
 DOMAIN-SUFFIX,coverartarchive.org
@@ -127,3 +126,4 @@ DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,paskoocheh.com

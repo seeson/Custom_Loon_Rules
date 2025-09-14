@@ -1,7 +1,7 @@
 # NAME: bytedance
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-14 07:10:12
+# UPDATED: 2025-09-15 07:10:49
 # TOTAL: 709
 # DOMAIN: 22
 # DOMAIN-SUFFIX: 687
@@ -664,6 +664,26 @@ DOMAIN,bytedance.map.fastly.net
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,bds.snssdk.com
+DOMAIN-SUFFIX,byteadverts.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,dig.bdurl.net
+DOMAIN-SUFFIX,extlog.snssdk.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,mcs.snssdk.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,panplayable-toutiao-b.com
+DOMAIN-SUFFIX,panplayable-toutiao.com
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,log3-applog-hl.fqnovel.com
@@ -694,23 +714,3 @@ DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN-SUFFIX,bds.snssdk.com
-DOMAIN-SUFFIX,byteadverts.com
-DOMAIN-SUFFIX,ctobsnssdk.com
-DOMAIN-SUFFIX,dig.bdurl.net
-DOMAIN-SUFFIX,extlog.snssdk.com
-DOMAIN-SUFFIX,i.snssdk.com
-DOMAIN-SUFFIX,mcs.snssdk.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
-DOMAIN-SUFFIX,panplayable-toutiao-b.com
-DOMAIN-SUFFIX,panplayable-toutiao.com
-DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
-DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
-DOMAIN-SUFFIX,pglstatp-toutiao-b.com
-DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
