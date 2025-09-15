@@ -1,10 +1,19 @@
 # NAME: bytedance@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-15 07:10:50
+# UPDATED: 2025-09-16 07:10:32
 # TOTAL: 29
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 20
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,byteadverts.com
 DOMAIN-SUFFIX,ctobsnssdk.com
@@ -25,12 +34,3 @@ DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com

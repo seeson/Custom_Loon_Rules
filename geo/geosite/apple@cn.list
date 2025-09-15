@@ -1,7 +1,7 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-15 07:10:22
+# UPDATED: 2025-09-16 07:10:15
 # TOTAL: 327
 # DOMAIN: 265
 # DOMAIN-SUFFIX: 62
@@ -299,10 +299,19 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
+DOMAIN-SUFFIX,beats1.cn
+DOMAIN-SUFFIX,beats1.com.cn
+DOMAIN-SUFFIX,beats2.com.cn
+DOMAIN-SUFFIX,beats4.cn
+DOMAIN-SUFFIX,beatsbydre.com
+DOMAIN-SUFFIX,beatsbydre.com.cn
+DOMAIN-SUFFIX,beatsep.cn
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
@@ -317,18 +326,9 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
-DOMAIN-SUFFIX,beats1.cn
-DOMAIN-SUFFIX,beats1.com.cn
-DOMAIN-SUFFIX,beats2.com.cn
-DOMAIN-SUFFIX,beats4.cn
-DOMAIN-SUFFIX,beatsbydre.com
-DOMAIN-SUFFIX,beatsbydre.com.cn
-DOMAIN-SUFFIX,beatsep.cn
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn

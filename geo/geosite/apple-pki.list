@@ -1,7 +1,7 @@
 # NAME: apple-pki
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-15 07:10:21
+# UPDATED: 2025-09-16 07:10:14
 # TOTAL: 9
 # DOMAIN: 9
 DOMAIN,certs-lb.apple.com.akadns.net

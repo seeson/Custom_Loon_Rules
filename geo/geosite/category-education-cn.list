@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-15 07:11:03
+# UPDATED: 2025-09-16 07:10:41
 # TOTAL: 110
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 107
@@ -9,30 +9,30 @@ DOMAIN,moocs.unipus.cn
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,study.163.com
 DOMAIN-SUFFIX,ketangpai.com
-DOMAIN-SUFFIX,icourses.cn
+DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,chesicc.com
 DOMAIN-SUFFIX,cedf.cn
 DOMAIN-SUFFIX,chsi.cn
 DOMAIN-SUFFIX,gfbzb.cn
-DOMAIN-SUFFIX,mojidict.com
-DOMAIN-SUFFIX,shareintelli.com
-DOMAIN-SUFFIX,hugecore.net
-DOMAIN-SUFFIX,applysquare.net
-DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,mooc.cn
-DOMAIN-SUFFIX,gfbzb.com
-DOMAIN-SUFFIX,pigai.org
+DOMAIN-SUFFIX,icourses.cn
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,cnmooc.org
-DOMAIN-SUFFIX,gfbzb.net
-DOMAIN-SUFFIX,ncss.cn
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,yuketang.cn
-DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,gfbzb.com
+DOMAIN-SUFFIX,pigai.org
+DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,baydn.com
+DOMAIN-SUFFIX,gfbzb.net
+DOMAIN-SUFFIX,ncss.cn
+DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,yeshj.com
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,yudou.cn
 DOMAIN-SUFFIX,yushiyan.net
@@ -62,7 +62,7 @@ DOMAIN-SUFFIX,yunxiao.com
 DOMAIN-SUFFIX,keboyunxiao.com
 DOMAIN-SUFFIX,chesicc.net
 DOMAIN-SUFFIX,chesicc.cn
-DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,magedu.com
 DOMAIN-SUFFIX,oldboyedu.com
 DOMAIN-SUFFIX,eduei.com
@@ -71,11 +71,14 @@ DOMAIN-SUFFIX,ystbds.com
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,winyoungreading.com
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.net
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
@@ -88,17 +91,14 @@ DOMAIN-SUFFIX,fenbike.cn
 DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,fenbilantian.com
-DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.net
+DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,hjapi.com
 DOMAIN-SUFFIX,hjfile.cn
 DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,yeshj.com
-DOMAIN-SUFFIX,koocdn.com
-DOMAIN-SUFFIX,koolearn.com
-DOMAIN-SUFFIX,weilaiyunxiao.com
-DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,ncss.org.cn
 DOMAIN-SUFFIX,chesicc.org.cn
 DOMAIN-SUFFIX,qgzb.com.cn
@@ -109,9 +109,9 @@ DOMAIN-SUFFIX,chsi.com.cn
 DOMAIN-SUFFIX,qgzb.gov.cn
 DOMAIN-SUFFIX,gfbzb.gov.cn
 DOMAIN-SUFFIX,gatzs.com.cn
-DOMAIN-SUFFIX,icve.com.cn
 DOMAIN-SUFFIX,chesicc.net.cn
 DOMAIN-SUFFIX,chesicc.com.cn
 DOMAIN-SUFFIX,chei.com.cn
 DOMAIN-SUFFIX,chdi.com.cn
 DOMAIN-SUFFIX,cedf.org.cn
+DOMAIN-SUFFIX,icve.com.cn

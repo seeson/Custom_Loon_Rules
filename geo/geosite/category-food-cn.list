@@ -1,15 +1,15 @@
 # NAME: category-food-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-15 07:11:07
+# UPDATED: 2025-09-16 07:10:44
 # TOTAL: 9
 # DOMAIN-SUFFIX: 9
 DOMAIN-SUFFIX,3songshu.com
 DOMAIN-SUFFIX,haidilao.com
-DOMAIN-SUFFIX,lkcoffee.com
-DOMAIN-SUFFIX,luckincoffeecdn.com
-DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,517lppz.com
 DOMAIN-SUFFIX,lppz.com
 DOMAIN-SUFFIX,lppzimg.com
 DOMAIN-SUFFIX,heytea.com
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
+DOMAIN-SUFFIX,yyds.co
