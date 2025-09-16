@@ -4,7 +4,8 @@ on:
   workflow_dispatch: {}
   schedule:
     - cron: '0 20 * * *'  # 每天 20:00 UTC
-
+env:
+  skip_commit: 'true'
 jobs:
   convert:
     runs-on: ubuntu-latest
@@ -126,7 +127,7 @@ jobs:
           fi
 
       - name: Commit changes
-        if: env.skip_commit == 'false'   # <-- 关键
+        if: ${{ env.skip_commit == 'false' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
