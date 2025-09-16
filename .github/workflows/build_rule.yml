@@ -122,13 +122,26 @@ jobs:
             echo "Wrote $outfile (DOMAIN:${domain_count} SUFFIX:${suffix_count} KEYWORD:${keyword_count} IPS:${ip_total})"
           done
 
-      - name: Commit converted rules if changed (commit message = 上海时间)
+      - name: Commit converted rules if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 遍历文件，替换 # UPDATED: 为旧值，避免无内容变动时 commit
+          for f in loon/rules/*.list; do
+            if [ -f "$f" ]; then
+              if grep -q "^# UPDATED:" "$f"; then
+                old_line=$(git show HEAD:"$f" 2>/dev/null | grep "^# UPDATED:" || echo "")
+                if [ -n "$old_line" ]; then
+                  sed -i "s|^# UPDATED:.*|$old_line|" "$f"
+                fi
+              fi
+            fi
+          done
+
           git add loon/rules || true
 
-          # 生成上海时区的提交信息，格式： "更新时间: 2025-09-12 20:12:29 CST"
+          # 生成上海时区的提交信息
           COMMIT_TIME="$(TZ="${LOCALE_TZ}" date +'%Y-%m-%d %H:%M:%S %Z')"
           COMMIT_MESSAGE="Updated on: ${COMMIT_TIME}"
           echo "Commit message will be: ${COMMIT_MESSAGE}"
@@ -139,3 +152,4 @@ jobs:
             git commit -m "${COMMIT_MESSAGE}" || true
             git push
           fi
+
