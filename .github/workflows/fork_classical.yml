@@ -19,6 +19,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Check upstream for updates
+        run: |
+          # 添加上游仓库 remote
+          git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git || true
+          git fetch upstream main
+
+          UPSTREAM_HEAD=$(git rev-parse upstream/main)
+          LOCAL_HEAD=$(git rev-parse HEAD)
+
+          if [ "$UPSTREAM_HEAD" = "$LOCAL_HEAD" ]; then
+            echo "✅ Upstream has no updates since last fork/clone."
+            echo "skip_update=true" >> $GITHUB_ENV
+          else
+            echo "⚠️ Upstream has updates, will proceed to update rules."
+            echo "skip_update=false" >> $GITHUB_ENV
+
       - name: Install dependencies
         run: |
           sudo apt-get update
