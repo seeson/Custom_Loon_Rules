@@ -46,6 +46,7 @@ jobs:
             echo "⚠️ Remote branch has updates."
             echo "skip_update=false" >> $GITHUB_ENV
             echo "$LATEST_SHA" > "$LAST_SHA_FILE"
+          fi
 
       - name: Install dependencies
         if: env.skip_update == 'false'
