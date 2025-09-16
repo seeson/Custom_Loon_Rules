@@ -114,6 +114,16 @@ jobs:
 
               print(f"✅ Saved {save_path}")
           EOF
+          
+      - name: Check for changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes, skipping commit."
+            echo "skip_commit=true" >> $GITHUB_ENV
+          else
+            echo "Changes detected."
+            echo "skip_commit=false" >> $GITHUB_ENV
+          fi
 
       - name: Commit changes
         run: |
