@@ -1,9 +1,10 @@
 # NAME: adjust-ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:03
+# UPDATED: 2025-09-17 03:11:02
 # TOTAL: 4
 # DOMAIN-SUFFIX: 4
+
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.net.in
 DOMAIN-SUFFIX,adjust.io

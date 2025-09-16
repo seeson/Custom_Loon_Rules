@@ -1,9 +1,10 @@
 # NAME: adidas
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:03
+# UPDATED: 2025-09-17 03:11:02
 # TOTAL: 19
 # DOMAIN-SUFFIX: 19
+
 DOMAIN-SUFFIX,adidas.ie
 DOMAIN-SUFFIX,adidas.ch
 DOMAIN-SUFFIX,adidas.de

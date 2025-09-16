@@ -1,9 +1,10 @@
 # NAME: lu
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:35
+# UPDATED: 2025-09-17 03:12:30
 # TOTAL: 1774
 # IP-CIDR: 1774
+
 IP-CIDR,2.18.250.0/24
 IP-CIDR,2.56.104.0/22
 IP-CIDR,2.56.220.0/24

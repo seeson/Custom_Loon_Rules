@@ -1,9 +1,10 @@
 # NAME: 115
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:09:57
+# UPDATED: 2025-09-17 03:10:56
 # TOTAL: 14
 # DOMAIN-SUFFIX: 14
+
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net

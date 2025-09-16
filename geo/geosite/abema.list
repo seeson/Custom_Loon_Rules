@@ -1,10 +1,11 @@
 # NAME: abema
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:00
+# UPDATED: 2025-09-17 03:10:59
 # TOTAL: 21
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 16
+
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net

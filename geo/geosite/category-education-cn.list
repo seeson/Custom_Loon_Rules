@@ -1,10 +1,11 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:41
+# UPDATED: 2025-09-17 03:11:39
 # TOTAL: 110
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 107
+
 DOMAIN,moocs.unipus.cn
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,study.163.com

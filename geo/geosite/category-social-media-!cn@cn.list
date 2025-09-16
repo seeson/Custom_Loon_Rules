@@ -1,8 +1,9 @@
 # NAME: category-social-media-!cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:54
+# UPDATED: 2025-09-17 03:11:50
 # TOTAL: 2
 # DOMAIN-SUFFIX: 2
+
 DOMAIN-SUFFIX,licdn.cn
 DOMAIN-SUFFIX,linkedin.cn

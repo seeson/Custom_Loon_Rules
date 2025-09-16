@@ -1,8 +1,9 @@
 # NAME: 4plebs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:09:58
+# UPDATED: 2025-09-17 03:10:58
 # TOTAL: 2
 # DOMAIN-SUFFIX: 2
+
 DOMAIN-SUFFIX,4pcdn.org
 DOMAIN-SUFFIX,4plebs.org

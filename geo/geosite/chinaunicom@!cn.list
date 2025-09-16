@@ -1,9 +1,10 @@
 # NAME: chinaunicom@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:00
+# UPDATED: 2025-09-17 03:11:56
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
+
 DOMAIN-SUFFIX,chinaunicom.com.hk
 DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,cuniq.com

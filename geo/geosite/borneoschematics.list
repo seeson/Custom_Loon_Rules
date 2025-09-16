@@ -1,9 +1,10 @@
 # NAME: borneoschematics
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:29
+# UPDATED: 2025-09-17 03:11:28
 # TOTAL: 5
 # DOMAIN-SUFFIX: 5
+
 DOMAIN-SUFFIX,borneo.world
 DOMAIN-SUFFIX,borneoasia.com
 DOMAIN-SUFFIX,borneoschematic.com

@@ -1,9 +1,10 @@
 # NAME: aljazeera
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:08
+# UPDATED: 2025-09-17 03:11:07
 # TOTAL: 7
 # DOMAIN-SUFFIX: 7
+
 DOMAIN-SUFFIX,ajplus.net
 DOMAIN-SUFFIX,aljazeera.com
 DOMAIN-SUFFIX,aljazeera.net

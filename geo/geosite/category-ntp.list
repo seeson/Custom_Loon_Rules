@@ -1,10 +1,11 @@
 # NAME: category-ntp
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:50
+# UPDATED: 2025-09-17 03:11:46
 # TOTAL: 109
 # DOMAIN: 68
 # DOMAIN-SUFFIX: 41
+
 DOMAIN,time.apple.com
 DOMAIN,time.asia.apple.com
 DOMAIN,time.euro.apple.com

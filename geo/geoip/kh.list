@@ -1,9 +1,10 @@
 # NAME: kh
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:33
+# UPDATED: 2025-09-17 03:12:27
 # TOTAL: 696
 # IP-CIDR: 696
+
 IP-CIDR,5.28.32.0/21
 IP-CIDR,5.62.60.65/32
 IP-CIDR,5.62.60.66/31

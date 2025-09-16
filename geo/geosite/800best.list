@@ -1,9 +1,10 @@
 # NAME: 800best
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:09:59
+# UPDATED: 2025-09-17 03:10:59
 # TOTAL: 29
 # DOMAIN-SUFFIX: 29
+
 DOMAIN-SUFFIX,bestincapi.com
 DOMAIN-SUFFIX,800best.net
 DOMAIN-SUFFIX,56laile.com

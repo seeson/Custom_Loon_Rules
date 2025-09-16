@@ -1,9 +1,10 @@
 # NAME: chinamobile
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:59
+# UPDATED: 2025-09-17 03:11:55
 # TOTAL: 18
 # DOMAIN-SUFFIX: 18
+
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,chinamobile.com

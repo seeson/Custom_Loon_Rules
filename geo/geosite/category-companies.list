@@ -1,11 +1,12 @@
 # NAME: category-companies
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:39
+# UPDATED: 2025-09-17 03:11:37
 # TOTAL: 7499
 # DOMAIN: 825
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 6662
+
 DOMAIN,faronics.kayako.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net

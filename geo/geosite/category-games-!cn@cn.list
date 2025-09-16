@@ -1,10 +1,11 @@
 # NAME: category-games-!cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:45
+# UPDATED: 2025-09-17 03:11:42
 # TOTAL: 47
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 30
+
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.wmsj.cn

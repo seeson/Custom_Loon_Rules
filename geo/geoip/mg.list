@@ -1,9 +1,10 @@
 # NAME: mg
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:36
+# UPDATED: 2025-09-17 03:12:31
 # TOTAL: 229
 # IP-CIDR: 229
+
 IP-CIDR,5.62.60.249/32
 IP-CIDR,5.62.60.250/31
 IP-CIDR,5.62.62.241/32

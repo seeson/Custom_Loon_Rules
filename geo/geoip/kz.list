@@ -1,9 +1,10 @@
 # NAME: kz
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:34
+# UPDATED: 2025-09-17 03:12:28
 # TOTAL: 2631
 # IP-CIDR: 2631
+
 IP-CIDR,2.56.177.0/24
 IP-CIDR,2.57.96.0/22
 IP-CIDR,2.72.0.0/13

@@ -1,9 +1,10 @@
 # NAME: bootcss
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:29
+# UPDATED: 2025-09-17 03:11:28
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
+
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,phpcomposer.com

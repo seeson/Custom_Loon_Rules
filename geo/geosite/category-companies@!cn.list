@@ -1,10 +1,11 @@
 # NAME: category-companies@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:39
+# UPDATED: 2025-09-17 03:11:37
 # TOTAL: 13
 # DOMAIN: 7
 # DOMAIN-SUFFIX: 6
+
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com.au
 DOMAIN-SUFFIX,alibabacloud.com.hk

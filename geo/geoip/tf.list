@@ -1,9 +1,10 @@
 # NAME: tf
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:48
+# UPDATED: 2025-09-17 03:12:44
 # TOTAL: 69
 # IP-CIDR: 69
+
 IP-CIDR,44.32.192.82/32
 IP-CIDR,89.203.249.181/32
 IP-CIDR,104.28.13.67/32

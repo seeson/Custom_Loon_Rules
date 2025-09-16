@@ -1,10 +1,11 @@
 # NAME: category-speedtest
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:55
+# UPDATED: 2025-09-17 03:11:51
 # TOTAL: 45
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 42
+
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,ekahau.com
 DOMAIN-SUFFIX,ookla.com

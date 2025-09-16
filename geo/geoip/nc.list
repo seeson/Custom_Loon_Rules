@@ -1,9 +1,10 @@
 # NAME: nc
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:39
+# UPDATED: 2025-09-17 03:12:34
 # TOTAL: 203
 # IP-CIDR: 203
+
 IP-CIDR,5.62.56.145/32
 IP-CIDR,5.62.56.146/31
 IP-CIDR,27.122.0.0/22

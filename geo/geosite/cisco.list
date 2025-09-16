@@ -1,10 +1,11 @@
 # NAME: cisco
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:00
+# UPDATED: 2025-09-17 03:11:56
 # TOTAL: 120
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 118
+
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
 DOMAIN-SUFFIX,cisco

@@ -1,8 +1,9 @@
 # NAME: ccb@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:57
+# UPDATED: 2025-09-17 03:11:53
 # TOTAL: 2
 # DOMAIN-SUFFIX: 2
+
 DOMAIN-SUFFIX,ccbintl.com.hk
 DOMAIN-SUFFIX,ccbseoul.com

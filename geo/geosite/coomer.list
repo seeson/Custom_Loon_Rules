@@ -1,9 +1,10 @@
 # NAME: coomer
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:07
+# UPDATED: 2025-09-17 03:12:03
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
+
 DOMAIN-SUFFIX,coomer.party
 DOMAIN-SUFFIX,coomer.st
 DOMAIN-SUFFIX,coomer.su

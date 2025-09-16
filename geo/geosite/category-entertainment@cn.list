@@ -1,10 +1,11 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:43
+# UPDATED: 2025-09-17 03:11:41
 # TOTAL: 66
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 48
+
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
 DOMAIN-SUFFIX,steamserver.net

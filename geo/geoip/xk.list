@@ -1,9 +1,10 @@
 # NAME: xk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:54
+# UPDATED: 2025-09-17 03:12:50
 # TOTAL: 87
 # IP-CIDR: 87
+
 IP-CIDR,5.206.232.0/21
 IP-CIDR,37.26.64.0/21
 IP-CIDR,37.35.64.0/21

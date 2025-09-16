@@ -1,10 +1,11 @@
 # NAME: bytedance
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:32
+# UPDATED: 2025-09-17 03:11:31
 # TOTAL: 709
 # DOMAIN: 22
 # DOMAIN-SUFFIX: 687
+
 DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-novel.byteimg.com
 DOMAIN,p1-juejin.byteimg.com

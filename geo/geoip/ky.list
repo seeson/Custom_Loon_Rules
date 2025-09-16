@@ -1,9 +1,10 @@
 # NAME: ky
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:34
+# UPDATED: 2025-09-17 03:12:28
 # TOTAL: 293
 # IP-CIDR: 293
+
 IP-CIDR,5.62.56.49/32
 IP-CIDR,5.62.56.50/31
 IP-CIDR,23.188.0.0/24

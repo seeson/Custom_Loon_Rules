@@ -1,9 +1,10 @@
 # NAME: apple-ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:13
+# UPDATED: 2025-09-17 03:11:11
 # TOTAL: 4
 # DOMAIN-SUFFIX: 4
+
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com

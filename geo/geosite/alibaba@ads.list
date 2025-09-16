@@ -1,9 +1,10 @@
 # NAME: alibaba@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:07
+# UPDATED: 2025-09-17 03:11:06
 # TOTAL: 102
 # DOMAIN-SUFFIX: 102
+
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
