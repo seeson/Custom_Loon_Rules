@@ -15,29 +15,40 @@ jobs:
       TZ: Asia/Shanghai
       REPO_URL: https://github.com/seeson/Custom_Loon_Rules
       AUTHOR: SeesoN
+      UPSTREAM_REPO: MetaCubeX/meta-rules-dat
+      BRANCH: meta
+      LAST_SHA_FILE: geo/.last_update_sha
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      skip_update: 'true'
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check upstream for updates
+      - name: Check if remote branch has updates
         run: |
-          BRANCH="meta"  # 对应你下载列表的分支
-          git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git || true
-          git fetch upstream $BRANCH
+          mkdir -p $(dirname "$LAST_SHA_FILE")
+          LATEST_SHA=$(curl -s https://api.github.com/repos/${UPSTREAM_REPO}/branches/${BRANCH} | jq -r .commit.sha)
 
-          UPSTREAM_HEAD=$(git rev-parse upstream/$BRANCH)
-          LOCAL_HEAD=$(git rev-parse HEAD)
-
-          if [ "$UPSTREAM_HEAD" = "$LOCAL_HEAD" ]; then
-            echo "✅ Upstream branch '$BRANCH' has no updates since last fork/clone."
-            echo "skip_update=true" >> $GITHUB_ENV
+          if [ -f "$LAST_SHA_FILE" ]; then
+            LAST_SHA=$(cat "$LAST_SHA_FILE")
           else
-            echo "⚠️ Upstream branch '$BRANCH' has updates, will proceed to update rules."
-            echo "skip_update=false" >> $GITHUB_ENV
+            LAST_SHA=""
           fi
 
+          echo "Remote SHA: $LATEST_SHA"
+          echo "Last processed SHA: $LAST_SHA"
+
+          if [ "$LATEST_SHA" = "$LAST_SHA" ]; then
+            echo "✅ Remote branch has no updates."
+            echo "skip_update=true" >> $GITHUB_ENV
+          else
+            echo "⚠️ Remote branch has updates."
+            echo "skip_update=false" >> $GITHUB_ENV
+            echo "$LATEST_SHA" > "$LAST_SHA_FILE"
 
       - name: Install dependencies
+        if: env.skip_update == 'false'
         run: |
           sudo apt-get update
           sudo apt-get install -y curl jq git
@@ -48,6 +59,7 @@ jobs:
           mkdir -p geo/geoip
 
       - name: Download and process lists
+        if: env.skip_update == 'false'
         run: |
           process_dir() {
               LOCAL_DIR=$1
@@ -94,6 +106,7 @@ jobs:
             process_dir geo/geoip geo/geoip/classical
 
       - name: Commit and push changes
+        if: env.skip_update == 'false'
         run: |
           git config user.name "$AUTHOR"
           git config user.email "actions@github.com"
