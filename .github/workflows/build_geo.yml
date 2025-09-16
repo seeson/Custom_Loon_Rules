@@ -126,6 +126,7 @@ jobs:
           fi
 
       - name: Commit changes
+        if: env.skip_commit == 'false'   # <-- 关键
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
