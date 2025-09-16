@@ -1,9 +1,10 @@
 # NAME: gp
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:28
+# UPDATED: 2025-09-17 03:12:21
 # TOTAL: 368
 # IP-CIDR: 368
+
 IP-CIDR,5.10.216.0/24
 IP-CIDR,5.62.56.105/32
 IP-CIDR,5.62.56.106/31

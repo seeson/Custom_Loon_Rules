@@ -1,9 +1,10 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:04
+# UPDATED: 2025-09-17 03:12:00
 # TOTAL: 117291
 # DOMAIN-SUFFIX: 117291
+
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
 DOMAIN-SUFFIX,xn--xhq521b

@@ -1,9 +1,10 @@
 # NAME: category-gov-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:47
+# UPDATED: 2025-09-17 03:11:43
 # TOTAL: 119
 # DOMAIN-SUFFIX: 119
+
 DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,belgorod.ru
 DOMAIN-SUFFIX,chel.ru

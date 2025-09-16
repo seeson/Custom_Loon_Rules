@@ -1,9 +1,10 @@
 # NAME: awempire
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:19
+# UPDATED: 2025-09-17 03:11:18
 # TOTAL: 5
 # DOMAIN-SUFFIX: 5
+
 DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,dditsadn.com
 DOMAIN-SUFFIX,dditscdn.com

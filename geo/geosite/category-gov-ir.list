@@ -1,9 +1,10 @@
 # NAME: category-gov-ir
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:46
+# UPDATED: 2025-09-17 03:11:43
 # TOTAL: 29
 # DOMAIN-SUFFIX: 29
+
 DOMAIN-SUFFIX,gov.ir
 DOMAIN-SUFFIX,president.ir
 DOMAIN-SUFFIX,adliran.ir

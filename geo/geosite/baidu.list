@@ -1,9 +1,10 @@
 # NAME: baidu
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:20
+# UPDATED: 2025-09-17 03:11:19
 # TOTAL: 232
 # DOMAIN-SUFFIX: 232
+
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,aipage.com

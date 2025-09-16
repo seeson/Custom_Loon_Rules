@@ -1,9 +1,10 @@
 # NAME: sh
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:46
+# UPDATED: 2025-09-17 03:12:41
 # TOTAL: 80
 # IP-CIDR: 80
+
 IP-CIDR,5.62.63.89/32
 IP-CIDR,5.62.63.90/31
 IP-CIDR,44.32.192.201/32

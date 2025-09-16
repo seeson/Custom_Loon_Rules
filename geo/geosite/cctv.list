@@ -1,9 +1,10 @@
 # NAME: cctv
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:57
+# UPDATED: 2025-09-17 03:11:53
 # TOTAL: 37
 # DOMAIN-SUFFIX: 37
+
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
 DOMAIN-SUFFIX,olympicchannelchina.cn
 DOMAIN-SUFFIX,cctvpic.com

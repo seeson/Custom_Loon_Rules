@@ -1,10 +1,11 @@
 # NAME: category-dev
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:40
+# UPDATED: 2025-09-17 03:11:38
 # TOTAL: 515
 # DOMAIN: 44
 # DOMAIN-SUFFIX: 469
+
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,amp.akamaized.net
 DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com

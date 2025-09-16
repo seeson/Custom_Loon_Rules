@@ -1,9 +1,10 @@
 # NAME: fk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:26
+# UPDATED: 2025-09-17 03:12:19
 # TOTAL: 110
 # IP-CIDR: 110
+
 IP-CIDR,5.62.56.93/32
 IP-CIDR,5.62.56.94/31
 IP-CIDR,44.32.192.134/32

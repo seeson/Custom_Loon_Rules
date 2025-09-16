@@ -1,9 +1,10 @@
 # NAME: blogspot
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:26
+# UPDATED: 2025-09-17 03:11:25
 # TOTAL: 76
 # DOMAIN-SUFFIX: 76
+
 DOMAIN-SUFFIX,blogspot.nl
 DOMAIN-SUFFIX,blogspot.mx
 DOMAIN-SUFFIX,blogspot.ae

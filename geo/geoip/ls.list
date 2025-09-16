@@ -1,9 +1,10 @@
 # NAME: ls
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:35
+# UPDATED: 2025-09-17 03:12:29
 # TOTAL: 181
 # IP-CIDR: 181
+
 IP-CIDR,5.62.60.221/32
 IP-CIDR,5.62.60.222/31
 IP-CIDR,5.62.62.213/32

@@ -1,9 +1,10 @@
 # NAME: bandwagonhost
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:21
+# UPDATED: 2025-09-17 03:11:20
 # TOTAL: 7
 # DOMAIN-SUFFIX: 7
+
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,bwh8.net

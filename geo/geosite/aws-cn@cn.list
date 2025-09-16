@@ -1,9 +1,10 @@
 # NAME: aws-cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:19
+# UPDATED: 2025-09-17 03:11:18
 # TOTAL: 27
 # DOMAIN-SUFFIX: 25
+
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn

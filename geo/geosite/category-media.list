@@ -1,10 +1,11 @@
 # NAME: category-media
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:48
+# UPDATED: 2025-09-17 03:11:45
 # TOTAL: 1401
 # DOMAIN: 24
 # DOMAIN-SUFFIX: 1377
+
 DOMAIN,foxnewsplayer-a.akamaihd.net
 DOMAIN,zeenews-fonts.s3.amazonaws.com
 DOMAIN,himalaya-exchange.zendesk.com

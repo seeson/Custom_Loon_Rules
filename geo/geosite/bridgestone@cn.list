@@ -1,9 +1,10 @@
 # NAME: bridgestone@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:30
+# UPDATED: 2025-09-17 03:11:29
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
+
 DOMAIN-SUFFIX,bridgestone.cn
 DOMAIN-SUFFIX,bridgestone.com.cn
 DOMAIN-SUFFIX,nokiantyres.cn

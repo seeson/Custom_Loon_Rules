@@ -1,9 +1,10 @@
 # NAME: bm
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:17
+# UPDATED: 2025-09-17 03:12:12
 # TOTAL: 257
 # IP-CIDR: 257
+
 IP-CIDR,5.62.56.37/32
 IP-CIDR,5.62.56.38/32
 IP-CIDR,5.230.57.186/32

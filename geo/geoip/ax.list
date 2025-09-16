@@ -1,9 +1,10 @@
 # NAME: ax
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:15
+# UPDATED: 2025-09-17 03:12:10
 # TOTAL: 180
 # IP-CIDR: 180
+
 IP-CIDR,5.10.250.29/32
 IP-CIDR,5.10.250.79/32
 IP-CIDR,5.62.63.245/32

@@ -1,9 +1,10 @@
 # NAME: bmw
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:27
+# UPDATED: 2025-09-17 03:11:26
 # TOTAL: 729
 # DOMAIN-SUFFIX: 729
+
 DOMAIN-SUFFIX,mini
 DOMAIN-SUFFIX,bmw
 DOMAIN-SUFFIX,mini-connected.se

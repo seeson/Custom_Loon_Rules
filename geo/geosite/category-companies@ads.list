@@ -1,10 +1,11 @@
 # NAME: category-companies@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:10:39
+# UPDATED: 2025-09-17 03:11:37
 # TOTAL: 74
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 68
+
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,nelreports.net
 DOMAIN,o33249.ingest.sentry.io

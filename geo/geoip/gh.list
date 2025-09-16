@@ -1,9 +1,10 @@
 # NAME: gh
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-16 07:11:27
+# UPDATED: 2025-09-17 03:12:20
 # TOTAL: 554
 # IP-CIDR: 554
+
 IP-CIDR,2.16.77.0/24
 IP-CIDR,5.62.60.149/32
 IP-CIDR,5.62.60.150/31
