@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 150
-# TOTAL: 150
+# DOMAIN: 142
+# TOTAL: 142
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -14,9 +14,6 @@ DOMAIN,2.tracker.eu.org
 DOMAIN,3.tracker.eu.org
 DOMAIN,4.tracker.eu.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,admin.52ywp.com
-DOMAIN,asiatorrent.ddns.net
-DOMAIN,asiatorrent.giize.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.bontal.net
@@ -35,13 +32,10 @@ DOMAIN,extracker.dahrkael.net
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,ipv6.rer.lol
-DOMAIN,isk.richardsw.club
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
-DOMAIN,open.demonii.si
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
@@ -58,13 +52,12 @@ DOMAIN,seeders-paradise.org
 DOMAIN,servandroidkino.ru
 DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
+DOMAIN,t.overflow.biz
 DOMAIN,t1.hloli.org
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
-DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
@@ -74,11 +67,9 @@ DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.aburaya.live
-DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
-DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
@@ -123,6 +114,7 @@ DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.startwork.cv
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.tnl.one
 DOMAIN,tracker.torrent.eu.org
