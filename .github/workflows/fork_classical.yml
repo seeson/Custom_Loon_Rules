@@ -60,9 +60,12 @@ jobs:
                   [ "$DOMAIN_KEYWORD" -gt 0 ] && echo "# DOMAIN-KEYWORD: $DOMAIN_KEYWORD"
                   [ "$DOMAIN_SUFFIX" -gt 0 ] && echo "# DOMAIN-SUFFIX: $DOMAIN_SUFFIX"
                   [ "$IP_CIDR" -gt 0 ] && echo "# IP-CIDR: $IP_CIDR"
+                  echo ""
                 } > header.tmp
             
-                cat header.tmp "$LOCAL_DIR/$file" > temp && mv temp "$LOCAL_DIR/$file"
+                cat header.tmp "$LOCAL_DIR/$file" > temp
+                echo "" >> temp
+                mv temp "$LOCAL_DIR/$file"
                 rm -f header.tmp
               done
           }
