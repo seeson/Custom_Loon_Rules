@@ -1,14 +1,14 @@
 # NAME: category-android-app-download
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-17 03:31:24
+# UPDATED: 2025-09-17 07:09:12
 # TOTAL: 7
 # DOMAIN-SUFFIX: 7
 
+DOMAIN-SUFFIX,apkcombo.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
-DOMAIN-SUFFIX,apkcombo.com

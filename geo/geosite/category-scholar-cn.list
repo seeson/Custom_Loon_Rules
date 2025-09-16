@@ -1,7 +1,7 @@
 # NAME: category-scholar-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-17 03:31:35
+# UPDATED: 2025-09-17 07:09:24
 # TOTAL: 89
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 88
@@ -14,9 +14,9 @@ DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,bjinfobank.com
 DOMAIN-SUFFIX,blyun.com
 DOMAIN-SUFFIX,chinabooktrading.com
-DOMAIN-SUFFIX,wf.pub
-DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cnbksy.com
+DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cspro.org
 DOMAIN-SUFFIX,noi.cn
 DOMAIN-SUFFIX,cnsciedu.com
@@ -27,8 +27,8 @@ DOMAIN-SUFFIX,vipexam.org
 DOMAIN-SUFFIX,cnthinkers.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,crggcn.com
-DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,xuexi365.net
+DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,duxiu.com
 DOMAIN-SUFFIX,er07.com
 DOMAIN-SUFFIX,51ccd.com
@@ -42,11 +42,11 @@ DOMAIN-SUFFIX,lawyee.org
 DOMAIN-SUFFIX,neohytung.com
 DOMAIN-SUFFIX,nmrdata.com
 DOMAIN-SUFFIX,nssd.cn
-DOMAIN-SUFFIX,xxtmail.com
+DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,pkulaw.com
 DOMAIN-SUFFIX,rdfybk.com
-DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,uonline-sh.net
+DOMAIN-SUFFIX,uonline-sh.com
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,tokyotrial.cn
 DOMAIN-SUFFIX,tongxianghuicn.com
@@ -55,9 +55,11 @@ DOMAIN-SUFFIX,resset.com
 DOMAIN-SUFFIX,airitilibrary.cn
 DOMAIN-SUFFIX,sciencechina.cn
 DOMAIN-SUFFIX,yiigle.com
-DOMAIN-SUFFIX,uonline-sh.com
+DOMAIN-SUFFIX,wf.pub
 DOMAIN-SUFFIX,superlib.net
 DOMAIN-SUFFIX,superlib.com
+DOMAIN-SUFFIX,ylike.net
+DOMAIN-SUFFIX,zaifan.com
 DOMAIN-SUFFIX,ssreader.cn
 DOMAIN-SUFFIX,dayainfo.com
 DOMAIN-SUFFIX,aichaoxing.com
@@ -76,22 +78,20 @@ DOMAIN-SUFFIX,sslawy.com
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,nihaorwanda.cn
-DOMAIN-SUFFIX,zaifan.com
-DOMAIN-SUFFIX,ylike.net
 DOMAIN-SUFFIX,iscas.ac.cn
-DOMAIN-SUFFIX,unihan.com.cn
-DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,wind.com.cn
-DOMAIN-SUFFIX,csdl.ac.cn
-DOMAIN-SUFFIX,pishu.com.cn
-DOMAIN-SUFFIX,drcnet.com.cn
-DOMAIN-SUFFIX,zaifan.com.cn
-DOMAIN-SUFFIX,ssvideo.com.cn
-DOMAIN-SUFFIX,study360.com.cn
+DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,wanfangdata.com.cn
-DOMAIN-SUFFIX,ssreader.com.cn
-DOMAIN-SUFFIX,data.pharmacodia.com
-DOMAIN-SUFFIX,ccf.org.cn
-DOMAIN-SUFFIX,cnki.com.cn
-DOMAIN-SUFFIX,cidp.com.cn
+DOMAIN-SUFFIX,csdl.ac.cn
+DOMAIN-SUFFIX,unihan.com.cn
+DOMAIN-SUFFIX,pishu.com.cn
+DOMAIN-SUFFIX,study360.com.cn
 DOMAIN-SUFFIX,xuexi365.com.cn
+DOMAIN-SUFFIX,data.pharmacodia.com
+DOMAIN-SUFFIX,cnki.com.cn
+DOMAIN-SUFFIX,ssvideo.com.cn
+DOMAIN-SUFFIX,zaifan.com.cn
+DOMAIN-SUFFIX,ssreader.com.cn
+DOMAIN-SUFFIX,ccf.org.cn
+DOMAIN-SUFFIX,cidp.com.cn
+DOMAIN-SUFFIX,drcnet.com.cn
