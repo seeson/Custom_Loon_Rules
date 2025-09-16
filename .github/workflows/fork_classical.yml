@@ -21,19 +21,20 @@ jobs:
 
       - name: Check upstream for updates
         run: |
-          # 添加上游仓库 remote
+          BRANCH="meta"  # 对应你下载列表的分支
           git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git || true
-          git fetch upstream main
+          git fetch upstream $BRANCH
 
-          UPSTREAM_HEAD=$(git rev-parse upstream/main)
+          UPSTREAM_HEAD=$(git rev-parse upstream/$BRANCH)
           LOCAL_HEAD=$(git rev-parse HEAD)
 
           if [ "$UPSTREAM_HEAD" = "$LOCAL_HEAD" ]; then
-            echo "✅ Upstream has no updates since last fork/clone."
+            echo "✅ Upstream branch '$BRANCH' has no updates since last fork/clone."
             echo "skip_update=true" >> $GITHUB_ENV
           else
-            echo "⚠️ Upstream has updates, will proceed to update rules."
+            echo "⚠️ Upstream branch '$BRANCH' has updates, will proceed to update rules."
             echo "skip_update=false" >> $GITHUB_ENV
+
 
       - name: Install dependencies
         run: |
