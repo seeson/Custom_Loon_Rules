@@ -1,20 +1,11 @@
 # NAME: category-companies@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-17 07:09:14
+# UPDATED: 2025-09-18 07:11:53
 # TOTAL: 74
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 68
 
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openaicom.imgix.net
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,api-adservices.apple.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,iad.apple.com
-DOMAIN-SUFFIX,qwapi.com
-DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN-SUFFIX,metrics.duolingo.com
 DOMAIN-SUFFIX,analytics.vpc.duolingo.com
@@ -63,20 +54,29 @@ DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
 DOMAIN-REGEX,^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,qwapi.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,nelreports.net
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
-DOMAIN-SUFFIX,snapads.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaicom.imgix.net
+DOMAIN,browser-intake-datadoghq.com
