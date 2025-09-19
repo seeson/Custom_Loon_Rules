@@ -1,23 +1,11 @@
 # NAME: category-cas@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-19 07:11:18
+# UPDATED: 2025-09-20 07:10:56
 # TOTAL: 35
 # DOMAIN: 20
 # DOMAIN-SUFFIX: 15
 
-DOMAIN,www.entrust.cn
-DOMAIN-SUFFIX,dcocsp.cn
-DOMAIN-SUFFIX,digicert.cn
-DOMAIN,certs-lb.apple.com.akadns.net
-DOMAIN,certs.apple.com
-DOMAIN,crl-lb.apple.com.akadns.net
-DOMAIN,crl.apple.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
-DOMAIN,ocsp2.apple.com
-DOMAIN,valid.apple.com
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,globalsign.cn
@@ -32,12 +20,24 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
+DOMAIN,www.entrust.cn
+DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,digicert.cn
 DOMAIN,www.microsoft.com
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,ocsp-lb.apple.com.akadns.net
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2-lb.apple.com.akadns.net
+DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
 DOMAIN-SUFFIX,oemssl.cn
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,sectigochina.com
 DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,trust-provider.cn
+DOMAIN-SUFFIX,sslcom.cn
 DOMAIN-SUFFIX,yahoo.cn
 DOMAIN-SUFFIX,yahoo.com.cn
-DOMAIN-SUFFIX,sslcom.cn

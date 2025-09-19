@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-19 07:11:29
+# UPDATED: 2025-09-20 07:11:08
 # TOTAL: 78
 # DOMAIN-SUFFIX: 78
 
@@ -16,26 +16,22 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,vk.me
-DOMAIN-SUFFIX,mycdn.me
-DOMAIN-SUFFIX,ozonusercontent.com
-DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,vkmessenger.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk-cdn.me
-DOMAIN-SUFFIX,vk-cdn.net
 DOMAIN-SUFFIX,vk-portal.net
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vk.company
 DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
+DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkcache.com
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkmessenger.app
-DOMAIN-SUFFIX,vkmessenger.com
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
@@ -72,11 +68,15 @@ DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
 DOMAIN-SUFFIX,yandex.st
+DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
+DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,yandex.sx
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex.com.ge

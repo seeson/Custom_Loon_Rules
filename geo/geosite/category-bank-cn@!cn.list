@@ -1,10 +1,11 @@
 # NAME: category-bank-cn@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-19 07:11:17
+# UPDATED: 2025-09-20 07:10:55
 # TOTAL: 53
 # DOMAIN-SUFFIX: 53
 
+DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,ccbintl.com.hk
 DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,citics.com.hk
@@ -57,4 +58,3 @@ DOMAIN-SUFFIX,icbcswiss.com
 DOMAIN-SUFFIX,icbcthai.com
 DOMAIN-SUFFIX,icbkfs.com
 DOMAIN-SUFFIX,icbkus.com
-DOMAIN-SUFFIX,bochk.com
