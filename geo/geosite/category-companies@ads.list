@@ -1,40 +1,11 @@
 # NAME: category-companies@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-20 07:10:57
+# UPDATED: 2025-09-21 07:10:50
 # TOTAL: 74
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 68
 
-DOMAIN-SUFFIX,snapads.com
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,nelreports.net
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openaicom.imgix.net
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,ads-api.duolingo.com
-DOMAIN-SUFFIX,metrics.duolingo.com
-DOMAIN-SUFFIX,analytics.vpc.duolingo.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN,sentry.hetzner.company
-DOMAIN-SUFFIX,api-adservices.apple.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,iad.apple.com
-DOMAIN-SUFFIX,qwapi.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,serving-sys.com
-DOMAIN-SUFFIX,advertising.adobe.com
-DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com
@@ -80,3 +51,32 @@ DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
 DOMAIN-REGEX,^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,qwapi.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,samsungads.com
+DOMAIN,sentry.hetzner.company
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaicom.imgix.net
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,tubemogul.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com

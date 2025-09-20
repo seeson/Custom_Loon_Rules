@@ -1,22 +1,12 @@
 # NAME: category-games-!cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-20 07:11:02
+# UPDATED: 2025-09-21 07:10:54
 # TOTAL: 47
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 30
 
-DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
-DOMAIN,menu-static.gog-statics.com
-DOMAIN,productcard.gog-statics.com
-DOMAIN,static-login.gog-statics.com
-DOMAIN,www4-static.gog-statics.com
-DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
-DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
-DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
-DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
@@ -34,12 +24,7 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
@@ -53,3 +38,18 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,mariokart.cn
 DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,supermariobros.com.cn
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
+DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
+DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
