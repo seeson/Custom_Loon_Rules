@@ -1,7 +1,7 @@
 # NAME: category-entertainment-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-21 07:10:52
+# UPDATED: 2025-09-22 07:10:55
 # TOTAL: 61
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 49
@@ -12,15 +12,6 @@ DOMAIN-SUFFIX,ja.gamersky.com
 DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN-SUFFIX,click.hunantv.com
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
@@ -51,6 +42,9 @@ DOMAIN-SUFFIX,e.kuaishou.cn
 DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
 DOMAIN-SUFFIX,api.game.letvstore.com
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,dc.letv.com
@@ -64,6 +58,12 @@ DOMAIN-SUFFIX,pro.hoye.letv.com
 DOMAIN-SUFFIX,pro.letv.com
 DOMAIN-SUFFIX,stat.letv.com
 DOMAIN-SUFFIX,static.app.m.letv.com
-DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
