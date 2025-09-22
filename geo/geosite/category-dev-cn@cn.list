@@ -1,11 +1,10 @@
 # NAME: category-dev-cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-22 07:10:53
+# UPDATED: 2025-09-23 07:11:18
 # TOTAL: 24
 # DOMAIN-SUFFIX: 24
 
-DOMAIN-SUFFIX,weui.io
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
 DOMAIN-SUFFIX,devui.design
@@ -29,3 +28,4 @@ DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
+DOMAIN-SUFFIX,weui.io

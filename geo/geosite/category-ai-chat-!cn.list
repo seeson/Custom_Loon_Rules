@@ -1,7 +1,7 @@
 # NAME: category-ai-chat-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-22 07:10:50
+# UPDATED: 2025-09-23 07:11:14
 # TOTAL: 71
 # DOMAIN: 13
 # DOMAIN-SUFFIX: 57
@@ -16,16 +16,15 @@ DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openrouter.ai
-DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,chatgpt.com
@@ -34,20 +33,20 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,labs.google
-DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,clipdrop.co
-DOMAIN-SUFFIX,gemini.google
-DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -55,21 +54,22 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,jules.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
