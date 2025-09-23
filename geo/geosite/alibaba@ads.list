@@ -1,14 +1,10 @@
 # NAME: alibaba@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-23 07:10:47
+# UPDATED: 2025-09-24 07:10:20
 # TOTAL: 102
 # DOMAIN-SUFFIX: 102
 
-DOMAIN-SUFFIX,alog.umeng.com
-DOMAIN-SUFFIX,alog.umengcloud.com
-DOMAIN-SUFFIX,w.cnzz.com
-DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
@@ -107,3 +103,7 @@ DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
 DOMAIN-SUFFIX,w.m.taobao.com
 DOMAIN-SUFFIX,yiliao.hupan.com
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,w.cnzz.com
+DOMAIN-SUFFIX,z.gds.cnzz.com
