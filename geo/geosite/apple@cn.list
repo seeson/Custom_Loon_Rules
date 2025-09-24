@@ -1,7 +1,7 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-24 07:10:27
+# UPDATED: 2025-09-25 07:11:03
 # TOTAL: 327
 # DOMAIN: 265
 # DOMAIN-SUFFIX: 62
@@ -307,6 +307,11 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
+DOMAIN-SUFFIX,apple-itunes.cn
+DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN-SUFFIX,itunesradio.cn
+DOMAIN-SUFFIX,itunesradio.com.cn
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
@@ -328,8 +333,3 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
-DOMAIN-SUFFIX,apple-itunes.cn
-DOMAIN-SUFFIX,itunes-apple.cn
-DOMAIN-SUFFIX,itunesapple.cn
-DOMAIN-SUFFIX,itunesradio.cn
-DOMAIN-SUFFIX,itunesradio.com.cn

@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-24 07:10:48
+# UPDATED: 2025-09-25 07:11:30
 # TOTAL: 93
 # DOMAIN-SUFFIX: 93
 
@@ -62,24 +62,19 @@ DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,censorship.no
-DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,pao-pao.net
-DOMAIN-SUFFIX,greatfire.org
-DOMAIN-SUFFIX,freezhihu.org
-DOMAIN-SUFFIX,freeweibo.com
-DOMAIN-SUFFIX,freewechat.com
-DOMAIN-SUFFIX,freebrowser.org
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
@@ -87,6 +82,11 @@ DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,freebrowser.org
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,freeweibo.com
+DOMAIN-SUFFIX,freezhihu.org
+DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.best-practice.se

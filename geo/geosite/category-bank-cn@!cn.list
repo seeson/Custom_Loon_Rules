@@ -1,10 +1,12 @@
 # NAME: category-bank-cn@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-24 07:10:48
+# UPDATED: 2025-09-25 07:11:31
 # TOTAL: 53
 # DOMAIN-SUFFIX: 53
 
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,icbc-at.com
 DOMAIN-SUFFIX,icbc-cz.com
 DOMAIN-SUFFIX,icbc-ltd.com
@@ -56,5 +58,3 @@ DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,citics.com.hk
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,csci.hk
-DOMAIN-SUFFIX,cmbi.com.hk
-DOMAIN-SUFFIX,cmbwinglungbank.com

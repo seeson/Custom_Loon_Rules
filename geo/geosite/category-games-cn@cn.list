@@ -1,12 +1,10 @@
 # NAME: category-games-cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-24 07:10:56
+# UPDATED: 2025-09-25 07:11:41
 # TOTAL: 110
 # DOMAIN-SUFFIX: 109
 
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -30,6 +28,8 @@ DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
