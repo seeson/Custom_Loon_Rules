@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5910
-# TOTAL: 5910
+# DOMAIN-SUFFIX: 5912
+# TOTAL: 5912
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -1175,6 +1175,7 @@ DOMAIN-SUFFIX,csuchen.de
 DOMAIN-SUFFIX,csw.org.uk
 DOMAIN-SUFFIX,ct.org.tw
 DOMAIN-SUFFIX,ctao.org
+DOMAIN-SUFFIX,ctinets.com
 DOMAIN-SUFFIX,ctinews.com
 DOMAIN-SUFFIX,ctitv.com.tw
 DOMAIN-SUFFIX,ctowc.org
@@ -2705,6 +2706,7 @@ DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,internetdefenseleague.org
 DOMAIN-SUFFIX,internetfreedom.org
 DOMAIN-SUFFIX,internetpopculture.com
+DOMAIN-SUFFIX,interseclab.org
 DOMAIN-SUFFIX,inthenameofconfuciusmovie.com
 DOMAIN-SUFFIX,investigating.wordpress.com
 DOMAIN-SUFFIX,invidio.us

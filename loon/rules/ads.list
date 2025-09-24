@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:18 CST
-# DOMAIN-SUFFIX: 94996
-# TOTAL: 94996
+# DOMAIN-SUFFIX: 94997
+# TOTAL: 94997
 
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
@@ -9344,6 +9344,7 @@ DOMAIN-SUFFIX,api.myadsget.com
 DOMAIN-SUFFIX,api.newad.ifeng.com
 DOMAIN-SUFFIX,api.newbelden.com
 DOMAIN-SUFFIX,api.newsfeed.intl.miui.com
+DOMAIN-SUFFIX,api.open.oppomobile.com
 DOMAIN-SUFFIX,api.pingstart.com
 DOMAIN-SUFFIX,api.poll.aiseet.atianqi.com
 DOMAIN-SUFFIX,api.primecaster.net
