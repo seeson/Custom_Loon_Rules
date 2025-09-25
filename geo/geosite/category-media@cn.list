@@ -1,12 +1,12 @@
 # NAME: category-media@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-25 07:11:44
+# UPDATED: 2025-09-26 07:11:01
 # TOTAL: 5
 # DOMAIN-SUFFIX: 5
 
-DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN-SUFFIX,tvbc.com.cn
 DOMAIN-SUFFIX,thetype.cloud
+DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN-SUFFIX,etnet.com.cn
 DOMAIN-SUFFIX,etnetchina.com.cn
