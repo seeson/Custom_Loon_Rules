@@ -1,36 +1,11 @@
 # NAME: category-games@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-25 07:11:41
+# UPDATED: 2025-09-26 07:10:59
 # TOTAL: 157
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 139
 
-DOMAIN-SUFFIX,mhystatic.com
-DOMAIN-SUFFIX,mhyurl.cn
-DOMAIN-SUFFIX,mihayo.com
-DOMAIN-SUFFIX,mihayou.com
-DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,mihoyocg.com
-DOMAIN-SUFFIX,mihoyogift.com
-DOMAIN-SUFFIX,mihoyomall.com
-DOMAIN-SUFFIX,miyoushe.com
-DOMAIN-SUFFIX,benghuai.com
-DOMAIN-SUFFIX,bh3.com
-DOMAIN-SUFFIX,bhsr.com
-DOMAIN-SUFFIX,themisweeps.com
-DOMAIN-SUFFIX,yuanshen.com
-DOMAIN-SUFFIX,juequling.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,sl916.com
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
@@ -116,12 +91,36 @@ DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,mhystatic.com
+DOMAIN-SUFFIX,mhyurl.cn
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihoyocg.com
+DOMAIN-SUFFIX,mihoyogift.com
+DOMAIN-SUFFIX,mihoyomall.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
+DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN,gog.qtlglb.com
 DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,menu-static.gog-statics.com
@@ -133,6 +132,8 @@ DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
 DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -162,4 +163,3 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,bluearchive-cn.com
