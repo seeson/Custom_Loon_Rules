@@ -1,12 +1,12 @@
 # NAME: category-tech-media
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-26 07:11:06
+# UPDATED: 2025-09-27 07:12:02
 # TOTAL: 25
 # DOMAIN-SUFFIX: 25
 
-DOMAIN-SUFFIX,electrek.co
-DOMAIN-SUFFIX,typeisbeautiful.com
+DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,dronedj.com
 DOMAIN-SUFFIX,appleinsider.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,engadget.com
@@ -15,18 +15,18 @@ DOMAIN-SUFFIX,slashdot.org
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techradar.com
 DOMAIN-SUFFIX,theverge.com
-DOMAIN-SUFFIX,ycombinator.com
+DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,androidpolice.com
-DOMAIN-SUFFIX,9to5mac.com
-DOMAIN-SUFFIX,9to5google.com
+DOMAIN-SUFFIX,typeisbeautiful.com
+DOMAIN-SUFFIX,thetype.com
 DOMAIN-SUFFIX,tomsguide.com
+DOMAIN-SUFFIX,startupschool.org
+DOMAIN-SUFFIX,ycombinator.com
+DOMAIN-SUFFIX,9to5google.com
+DOMAIN-SUFFIX,androidauthority.com
 DOMAIN-SUFFIX,9to5terminal.com
 DOMAIN-SUFFIX,9to5toys.com
-DOMAIN-SUFFIX,dronedj.com
-DOMAIN-SUFFIX,androidauthority.com
-DOMAIN-SUFFIX,spaceexplored.com
-DOMAIN-SUFFIX,thetype.com
 DOMAIN-SUFFIX,zdnet.com
-DOMAIN-SUFFIX,startupschool.org
+DOMAIN-SUFFIX,electrek.co
 DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,thetype.cloud

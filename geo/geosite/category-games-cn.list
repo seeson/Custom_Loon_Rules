@@ -1,7 +1,7 @@
 # NAME: category-games-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-26 07:10:58
+# UPDATED: 2025-09-27 07:11:48
 # TOTAL: 195
 # DOMAIN-SUFFIX: 194
 
@@ -13,16 +13,6 @@ DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,wo1wan.com
-DOMAIN-SUFFIX,tiancity.com
-DOMAIN-SUFFIX,tiancitycdn.com
-DOMAIN-SUFFIX,cowlevel.net
-DOMAIN-SUFFIX,cdncl.net
-DOMAIN-SUFFIX,tgbus.com
-DOMAIN-SUFFIX,vgtime.com
-DOMAIN-SUFFIX,vrzwk.cn
-DOMAIN-SUFFIX,vrzwk.com
-DOMAIN-SUFFIX,vrzwk.net
-DOMAIN-SUFFIX,vrzwk.top
 DOMAIN-SUFFIX,ro.com
 DOMAIN-SUFFIX,xd.cn
 DOMAIN-SUFFIX,xd.com
@@ -34,6 +24,16 @@ DOMAIN-SUFFIX,taptap.cn
 DOMAIN-SUFFIX,taptap.com
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptapdada.com
+DOMAIN-SUFFIX,tgbus.com
+DOMAIN-SUFFIX,cowlevel.net
+DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,tiancitycdn.com
+DOMAIN-SUFFIX,vgtime.com
+DOMAIN-SUFFIX,vrzwk.cn
+DOMAIN-SUFFIX,vrzwk.com
+DOMAIN-SUFFIX,vrzwk.net
+DOMAIN-SUFFIX,vrzwk.top
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
 DOMAIN-SUFFIX,3839.com
@@ -89,6 +89,24 @@ DOMAIN-SUFFIX,we4399.com
 DOMAIN-SUFFIX,webgame163.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yxhhdl.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,mhystatic.com
+DOMAIN-SUFFIX,mhyurl.cn
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihayou.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihoyocg.com
+DOMAIN-SUFFIX,mihoyogift.com
+DOMAIN-SUFFIX,mihoyomall.com
+DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
@@ -175,28 +193,10 @@ DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,aki-game.com
-DOMAIN-SUFFIX,mhystatic.com
-DOMAIN-SUFFIX,mhyurl.cn
-DOMAIN-SUFFIX,mihayo.com
-DOMAIN-SUFFIX,mihayou.com
-DOMAIN-SUFFIX,mihoyo.com
-DOMAIN-SUFFIX,mihoyocg.com
-DOMAIN-SUFFIX,mihoyogift.com
-DOMAIN-SUFFIX,mihoyomall.com
-DOMAIN-SUFFIX,miyoushe.com
-DOMAIN-SUFFIX,benghuai.com
-DOMAIN-SUFFIX,bh3.com
-DOMAIN-SUFFIX,bhsr.com
-DOMAIN-SUFFIX,themisweeps.com
-DOMAIN-SUFFIX,yuanshen.com
-DOMAIN-SUFFIX,juequling.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,bilibiligame.cn
 DOMAIN-SUFFIX,bilibiligame.co
 DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,sl916.com

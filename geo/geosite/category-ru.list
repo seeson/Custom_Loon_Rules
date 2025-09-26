@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-26 07:11:03
+# UPDATED: 2025-09-27 07:11:58
 # TOTAL: 78
 # DOMAIN-SUFFIX: 78
 
@@ -14,11 +14,12 @@ DOMAIN-SUFFIX,xn--c1avg
 DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
-DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,yandex
+DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-apps.com
@@ -30,6 +31,7 @@ DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vk.company
 DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
+DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkcache.com
 DOMAIN-SUFFIX,vkgo.app
@@ -72,13 +74,11 @@ DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
 DOMAIN-SUFFIX,yandex.st
+DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
-DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,yandex.sx
-DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ua
+DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
 DOMAIN-SUFFIX,yandex.co.il
