@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 385
-# DOMAIN-SUFFIX: 5077
-# TOTAL: 5462
+# DOMAIN-SUFFIX: 5078
+# TOTAL: 5463
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -3972,6 +3972,7 @@ DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qq.cn.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.design
+DOMAIN-SUFFIX,qq.net
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,qq163.com
 DOMAIN-SUFFIX,qq163.net
