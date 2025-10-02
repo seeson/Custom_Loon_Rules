@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5913
-# TOTAL: 5913
+# DOMAIN-SUFFIX: 5915
+# TOTAL: 5915
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -4704,8 +4704,10 @@ DOMAIN-SUFFIX,tanc.org
 DOMAIN-SUFFIX,tangren.us
 DOMAIN-SUFFIX,tanks.gg
 DOMAIN-SUFFIX,taoism.net
+DOMAIN-SUFFIX,tap.io
 DOMAIN-SUFFIX,tapanwap.com
 DOMAIN-SUFFIX,tapatalk.com
+DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,tardigrade.io
 DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,taup.net
