@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-03 07:10:58
+# UPDATED: 2025-10-04 07:10:59
 # TOTAL: 93
 # DOMAIN-SUFFIX: 93
 
@@ -48,9 +48,9 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,citizenlab.ca
+DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,greatfire.org
@@ -59,14 +59,6 @@ DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,wikiunblocked.org
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,vpngate.jp
@@ -84,17 +76,25 @@ DOMAIN-SUFFIX,jorropo.net
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,censorship.no
-DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,trojan-gfw.github.io
-DOMAIN-SUFFIX,ipfs.anonymize.com
-DOMAIN-SUFFIX,ipfs.runfission.com
-DOMAIN-SUFFIX,gateway.pinata.cloud
-DOMAIN-SUFFIX,ipfs.eternum.io
-DOMAIN-SUFFIX,ipfs.best-practice.se
-DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,ipfs.best-practice.se
+DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN-SUFFIX,gateway.pinata.cloud
+DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,ipfs.anonymize.com
+DOMAIN-SUFFIX,trojan-gfw.github.io
 DOMAIN-SUFFIX,xtls.github.io
 DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
