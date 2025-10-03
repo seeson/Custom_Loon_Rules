@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 385
-# DOMAIN-SUFFIX: 5078
-# TOTAL: 5463
+# DOMAIN: 387
+# DOMAIN-SUFFIX: 5079
+# TOTAL: 5466
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -59,6 +59,7 @@ DOMAIN,cdn.ampproject.org
 DOMAIN,cdn.angruo.com
 DOMAIN,cdn.apple-mapkit.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,cdn.lilyemby.com
 DOMAIN,cdn.marketplaceimages.windowsphone.com
 DOMAIN,cdn1.apple-mapkit.com
 DOMAIN,cdn2.apple-mapkit.com
@@ -352,6 +353,7 @@ DOMAIN,time.xtracloud.net
 DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tools.google.com
 DOMAIN,tools.l.google.com
+DOMAIN,tx.lilyemby.com
 DOMAIN,uberproxy-debug4.corp.google.com
 DOMAIN,uberproxy.corp.google.com
 DOMAIN,uberproxy6.corp.google.com
@@ -2967,6 +2969,7 @@ DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jiazhao.com
 DOMAIN-SUFFIX,jibencaozuo.com
 DOMAIN-SUFFIX,jidian.im
+DOMAIN-SUFFIX,jiedaibao.gs
 DOMAIN-SUFFIX,jiemeng8.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jike.city
