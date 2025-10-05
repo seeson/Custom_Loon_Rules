@@ -1,27 +1,41 @@
 # NAME: category-social-media-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-05 07:10:57
+# UPDATED: 2025-10-06 07:10:31
 # TOTAL: 136
 # DOMAIN-SUFFIX: 136
 
-DOMAIN-SUFFIX,videoself.cn
-DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,tieba.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,wbimg.com
-DOMAIN-SUFFIX,bcy.net
+DOMAIN-SUFFIX,meipian.me
 DOMAIN-SUFFIX,bcyimg.com
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,bcy.net
+DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,okjike.com
 DOMAIN-SUFFIX,okjk.co
 DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yystatic.com
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,procg.cn
+DOMAIN-SUFFIX,ivwen.com
+DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,dandanvoice.com
+DOMAIN-SUFFIX,dandan818.com
+DOMAIN-SUFFIX,gracg.com
 DOMAIN-SUFFIX,sinajs.com
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,97973.com
@@ -29,38 +43,24 @@ DOMAIN-SUFFIX,sina.net
 DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sinaedge.com
 DOMAIN-SUFFIX,t.cn
-DOMAIN-SUFFIX,wbimg.cn
+DOMAIN-SUFFIX,sinaimg.com
 DOMAIN-SUFFIX,xhaiwai.com
 DOMAIN-SUFFIX,picself.cn
 DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,dandanvoice.com
-DOMAIN-SUFFIX,dandan818.com
-DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,videoself.cn
+DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,wbimg.cn
 DOMAIN-SUFFIX,wcdn.cn
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,yy.com
-DOMAIN-SUFFIX,yystatic.com
+DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,duowan.com
-DOMAIN-SUFFIX,dwstatic.com
-DOMAIN-SUFFIX,coolapk.com
-DOMAIN-SUFFIX,coolapkmarket.com
-DOMAIN-SUFFIX,coolapkmarket.net
-DOMAIN-SUFFIX,gracg.com
-DOMAIN-SUFFIX,procg.cn
-DOMAIN-SUFFIX,hupu.com
-DOMAIN-SUFFIX,hupucdn.com
-DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,meipian.me
-DOMAIN-SUFFIX,meipian.cn
-DOMAIN-SUFFIX,ivwen.com
-DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,weibo.com.cn
+DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,hk.weibo.com
