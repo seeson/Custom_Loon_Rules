@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5916
-# TOTAL: 5916
+# DOMAIN-SUFFIX: 5917
+# TOTAL: 5917
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -5326,6 +5326,7 @@ DOMAIN-SUFFIX,vijayatemple.org
 DOMAIN-SUFFIX,vilanet.me
 DOMAIN-SUFFIX,vilavpn.com
 DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vimperator.org
 DOMAIN-SUFFIX,vincnd.com
 DOMAIN-SUFFIX,vine.co
