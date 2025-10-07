@@ -1,21 +1,19 @@
 # NAME: category-ir
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-07 07:11:11
+# UPDATED: 2025-10-08 07:11:37
 # TOTAL: 170
 # DOMAIN-SUFFIX: 170
 
 DOMAIN-SUFFIX,ir
 DOMAIN-SUFFIX,xn--mgba3a4f16a
 DOMAIN-SUFFIX,xn--mgba3a4fra
-DOMAIN-SUFFIX,parspack.com
-DOMAIN-SUFFIX,sharif.edu
+DOMAIN-SUFFIX,picofile.com
 DOMAIN-SUFFIX,loxblog.com
 DOMAIN-SUFFIX,rozblog.com
 DOMAIN-SUFFIX,neshan.org
 DOMAIN-SUFFIX,varzesh3.com
 DOMAIN-SUFFIX,signalpardazgroup.com
-DOMAIN-SUFFIX,picofile.com
 DOMAIN-SUFFIX,karnameh.com
 DOMAIN-SUFFIX,khodro45.com
 DOMAIN-SUFFIX,saipacorp.com
@@ -24,6 +22,12 @@ DOMAIN-SUFFIX,jobinjacdn.com
 DOMAIN-SUFFIX,beytoote.com
 DOMAIN-SUFFIX,setare.com
 DOMAIN-SUFFIX,tebyan.net
+DOMAIN-SUFFIX,agri-bank.com
+DOMAIN-SUFFIX,ansarbank.com
+DOMAIN-SUFFIX,blubank.com
+DOMAIN-SUFFIX,hibank24.com
+DOMAIN-SUFFIX,parsian-bank.com
+DOMAIN-SUFFIX,sb24.com
 DOMAIN-SUFFIX,asriran.com
 DOMAIN-SUFFIX,eghtesadnews.com
 DOMAIN-SUFFIX,fararu.com
@@ -47,14 +51,17 @@ DOMAIN-SUFFIX,khabarvarzeshi.com
 DOMAIN-SUFFIX,khorasannews.com
 DOMAIN-SUFFIX,resalat-news.com
 DOMAIN-SUFFIX,tehrantimes.com
-DOMAIN-SUFFIX,bale.ai
-DOMAIN-SUFFIX,eitaa.com
-DOMAIN-SUFFIX,gap.im
-DOMAIN-SUFFIX,gaplication.com
-DOMAIN-SUFFIX,niniban.com
-DOMAIN-SUFFIX,ninisite.com
-DOMAIN-SUFFIX,virasty.com
+DOMAIN-SUFFIX,asanpardakht.com
+DOMAIN-SUFFIX,behpardakht.com
+DOMAIN-SUFFIX,mydigipay.com
+DOMAIN-SUFFIX,asanpardakht.net
+DOMAIN-SUFFIX,zarinpal.com
+DOMAIN-SUFFIX,weswap.digital
+DOMAIN-SUFFIX,sanjesh.org
+DOMAIN-SUFFIX,sharif.edu
+DOMAIN-SUFFIX,srttu.edu
 DOMAIN-SUFFIX,digi-kala.com
+DOMAIN-SUFFIX,tetherland.com
 DOMAIN-SUFFIX,janebi.com
 DOMAIN-SUFFIX,sheypoor.com
 DOMAIN-SUFFIX,torob.com
@@ -64,16 +71,27 @@ DOMAIN-SUFFIX,digikalajet.com
 DOMAIN-SUFFIX,digistyle.com
 DOMAIN-SUFFIX,divar.cloud
 DOMAIN-SUFFIX,divarcdn.com
+DOMAIN-SUFFIX,bale.ai
+DOMAIN-SUFFIX,eitaa.com
+DOMAIN-SUFFIX,gap.im
+DOMAIN-SUFFIX,gaplication.com
+DOMAIN-SUFFIX,niniban.com
+DOMAIN-SUFFIX,ninisite.com
+DOMAIN-SUFFIX,virasty.com
+DOMAIN-SUFFIX,flightio.com
+DOMAIN-SUFFIX,mrbilit.com
 DOMAIN-SUFFIX,faradars.org
 DOMAIN-SUFFIX,toplearn.com
 DOMAIN-SUFFIX,iranlms.org
 DOMAIN-SUFFIX,webinarplus.online
-DOMAIN-SUFFIX,asanpardakht.com
-DOMAIN-SUFFIX,behpardakht.com
-DOMAIN-SUFFIX,mydigipay.com
-DOMAIN-SUFFIX,asanpardakht.net
-DOMAIN-SUFFIX,zarinpal.com
-DOMAIN-SUFFIX,weswap.digital
+DOMAIN-SUFFIX,blogfa.com
+DOMAIN-SUFFIX,tgju.org
+DOMAIN-SUFFIX,blogsky.com
+DOMAIN-SUFFIX,niniweblog.com
+DOMAIN-SUFFIX,agrieng.org
+DOMAIN-SUFFIX,tabdeal.org
+DOMAIN-SUFFIX,ramzinex.com
+DOMAIN-SUFFIX,ompfinex.com
 DOMAIN-SUFFIX,cinematicket.org
 DOMAIN-SUFFIX,telewebion.com
 DOMAIN-SUFFIX,aparat.com
@@ -94,10 +112,8 @@ DOMAIN-SUFFIX,iranserver.com
 DOMAIN-SUFFIX,mihanwebhost.com
 DOMAIN-SUFFIX,p30download.com
 DOMAIN-SUFFIX,parsonline.com
-DOMAIN-SUFFIX,blogfa.com
-DOMAIN-SUFFIX,tgju.org
-DOMAIN-SUFFIX,blogsky.com
-DOMAIN-SUFFIX,niniweblog.com
+DOMAIN-SUFFIX,parspack.com
+DOMAIN-SUFFIX,pishgaman.net
 DOMAIN-SUFFIX,sarmayex.com
 DOMAIN-SUFFIX,sarzamindownload.com
 DOMAIN-SUFFIX,skyroom.online
@@ -105,12 +121,6 @@ DOMAIN-SUFFIX,smshooshmand.com
 DOMAIN-SUFFIX,softgozar.com
 DOMAIN-SUFFIX,yasdl.com
 DOMAIN-SUFFIX,zhaket.com
-DOMAIN-SUFFIX,agri-bank.com
-DOMAIN-SUFFIX,ansarbank.com
-DOMAIN-SUFFIX,blubank.com
-DOMAIN-SUFFIX,hibank24.com
-DOMAIN-SUFFIX,parsian-bank.com
-DOMAIN-SUFFIX,sb24.com
 DOMAIN-SUFFIX,quera.org
 DOMAIN-SUFFIX,bimeonline.com
 DOMAIN-SUFFIX,dana-insurance.com
@@ -120,11 +130,7 @@ DOMAIN-SUFFIX,bimeh.com
 DOMAIN-SUFFIX,novininsurance.com
 DOMAIN-SUFFIX,mellatinsurance.com
 DOMAIN-SUFFIX,sinainsurance.com
-DOMAIN-SUFFIX,sanjesh.org
-DOMAIN-SUFFIX,pishgaman.net
-DOMAIN-SUFFIX,srttu.edu
-DOMAIN-SUFFIX,flightio.com
-DOMAIN-SUFFIX,mrbilit.com
+DOMAIN-SUFFIX,maskanbourse.com
 DOMAIN-SUFFIX,cdnsnapptrip.com
 DOMAIN-SUFFIX,snapp-box.com
 DOMAIN-SUFFIX,snapp.cab
@@ -169,9 +175,3 @@ DOMAIN-SUFFIX,bit24.cash
 DOMAIN-SUFFIX,exir.io
 DOMAIN-SUFFIX,farhad-exchange.com
 DOMAIN-SUFFIX,jibitex.com
-DOMAIN-SUFFIX,maskanbourse.com
-DOMAIN-SUFFIX,ompfinex.com
-DOMAIN-SUFFIX,ramzinex.com
-DOMAIN-SUFFIX,tabdeal.org
-DOMAIN-SUFFIX,tetherland.com
-DOMAIN-SUFFIX,agrieng.org
