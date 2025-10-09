@@ -1,10 +1,15 @@
 # NAME: category-ecommerce@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-09 07:10:57
+# UPDATED: 2025-10-10 07:11:45
 # TOTAL: 78
 # DOMAIN-SUFFIX: 78
 
+DOMAIN-SUFFIX,hm.com.cn
+DOMAIN-SUFFIX,miniso.cn
+DOMAIN-SUFFIX,minisohome.cn
+DOMAIN-SUFFIX,minsio.cn
+DOMAIN-SUFFIX,muji.com.cn
 DOMAIN-SUFFIX,just-do-it.cn
 DOMAIN-SUFFIX,nike-shox.cn
 DOMAIN-SUFFIX,nike.cn
@@ -25,9 +30,7 @@ DOMAIN-SUFFIX,nikerunclub.cn
 DOMAIN-SUFFIX,nikerunclub.com.cn
 DOMAIN-SUFFIX,nikerunning.com.cn
 DOMAIN-SUFFIX,nikestore.cn
-DOMAIN-SUFFIX,bestbuy.cn
-DOMAIN-SUFFIX,bestbuy.com.cn
-DOMAIN-SUFFIX,magnoliaav.com.cn
+DOMAIN-SUFFIX,booking.cn
 DOMAIN-SUFFIX,adcommerce.cn
 DOMAIN-SUFFIX,appforebay.cn
 DOMAIN-SUFFIX,connectcommerce.cn
@@ -65,21 +68,18 @@ DOMAIN-SUFFIX,kijijidns.cn
 DOMAIN-SUFFIX,kijijidns.com.cn
 DOMAIN-SUFFIX,mobileinternational.com.cn
 DOMAIN-SUFFIX,terapeak.cn
-DOMAIN-SUFFIX,muji.com.cn
-DOMAIN-SUFFIX,shopee.cn
-DOMAIN-SUFFIX,shopeesz.com
+DOMAIN-SUFFIX,adidas.com.cn
+DOMAIN-SUFFIX,gucci.cn
 DOMAIN-SUFFIX,ikea.cn
 DOMAIN-SUFFIX,ingka-dt.cn
 DOMAIN-SUFFIX,ingka-internal.cn
 DOMAIN-SUFFIX,ingka-system.cn
-DOMAIN-SUFFIX,hm.com.cn
+DOMAIN-SUFFIX,bestbuy.cn
+DOMAIN-SUFFIX,bestbuy.com.cn
+DOMAIN-SUFFIX,magnoliaav.com.cn
 DOMAIN-SUFFIX,farfetch.cn
 DOMAIN-SUFFIX,farfetch.com.cn
 DOMAIN-SUFFIX,farfetch.net.cn
-DOMAIN-SUFFIX,adidas.com.cn
-DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,shopee.cn
+DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,walmart.cn
-DOMAIN-SUFFIX,gucci.cn
-DOMAIN-SUFFIX,miniso.cn
-DOMAIN-SUFFIX,minisohome.cn
-DOMAIN-SUFFIX,minsio.cn
