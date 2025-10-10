@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:18 CST
-# DOMAIN-SUFFIX: 96286
-# TOTAL: 96286
+# DOMAIN-SUFFIX: 96285
+# TOTAL: 96285
 
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
@@ -16631,7 +16631,6 @@ DOMAIN-SUFFIX,cdn.optmn.cloud
 DOMAIN-SUFFIX,cdn.perfdrive.com
 DOMAIN-SUFFIX,cdn.pocoiq.cn
 DOMAIN-SUFFIX,cdn.polarbyte.com
-DOMAIN-SUFFIX,cdn.puata.info
 DOMAIN-SUFFIX,cdn.pyadx.com
 DOMAIN-SUFFIX,cdn.qgr.ph
 DOMAIN-SUFFIX,cdn.qgraph.io
@@ -29561,7 +29560,6 @@ DOMAIN-SUFFIX,ewyvuznndlmrk.online
 DOMAIN-SUFFIX,ewywma.icu
 DOMAIN-SUFFIX,ewzjbeqw.com
 DOMAIN-SUFFIX,ex.mobmore.com
-DOMAIN-SUFFIX,ex.puata.info
 DOMAIN-SUFFIX,ex.tanx.com
 DOMAIN-SUFFIX,exacdn.com
 DOMAIN-SUFFIX,exactag.com
@@ -63956,6 +63954,7 @@ DOMAIN-SUFFIX,pu.pretunique.fr
 DOMAIN-SUFFIX,pu5hk1n2020.com
 DOMAIN-SUFFIX,puabhxebvxluh.space
 DOMAIN-SUFFIX,puabvo.com
+DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,pub-referral-widget.current.us
 DOMAIN-SUFFIX,pub.funshion.com
 DOMAIN-SUFFIX,pub.mop.com
