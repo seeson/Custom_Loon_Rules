@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5918
-# TOTAL: 5918
+# DOMAIN-SUFFIX: 5920
+# TOTAL: 5920
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -1810,6 +1810,8 @@ DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freedomsherald.org
 DOMAIN-SUFFIX,freeforums.org
 DOMAIN-SUFFIX,freegao.com
+DOMAIN-SUFFIX,freegpt.es
+DOMAIN-SUFFIX,freegpt.tech
 DOMAIN-SUFFIX,freehongkong.org
 DOMAIN-SUFFIX,freeilhamtohti.org
 DOMAIN-SUFFIX,freekazakhs.org

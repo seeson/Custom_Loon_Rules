@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 387
+# DOMAIN: 388
 # DOMAIN-SUFFIX: 5079
-# TOTAL: 5466
+# TOTAL: 5467
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -308,6 +308,7 @@ DOMAIN,si.cdn.dell.com
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,sm.dell.com
+DOMAIN,smart.uhdnow.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,snp.cdn.dell.com
