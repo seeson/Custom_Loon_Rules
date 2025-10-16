@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5920
-# TOTAL: 5920
+# DOMAIN-SUFFIX: 5924
+# TOTAL: 5924
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -370,6 +370,7 @@ DOMAIN-SUFFIX,asia-gaming.com
 DOMAIN-SUFFIX,asiaharvest.org
 DOMAIN-SUFFIX,asianage.com
 DOMAIN-SUFFIX,asianews.it
+DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,asiansexdiary.com
 DOMAIN-SUFFIX,asiaone.com
 DOMAIN-SUFFIX,asiatgp.com
@@ -758,7 +759,6 @@ DOMAIN-SUFFIX,btc98.com
 DOMAIN-SUFFIX,btcbank.bank
 DOMAIN-SUFFIX,btctrade.im
 DOMAIN-SUFFIX,btdig.com
-DOMAIN-SUFFIX,btdigg.org
 DOMAIN-SUFFIX,btguard.com
 DOMAIN-SUFFIX,btku.me
 DOMAIN-SUFFIX,btku.org
@@ -5021,6 +5021,7 @@ DOMAIN-SUFFIX,trt.net.tr
 DOMAIN-SUFFIX,trtc.com.tw
 DOMAIN-SUFFIX,truebuddha-md.org
 DOMAIN-SUFFIX,trulyergonomic.com
+DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,truthsocial.com
 DOMAIN-SUFFIX,truveo.com
 DOMAIN-SUFFIX,tryheart.jp
@@ -5478,6 +5479,7 @@ DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,webrush.net
 DOMAIN-SUFFIX,webs-tv.net
+DOMAIN-SUFFIX,websdr.org
 DOMAIN-SUFFIX,website.informer.com
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,websitepulse.com
@@ -5725,6 +5727,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--noss43i.com
 DOMAIN-SUFFIX,xn--oiq.cc
 DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+DOMAIN-SUFFIX,xn--u2u927b.com
 DOMAIN-SUFFIX,xnpool.com
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xpdo.net
@@ -5850,6 +5853,7 @@ DOMAIN-SUFFIX,z-lib.gd
 DOMAIN-SUFFIX,z-lib.gl
 DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,z-library.ec
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
