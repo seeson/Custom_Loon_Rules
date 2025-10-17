@@ -1,10 +1,10 @@
 # NAME: bytedance@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-17 07:11:38
-# TOTAL: 28
+# UPDATED: 2025-10-18 07:11:09
+# TOTAL: 30
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 26
+# DOMAIN-SUFFIX: 28
 
 DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,byteoversea.com
@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN,bytedance.map.fastly.net
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com

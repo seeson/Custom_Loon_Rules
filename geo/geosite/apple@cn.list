@@ -1,7 +1,7 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-17 07:11:16
+# UPDATED: 2025-10-18 07:10:55
 # TOTAL: 327
 # DOMAIN: 265
 # DOMAIN-SUFFIX: 62
@@ -309,6 +309,16 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,beats1.cn
 DOMAIN-SUFFIX,beats1.com.cn
 DOMAIN-SUFFIX,beats2.com.cn
@@ -323,13 +333,3 @@ DOMAIN-SUFFIX,itunesradio.cn
 DOMAIN-SUFFIX,itunesradio.com.cn
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn

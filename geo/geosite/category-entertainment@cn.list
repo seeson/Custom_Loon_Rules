@@ -1,28 +1,18 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-17 07:11:51
+# UPDATED: 2025-10-18 07:11:18
 # TOTAL: 66
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 48
 
 DOMAIN-SUFFIX,ggpht.cn
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
-DOMAIN,menu-static.gog-statics.com
-DOMAIN,productcard.gog-statics.com
-DOMAIN,static-login.gog-statics.com
-DOMAIN,www4-static.gog-statics.com
-DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
-DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
-DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
-DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn.akamaized.net
+DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN-SUFFIX,leagueoflegends.cn
 DOMAIN-SUFFIX,lpl.com.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -52,10 +42,18 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
+DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
+DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -72,3 +70,5 @@ DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,juequling.com
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
