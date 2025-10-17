@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 26
-# DOMAIN-SUFFIX: 234
-# TOTAL: 260
+# DOMAIN-SUFFIX: 242
+# TOTAL: 268
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
+DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,anticheatexpert.com
@@ -103,9 +104,12 @@ DOMAIN-SUFFIX,fnjiasu.com
 DOMAIN-SUFFIX,forevernine.com
 DOMAIN-SUFFIX,funjsq.com
 DOMAIN-SUFFIX,funnycore.com
+DOMAIN-SUFFIX,fxt365.com
+DOMAIN-SUFFIX,gameabc.com
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
+DOMAIN-SUFFIX,gamemei.com
 DOMAIN-SUFFIX,gcloudcs.com
 DOMAIN-SUFFIX,gcloudcstest.com
 DOMAIN-SUFFIX,gcloudcstestonly.com
@@ -147,6 +151,7 @@ DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,leigod.com
 DOMAIN-SUFFIX,liuxing.com
+DOMAIN-SUFFIX,longtugame.com
 DOMAIN-SUFFIX,lorhf.com
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
@@ -168,6 +173,7 @@ DOMAIN-SUFFIX,mihoyocg.com
 DOMAIN-SUFFIX,mihoyogift.com
 DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,miyoushe.com
+DOMAIN-SUFFIX,morefreegame.com
 DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mszdld.com
 DOMAIN-SUFFIX,mszdld.net
@@ -248,6 +254,7 @@ DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,werepository.com.cn
+DOMAIN-SUFFIX,winegame.net
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,xd.cn
 DOMAIN-SUFFIX,xd.com
@@ -255,6 +262,7 @@ DOMAIN-SUFFIX,xdcdn.net
 DOMAIN-SUFFIX,xindong.com
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
 DOMAIN-SUFFIX,xunyou.com
+DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yebaojiasu.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yuanshen.com
