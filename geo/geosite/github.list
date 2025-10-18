@@ -1,11 +1,12 @@
 # NAME: github
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-17 02:28:39
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 28
-# TOTAL: 29
+# UPDATED: 2025-10-19 04:10:14
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 29
+# TOTAL: 31
 
+DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,blob.core.windows.net
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com

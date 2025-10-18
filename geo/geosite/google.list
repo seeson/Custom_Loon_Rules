@@ -1,10 +1,10 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-17 02:28:39
-# DOMAIN: 256
+# UPDATED: 2025-10-19 04:10:14
+# DOMAIN: 257
 # DOMAIN-SUFFIX: 826
-# TOTAL: 1082
+# TOTAL: 1083
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -262,6 +262,7 @@ DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha.net
 DOMAIN,xn--flw351e.com
+DOMAIN,yt3.googleusercontent.com
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com

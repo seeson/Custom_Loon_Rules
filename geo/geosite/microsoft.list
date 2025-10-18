@@ -1,10 +1,10 @@
 # NAME: microsoft
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-09-17 02:28:39
-# DOMAIN: 70
-# DOMAIN-SUFFIX: 613
-# TOTAL: 683
+# UPDATED: 2025-10-19 04:10:14
+# DOMAIN: 71
+# DOMAIN-SUFFIX: 614
+# TOTAL: 685
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -30,6 +30,7 @@ DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,flightsimulator.azureedge.net
 DOMAIN,fs.microsoft.com
+DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
@@ -534,6 +535,7 @@ DOMAIN-SUFFIX,o365files.cn
 DOMAIN-SUFFIX,o365weve-dev.com
 DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
+DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,office
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
