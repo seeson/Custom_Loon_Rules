@@ -1,9 +1,9 @@
 # NAME: aliyun
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-18 07:10:49
-# TOTAL: 63
-# DOMAIN-SUFFIX: 63
+# UPDATED: 2025-10-19 07:10:23
+# TOTAL: 66
+# DOMAIN-SUFFIX: 66
 
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
@@ -15,8 +15,11 @@ DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyun-iot-share.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
+DOMAIN-SUFFIX,aliyuncdn.net
 DOMAIN-SUFFIX,aliyunfile.com
+DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,cdngslb.com
+DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,kunlunaq.com

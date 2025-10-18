@@ -1,0 +1,12 @@
+# NAME: chinatower
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-10-19 07:11:11
+# TOTAL: 5
+# DOMAIN-SUFFIX: 5
+
+DOMAIN-SUFFIX,chinatowercom.cn
+DOMAIN-SUFFIX,china-tower.com
+DOMAIN-SUFFIX,tower0788.com
+DOMAIN-SUFFIX,tower0788.cn
+DOMAIN-SUFFIX,tower.com.cn
