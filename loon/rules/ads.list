@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:18 CST
-# DOMAIN-SUFFIX: 98022
-# TOTAL: 98022
+# DOMAIN-SUFFIX: 98020
+# TOTAL: 98020
 
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
@@ -4748,8 +4748,6 @@ DOMAIN-SUFFIX,ac-ebis.usen-store.com
 DOMAIN-SUFFIX,ac-ebis.usen.biz
 DOMAIN-SUFFIX,ac.86huoche.com
 DOMAIN-SUFFIX,ac.art456.com
-DOMAIN-SUFFIX,ac.dun.163.com
-DOMAIN-SUFFIX,ac.dun.163yun.com
 DOMAIN-SUFFIX,ac.geechs-job.com
 DOMAIN-SUFFIX,ac.livelty.com
 DOMAIN-SUFFIX,ac.mmstat.com
