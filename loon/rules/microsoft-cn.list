@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:30 CST
-# DOMAIN: 40
+# DOMAIN: 33
 # DOMAIN-SUFFIX: 135
-# TOTAL: 175
+# TOTAL: 168
 
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
@@ -23,29 +23,22 @@ DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,fs.microsoft.com
 DOMAIN,learn.microsoft.com
-DOMAIN,msgr.dlservice.microsoft.com
-DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
-DOMAIN,qh.dlservice.microsoft.com
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res.cdn.office.net
 DOMAIN,sdx.microsoft.com
 DOMAIN,shell.cdn.office.net
-DOMAIN,silverlight.dlservice.microsoft.com
-DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,statics.teams.cdn.office.net
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vz.download.prss.microsoft.com
-DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
 DOMAIN,www.microsoft.com
-DOMAIN,xb.dlservice.microsoft.com
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net

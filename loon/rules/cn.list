@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 354
+# DOMAIN: 347
 # DOMAIN-SUFFIX: 116780
-# TOTAL: 117134
+# TOTAL: 117127
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -215,8 +215,6 @@ DOMAIN,mesu.apple.com
 DOMAIN,misc-assets.itunes.apple.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,monitoring.qpdp1.net
-DOMAIN,msgr.dlservice.microsoft.com
-DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,music.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,np-edge.itunes.apple.com
@@ -247,7 +245,6 @@ DOMAIN,proxyconfig.corp.google.com
 DOMAIN,publicassets.cdn-apple.com
 DOMAIN,qagpublic.qatp1.net
 DOMAIN,qgadmin.qcpp1.net
-DOMAIN,qh.dlservice.microsoft.com
 DOMAIN,qpx.googleflights.net
 DOMAIN,qualysapi.qatp1.net
 DOMAIN,qualysguard.qpdp1.net
@@ -283,8 +280,6 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,si.cdn.dell.com
-DOMAIN,silverlight.dlservice.microsoft.com
-DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,sm.dell.com
 DOMAIN,smart.uhdnow.com
 DOMAIN,smp-device-content.apple.com
@@ -345,7 +340,6 @@ DOMAIN,weather-data.apple.com
 DOMAIN,weather-map.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
-DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,www-csb.dell.com
 DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
@@ -357,7 +351,6 @@ DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
 DOMAIN,www.yxssp.com
 DOMAIN,www4-static.gog-statics.com
-DOMAIN,xb.dlservice.microsoft.com
 DOMAIN,xn--flw351e.com
 DOMAIN,xp.apple.com
 DOMAIN-SUFFIX,0.zone
