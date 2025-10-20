@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-20 07:11:43
+# UPDATED: 2025-10-21 07:11:49
 # TOTAL: 81
 # DOMAIN-SUFFIX: 81
 
@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-apps.com
@@ -61,10 +63,10 @@ DOMAIN-SUFFIX,yandex.ee
 DOMAIN-SUFFIX,yandex.cloud
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,yandex.com
-DOMAIN-SUFFIX,yandex.jobs
 DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.kz
 DOMAIN-SUFFIX,yandex.lt
+DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
@@ -72,14 +74,12 @@ DOMAIN-SUFFIX,yandex.st
 DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
-DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,yandex.lv
+DOMAIN-SUFFIX,yandex.jobs
 DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,donationalerts.com
-DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex.com.ge

@@ -1,9 +1,9 @@
 # NAME: bytedance-ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-20 07:11:15
-# TOTAL: 20
-# DOMAIN-SUFFIX: 20
+# UPDATED: 2025-10-21 07:11:22
+# TOTAL: 23
+# DOMAIN-SUFFIX: 23
 
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,byteadverts.com
@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,i.snssdk.com
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-hl.snssdk.com
+DOMAIN-SUFFIX,pangolin-lf.snssdk.com
+DOMAIN-SUFFIX,pangolin-lq.snssdk.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
