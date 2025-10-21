@@ -1,16 +1,10 @@
 # NAME: category-entertainment-cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-21 07:11:37
+# UPDATED: 2025-10-22 07:12:52
 # TOTAL: 116
 # DOMAIN-SUFFIX: 115
 
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilibiligame.cn
 DOMAIN-SUFFIX,bilibiligame.co
 DOMAIN-SUFFIX,bilibiligame.net
@@ -121,3 +115,9 @@ DOMAIN-SUFFIX,roco.qq.com
 DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
