@@ -1,7 +1,7 @@
 # NAME: category-games@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-22 07:12:57
+# UPDATED: 2025-10-23 07:10:53
 # TOTAL: 157
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 139
@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -113,12 +116,8 @@ DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
-DOMAIN-SUFFIX,sl916.com
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.wmsj.cn
@@ -136,7 +135,6 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN,gog.qtlglb.com
 DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,menu-static.gog-statics.com
@@ -163,3 +161,5 @@ DOMAIN-SUFFIX,supermariobros.com.cn
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
