@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 381
-# DOMAIN-SUFFIX: 5213
-# TOTAL: 5594
+# DOMAIN-SUFFIX: 5214
+# TOTAL: 5595
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -1679,6 +1679,7 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cn-cdn1.skymansion.net
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,cn.eset.com
 DOMAIN-SUFFIX,cn.mm.bing.net
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cn88.net
