@@ -1,16 +1,16 @@
 # NAME: cisco
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-23 07:11:08
-# TOTAL: 120
+# UPDATED: 2025-10-24 07:11:59
+# TOTAL: 121
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 118
+# DOMAIN-SUFFIX: 119
 
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
 DOMAIN-SUFFIX,cisco
-DOMAIN-SUFFIX,mcisco.com
-DOMAIN-SUFFIX,mindmeld.com
+DOMAIN-SUFFIX,academynetriders.com
+DOMAIN-SUFFIX,cciernslabs.com
 DOMAIN-SUFFIX,cciesecuritylabs.com
 DOMAIN-SUFFIX,ccievoicelabs.com
 DOMAIN-SUFFIX,ccna5.net
@@ -33,7 +33,7 @@ DOMAIN-SUFFIX,ciscolearningsociety.org
 DOMAIN-SUFFIX,ciscolearningsystem.com
 DOMAIN-SUFFIX,ciscolive.com
 DOMAIN-SUFFIX,cisconetspace.com
-DOMAIN-SUFFIX,mediafiles-cisco.com
+DOMAIN-SUFFIX,cisconetspace.info
 DOMAIN-SUFFIX,cisconetspace.net
 DOMAIN-SUFFIX,cisconetapp.com
 DOMAIN-SUFFIX,ciscopartnermarketing.com
@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,ciscosoftware.com
 DOMAIN-SUFFIX,ciscospark.ca
 DOMAIN-SUFFIX,ciscospark.com
 DOMAIN-SUFFIX,ciscospark.jp
-DOMAIN-SUFFIX,metacloud.com
+DOMAIN-SUFFIX,ciscotaccc.com
 DOMAIN-SUFFIX,ciscotr.com
 DOMAIN-SUFFIX,ciscoturk.net
 DOMAIN-SUFFIX,ciscovideo.com
@@ -64,10 +64,10 @@ DOMAIN-SUFFIX,internetofeverything.com
 DOMAIN-SUFFIX,ioe.com
 DOMAIN-SUFFIX,kscisco.com
 DOMAIN-SUFFIX,m2m.com
-DOMAIN-SUFFIX,academynetriders.com
-DOMAIN-SUFFIX,cisconetspace.info
-DOMAIN-SUFFIX,cciernslabs.com
-DOMAIN-SUFFIX,ciscotaccc.com
+DOMAIN-SUFFIX,mcisco.com
+DOMAIN-SUFFIX,mediafiles-cisco.com
+DOMAIN-SUFFIX,metacloud.com
+DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,multiplydiversity.com
 DOMAIN-SUFFIX,myciscobenefits.com
 DOMAIN-SUFFIX,mysdn.com
@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,parstream.com
 DOMAIN-SUFFIX,parstream.net
 DOMAIN-SUFFIX,parstream.org
 DOMAIN-SUFFIX,services-exchange.com
+DOMAIN-SUFFIX,splunk.com
 DOMAIN-SUFFIX,static-cisco.com
 DOMAIN-SUFFIX,tandberg-china.com
 DOMAIN-SUFFIX,tandberg.com
@@ -92,7 +93,6 @@ DOMAIN-SUFFIX,whyiwantciscotelepresence.com
 DOMAIN-SUFFIX,wifi-mx.com
 DOMAIN-SUFFIX,youtubecisco.com
 DOMAIN-SUFFIX,app-dynamics.com
-DOMAIN-SUFFIX,webex.com
 DOMAIN-SUFFIX,appdynamics.com
 DOMAIN-SUFFIX,appdynamics.de
 DOMAIN-SUFFIX,appdynamics.fr
@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,webex.ca
 DOMAIN-SUFFIX,webex.fr
 DOMAIN-SUFFIX,webex.es
 DOMAIN-SUFFIX,webex.de
+DOMAIN-SUFFIX,webex.com
 DOMAIN-SUFFIX,appdynamics.co.uk
 DOMAIN-SUFFIX,webex.co.uk
 DOMAIN-SUFFIX,webex.co.nz
