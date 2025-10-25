@@ -1,36 +1,34 @@
 # NAME: category-antivirus
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-25 07:12:16
+# UPDATED: 2025-10-26 07:10:50
 # TOTAL: 103
 # DOMAIN: 68
 # DOMAIN-SUFFIX: 35
 
 DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
-DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb-av.de
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,avast.com
 DOMAIN-SUFFIX,clamwin.com
 DOMAIN-SUFFIX,f-secure.com
 DOMAIN-SUFFIX,mcafee.com
-DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,drweb-av.es
 DOMAIN-SUFFIX,pandasecurity.com
-DOMAIN-SUFFIX,comodo.com
-DOMAIN-SUFFIX,comodo.net
 DOMAIN-SUFFIX,drweb.by
 DOMAIN-SUFFIX,drweb.cn
-DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb.com
 DOMAIN-SUFFIX,drweb.fr
-DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb.uz
 DOMAIN-SUFFIX,bitdefender.com
 DOMAIN-SUFFIX,avg.com
-DOMAIN-SUFFIX,drweb.com
-DOMAIN-SUFFIX,drweb-av.es
-DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb.kz
 DOMAIN-SUFFIX,drweb-av.pl
-DOMAIN-SUFFIX,symantecliveupdate.com
+DOMAIN-SUFFIX,comodo.net
 DOMAIN-SUFFIX,e5.sk
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.eu
@@ -40,6 +38,8 @@ DOMAIN-SUFFIX,esetsoftware.com
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.com
 DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
+DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,drweb.co.jp
 DOMAIN-SUFFIX,cn.eset.com
 DOMAIN-SUFFIX,kaspersky.com.cn
