@@ -1,47 +1,46 @@
 # NAME: category-antivirus
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-27 07:11:11
+# UPDATED: 2025-10-28 07:12:13
 # TOTAL: 103
 # DOMAIN: 68
 # DOMAIN-SUFFIX: 35
 
 DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
-DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb.cn
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,avast.com
 DOMAIN-SUFFIX,clamwin.com
 DOMAIN-SUFFIX,f-secure.com
 DOMAIN-SUFFIX,mcafee.com
-DOMAIN-SUFFIX,drweb-av.es
-DOMAIN-SUFFIX,pandasecurity.com
-DOMAIN-SUFFIX,drweb.by
-DOMAIN-SUFFIX,drweb.cn
 DOMAIN-SUFFIX,drweb.com
+DOMAIN-SUFFIX,pandasecurity.com
+DOMAIN-SUFFIX,kaspersky-labs.com
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,drweb.fr
-DOMAIN-SUFFIX,drweb-av.it
-DOMAIN-SUFFIX,drweb.ru
-DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,comodo.net
+DOMAIN-SUFFIX,drweb.by
 DOMAIN-SUFFIX,bitdefender.com
 DOMAIN-SUFFIX,avg.com
+DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,drweb-av.it
 DOMAIN-SUFFIX,drweb-av.pl
-DOMAIN-SUFFIX,comodo.net
+DOMAIN-SUFFIX,esetsoftware.com
 DOMAIN-SUFFIX,e5.sk
 DOMAIN-SUFFIX,eset.com
 DOMAIN-SUFFIX,eset.eu
 DOMAIN-SUFFIX,eset.sk
 DOMAIN-SUFFIX,eset.systems
-DOMAIN-SUFFIX,esetsoftware.com
-DOMAIN-SUFFIX,kaspersky-labs.com
-DOMAIN-SUFFIX,kaspersky.com
-DOMAIN-SUFFIX,symantec.com
-DOMAIN-SUFFIX,symantecliveupdate.com
-DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,drweb.co.jp
-DOMAIN-SUFFIX,cn.eset.com
 DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN,activation-v2.kaspersky.com
 DOMAIN,crl.kaspersky.com
@@ -109,3 +108,4 @@ DOMAIN,s16.upd.kaspersky.com
 DOMAIN,s17.upd.kaspersky.com
 DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
+DOMAIN-SUFFIX,cn.eset.com

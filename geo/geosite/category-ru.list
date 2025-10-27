@@ -1,9 +1,9 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-27 07:11:25
-# TOTAL: 81
-# DOMAIN-SUFFIX: 81
+# UPDATED: 2025-10-28 07:12:37
+# TOTAL: 93
+# DOMAIN-SUFFIX: 93
 
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,su
@@ -47,6 +47,18 @@ DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
+DOMAIN-SUFFIX,x5.team
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,yandex.fi
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,naydex.net
