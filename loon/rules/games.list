@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 31
-# DOMAIN-SUFFIX: 646
-# TOTAL: 677
+# DOMAIN-SUFFIX: 649
+# TOTAL: 680
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -267,6 +267,7 @@ DOMAIN-SUFFIX,industrialtoys.com
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
+DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
@@ -416,6 +417,8 @@ DOMAIN-SUFFIX,nintendoswitch.net
 DOMAIN-SUFFIX,nintendoswitchtogether.com
 DOMAIN-SUFFIX,nintendowifi.net
 DOMAIN-SUFFIX,nintendowii.com
+DOMAIN-SUFFIX,offworldindustries.com
+DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,opgg-static.akamaized.net
 DOMAIN-SUFFIX,origin-a.akamaihd.net
