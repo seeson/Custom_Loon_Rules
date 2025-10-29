@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-29 07:12:46
-# TOTAL: 117153
-# DOMAIN-SUFFIX: 117153
+# UPDATED: 2025-10-30 07:12:58
+# TOTAL: 117157
+# DOMAIN-SUFFIX: 117157
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juzilicai.com
-DOMAIN-SUFFIX,tapd-app.com
+DOMAIN-SUFFIX,juzikong.com
+DOMAIN-SUFFIX,vp3u.com
 DOMAIN-SUFFIX,02hm.com
 DOMAIN-SUFFIX,02lb.com
 DOMAIN-SUFFIX,02lu.com
@@ -8338,7 +8338,7 @@ DOMAIN-SUFFIX,95ye.com
 DOMAIN-SUFFIX,95yijing.com
 DOMAIN-SUFFIX,95zh.com
 DOMAIN-SUFFIX,96005656.com
-DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,960123.com
 DOMAIN-SUFFIX,960638.com
 DOMAIN-SUFFIX,96090090.com
 DOMAIN-SUFFIX,96096kp.com
@@ -33662,7 +33662,7 @@ DOMAIN-SUFFIX,fangguan6.com
 DOMAIN-SUFFIX,fanghenet.com
 DOMAIN-SUFFIX,fangheng.com
 DOMAIN-SUFFIX,fanghua120.com
-DOMAIN-SUFFIX,fanghuafu.com
+DOMAIN-SUFFIX,jxkp.com
 DOMAIN-SUFFIX,fanghuihui.com
 DOMAIN-SUFFIX,fangjia.com
 DOMAIN-SUFFIX,fangjiadp.com
@@ -46136,7 +46136,10 @@ DOMAIN-SUFFIX,herllamo-med.com
 DOMAIN-SUFFIX,herllamo.com
 DOMAIN-SUFFIX,hermod1.com
 DOMAIN-SUFFIX,hero-geek.com
+DOMAIN-SUFFIX,hero.com
 DOMAIN-SUFFIX,herocoming.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,herogame.com
 DOMAIN-SUFFIX,herohr.net
 DOMAIN-SUFFIX,heroic-ltd.com
 DOMAIN-SUFFIX,heroje.com
@@ -58443,8 +58446,8 @@ DOMAIN-SUFFIX,juzicon.com
 DOMAIN-SUFFIX,juzicy.com
 DOMAIN-SUFFIX,juzifenqi.com
 DOMAIN-SUFFIX,juzijiudian.com
-DOMAIN-SUFFIX,juzikong.com
 DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,juzilicai.com
 DOMAIN-SUFFIX,juzimi.cc
 DOMAIN-SUFFIX,juzioo.com
 DOMAIN-SUFFIX,juziseo.com
@@ -58601,10 +58604,10 @@ DOMAIN-SUFFIX,jxjt666.com
 DOMAIN-SUFFIX,jxjuwentech.com
 DOMAIN-SUFFIX,jxjx6.com
 DOMAIN-SUFFIX,jxjywater.com
-DOMAIN-SUFFIX,jxkeda.com
-DOMAIN-SUFFIX,microaiav.com
+DOMAIN-SUFFIX,worldhello.net
 DOMAIN-SUFFIX,02d.com
-DOMAIN-SUFFIX,960123.com
+DOMAIN-SUFFIX,fanghuafu.com
+DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,jxlgjd.com
 DOMAIN-SUFFIX,jxln.com
 DOMAIN-SUFFIX,zzfly.net
@@ -67991,7 +67994,7 @@ DOMAIN-SUFFIX,micro-bee.com
 DOMAIN-SUFFIX,micro-bridge.com
 DOMAIN-SUFFIX,micro-game-client.com
 DOMAIN-SUFFIX,micro-x.net
-DOMAIN-SUFFIX,jxkjzb.com
+DOMAIN-SUFFIX,microaiav.com
 DOMAIN-SUFFIX,microbeee.com
 DOMAIN-SUFFIX,microbell.com
 DOMAIN-SUFFIX,microbt.com
@@ -85933,6 +85936,7 @@ DOMAIN-SUFFIX,shyuwl.com
 DOMAIN-SUFFIX,shyuzhai.com
 DOMAIN-SUFFIX,shywly.com
 DOMAIN-SUFFIX,shyx-bio.com
+DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,shyxi5.com
 DOMAIN-SUFFIX,shyxwz.com
 DOMAIN-SUFFIX,shyy6688.com
@@ -91281,7 +91285,7 @@ DOMAIN-SUFFIX,tapai.com
 DOMAIN-SUFFIX,tapaijiu.com
 DOMAIN-SUFFIX,tapapis.com
 DOMAIN-SUFFIX,tapbooster.net
-DOMAIN-SUFFIX,jxkp.com
+DOMAIN-SUFFIX,tapd-app.com
 DOMAIN-SUFFIX,tapdata.net
 DOMAIN-SUFFIX,tapenjoy.com
 DOMAIN-SUFFIX,tapimg.com
@@ -97417,7 +97421,7 @@ DOMAIN-SUFFIX,votwo.com
 DOMAIN-SUFFIX,voxlearning.com
 DOMAIN-SUFFIX,voxpie.com
 DOMAIN-SUFFIX,voycn.com
-DOMAIN-SUFFIX,vp3u.com
+DOMAIN-SUFFIX,jxkjzb.com
 DOMAIN-SUFFIX,vp6.co
 DOMAIN-SUFFIX,vpabrand.com
 DOMAIN-SUFFIX,vpal.com
@@ -100879,7 +100883,7 @@ DOMAIN-SUFFIX,worldcps.com
 DOMAIN-SUFFIX,worldfcdn.com
 DOMAIN-SUFFIX,worldgoodvoices.com
 DOMAIN-SUFFIX,worldh5.com
-DOMAIN-SUFFIX,worldhello.net
+DOMAIN-SUFFIX,jxkeda.com
 DOMAIN-SUFFIX,worldhotel.com
 DOMAIN-SUFFIX,worldhub.market
 DOMAIN-SUFFIX,worldinout.com
