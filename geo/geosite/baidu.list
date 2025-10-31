@@ -1,9 +1,9 @@
 # NAME: baidu
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-31 07:11:29
-# TOTAL: 232
-# DOMAIN-SUFFIX: 232
+# UPDATED: 2025-11-01 07:11:49
+# TOTAL: 234
+# DOMAIN-SUFFIX: 234
 
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,91.com
@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,bce-cdn.cn
 DOMAIN-SUFFIX,bce-cdn.com
 DOMAIN-SUFFIX,bce-cdn.net
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,bdcloudapi.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -65,6 +66,7 @@ DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tiebaimg.com
 DOMAIN-SUFFIX,xianfae.com
 DOMAIN-SUFFIX,xiaodutv.com
+DOMAIN-SUFFIX,yoojia.com
 DOMAIN-SUFFIX,duxiaoman-int.com
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,duxiaomanfintech.com

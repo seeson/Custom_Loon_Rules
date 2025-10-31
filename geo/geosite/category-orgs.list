@@ -1,12 +1,11 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-31 07:11:51
+# UPDATED: 2025-11-01 07:12:12
 # TOTAL: 122
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 112
 
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -16,6 +15,7 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -38,11 +38,18 @@ DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,4pcdn.org
 DOMAIN-SUFFIX,4plebs.org
-DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,emojipedia.org
 DOMAIN-SUFFIX,worldemojiawards.com
 DOMAIN-SUFFIX,worldemojiday.com
 DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,bookbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,messybrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openstreetmap.com
 DOMAIN-SUFFIX,openstreetmap.net
@@ -52,13 +59,14 @@ DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,ppy.sh
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,creativecommons.engineering
 DOMAIN-SUFFIX,licensebuttons.net
+DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
@@ -117,14 +125,6 @@ DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,vtsociety.org
-DOMAIN-SUFFIX,acousticbrainz.org
-DOMAIN-SUFFIX,bookbrainz.org
-DOMAIN-SUFFIX,coverartarchive.org
-DOMAIN-SUFFIX,critiquebrainz.org
-DOMAIN-SUFFIX,listenbrainz.org
-DOMAIN-SUFFIX,messybrainz.org
-DOMAIN-SUFFIX,metabrainz.org
-DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,nist.gov
 DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,ppy.sh
+DOMAIN-SUFFIX,paskoocheh.com

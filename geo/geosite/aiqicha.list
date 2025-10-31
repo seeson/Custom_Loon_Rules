@@ -1,8 +1,10 @@
 # NAME: aiqicha
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-31 07:11:17
-# TOTAL: 1
-# DOMAIN-SUFFIX: 1
+# UPDATED: 2025-11-01 07:11:38
+# TOTAL: 3
+# DOMAIN-SUFFIX: 3
 
+DOMAIN-SUFFIX,aiqicha.cn
+DOMAIN-SUFFIX,aiqicha.com
 DOMAIN-SUFFIX,aiqicha.baidu.com
