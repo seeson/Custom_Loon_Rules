@@ -1,6 +1,6 @@
 # uleset 规则集文件说明
 ## 1. 文件类型
-① [Loon](https://github.com/Loon0x00/LoonManual) rule-set 规则集文件，格式有 `.list`（`format: text`）和 `.lrs`（`format: lrs`待更新）  
+① [Loon](https://github.com/Loon0x00/LoonManual) rule-set 规则集文件，格式有 `.list`（`format: text`）和 `.lrs`待更新（`format: lrs`）  
 ## 2. 数据源
 ① 每天凌晨 3 点（北京时间 UTC+8）自动构建，由上游项目 [DustinWin/domain-list-custom](https://github.com/DustinWin/domain-list-custom) 和 [DustinWin/geoip](https://github.com/DustinWin/geoip) 提供数据源，可查看[域名列表](https://github.com/DustinWin/domain-list-custom/tree/domains)和 [IP 段列表](https://github.com/DustinWin/geoip/tree/ips)  
 ② `rule-set,fakeip-filter,📌 fakeip 过滤` 源采用 [DustinWin/fake_ip_filter.list](https://github.com/DustinWin/ShellCrash/blob/dev/public/fake_ip_filter.list)（搭载 mihomo 内核或 sing-box PuerNya 版内核时，可使该规则集内的域名走 realip）  
