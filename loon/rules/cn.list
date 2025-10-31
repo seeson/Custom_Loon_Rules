@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 348
-# DOMAIN-SUFFIX: 116558
-# TOTAL: 116906
+# DOMAIN-SUFFIX: 116559
+# TOTAL: 116907
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -114059,6 +114059,7 @@ DOMAIN-SUFFIX,zhuanhuamao.com
 DOMAIN-SUFFIX,zhuanhuanqi.com
 DOMAIN-SUFFIX,zhuanhuanqi.net
 DOMAIN-SUFFIX,zhuaniao.com
+DOMAIN-SUFFIX,zhuaninc.com
 DOMAIN-SUFFIX,zhuankeapp.com
 DOMAIN-SUFFIX,zhuankebang.com
 DOMAIN-SUFFIX,zhuankezu.com
