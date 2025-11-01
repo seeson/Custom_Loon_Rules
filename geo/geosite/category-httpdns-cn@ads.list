@@ -1,9 +1,9 @@
 # NAME: category-httpdns-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-01 07:12:09
-# TOTAL: 48
-# DOMAIN-SUFFIX: 48
+# UPDATED: 2025-11-02 07:11:29
+# TOTAL: 49
+# DOMAIN-SUFFIX: 49
 
 DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
 DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
@@ -52,4 +52,5 @@ DOMAIN-SUFFIX,httpdns.kwd.inkuai.com
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,httpdns.volcengineapi.com
 DOMAIN-SUFFIX,httpdns.yunxindns.com
+DOMAIN-SUFFIX,httpdns.zhihu.com
 DOMAIN-SUFFIX,httpdns.zybang.com
