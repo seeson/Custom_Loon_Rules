@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 443
-# DOMAIN-SUFFIX: 5268
-# TOTAL: 5711
+# DOMAIN-SUFFIX: 5267
+# TOTAL: 5710
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -5117,7 +5117,6 @@ DOMAIN-SUFFIX,weavatar.com
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 DOMAIN-SUFFIX,webgame163.com
-DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webqxs.com
 DOMAIN-SUFFIX,webterren.com
