@@ -1,37 +1,38 @@
 # NAME: category-electronic-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-08 07:12:01
-# TOTAL: 72
-# DOMAIN-SUFFIX: 72
+# UPDATED: 2025-11-09 07:11:30
+# TOTAL: 73
+# DOMAIN-SUFFIX: 73
 
-DOMAIN-SUFFIX,jlc-cnc.com
-DOMAIN-SUFFIX,espressif.cn
-DOMAIN-SUFFIX,bouffalolab.com
-DOMAIN-SUFFIX,esp8266.cn
-DOMAIN-SUFFIX,jlc-cad.com
 DOMAIN-SUFFIX,jlc-cam.com
+DOMAIN-SUFFIX,szjlc.cn
+DOMAIN-SUFFIX,boe.com
+DOMAIN-SUFFIX,zxhgroup.com
+DOMAIN-SUFFIX,bouffalolab.com
+DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,zs-jlc.com
+DOMAIN-SUFFIX,espressif.cn
 DOMAIN-SUFFIX,espressif.com
+DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
-DOMAIN-SUFFIX,infineon.com
+DOMAIN-SUFFIX,infineon.cn
 DOMAIN-SUFFIX,quecmall.cn
+DOMAIN-SUFFIX,jlc-cnc.com
 DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,rock-chips.com
-DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,seeed.cn
 DOMAIN-SUFFIX,seeed.cc
-DOMAIN-SUFFIX,zs-jlc.com
-DOMAIN-SUFFIX,szlcsc.com
-DOMAIN-SUFFIX,szjlc.cn
 DOMAIN-SUFFIX,sz-jlc.com
+DOMAIN-SUFFIX,sanweihou.com
 DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,maixhub.com
-DOMAIN-SUFFIX,ti.com
-DOMAIN-SUFFIX,sanweihou.com
+DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,wch.cn
 DOMAIN-SUFFIX,wch-ic.com
 DOMAIN-SUFFIX,fa-part.com
@@ -39,13 +40,13 @@ DOMAIN-SUFFIX,forface3d.com
 DOMAIN-SUFFIX,jlc-3dp.cn
 DOMAIN-SUFFIX,jlc-3dp.com
 DOMAIN-SUFFIX,jlc-bbs.com
-DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,jlc-cad.com
+DOMAIN-SUFFIX,esp8266.cn
 DOMAIN-SUFFIX,arrow.cn
-DOMAIN-SUFFIX,esp8266.com
-DOMAIN-SUFFIX,jlc-dfm.com
+DOMAIN-SUFFIX,jlc-erp.com
 DOMAIN-SUFFIX,jlc-drm.com
 DOMAIN-SUFFIX,jlc-ecad.com
-DOMAIN-SUFFIX,jlc-erp.com
+DOMAIN-SUFFIX,jlc-dfm.com
 DOMAIN-SUFFIX,jlc-fpc.com
 DOMAIN-SUFFIX,jlc-gw.com
 DOMAIN-SUFFIX,jlc-jh.com
@@ -70,10 +71,10 @@ DOMAIN-SUFFIX,jlcsj.com
 DOMAIN-SUFFIX,jlcsmt.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
-DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,ti.com.cn
 DOMAIN-SUFFIX,seeedstudio.com.cn
 DOMAIN-SUFFIX,seeed.com.cn
 DOMAIN-SUFFIX,quectel.com.cn
 DOMAIN-SUFFIX,espressif.com.cn
 DOMAIN-SUFFIX,esp8266.com.cn
+DOMAIN-SUFFIX,boe.com.cn
