@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 88
-# DOMAIN-SUFFIX: 32505
-# TOTAL: 32593
+# DOMAIN-SUFFIX: 32507
+# TOTAL: 32595
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -6928,6 +6928,8 @@ DOMAIN-SUFFIX,cof.ac.uk
 DOMAIN-SUFFIX,cofacts.tw
 DOMAIN-SUFFIX,coffeemanga.to
 DOMAIN-SUFFIX,cogc.ac.uk
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,coin2co.in
 DOMAIN-SUFFIX,coinalyze.net
 DOMAIN-SUFFIX,coinbase.com
