@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-09 07:12:01
-# TOTAL: 117157
-# DOMAIN-SUFFIX: 117157
+# UPDATED: 2025-11-10 07:11:57
+# TOTAL: 117155
+# DOMAIN-SUFFIX: 117155
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juzilicai.com
-DOMAIN-SUFFIX,vp6.co
+DOMAIN-SUFFIX,juzikong.com
+DOMAIN-SUFFIX,trustmta.com
 DOMAIN-SUFFIX,02hm.com
 DOMAIN-SUFFIX,02lb.com
 DOMAIN-SUFFIX,02lu.com
@@ -96,7 +96,7 @@ DOMAIN-SUFFIX,0371wang.com
 DOMAIN-SUFFIX,037398.com
 DOMAIN-SUFFIX,0377auto.com
 DOMAIN-SUFFIX,0378zz.com
-DOMAIN-SUFFIX,0379home.com
+DOMAIN-SUFFIX,jxkp.com
 DOMAIN-SUFFIX,0379wan.com
 DOMAIN-SUFFIX,0391fc.com
 DOMAIN-SUFFIX,03964.com
@@ -33662,7 +33662,7 @@ DOMAIN-SUFFIX,fangguan6.com
 DOMAIN-SUFFIX,fanghenet.com
 DOMAIN-SUFFIX,fangheng.com
 DOMAIN-SUFFIX,fanghua120.com
-DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,fanghuafu.com
 DOMAIN-SUFFIX,fanghuihui.com
 DOMAIN-SUFFIX,fangjia.com
 DOMAIN-SUFFIX,fangjiadp.com
@@ -52721,7 +52721,6 @@ DOMAIN-SUFFIX,inferoey.com
 DOMAIN-SUFFIX,infertilitybridge.com
 DOMAIN-SUFFIX,infimotion.com
 DOMAIN-SUFFIX,infineon-autoeco.com
-DOMAIN-SUFFIX,infineon.com
 DOMAIN-SUFFIX,infini-ai.com
 DOMAIN-SUFFIX,infinisign.com
 DOMAIN-SUFFIX,infinitescript.com
@@ -54005,7 +54004,7 @@ DOMAIN-SUFFIX,iyouhun.com
 DOMAIN-SUFFIX,iyoujia.com
 DOMAIN-SUFFIX,iyoujiao.net
 DOMAIN-SUFFIX,iyoule.com
-DOMAIN-SUFFIX,iyouman.com
+DOMAIN-SUFFIX,jxlgjd.com
 DOMAIN-SUFFIX,iyouqian.com
 DOMAIN-SUFFIX,iyouxia.com
 DOMAIN-SUFFIX,iyouxin.com
@@ -58445,8 +58444,8 @@ DOMAIN-SUFFIX,juzicon.com
 DOMAIN-SUFFIX,juzicy.com
 DOMAIN-SUFFIX,juzifenqi.com
 DOMAIN-SUFFIX,juzijiudian.com
-DOMAIN-SUFFIX,juzikong.com
 DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,juzilicai.com
 DOMAIN-SUFFIX,juzimi.cc
 DOMAIN-SUFFIX,juzioo.com
 DOMAIN-SUFFIX,juziseo.com
@@ -58604,10 +58603,10 @@ DOMAIN-SUFFIX,jxjuwentech.com
 DOMAIN-SUFFIX,jxjx6.com
 DOMAIN-SUFFIX,jxjywater.com
 DOMAIN-SUFFIX,jxkeda.com
-DOMAIN-SUFFIX,worldhotel.com
+DOMAIN-SUFFIX,jxkjzb.com
+DOMAIN-SUFFIX,0379home.com
 DOMAIN-SUFFIX,02d.com
-DOMAIN-SUFFIX,fanghuafu.com
-DOMAIN-SUFFIX,jxlgjd.com
+DOMAIN-SUFFIX,iyouman.com
 DOMAIN-SUFFIX,jxln.com
 DOMAIN-SUFFIX,zzfly.net
 DOMAIN-SUFFIX,jxlong.com
@@ -92537,7 +92536,6 @@ DOMAIN-SUFFIX,thzab.com
 DOMAIN-SUFFIX,thzu.cc
 DOMAIN-SUFFIX,ti-node.com
 DOMAIN-SUFFIX,ti-solar.com
-DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,ti0s.com
 DOMAIN-SUFFIX,tiamaes.com
 DOMAIN-SUFFIX,tian-gang.com
@@ -94349,7 +94347,7 @@ DOMAIN-SUFFIX,trustkernel.com
 DOMAIN-SUFFIX,trustlife.com
 DOMAIN-SUFFIX,trustmo.com
 DOMAIN-SUFFIX,trustmover.com
-DOMAIN-SUFFIX,trustmta.com
+DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,trustwe.com
 DOMAIN-SUFFIX,trutes.com
 DOMAIN-SUFFIX,truthsinfo.com
@@ -97421,7 +97419,7 @@ DOMAIN-SUFFIX,voxlearning.com
 DOMAIN-SUFFIX,voxpie.com
 DOMAIN-SUFFIX,voycn.com
 DOMAIN-SUFFIX,vp3u.com
-DOMAIN-SUFFIX,jxkp.com
+DOMAIN-SUFFIX,vp6.co
 DOMAIN-SUFFIX,vpabrand.com
 DOMAIN-SUFFIX,vpal.com
 DOMAIN-SUFFIX,vpalstatic.com
@@ -100883,7 +100881,7 @@ DOMAIN-SUFFIX,worldfcdn.com
 DOMAIN-SUFFIX,worldgoodvoices.com
 DOMAIN-SUFFIX,worldh5.com
 DOMAIN-SUFFIX,worldhello.net
-DOMAIN-SUFFIX,jxkjzb.com
+DOMAIN-SUFFIX,worldhotel.com
 DOMAIN-SUFFIX,worldhub.market
 DOMAIN-SUFFIX,worldinout.com
 DOMAIN-SUFFIX,worldjiasu.com

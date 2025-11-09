@@ -1,13 +1,10 @@
 # NAME: category-enterprise-query-platform-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-09 07:11:31
+# UPDATED: 2025-11-10 07:11:30
 # TOTAL: 12
 # DOMAIN-SUFFIX: 12
 
-DOMAIN-SUFFIX,jindidata.com
-DOMAIN-SUFFIX,tianyancha.com
-DOMAIN-SUFFIX,x315.com
 DOMAIN-SUFFIX,aiqicha.cn
 DOMAIN-SUFFIX,aiqicha.com
 DOMAIN-SUFFIX,qcc.com
@@ -15,5 +12,8 @@ DOMAIN-SUFFIX,qichacha.com
 DOMAIN-SUFFIX,qichamao.com
 DOMAIN-SUFFIX,qixin.com
 DOMAIN-SUFFIX,qyyjt.cn
+DOMAIN-SUFFIX,jindidata.com
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,x315.com
 DOMAIN-SUFFIX,aiqicha.baidu.com
 DOMAIN-SUFFIX,hongdunwang.com.cn
