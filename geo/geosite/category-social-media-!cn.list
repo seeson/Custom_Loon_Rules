@@ -1,7 +1,7 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-11 07:13:07
+# UPDATED: 2025-11-12 07:12:44
 # TOTAL: 580
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 576
@@ -10,33 +10,8 @@ DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
-DOMAIN-SUFFIX,threads.com
-DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tellapart.com
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,twitterflightschool.com
-DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitterinc.com
-DOMAIN-SUFFIX,twitteroauth.com
-DOMAIN-SUFFIX,twitterstat.us
-DOMAIN-SUFFIX,ads-twitter.com
-DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,cdn-vk.ru
-DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,facnbook.com
+DOMAIN-SUFFIX,facebookportal.com
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-analytics.ru
@@ -256,7 +231,7 @@ DOMAIN-SUFFIX,facebookpokerchips.info
 DOMAIN-SUFFIX,facebookporn.net
 DOMAIN-SUFFIX,facebookporn.org
 DOMAIN-SUFFIX,facebookporno.net
-DOMAIN-SUFFIX,facebookportal.com
+DOMAIN-SUFFIX,fackebook.com
 DOMAIN-SUFFIX,facebooks.com
 DOMAIN-SUFFIX,facebooksafety.com
 DOMAIN-SUFFIX,facebooksecurity.net
@@ -316,12 +291,12 @@ DOMAIN-SUFFIX,facesbooc.com
 DOMAIN-SUFFIX,facesounds.com
 DOMAIN-SUFFIX,facetook.com
 DOMAIN-SUFFIX,facevbook.com
-DOMAIN-SUFFIX,facewbook.co
+DOMAIN-SUFFIX,facfebook.com
 DOMAIN-SUFFIX,facewook.com
 DOMAIN-SUFFIX,facfacebook.com
-DOMAIN-SUFFIX,facfebook.com
-DOMAIN-SUFFIX,fackebook.com
-DOMAIN-SUFFIX,facnbook.com
+DOMAIN-SUFFIX,facewbook.co
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,facrbook.com
 DOMAIN-SUFFIX,facvebook.com
 DOMAIN-SUFFIX,facwebook.com
@@ -564,20 +539,45 @@ DOMAIN-SUFFIX,misskey.cloud
 DOMAIN-SUFFIX,misskey.design
 DOMAIN-SUFFIX,misskey.flowers
 DOMAIN-SUFFIX,9ineverse.com
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
-DOMAIN-SUFFIX,l-0005.l-msedge.net
+DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,misskey.gamelore.fun
 DOMAIN-SUFFIX,misskey.noellabo.jp
+DOMAIN-SUFFIX,mof.kemomi.me
+DOMAIN-SUFFIX,mk.yopo.work
+DOMAIN-SUFFIX,mk.shrimpia.network
+DOMAIN-SUFFIX,misskey.04.si
 DOMAIN-SUFFIX,misskey.ranranhome.info
 DOMAIN-SUFFIX,misskey.always-we-need.games
-DOMAIN-SUFFIX,misskey.yukineko.me
-DOMAIN-SUFFIX,mk.shrimpia.network
-DOMAIN-SUFFIX,mk.yopo.work
-DOMAIN-SUFFIX,mof.kemomi.me
 DOMAIN-SUFFIX,msk.ilnk.info
-DOMAIN-SUFFIX,msk.kitazawa.me
-DOMAIN-SUFFIX,misskey.04.si
+DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,mi.nakn.jp
+DOMAIN-SUFFIX,misskey.yukineko.me
 DOMAIN-SUFFIX,mi.mashiro.site
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,labo.wovs.tk

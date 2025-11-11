@@ -1,8 +1,8 @@
 # NAME: category-games@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-11 07:12:58
+# UPDATED: 2025-11-12 07:12:34
 # TOTAL: 1
 # DOMAIN-SUFFIX: 1
 
-DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,taptap.io

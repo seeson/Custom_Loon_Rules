@@ -1,7 +1,7 @@
 # NAME: bilibili
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-11 07:12:32
+# UPDATED: 2025-11-12 07:12:02
 # TOTAL: 50
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 48
@@ -46,13 +46,13 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,mincdn.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,dreamcast.hk
-DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,bilibiligame.cn
 DOMAIN-SUFFIX,bilibiligame.co
 DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,biligame.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN,upos-hz-mirrorakam.akamaized.net

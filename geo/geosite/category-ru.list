@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-11 07:13:05
+# UPDATED: 2025-11-12 07:12:42
 # TOTAL: 93
 # DOMAIN-SUFFIX: 93
 
@@ -14,11 +14,9 @@ DOMAIN-SUFFIX,xn--c1avg
 DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
-DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,yandex
-DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,boosty.to
-DOMAIN-SUFFIX,donationalerts.com
+DOMAIN-SUFFIX,psk
+DOMAIN-SUFFIX,yandex.tm
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,ozonusercontent.com
@@ -90,8 +88,10 @@ DOMAIN-SUFFIX,yandex.pl
 DOMAIN-SUFFIX,yandex.st
 DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
-DOMAIN-SUFFIX,yandex.tm
+DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,yandex.ua
+DOMAIN-SUFFIX,donationalerts.com
+DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ge
