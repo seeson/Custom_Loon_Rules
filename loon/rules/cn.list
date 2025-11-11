@@ -2,13 +2,14 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 348
-# DOMAIN-SUFFIX: 116556
-# TOTAL: 116904
+# DOMAIN: 362
+# DOMAIN-SUFFIX: 116554
+# TOTAL: 116916
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
+DOMAIN,activate.activation-v2.kaspersky.com
 DOMAIN,activation-v2.kaspersky.com
 DOMAIN,adcdownload.apple.com
 DOMAIN,admob-cn.com
@@ -206,6 +207,18 @@ DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,js-cdn.music.apple.com
 DOMAIN,km.support.apple.com
+DOMAIN,ksn-cinfo.geoksn.kaspersky.com
+DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-cert.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-file.geoksn.kaspersky.com
+DOMAIN,ksn-dc1.geoksn.kaspersky.com
+DOMAIN,ksn-file.geoksn.kaspersky.com
+DOMAIN,ksn-info.geoksn.kaspersky.com
+DOMAIN,ksn-kas.geoksn.kaspersky.com
+DOMAIN,ksn-mdr.geoksn.kaspersky.com
+DOMAIN,ksn-tcert.geoksn.kaspersky.com
+DOMAIN,ksn-url.geoksn.kaspersky.com
+DOMAIN,ksn-verdict.geoksn.kaspersky.com
 DOMAIN,l2-uberproxy.corp.google.com
 DOMAIN,logger-dev.corp.google.com
 DOMAIN,logger.corp.google.com
@@ -264,6 +277,7 @@ DOMAIN,redirector.gvt1.com
 DOMAIN,redirector.offline-maps.gvt1.com
 DOMAIN,redirector.snap.gvt1.com
 DOMAIN,redirector.xn--ngstr-lra8j.com
+DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,reserve-prime.apple.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
@@ -74072,7 +74086,6 @@ DOMAIN-SUFFIX,oogsy.com
 DOMAIN-SUFFIX,oohdear.com
 DOMAIN-SUFFIX,ooiii.com
 DOMAIN-SUFFIX,oojsq.com
-DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,oolap.com
 DOMAIN-SUFFIX,oomake.com
 DOMAIN-SUFFIX,ooniu.com
@@ -91384,7 +91397,6 @@ DOMAIN-SUFFIX,tapque.com
 DOMAIN-SUFFIX,tapsvc.com
 DOMAIN-SUFFIX,taptap-api.com
 DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptapcode.com
 DOMAIN-SUFFIX,taptapdada.com
 DOMAIN-SUFFIX,tapulsads.ru

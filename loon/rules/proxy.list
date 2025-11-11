@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 88
-# DOMAIN-SUFFIX: 32507
-# TOTAL: 32595
+# DOMAIN-SUFFIX: 32540
+# TOTAL: 32628
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -16504,7 +16504,40 @@ DOMAIN-SUFFIX,karmapa.org
 DOMAIN-SUFFIX,karupsha.com
 DOMAIN-SUFFIX,karupspc.com
 DOMAIN-SUFFIX,kaspersky-labs.com
+DOMAIN-SUFFIX,kaspersky.be
+DOMAIN-SUFFIX,kaspersky.ca
+DOMAIN-SUFFIX,kaspersky.co.in
+DOMAIN-SUFFIX,kaspersky.co.jp
+DOMAIN-SUFFIX,kaspersky.co.kr
+DOMAIN-SUFFIX,kaspersky.co.th
+DOMAIN-SUFFIX,kaspersky.co.uk
+DOMAIN-SUFFIX,kaspersky.co.za
 DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,kaspersky.com.au
+DOMAIN-SUFFIX,kaspersky.com.br
+DOMAIN-SUFFIX,kaspersky.com.hk
+DOMAIN-SUFFIX,kaspersky.com.pl
+DOMAIN-SUFFIX,kaspersky.com.tr
+DOMAIN-SUFFIX,kaspersky.com.tw
+DOMAIN-SUFFIX,kaspersky.com.vn
+DOMAIN-SUFFIX,kaspersky.cz
+DOMAIN-SUFFIX,kaspersky.de
+DOMAIN-SUFFIX,kaspersky.dk
+DOMAIN-SUFFIX,kaspersky.dz
+DOMAIN-SUFFIX,kaspersky.es
+DOMAIN-SUFFIX,kaspersky.fi
+DOMAIN-SUFFIX,kaspersky.fr
+DOMAIN-SUFFIX,kaspersky.gr
+DOMAIN-SUFFIX,kaspersky.it
+DOMAIN-SUFFIX,kaspersky.kz
+DOMAIN-SUFFIX,kaspersky.ma
+DOMAIN-SUFFIX,kaspersky.my
+DOMAIN-SUFFIX,kaspersky.nl
+DOMAIN-SUFFIX,kaspersky.pt
+DOMAIN-SUFFIX,kaspersky.ro
+DOMAIN-SUFFIX,kaspersky.rs
+DOMAIN-SUFFIX,kaspersky.ru
+DOMAIN-SUFFIX,kaspersky.se
 DOMAIN-SUFFIX,kastatic.org
 DOMAIN-SUFFIX,kat.cr
 DOMAIN-SUFFIX,katestube.com
