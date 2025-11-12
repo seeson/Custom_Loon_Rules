@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 88
-# DOMAIN-SUFFIX: 32540
-# TOTAL: 32628
+# DOMAIN-SUFFIX: 32548
+# TOTAL: 32636
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -1192,6 +1192,8 @@ DOMAIN-SUFFIX,afao.ac.uk
 DOMAIN-SUFFIX,afappyending.com
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,affect3dstore.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity.studio
 DOMAIN-SUFFIX,affirmtrust.com
 DOMAIN-SUFFIX,afi.ac.uk
 DOMAIN-SUFFIX,afkv28.com
@@ -3972,6 +3974,7 @@ DOMAIN-SUFFIX,bfnn.org
 DOMAIN-SUFFIX,bfsh.hk
 DOMAIN-SUFFIX,bftv.ac.uk
 DOMAIN-SUFFIX,bgc.ac.uk
+DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgme.me
 DOMAIN-SUFFIX,bgov.com
@@ -5790,6 +5793,7 @@ DOMAIN-SUFFIX,canterbury.ac.uk
 DOMAIN-SUFFIX,canterburycollege.ac.uk
 DOMAIN-SUFFIX,canterburytrust.ac.uk
 DOMAIN-SUFFIX,cantonese.asia
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canyu.org
 DOMAIN-SUFFIX,cao.im
 DOMAIN-SUFFIX,caobian.info
@@ -12703,6 +12707,7 @@ DOMAIN-SUFFIX,googleartproject.com
 DOMAIN-SUFFIX,googleblog.com
 DOMAIN-SUFFIX,googlebot.com
 DOMAIN-SUFFIX,googlecapital.com
+DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,googlecert.net
 DOMAIN-SUFFIX,googlechinawebmaster.com
 DOMAIN-SUFFIX,googlecode.com
@@ -12874,6 +12879,7 @@ DOMAIN-SUFFIX,greatermanchestercolleges.ac.uk
 DOMAIN-SUFFIX,greatermanchesterinternationalmedicalschool.ac.uk
 DOMAIN-SUFFIX,greatermanchestermedicalschool.ac.uk
 DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,greatfirewall.biz
 DOMAIN-SUFFIX,greatfirewallofchina.net
 DOMAIN-SUFFIX,greatfirewallofchina.org
@@ -20237,6 +20243,7 @@ DOMAIN-SUFFIX,neodaas.ac.uk
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neonatalsociety.ac.uk
 DOMAIN-SUFFIX,neotokyo.supertop-100.com
+DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,neow.in
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,nepusoku.com
@@ -32459,6 +32466,7 @@ DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,zeitworld.com
 DOMAIN-SUFFIX,zello.com
+DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,zen8ok.xyz
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,zencoder.com
