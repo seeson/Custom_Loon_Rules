@@ -1,10 +1,12 @@
 # NAME: bongacams
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-12 07:12:08
-# TOTAL: 3
-# DOMAIN-SUFFIX: 3
+# UPDATED: 2025-11-13 07:12:47
+# TOTAL: 5
+# DOMAIN-SUFFIX: 5
 
 DOMAIN-SUFFIX,bcicdn.com
 DOMAIN-SUFFIX,bcrncdn.com
+DOMAIN-SUFFIX,bcvcdn.com
+DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,bongacams.com

@@ -1,8 +1,11 @@
 # NAME: b3log
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-12 07:11:56
-# TOTAL: 1
-# DOMAIN-SUFFIX: 1
+# UPDATED: 2025-11-13 07:12:36
+# TOTAL: 4
+# DOMAIN-SUFFIX: 4
 
 DOMAIN-SUFFIX,b3log.org
+DOMAIN-SUFFIX,b3logfile.com
+DOMAIN-SUFFIX,hacpai.com
+DOMAIN-SUFFIX,ld246.com

@@ -1,9 +1,9 @@
 # NAME: category-enhance-gaming
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-12 07:12:28
-# TOTAL: 16
-# DOMAIN-SUFFIX: 16
+# UPDATED: 2025-11-13 07:13:09
+# TOTAL: 17
+# DOMAIN-SUFFIX: 17
 
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,maa.plus
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,playcover.workers.dev
+DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,heavenlywind.cc

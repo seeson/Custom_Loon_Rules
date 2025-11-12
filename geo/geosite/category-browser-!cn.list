@@ -1,35 +1,36 @@
 # NAME: category-browser-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-12 07:12:22
-# TOTAL: 28
-# DOMAIN-SUFFIX: 28
+# UPDATED: 2025-11-13 07:13:03
+# TOTAL: 29
+# DOMAIN-SUFFIX: 29
 
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,librewolf.net
-DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,kmeleonbrowser.org
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
-DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,kmeleonbrowser.org
 DOMAIN-SUFFIX,cromite.org
 DOMAIN-SUFFIX,decentr.net
 DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,kiwibrowser.com
-DOMAIN-SUFFIX,basilisk-browser.org
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,waterfox.net
+DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,netsurf-browser.org
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,palemoon.org
-DOMAIN-SUFFIX,pulsebrowser.app
+DOMAIN-SUFFIX,minbrowser.org
 DOMAIN-SUFFIX,qutebrowser.org
 DOMAIN-SUFFIX,vivaldi.com
-DOMAIN-SUFFIX,minbrowser.org
+DOMAIN-SUFFIX,waterfox.net
+DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,browser.kagi.com

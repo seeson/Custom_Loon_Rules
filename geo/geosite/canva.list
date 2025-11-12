@@ -1,0 +1,12 @@
+# NAME: canva
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-11-13 07:12:57
+# TOTAL: 5
+# DOMAIN-SUFFIX: 5
+
+DOMAIN-SUFFIX,affinity.studio
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
