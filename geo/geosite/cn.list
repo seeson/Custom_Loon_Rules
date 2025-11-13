@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-13 07:13:40
-# TOTAL: 117155
-# DOMAIN-SUFFIX: 117155
+# UPDATED: 2025-11-14 07:13:10
+# TOTAL: 117156
+# DOMAIN-SUFFIX: 117156
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,22 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juzikong.com
-DOMAIN-SUFFIX,trustmta.com
-DOMAIN-SUFFIX,02hm.com
-DOMAIN-SUFFIX,02lb.com
-DOMAIN-SUFFIX,02lu.com
-DOMAIN-SUFFIX,02pew65z89.com
-DOMAIN-SUFFIX,02shu.com
-DOMAIN-SUFFIX,02wan.com
-DOMAIN-SUFFIX,02wq.com
-DOMAIN-SUFFIX,02yc.com
-DOMAIN-SUFFIX,030303.com
-DOMAIN-SUFFIX,030mall.com
-DOMAIN-SUFFIX,0310it.com
-DOMAIN-SUFFIX,0311.cc
-DOMAIN-SUFFIX,031130.xyz
-DOMAIN-SUFFIX,03118888.com
+DOMAIN-SUFFIX,juzhiliang.com
+DOMAIN-SUFFIX,viecoo.com
 DOMAIN-SUFFIX,0311hd.com
 DOMAIN-SUFFIX,0311led.com
 DOMAIN-SUFFIX,0311wifi.com
@@ -96,7 +82,7 @@ DOMAIN-SUFFIX,0371wang.com
 DOMAIN-SUFFIX,037398.com
 DOMAIN-SUFFIX,0377auto.com
 DOMAIN-SUFFIX,0378zz.com
-DOMAIN-SUFFIX,jxkp.com
+DOMAIN-SUFFIX,0379home.com
 DOMAIN-SUFFIX,0379wan.com
 DOMAIN-SUFFIX,0391fc.com
 DOMAIN-SUFFIX,03964.com
@@ -10563,7 +10549,7 @@ DOMAIN-SUFFIX,alianhome.com
 DOMAIN-SUFFIX,aliapp-inc.com
 DOMAIN-SUFFIX,aliapp.com
 DOMAIN-SUFFIX,aliappcdn.com
-DOMAIN-SUFFIX,02a5ji7vso.com
+DOMAIN-SUFFIX,031130.xyz
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibaba.net
@@ -10674,7 +10660,7 @@ DOMAIN-SUFFIX,aliog.com
 DOMAIN-SUFFIX,alionexpo.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alipansou.com
-DOMAIN-SUFFIX,029zp.com
+DOMAIN-SUFFIX,0311.cc
 DOMAIN-SUFFIX,alipay-corp.com
 DOMAIN-SUFFIX,alipay-eco.com
 DOMAIN-SUFFIX,alipay-inc.com
@@ -13118,7 +13104,7 @@ DOMAIN-SUFFIX,baidevalve.com
 DOMAIN-SUFFIX,baideye.com
 DOMAIN-SUFFIX,baidiapp.com
 DOMAIN-SUFFIX,baidinet.com
-DOMAIN-SUFFIX,029yjy.com
+DOMAIN-SUFFIX,0310it.com
 DOMAIN-SUFFIX,baidu-bank.com
 DOMAIN-SUFFIX,baidu-cdn.com
 DOMAIN-SUFFIX,baidu-cdn.net
@@ -22374,7 +22360,7 @@ DOMAIN-SUFFIX,citegalleries.com
 DOMAIN-SUFFIX,citexpo.org
 DOMAIN-SUFFIX,citgc.com
 DOMAIN-SUFFIX,citiais.com
-DOMAIN-SUFFIX,029xxw.com
+DOMAIN-SUFFIX,030mall.com
 DOMAIN-SUFFIX,citic-wealth.com
 DOMAIN-SUFFIX,citic.com
 DOMAIN-SUFFIX,citicbank.com
@@ -23126,7 +23112,7 @@ DOMAIN-SUFFIX,cmzd.com
 DOMAIN-SUFFIX,cmzi.com
 DOMAIN-SUFFIX,cmzj.net
 DOMAIN-SUFFIX,cmzyk.com
-DOMAIN-SUFFIX,029wsw.com
+DOMAIN-SUFFIX,030303.com
 DOMAIN-SUFFIX,cn-5.com
 DOMAIN-SUFFIX,cn-ab.com
 DOMAIN-SUFFIX,cn-aci.com
@@ -26734,6 +26720,7 @@ DOMAIN-SUFFIX,cztrjs.com
 DOMAIN-SUFFIX,cztv.cc
 DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztv.tv
+DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,cztzkg.com
 DOMAIN-SUFFIX,czur.com
@@ -35978,6 +35965,20 @@ DOMAIN-SUFFIX,fulitec.com
 DOMAIN-SUFFIX,fuliti.com
 DOMAIN-SUFFIX,fuliw.net
 DOMAIN-SUFFIX,full-way.com
+DOMAIN-SUFFIX,02yc.com
+DOMAIN-SUFFIX,02wq.com
+DOMAIN-SUFFIX,02wan.com
+DOMAIN-SUFFIX,02shu.com
+DOMAIN-SUFFIX,02pew65z89.com
+DOMAIN-SUFFIX,02lu.com
+DOMAIN-SUFFIX,02lb.com
+DOMAIN-SUFFIX,02hm.com
+DOMAIN-SUFFIX,02d.com
+DOMAIN-SUFFIX,02a5ji7vso.com
+DOMAIN-SUFFIX,029zp.com
+DOMAIN-SUFFIX,029yjy.com
+DOMAIN-SUFFIX,029xxw.com
+DOMAIN-SUFFIX,029wsw.com
 DOMAIN-SUFFIX,029taihe.com
 DOMAIN-SUFFIX,029shw.com
 DOMAIN-SUFFIX,029lvwo.com
@@ -43968,7 +43969,7 @@ DOMAIN-SUFFIX,haihuainternational.com
 DOMAIN-SUFFIX,haihub.co
 DOMAIN-SUFFIX,haihuishou.com
 DOMAIN-SUFFIX,haiintelligent.com
-DOMAIN-SUFFIX,haijia.org
+DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,haijianchuxing.com
 DOMAIN-SUFFIX,haijianstock.com
 DOMAIN-SUFFIX,haijiaonet.com
@@ -54004,7 +54005,7 @@ DOMAIN-SUFFIX,iyouhun.com
 DOMAIN-SUFFIX,iyoujia.com
 DOMAIN-SUFFIX,iyoujiao.net
 DOMAIN-SUFFIX,iyoule.com
-DOMAIN-SUFFIX,jxlgjd.com
+DOMAIN-SUFFIX,iyouman.com
 DOMAIN-SUFFIX,iyouqian.com
 DOMAIN-SUFFIX,iyouxia.com
 DOMAIN-SUFFIX,iyouxin.com
@@ -58437,14 +58438,14 @@ DOMAIN-SUFFIX,juzhen.io
 DOMAIN-SUFFIX,juzhentech.com
 DOMAIN-SUFFIX,juzhenyun.org
 DOMAIN-SUFFIX,juzhi720.com
-DOMAIN-SUFFIX,juzhiliang.com
+DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,juzhiyuan.com
 DOMAIN-SUFFIX,juzhongjoy.com
 DOMAIN-SUFFIX,juzicon.com
 DOMAIN-SUFFIX,juzicy.com
 DOMAIN-SUFFIX,juzifenqi.com
 DOMAIN-SUFFIX,juzijiudian.com
-DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,juzikong.com
 DOMAIN-SUFFIX,juzilicai.com
 DOMAIN-SUFFIX,juzimi.cc
 DOMAIN-SUFFIX,juzioo.com
@@ -58603,10 +58604,10 @@ DOMAIN-SUFFIX,jxjuwentech.com
 DOMAIN-SUFFIX,jxjx6.com
 DOMAIN-SUFFIX,jxjywater.com
 DOMAIN-SUFFIX,jxkeda.com
-DOMAIN-SUFFIX,jxkjzb.com
-DOMAIN-SUFFIX,0379home.com
-DOMAIN-SUFFIX,02d.com
-DOMAIN-SUFFIX,iyouman.com
+DOMAIN-SUFFIX,yl1988.com
+DOMAIN-SUFFIX,03118888.com
+DOMAIN-SUFFIX,haijia.org
+DOMAIN-SUFFIX,jxlgjd.com
 DOMAIN-SUFFIX,jxln.com
 DOMAIN-SUFFIX,zzfly.net
 DOMAIN-SUFFIX,jxlong.com
@@ -94347,7 +94348,7 @@ DOMAIN-SUFFIX,trustkernel.com
 DOMAIN-SUFFIX,trustlife.com
 DOMAIN-SUFFIX,trustmo.com
 DOMAIN-SUFFIX,trustmover.com
-DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,trustmta.com
 DOMAIN-SUFFIX,trustwe.com
 DOMAIN-SUFFIX,trutes.com
 DOMAIN-SUFFIX,truthsinfo.com
@@ -96909,7 +96910,7 @@ DOMAIN-SUFFIX,videoyx.com
 DOMAIN-SUFFIX,vidmate.mobi
 DOMAIN-SUFFIX,vidmate.net
 DOMAIN-SUFFIX,vidmatefilm.org
-DOMAIN-SUFFIX,viecoo.com
+DOMAIN-SUFFIX,jxkp.com
 DOMAIN-SUFFIX,vieg.net
 DOMAIN-SUFFIX,vientao.com
 DOMAIN-SUFFIX,viewstock.com
@@ -109043,7 +109044,7 @@ DOMAIN-SUFFIX,yl0008168.com
 DOMAIN-SUFFIX,yl01.com
 DOMAIN-SUFFIX,yl0551.com
 DOMAIN-SUFFIX,yl1001.com
-DOMAIN-SUFFIX,yl1988.com
+DOMAIN-SUFFIX,jxkjzb.com
 DOMAIN-SUFFIX,yl2272.com
 DOMAIN-SUFFIX,yl344.com
 DOMAIN-SUFFIX,yl9820.com
