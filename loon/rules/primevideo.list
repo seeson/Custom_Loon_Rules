@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:31 CST
-# DOMAIN: 9
-# DOMAIN-SUFFIX: 15
-# TOTAL: 24
+# DOMAIN: 14
+# DOMAIN-SUFFIX: 16
+# TOTAL: 30
 
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
@@ -14,6 +14,11 @@ DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,fls-na.amazon.com
+DOMAIN,images-eu.ssl-images-amazon.com
+DOMAIN,images-fe.ssl-images-amazon.com
+DOMAIN,images-na.ssl-images-amazon.com
+DOMAIN,msh.amazon.co.uk
+DOMAIN,static.siege-amazon.com
 DOMAIN,www.amazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
@@ -29,4 +34,5 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 DOMAIN-SUFFIX,pv-cdn.net

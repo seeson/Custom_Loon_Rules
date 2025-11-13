@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 159
-# TOTAL: 159
+# DOMAIN: 160
+# TOTAL: 160
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -31,12 +31,10 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
-DOMAIN,hificode.in
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
-DOMAIN,isk.richardsw.club
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns3109441.mypdns.org
@@ -88,6 +86,7 @@ DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.belmult.online
+DOMAIN,tracker.bitcoinindia.space
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt-hash.com
@@ -120,6 +119,7 @@ DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.playground.ru
@@ -128,6 +128,7 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
