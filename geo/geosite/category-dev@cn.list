@@ -1,13 +1,13 @@
 # NAME: category-dev@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-14 07:12:40
+# UPDATED: 2025-11-15 07:12:26
 # TOTAL: 11
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 9
 
-DOMAIN,cdn.ampproject.org
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn
