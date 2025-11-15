@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 459
-# DOMAIN-SUFFIX: 5278
-# TOTAL: 5737
+# DOMAIN-SUFFIX: 5287
+# TOTAL: 5746
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -1001,6 +1001,7 @@ DOMAIN-SUFFIX,antpcdn.com
 DOMAIN-SUFFIX,antutu.com
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,anycross.com
+DOMAIN-SUFFIX,anywlan.com
 DOMAIN-SUFFIX,aotrip.net
 DOMAIN-SUFFIX,aoyou.com
 DOMAIN-SUFFIX,apaas-zone-test.com
@@ -1575,6 +1576,7 @@ DOMAIN-SUFFIX,chinacache.com
 DOMAIN-SUFFIX,chinacache.net
 DOMAIN-SUFFIX,chinachugui.com
 DOMAIN-SUFFIX,chinadongchu.com
+DOMAIN-SUFFIX,chinadsl.net
 DOMAIN-SUFFIX,chinaexpressair.com
 DOMAIN-SUFFIX,chinafph.com
 DOMAIN-SUFFIX,chinahr.com
@@ -2093,6 +2095,7 @@ DOMAIN-SUFFIX,drp321.com
 DOMAIN-SUFFIX,druid.vip
 DOMAIN-SUFFIX,dtstatic.com
 DOMAIN-SUFFIX,du8.ltd
+DOMAIN-SUFFIX,duapp.com
 DOMAIN-SUFFIX,duapp.net
 DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,duba.com
@@ -2241,6 +2244,7 @@ DOMAIN-SUFFIX,fanxian.com
 DOMAIN-SUFFIX,fanxingliveshow.com
 DOMAIN-SUFFIX,fastapi.net
 DOMAIN-SUFFIX,fastcdn.com
+DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,fbank.com
 DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,fcbox.com
@@ -3001,6 +3005,7 @@ DOMAIN-SUFFIX,itmanager.club
 DOMAIN-SUFFIX,itmop.com
 DOMAIN-SUFFIX,itopsdk.com
 DOMAIN-SUFFIX,itoutiaoliving.com
+DOMAIN-SUFFIX,itpub.net
 DOMAIN-SUFFIX,itsk.com
 DOMAIN-SUFFIX,iuynfg.com
 DOMAIN-SUFFIX,ivolces.com
@@ -3216,6 +3221,7 @@ DOMAIN-SUFFIX,jokecommunity.net
 DOMAIN-SUFFIX,jomocdn.net
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,jomodns.net
+DOMAIN-SUFFIX,jomoxc.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
 DOMAIN-SUFFIX,joying.com
@@ -5431,6 +5437,7 @@ DOMAIN-SUFFIX,xywy.com
 DOMAIN-SUFFIX,xzking.com
 DOMAIN-SUFFIX,yach.me
 DOMAIN-SUFFIX,yahui.cc
+DOMAIN-SUFFIX,yamibo.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,yaolan.com
 DOMAIN-SUFFIX,yaoyl.com
@@ -5488,6 +5495,7 @@ DOMAIN-SUFFIX,yiwanzhushou.com
 DOMAIN-SUFFIX,yixi.tv
 DOMAIN-SUFFIX,yixia.com
 DOMAIN-SUFFIX,yiyaojd.com
+DOMAIN-SUFFIX,yiyouliao.com
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,yjbys.com
@@ -5642,6 +5650,7 @@ DOMAIN-SUFFIX,zhcw.com
 DOMAIN-SUFFIX,zhenai.com
 DOMAIN-SUFFIX,zhfund.com
 DOMAIN-SUFFIX,zhibo8.cc
+DOMAIN-SUFFIX,zhichanli.com
 DOMAIN-SUFFIX,zhidemai.com
 DOMAIN-SUFFIX,zhidx.com
 DOMAIN-SUFFIX,zhifang.com
