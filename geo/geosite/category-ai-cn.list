@@ -1,62 +1,63 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-15 07:12:20
-# TOTAL: 54
+# UPDATED: 2025-11-16 07:11:55
+# TOTAL: 55
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 52
+# DOMAIN-SUFFIX: 53
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,marscode.cn
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,qwen.ai
-DOMAIN-SUFFIX,pixeldance.com
-DOMAIN-SUFFIX,rwkv.cn
-DOMAIN-SUFFIX,doudou.com
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,tongyi.com
-DOMAIN-SUFFIX,picpic-ai.cn
+DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,miaoyanai.com
+DOMAIN-SUFFIX,butterflyai.cn
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
-DOMAIN-SUFFIX,maoxiangai.com
+DOMAIN-SUFFIX,mcprev.cn
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,botvip.cn
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,namiso.com
-DOMAIN-SUFFIX,myparallelstory.com
+DOMAIN-SUFFIX,rwkv.cn
+DOMAIN-SUFFIX,faxingbao.com
+DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,rwkv.com
-DOMAIN-SUFFIX,hi-butterfly.cn
-DOMAIN-SUFFIX,mcbaas.work
-DOMAIN-SUFFIX,mcdemo.show
-DOMAIN-SUFFIX,mchost.guru
-DOMAIN-SUFFIX,mcprev.cn
 DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,trae.cn
-DOMAIN-SUFFIX,trae.guru
-DOMAIN-SUFFIX,yoma.cn
-DOMAIN-SUFFIX,doubaocdn.com
-DOMAIN-SUFFIX,doubao.com
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,butterfly-static.cn
-DOMAIN-SUFFIX,butterflyai.cn
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.site
 DOMAIN-SUFFIX,cozebaas.cn
 DOMAIN-SUFFIX,cozefn.cn
 DOMAIN-SUFFIX,cozeide.cn
-DOMAIN-SUFFIX,trae.com.cn
-DOMAIN-SUFFIX,marscode.com.cn
-DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaocdn.com
+DOMAIN-SUFFIX,hi-butterfly.cn
+DOMAIN-SUFFIX,maoxiangai.com
+DOMAIN-SUFFIX,myparallelstory.com
+DOMAIN-SUFFIX,picpic-ai.cn
+DOMAIN-SUFFIX,pixeldance.com
+DOMAIN-SUFFIX,doudou.com
+DOMAIN-SUFFIX,marscode.cn
+DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,mcdemo.show
+DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
+DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,trae.com.cn
