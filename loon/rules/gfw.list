@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5944
-# TOTAL: 5944
+# DOMAIN-SUFFIX: 5948
+# TOTAL: 5948
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,addictedtocoffee.de
 DOMAIN-SUFFIX,addons.mozilla.org
 DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,adelaidebbs.com
+DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adpl.org.hk
@@ -2380,6 +2381,7 @@ DOMAIN-SUFFIX,hautelookcdn.com
 DOMAIN-SUFFIX,have8.com
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hclips.com
 DOMAIN-SUFFIX,hd.stheadline.com
 DOMAIN-SUFFIX,hdtvb.net
@@ -3322,6 +3324,7 @@ DOMAIN-SUFFIX,mixpod.com
 DOMAIN-SUFFIX,mixx.com
 DOMAIN-SUFFIX,mizzmona.com
 DOMAIN-SUFFIX,mjib.gov.tw
+DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,mlc.ai
 DOMAIN-SUFFIX,mlcool.com
@@ -4234,6 +4237,7 @@ DOMAIN-SUFFIX,rule34video.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,runbtx.com
 DOMAIN-SUFFIX,rushbee.com
+DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,rusvpn.com
 DOMAIN-SUFFIX,ruten.com.tw
 DOMAIN-SUFFIX,rutracker.net

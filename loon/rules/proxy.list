@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 88
-# DOMAIN-SUFFIX: 27067
-# TOTAL: 27155
+# DOMAIN-SUFFIX: 27068
+# TOTAL: 27156
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -16103,6 +16103,7 @@ DOMAIN-SUFFIX,mixx.com
 DOMAIN-SUFFIX,miyazakibank.co.jp
 DOMAIN-SUFFIX,mizuhobank.co.jp
 DOMAIN-SUFFIX,mizzmona.com
+DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mjv-art.org
 DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,mk.yopo.work
