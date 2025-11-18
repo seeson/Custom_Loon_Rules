@@ -1,7 +1,7 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-18 07:12:22
+# UPDATED: 2025-11-19 07:12:22
 # TOTAL: 580
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 576
@@ -10,11 +10,8 @@ DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
-DOMAIN-SUFFIX,fbrpms.com
-DOMAIN-SUFFIX,facebvook.com
-DOMAIN-SUFFIX,bsky.social
-DOMAIN-SUFFIX,aboutfacebook.com
-DOMAIN-SUFFIX,accessfacebookfromschool.com
+DOMAIN-SUFFIX,fbsupport-covid.net
+DOMAIN-SUFFIX,facecbgook.com
 DOMAIN-SUFFIX,acebooik.com
 DOMAIN-SUFFIX,acebook.com
 DOMAIN-SUFFIX,advancediddetection.com
@@ -231,10 +228,10 @@ DOMAIN-SUFFIX,facebopk.com
 DOMAIN-SUFFIX,facebpook.com
 DOMAIN-SUFFIX,facebuk.com
 DOMAIN-SUFFIX,facebuok.com
-DOMAIN-SUFFIX,fbreg.com
+DOMAIN-SUFFIX,facebvook.com
 DOMAIN-SUFFIX,facebyook.com
 DOMAIN-SUFFIX,facebzook.com
-DOMAIN-SUFFIX,facecbgook.com
+DOMAIN-SUFFIX,fbsbx.net
 DOMAIN-SUFFIX,facecbook.com
 DOMAIN-SUFFIX,facecbook.org
 DOMAIN-SUFFIX,facecook.com
@@ -291,15 +288,15 @@ DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbfeedback.com
 DOMAIN-SUFFIX,fbhome.com
-DOMAIN-SUFFIX,fbmarketing.com
+DOMAIN-SUFFIX,fbidb.io
 DOMAIN-SUFFIX,fbinc.com
 DOMAIN-SUFFIX,fbinnovation.com
-DOMAIN-SUFFIX,fbidb.io
-DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbsbx.net
-DOMAIN-SUFFIX,fbsupport-covid.net
+DOMAIN-SUFFIX,fbreg.com
+DOMAIN-SUFFIX,fbrpms.com
+DOMAIN-SUFFIX,fbmarketing.com
+DOMAIN-SUFFIX,accessfacebookfromschool.com
+DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,fbthirdpartypixel.com
 DOMAIN-SUFFIX,fbthirdpartypixel.net
 DOMAIN-SUFFIX,fbthirdpartypixel.org
@@ -506,6 +503,9 @@ DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,vkvideo.ru
 DOMAIN-SUFFIX,vkuservideo.ru
 DOMAIN-SUFFIX,vkuservideo.net
@@ -517,9 +517,6 @@ DOMAIN-SUFFIX,vkuseraudio.ru
 DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuser.net
-DOMAIN-SUFFIX,vkontakte.ru
-DOMAIN-SUFFIX,vkmessenger.com
-DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
@@ -542,16 +539,16 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,vkontakte.ru
+DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,vklive.app
-DOMAIN-SUFFIX,vkgo.app
-DOMAIN-SUFFIX,vkcache.com
-DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,vk-apps.com
+DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-cdn.me
 DOMAIN-SUFFIX,vk-cdn.net
@@ -564,6 +561,9 @@ DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
 DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.ru
+DOMAIN-SUFFIX,vk.team
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,mk.shrimpia.network
