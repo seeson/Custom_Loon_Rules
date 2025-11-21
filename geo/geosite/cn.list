@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-21 07:12:51
-# TOTAL: 117157
-# DOMAIN-SUFFIX: 117157
+# UPDATED: 2025-11-22 07:11:54
+# TOTAL: 117162
+# DOMAIN-SUFFIX: 117162
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,juzhi720.com
-DOMAIN-SUFFIX,vp6.co
+DOMAIN-SUFFIX,sgjyq.com
 DOMAIN-SUFFIX,0311hd.com
 DOMAIN-SUFFIX,0311led.com
 DOMAIN-SUFFIX,0311wifi.com
@@ -6169,6 +6169,7 @@ DOMAIN-SUFFIX,5zhr.com
 DOMAIN-SUFFIX,5zls.com
 DOMAIN-SUFFIX,5zw.com
 DOMAIN-SUFFIX,6-china.com
+DOMAIN-SUFFIX,6-u.com
 DOMAIN-SUFFIX,600064.com
 DOMAIN-SUFFIX,600083.com
 DOMAIN-SUFFIX,600086.com
@@ -33662,7 +33663,7 @@ DOMAIN-SUFFIX,fangkuai.com
 DOMAIN-SUFFIX,fangkuai.link
 DOMAIN-SUFFIX,fangkuaiwang.com
 DOMAIN-SUFFIX,fangkuaiyi.com
-DOMAIN-SUFFIX,jxkp.com
+DOMAIN-SUFFIX,fanglb.com
 DOMAIN-SUFFIX,fangle.com
 DOMAIN-SUFFIX,fangliju.com
 DOMAIN-SUFFIX,fanglimei.com
@@ -52609,6 +52610,7 @@ DOMAIN-SUFFIX,imsilkroad.com
 DOMAIN-SUFFIX,imsinoexpo.com
 DOMAIN-SUFFIX,imsle.com
 DOMAIN-SUFFIX,imsun.net
+DOMAIN-SUFFIX,imsyy.com
 DOMAIN-SUFFIX,imtaweb.net
 DOMAIN-SUFFIX,imtics.com
 DOMAIN-SUFFIX,imtuan.com
@@ -58604,11 +58606,11 @@ DOMAIN-SUFFIX,jxjt666.com
 DOMAIN-SUFFIX,jxjuwentech.com
 DOMAIN-SUFFIX,jxjx6.com
 DOMAIN-SUFFIX,jxjywater.com
-DOMAIN-SUFFIX,worldhotel.com
+DOMAIN-SUFFIX,jxkeda.com
+DOMAIN-SUFFIX,jxkjzb.com
+DOMAIN-SUFFIX,kdzxedu.com
 DOMAIN-SUFFIX,03118888.com
-DOMAIN-SUFFIX,fanglb.com
-DOMAIN-SUFFIX,jxksw.net
-DOMAIN-SUFFIX,jxlgjd.com
+DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,jxln.com
 DOMAIN-SUFFIX,zzfly.net
 DOMAIN-SUFFIX,jxlong.com
@@ -59580,7 +59582,7 @@ DOMAIN-SUFFIX,kdued.com
 DOMAIN-SUFFIX,kdweibo.com
 DOMAIN-SUFFIX,kdzs.com
 DOMAIN-SUFFIX,kdzwy.com
-DOMAIN-SUFFIX,kdzxedu.com
+DOMAIN-SUFFIX,jxkp.com
 DOMAIN-SUFFIX,ke-chuang.com
 DOMAIN-SUFFIX,ke.com
 DOMAIN-SUFFIX,ke51.com
@@ -59704,6 +59706,7 @@ DOMAIN-SUFFIX,kekebaby.com
 DOMAIN-SUFFIX,kekedj.com
 DOMAIN-SUFFIX,kekegold.com
 DOMAIN-SUFFIX,kekenet.com
+DOMAIN-SUFFIX,kekeniu.com
 DOMAIN-SUFFIX,kekeshici.com
 DOMAIN-SUFFIX,kekexueba.com
 DOMAIN-SUFFIX,kekeyuyin.com
@@ -79644,6 +79647,7 @@ DOMAIN-SUFFIX,qzhospital.com
 DOMAIN-SUFFIX,qzhrkj.com
 DOMAIN-SUFFIX,qzhsjc.com
 DOMAIN-SUFFIX,qzhslw.com
+DOMAIN-SUFFIX,qzhuye.com
 DOMAIN-SUFFIX,qzhxshipping.com
 DOMAIN-SUFFIX,qzimg.com
 DOMAIN-SUFFIX,qzj2.com
@@ -83584,7 +83588,7 @@ DOMAIN-SUFFIX,sgjq.net
 DOMAIN-SUFFIX,sgjsgf.com
 DOMAIN-SUFFIX,sgjwb.com
 DOMAIN-SUFFIX,sgjy169.com
-DOMAIN-SUFFIX,sgjyq.com
+DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,sgla.com
 DOMAIN-SUFFIX,sglituo.com
 DOMAIN-SUFFIX,sgliulian.com
@@ -96862,6 +96866,7 @@ DOMAIN-SUFFIX,viablife.com
 DOMAIN-SUFFIX,viaeda.com
 DOMAIN-SUFFIX,vial.cc
 DOMAIN-SUFFIX,viarmour.com
+DOMAIN-SUFFIX,viayoo.com
 DOMAIN-SUFFIX,viberom.com
 DOMAIN-SUFFIX,vibit.cc
 DOMAIN-SUFFIX,vibrou.com
@@ -97421,7 +97426,7 @@ DOMAIN-SUFFIX,voxlearning.com
 DOMAIN-SUFFIX,voxpie.com
 DOMAIN-SUFFIX,voycn.com
 DOMAIN-SUFFIX,vp3u.com
-DOMAIN-SUFFIX,jxkjzb.com
+DOMAIN-SUFFIX,vp6.co
 DOMAIN-SUFFIX,vpabrand.com
 DOMAIN-SUFFIX,vpal.com
 DOMAIN-SUFFIX,vpalstatic.com
@@ -100883,7 +100888,7 @@ DOMAIN-SUFFIX,worldfcdn.com
 DOMAIN-SUFFIX,worldgoodvoices.com
 DOMAIN-SUFFIX,worldh5.com
 DOMAIN-SUFFIX,worldhello.net
-DOMAIN-SUFFIX,jxkeda.com
+DOMAIN-SUFFIX,worldhotel.com
 DOMAIN-SUFFIX,worldhub.market
 DOMAIN-SUFFIX,worldinout.com
 DOMAIN-SUFFIX,worldjiasu.com
@@ -113754,7 +113759,7 @@ DOMAIN-SUFFIX,zhipeix.com
 DOMAIN-SUFFIX,zhiper.com
 DOMAIN-SUFFIX,zhipianbang.com
 DOMAIN-SUFFIX,zhipianbang.vip
-DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,jxlgjd.com
 DOMAIN-SUFFIX,zhipingke.com
 DOMAIN-SUFFIX,zhipuzi.com
 DOMAIN-SUFFIX,zhiqi.info
