@@ -1,10 +1,10 @@
 # NAME: category-entertainment-cn@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-23 07:12:32
+# UPDATED: 2025-11-24 07:11:49
 # TOTAL: 3
 # DOMAIN-SUFFIX: 2
 
+DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,aki-game.com
-DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
