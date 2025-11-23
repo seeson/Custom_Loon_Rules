@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 362
-# DOMAIN-SUFFIX: 116618
-# TOTAL: 116980
+# DOMAIN-SUFFIX: 116616
+# TOTAL: 116978
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -36427,18 +36427,15 @@ DOMAIN-SUFFIX,frp-air.com
 DOMAIN-SUFFIX,frp-all.com
 DOMAIN-SUFFIX,frp-any.com
 DOMAIN-SUFFIX,frp-arm.com
-DOMAIN-SUFFIX,frp-art.com
 DOMAIN-SUFFIX,frp-bag.com
 DOMAIN-SUFFIX,frp-bar.com
 DOMAIN-SUFFIX,frp-bid.com
 DOMAIN-SUFFIX,frp-box.com
 DOMAIN-SUFFIX,frp-boy.com
 DOMAIN-SUFFIX,frp-bus.com
-DOMAIN-SUFFIX,frp-car.com
 DOMAIN-SUFFIX,frp-china.net
 DOMAIN-SUFFIX,frp-dad.com
 DOMAIN-SUFFIX,frp-dog.com
-DOMAIN-SUFFIX,frp-dry.com
 DOMAIN-SUFFIX,frp-egg.com
 DOMAIN-SUFFIX,frp-end.com
 DOMAIN-SUFFIX,frp-era.com
@@ -36455,18 +36452,17 @@ DOMAIN-SUFFIX,frp-hen.com
 DOMAIN-SUFFIX,frp-hip.com
 DOMAIN-SUFFIX,frp-hub.com
 DOMAIN-SUFFIX,frp-ice.com
+DOMAIN-SUFFIX,frp-jar.com
 DOMAIN-SUFFIX,frp-key.com
 DOMAIN-SUFFIX,frp-kit.com
 DOMAIN-SUFFIX,frp-lab.com
 DOMAIN-SUFFIX,frp-leg.com
 DOMAIN-SUFFIX,frp-mad.com
-DOMAIN-SUFFIX,frp-man.com
 DOMAIN-SUFFIX,frp-mix.com
 DOMAIN-SUFFIX,frp-mom.com
 DOMAIN-SUFFIX,frp-net.com
 DOMAIN-SUFFIX,frp-now.com
 DOMAIN-SUFFIX,frp-nut.com
-DOMAIN-SUFFIX,frp-oak.com
 DOMAIN-SUFFIX,frp-off.com
 DOMAIN-SUFFIX,frp-oil.com
 DOMAIN-SUFFIX,frp-one.com
@@ -36481,6 +36477,8 @@ DOMAIN-SUFFIX,frp-sea.com
 DOMAIN-SUFFIX,frp-shy.com
 DOMAIN-SUFFIX,frp-six.com
 DOMAIN-SUFFIX,frp-ski.com
+DOMAIN-SUFFIX,frp-sun.com
+DOMAIN-SUFFIX,frp-tag.com
 DOMAIN-SUFFIX,frpapp.com
 DOMAIN-SUFFIX,frt.ltd
 DOMAIN-SUFFIX,frtgraphite.com
