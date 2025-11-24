@@ -1,27 +1,28 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-24 07:11:44
-# TOTAL: 55
+# UPDATED: 2025-11-25 07:12:03
+# TOTAL: 56
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 53
+# DOMAIN-SUFFIX: 54
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,yoma.cn
-DOMAIN-SUFFIX,butterfly-static.cn
-DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,faxingbao.com
+DOMAIN-SUFFIX,picpic-ai.cn
+DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,tongyi.com
-DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
@@ -32,11 +33,11 @@ DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,namiso.com
-DOMAIN-SUFFIX,rwkv.cn
-DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,miaoyanai.com
-DOMAIN-SUFFIX,rwkv.com
-DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,butterflyai.cn
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.site
 DOMAIN-SUFFIX,cozebaas.cn
@@ -47,17 +48,17 @@ DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,maoxiangai.com
 DOMAIN-SUFFIX,myparallelstory.com
-DOMAIN-SUFFIX,picpic-ai.cn
+DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,pixeldance.com
 DOMAIN-SUFFIX,doudou.com
 DOMAIN-SUFFIX,marscode.cn
-DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
-DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn

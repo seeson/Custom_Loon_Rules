@@ -1,17 +1,15 @@
 # NAME: cbs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-24 07:11:59
-# TOTAL: 31
+# UPDATED: 2025-11-25 07:12:19
+# TOTAL: 29
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 27
+# DOMAIN-SUFFIX: 25
 
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,link.theplatform.com
-DOMAIN-SUFFIX,cbs
-DOMAIN-SUFFIX,showtime
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
