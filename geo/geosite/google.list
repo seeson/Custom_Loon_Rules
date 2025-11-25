@@ -1,7 +1,7 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-10-21 04:12:10
+# UPDATED: 2025-11-26 04:12:03
 # DOMAIN: 257
 # DOMAIN-SUFFIX: 826
 # TOTAL: 1083
@@ -284,7 +284,7 @@ DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
-DOMAIN-SUFFIX,and
+DOMAIN-SUFFIX,android
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,angulardart.org
