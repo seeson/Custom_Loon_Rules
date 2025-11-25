@@ -1,8 +1,8 @@
-# NAME: clearbitjs-ads
+# NAME: bing@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-26 07:12:33
+# UPDATED: 2025-11-26 07:12:02
 # TOTAL: 1
 # DOMAIN-SUFFIX: 1
 
-DOMAIN-SUFFIX,x.clearbitjs.com
+DOMAIN-SUFFIX,bingads.com

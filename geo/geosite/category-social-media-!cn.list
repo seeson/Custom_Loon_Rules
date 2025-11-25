@@ -1,17 +1,17 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-25 07:12:17
-# TOTAL: 580
+# UPDATED: 2025-11-26 07:12:26
+# TOTAL: 579
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 576
+# DOMAIN-SUFFIX: 575
 
 DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN-SUFFIX,facebooksignup.net
-DOMAIN-SUFFIX,facebookck.com
+DOMAIN-SUFFIX,facebookcoronavirus.com
 DOMAIN-SUFFIX,oekakiskey.com
 DOMAIN-SUFFIX,maniakey.homes
 DOMAIN-SUFFIX,misskey.gg
@@ -31,9 +31,9 @@ DOMAIN-SUFFIX,misskey.flowers
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linkedin.at
@@ -44,25 +44,24 @@ DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,oninstagram.com
-DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
-DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterstat.us
-DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,lnstagram-help.com
@@ -221,7 +220,6 @@ DOMAIN-SUFFIX,facebook30.com
 DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
-DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,facebookatschool.com
 DOMAIN-SUFFIX,facebookawards.com
@@ -231,11 +229,11 @@ DOMAIN-SUFFIX,facebookbrand.net
 DOMAIN-SUFFIX,facebookcanadianelectionintegrityinitiative.com
 DOMAIN-SUFFIX,facebookcareer.com
 DOMAIN-SUFFIX,facebookcheats.com
-DOMAIN-SUFFIX,facebookshop.com
+DOMAIN-SUFFIX,facebookck.com
 DOMAIN-SUFFIX,facebookclub.com
 DOMAIN-SUFFIX,facebookcom.com
 DOMAIN-SUFFIX,facebookconsultant.org
-DOMAIN-SUFFIX,facebookcoronavirus.com
+DOMAIN-SUFFIX,facebooksite.net
 DOMAIN-SUFFIX,facebookcovers.org
 DOMAIN-SUFFIX,facebookcredits.info
 DOMAIN-SUFFIX,facebookdating.net
@@ -291,14 +289,14 @@ DOMAIN-SUFFIX,facebookpokerchips.info
 DOMAIN-SUFFIX,facebookporn.net
 DOMAIN-SUFFIX,facebookporn.org
 DOMAIN-SUFFIX,facebookporno.net
-DOMAIN-SUFFIX,facebooksecurity.net
+DOMAIN-SUFFIX,facebookportal.com
 DOMAIN-SUFFIX,facebooks.com
 DOMAIN-SUFFIX,facebooksafety.com
-DOMAIN-SUFFIX,facebookportal.com
+DOMAIN-SUFFIX,facebooksecurity.net
+DOMAIN-SUFFIX,facebookshop.com
+DOMAIN-SUFFIX,facwebook.com
 DOMAIN-SUFFIX,misskeyusercontent.jp
-DOMAIN-SUFFIX,instagramtakipcisatinal.net
-DOMAIN-SUFFIX,facebooksite.net
-DOMAIN-SUFFIX,facebookstories.com
+DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,facebookstudios.net
 DOMAIN-SUFFIX,facebookstudios.org
 DOMAIN-SUFFIX,facebooksupplier.com
@@ -359,7 +357,7 @@ DOMAIN-SUFFIX,fackebook.com
 DOMAIN-SUFFIX,facnbook.com
 DOMAIN-SUFFIX,facrbook.com
 DOMAIN-SUFFIX,facvebook.com
-DOMAIN-SUFFIX,facwebook.com
+DOMAIN-SUFFIX,facebookstories.com
 DOMAIN-SUFFIX,facxebook.com
 DOMAIN-SUFFIX,fadebook.com
 DOMAIN-SUFFIX,faebok.com
@@ -548,7 +546,7 @@ DOMAIN-SUFFIX,instagrampartners.com
 DOMAIN-SUFFIX,instagramphoto.com
 DOMAIN-SUFFIX,instagramq.com
 DOMAIN-SUFFIX,instagramsepeti.com
-DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,instagramtakipcisatinal.net
 DOMAIN-SUFFIX,instagramtakiphilesi.com
 DOMAIN-SUFFIX,instagramtips.com
 DOMAIN-SUFFIX,instagramtr.com
@@ -582,6 +580,7 @@ DOMAIN-SUFFIX,misskey.noellabo.jp
 DOMAIN-SUFFIX,misskey.gamelore.fun
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,twitter.map.fastly.net
+DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,licdn.cn
