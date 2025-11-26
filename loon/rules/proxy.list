@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 88
-# DOMAIN-SUFFIX: 27085
-# TOTAL: 27173
+# DOMAIN-SUFFIX: 27087
+# TOTAL: 27175
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -1328,6 +1328,7 @@ DOMAIN-SUFFIX,akiba-web.com
 DOMAIN-SUFFIX,akinator.com
 DOMAIN-SUFFIX,akita-bank.co.jp
 DOMAIN-SUFFIX,akow.org
+DOMAIN-SUFFIX,akstat.io
 DOMAIN-SUFFIX,akthelp.com
 DOMAIN-SUFFIX,al-islam.com
 DOMAIN-SUFFIX,al-qimmah.net
@@ -26485,6 +26486,7 @@ DOMAIN-SUFFIX,yandex.st
 DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
+DOMAIN-SUFFIX,yandex.tr
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
