@@ -1,0 +1,11 @@
+# NAME: comfy
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-11-28 07:12:29
+# TOTAL: 4
+# DOMAIN-SUFFIX: 4
+
+DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,comfyregistry.org
+DOMAIN-SUFFIX,oystermercury.top

@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-26 07:12:35
-# TOTAL: 117310
-# DOMAIN-SUFFIX: 117310
+# UPDATED: 2025-11-28 07:12:27
+# TOTAL: 117314
+# DOMAIN-SUFFIX: 117314
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juzhiliang.com
-DOMAIN-SUFFIX,benlong.vip
+DOMAIN-SUFFIX,juzhiyuan.com
+DOMAIN-SUFFIX,96590.net
 DOMAIN-SUFFIX,0311hd.com
 DOMAIN-SUFFIX,0311led.com
 DOMAIN-SUFFIX,0311wifi.com
@@ -8371,7 +8371,7 @@ DOMAIN-SUFFIX,96533.com
 DOMAIN-SUFFIX,965373.com
 DOMAIN-SUFFIX,96558.com
 DOMAIN-SUFFIX,96567.com
-DOMAIN-SUFFIX,96590.net
+DOMAIN-SUFFIX,jxln.com
 DOMAIN-SUFFIX,9663.com
 DOMAIN-SUFFIX,9665.com
 DOMAIN-SUFFIX,966599.com
@@ -14519,7 +14519,7 @@ DOMAIN-SUFFIX,benling-sh.com
 DOMAIN-SUFFIX,benliuxinwen.com
 DOMAIN-SUFFIX,benlizu.com
 DOMAIN-SUFFIX,benlkjc.com
-DOMAIN-SUFFIX,jxlgjd.com
+DOMAIN-SUFFIX,benlong.vip
 DOMAIN-SUFFIX,benma.com
 DOMAIN-SUFFIX,benmi.com
 DOMAIN-SUFFIX,benmu-health.com
@@ -19733,7 +19733,7 @@ DOMAIN-SUFFIX,cgzj.com
 DOMAIN-SUFFIX,cgzy.net
 DOMAIN-SUFFIX,cgzyw.com
 DOMAIN-SUFFIX,ch-auto.com
-DOMAIN-SUFFIX,jxln.com
+DOMAIN-SUFFIX,ch-gk.com
 DOMAIN-SUFFIX,ch-guerrant.com
 DOMAIN-SUFFIX,ch-tools.com
 DOMAIN-SUFFIX,ch-water.com
@@ -25278,6 +25278,7 @@ DOMAIN-SUFFIX,cqshulan.com
 DOMAIN-SUFFIX,cqshyzx.com
 DOMAIN-SUFFIX,cqsifang.com
 DOMAIN-SUFFIX,cqsj365.com
+DOMAIN-SUFFIX,cqsjb.com
 DOMAIN-SUFFIX,cqsjbc.com
 DOMAIN-SUFFIX,cqsjky.com
 DOMAIN-SUFFIX,cqsjnzx.com
@@ -58514,8 +58515,8 @@ DOMAIN-SUFFIX,juzhen.io
 DOMAIN-SUFFIX,juzhentech.com
 DOMAIN-SUFFIX,juzhenyun.org
 DOMAIN-SUFFIX,juzhi720.com
+DOMAIN-SUFFIX,juzhiliang.com
 DOMAIN-SUFFIX,0.zone
-DOMAIN-SUFFIX,juzhiyuan.com
 DOMAIN-SUFFIX,juzhongjoy.com
 DOMAIN-SUFFIX,juzicon.com
 DOMAIN-SUFFIX,juzicy.com
@@ -58682,10 +58683,10 @@ DOMAIN-SUFFIX,jxjywater.com
 DOMAIN-SUFFIX,jxkeda.com
 DOMAIN-SUFFIX,jxkjzb.com
 DOMAIN-SUFFIX,jxkp.com
-DOMAIN-SUFFIX,ly-jz.com
+DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,wanyuwang.com
 DOMAIN-SUFFIX,03118888.com
-DOMAIN-SUFFIX,ch-gk.com
-DOMAIN-SUFFIX,zzfly.net
+DOMAIN-SUFFIX,kxxsc.com
 DOMAIN-SUFFIX,jxlong.com
 DOMAIN-SUFFIX,jxlpjt.com
 DOMAIN-SUFFIX,jxlsxy.com
@@ -59464,7 +59465,7 @@ DOMAIN-SUFFIX,kaojiaoshi.com
 DOMAIN-SUFFIX,kaojionline.com
 DOMAIN-SUFFIX,kaojuan.com
 DOMAIN-SUFFIX,kaola.com
-DOMAIN-SUFFIX,zzfeilu.com
+DOMAIN-SUFFIX,zzfly.net
 DOMAIN-SUFFIX,kaola100.com
 DOMAIN-SUFFIX,kaolacam.net
 DOMAIN-SUFFIX,kaolacdn.com
@@ -60093,7 +60094,7 @@ DOMAIN-SUFFIX,kingcms.com
 DOMAIN-SUFFIX,kingdaychina.com
 DOMAIN-SUFFIX,kingdee-soft.com
 DOMAIN-SUFFIX,kingdee.com
-DOMAIN-SUFFIX,zzfcw.com
+DOMAIN-SUFFIX,zzfeilu.com
 DOMAIN-SUFFIX,kingdee.org
 DOMAIN-SUFFIX,kingdeemall.com
 DOMAIN-SUFFIX,kingdeestar.com
@@ -60778,7 +60779,7 @@ DOMAIN-SUFFIX,ks321.com
 DOMAIN-SUFFIX,ks365.org
 DOMAIN-SUFFIX,ks51.com
 DOMAIN-SUFFIX,ks5u.com
-DOMAIN-SUFFIX,zzepa.org
+DOMAIN-SUFFIX,zzfcw.com
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,ksbao.cc
 DOMAIN-SUFFIX,ksbao.com
@@ -60844,7 +60845,7 @@ DOMAIN-SUFFIX,ksrmtzx.com
 DOMAIN-SUFFIX,ksrmyy.org
 DOMAIN-SUFFIX,ksruanjian.com
 DOMAIN-SUFFIX,kss4.com
-DOMAIN-SUFFIX,zzect.com
+DOMAIN-SUFFIX,zzepa.org
 DOMAIN-SUFFIX,kssjkj.com
 DOMAIN-SUFFIX,ksslxh.com
 DOMAIN-SUFFIX,kst-cn.com
@@ -61480,7 +61481,7 @@ DOMAIN-SUFFIX,kxue.com
 DOMAIN-SUFFIX,kxwell.com
 DOMAIN-SUFFIX,kxwxw.com
 DOMAIN-SUFFIX,kxx2.com
-DOMAIN-SUFFIX,kxxsc.com
+DOMAIN-SUFFIX,zzect.com
 DOMAIN-SUFFIX,kxxxl.com
 DOMAIN-SUFFIX,kxyyf.com
 DOMAIN-SUFFIX,ky-express.com
@@ -65732,7 +65733,7 @@ DOMAIN-SUFFIX,lxzjjt.com
 DOMAIN-SUFFIX,lxzrmyy.com
 DOMAIN-SUFFIX,lxzwedu.com
 DOMAIN-SUFFIX,ly-eps.com
-DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,ly-jz.com
 DOMAIN-SUFFIX,ly-meet.com
 DOMAIN-SUFFIX,ly-qiche.com
 DOMAIN-SUFFIX,ly-sky.com
@@ -98375,7 +98376,7 @@ DOMAIN-SUFFIX,wanyujy.com
 DOMAIN-SUFFIX,wanyumi.com
 DOMAIN-SUFFIX,wanyunshuju.com
 DOMAIN-SUFFIX,wanyuproperty.com
-DOMAIN-SUFFIX,wanyuwang.com
+DOMAIN-SUFFIX,jxlgjd.com
 DOMAIN-SUFFIX,wanyx.com
 DOMAIN-SUFFIX,wanzaiwater.com
 DOMAIN-SUFFIX,wanzcm.com
@@ -102995,6 +102996,7 @@ DOMAIN-SUFFIX,xhjt.com
 DOMAIN-SUFFIX,xhkt.tv
 DOMAIN-SUFFIX,xhlaowu.com
 DOMAIN-SUFFIX,xhlcsl.com
+DOMAIN-SUFFIX,xhlsgs.com
 DOMAIN-SUFFIX,xhma.com
 DOMAIN-SUFFIX,xhmedia.com
 DOMAIN-SUFFIX,xhmwxy.com
@@ -104518,6 +104520,7 @@ DOMAIN-SUFFIX,xinwengood.com
 DOMAIN-SUFFIX,xinwenku.com
 DOMAIN-SUFFIX,xinwenlianbo.tv
 DOMAIN-SUFFIX,xinwo.com
+DOMAIN-SUFFIX,xinwuji.com
 DOMAIN-SUFFIX,xinwulan.com
 DOMAIN-SUFFIX,xinxe.com
 DOMAIN-SUFFIX,xinxi28.com
@@ -109590,6 +109593,7 @@ DOMAIN-SUFFIX,yoka.com
 DOMAIN-SUFFIX,yokacdn.com
 DOMAIN-SUFFIX,yokagames.com
 DOMAIN-SUFFIX,yokaimg.com
+DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,yokechina.com
 DOMAIN-SUFFIX,yokmob.com
 DOMAIN-SUFFIX,yokong.com
@@ -117136,11 +117140,11 @@ DOMAIN-SUFFIX,chinatelecom.com.hk
 DOMAIN-SUFFIX,laoevisa.gov.la
 DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX,icbc.com.pe
+DOMAIN-SUFFIX,jxlog.istreamsche.com
 DOMAIN-SUFFIX,kssip.msi.com
 DOMAIN-SUFFIX,ksair.com.tw
 DOMAIN-SUFFIX,kingdee.com.tw
 DOMAIN-SUFFIX,kaola.com.hk
-DOMAIN-SUFFIX,jxlog.istreamsche.com
 DOMAIN-SUFFIX,jd.co.th
 DOMAIN-SUFFIX,chinatelecom.com.mo
 DOMAIN-SUFFIX,chinaunicom.com.hk

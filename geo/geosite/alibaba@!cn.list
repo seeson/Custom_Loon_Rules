@@ -1,16 +1,24 @@
 # NAME: alibaba@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-26 07:11:48
-# TOTAL: 27
-# DOMAIN-SUFFIX: 27
+# UPDATED: 2025-11-28 07:11:35
+# TOTAL: 29
+# DOMAIN-SUFFIX: 29
 
 DOMAIN-SUFFIX,alihealth.hk
+DOMAIN-SUFFIX,ae-rus.net
+DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,fliggy.hk
+DOMAIN-SUFFIX,alibabacloud.co.in
+DOMAIN-SUFFIX,alibabacloud.com.au
+DOMAIN-SUFFIX,alibabacloud.com.hk
+DOMAIN-SUFFIX,alibabacloud.com.my
+DOMAIN-SUFFIX,alibabacloud.com.sg
+DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
@@ -26,9 +34,3 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
-DOMAIN-SUFFIX,alibabacloud.co.in
-DOMAIN-SUFFIX,alibabacloud.com.au
-DOMAIN-SUFFIX,alibabacloud.com.hk
-DOMAIN-SUFFIX,alibabacloud.com.my
-DOMAIN-SUFFIX,alibabacloud.com.sg
-DOMAIN-SUFFIX,alibabacloud.com.tw

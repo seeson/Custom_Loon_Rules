@@ -1,11 +1,11 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-26 07:12:12
+# UPDATED: 2025-11-28 07:12:01
 # TOTAL: 95
 # DOMAIN-SUFFIX: 95
 
-DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,lokinet.org
-DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,softether-download.com
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
@@ -48,9 +48,9 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,jorropo.net
@@ -67,15 +67,15 @@ DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,applecensorship.com

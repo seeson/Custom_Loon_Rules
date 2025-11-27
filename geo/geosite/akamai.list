@@ -1,9 +1,9 @@
 # NAME: akamai
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-26 07:11:47
-# TOTAL: 79
-# DOMAIN-SUFFIX: 79
+# UPDATED: 2025-11-28 07:11:35
+# TOTAL: 80
+# DOMAIN-SUFFIX: 80
 
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,akamqi.com
 DOMAIN-SUFFIX,akastream.com
 DOMAIN-SUFFIX,akastream.net
 DOMAIN-SUFFIX,akatns.net
+DOMAIN-SUFFIX,akstat.io
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,iamakamai.com
