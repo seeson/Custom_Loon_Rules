@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 87
-# TOTAL: 100
+# DOMAIN-SUFFIX: 91
+# TOTAL: 104
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,coze.com
@@ -95,6 +98,7 @@ DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,oystermercury.top
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,poe.com

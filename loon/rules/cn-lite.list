@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 459
-# DOMAIN-SUFFIX: 5322
-# TOTAL: 5781
+# DOMAIN-SUFFIX: 5323
+# TOTAL: 5782
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -918,6 +918,7 @@ DOMAIN-SUFFIX,alicloudapi.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alidayu.com
 DOMAIN-SUFFIX,alidns.com
+DOMAIN-SUFFIX,aliexpress-media.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alifanyi.com
