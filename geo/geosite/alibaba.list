@@ -1,7 +1,7 @@
 # NAME: alibaba
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-11-28 07:11:35
+# UPDATED: 2025-11-29 07:11:37
 # TOTAL: 372
 # DOMAIN-SUFFIX: 372
 
@@ -92,7 +92,7 @@ DOMAIN-SUFFIX,qingtingtrip.com
 DOMAIN-SUFFIX,rexpos.cn
 DOMAIN-SUFFIX,shenjing.com
 DOMAIN-SUFFIX,shuqi.com
-DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,teambitionapis.com
 DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,supet.com
@@ -147,7 +147,7 @@ DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,feizhu.cn
 DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,56che.com
-DOMAIN-SUFFIX,fcapp.run
+DOMAIN-SUFFIX,aliyuncdn.net
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.fm
 DOMAIN-SUFFIX,xiami.net
@@ -159,13 +159,18 @@ DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,kaolacdn.com
 DOMAIN-SUFFIX,lydaas.cn
 DOMAIN-SUFFIX,lydaas.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,ztna-dingtalk.com
 DOMAIN-SUFFIX,lydaas.net
 DOMAIN-SUFFIX,lydass.cn
-DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,lwurl.to
 DOMAIN-SUFFIX,lydass.net
+DOMAIN-SUFFIX,cainiao-inc.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,laiwang.com
 DOMAIN-SUFFIX,doservice.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to
@@ -174,6 +179,10 @@ DOMAIN-SUFFIX,eleme.io
 DOMAIN-SUFFIX,elemecdn.cn
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,elenet.me
+DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link
@@ -184,11 +193,6 @@ DOMAIN-SUFFIX,amapauto.com
 DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,gaode.com
-DOMAIN-SUFFIX,cainiao-inc.com
-DOMAIN-SUFFIX,cainiao.com
-DOMAIN-SUFFIX,cainiaoyizhan.com
-DOMAIN-SUFFIX,guoguo-app.com
-DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alicloud.com
 DOMAIN-SUFFIX,alibabadns.com
@@ -202,11 +206,11 @@ DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyun-iot-share.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
-DOMAIN-SUFFIX,aliyuncdn.net
+DOMAIN-SUFFIX,iuynfg.com
 DOMAIN-SUFFIX,aliyunfile.com
 DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,cdngslb.com
-DOMAIN-SUFFIX,iuynfg.com
+DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,kunlunaq.com
@@ -231,38 +235,34 @@ DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
-DOMAIN-SUFFIX,whalecloud.com
-DOMAIN-SUFFIX,uyunad.com
-DOMAIN-SUFFIX,umtrack.com
-DOMAIN-SUFFIX,umsns.com
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,shujupie.com
-DOMAIN-SUFFIX,puata.info
-DOMAIN-SUFFIX,mobmore.com
-DOMAIN-SUFFIX,cnzz.com
-DOMAIN-SUFFIX,uczzd.cn
-DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,dingtalkcloud.com
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,uc123.com
-DOMAIN-SUFFIX,ddurl.to
-DOMAIN-SUFFIX,dingding.xin
-DOMAIN-SUFFIX,dingtalk.cn
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingtalk.net
-DOMAIN-SUFFIX,dingtalkapps.com
-DOMAIN-SUFFIX,dingtalkcloud.com
-DOMAIN-SUFFIX,laiwang.com
-DOMAIN-SUFFIX,lwurl.to
-DOMAIN-SUFFIX,ztna-dingtalk.com
-DOMAIN-SUFFIX,teambition.com
-DOMAIN-SUFFIX,teambition.net
-DOMAIN-SUFFIX,teambitionapis.com
-DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,mobmore.com
+DOMAIN-SUFFIX,puata.info
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,umtrack.com
+DOMAIN-SUFFIX,uyunad.com
+DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,oss-cn-huhehaote.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-shenzhen.aliyuncs.com

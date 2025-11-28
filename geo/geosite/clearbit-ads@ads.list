@@ -1,0 +1,10 @@
+# NAME: clearbit-ads@ads
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2025-11-29 07:12:33
+# TOTAL: 3
+# DOMAIN-SUFFIX: 3
+
+DOMAIN-SUFFIX,clearbit.com
+DOMAIN-SUFFIX,clearbitjs.com
+DOMAIN-SUFFIX,clearbitscripts.com
