@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 459
-# DOMAIN-SUFFIX: 5323
-# TOTAL: 5782
+# DOMAIN-SUFFIX: 5325
+# TOTAL: 5784
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -3709,6 +3709,7 @@ DOMAIN-SUFFIX,meixincdn.com
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,mengtuoshi.wang
 DOMAIN-SUFFIX,merach.com
+DOMAIN-SUFFIX,meta.law
 DOMAIN-SUFFIX,metalrevolution.com
 DOMAIN-SUFFIX,metatrader4.com
 DOMAIN-SUFFIX,metatrader5.com
@@ -5372,6 +5373,7 @@ DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,xiaoyuxitong.com
 DOMAIN-SUFFIX,xiayx.com
 DOMAIN-SUFFIX,xiazaiba.com
+DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,xiguaapp.com
 DOMAIN-SUFFIX,xiguashipin.net
 DOMAIN-SUFFIX,xiguavideo.net
