@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 459
-# DOMAIN-SUFFIX: 5325
-# TOTAL: 5784
+# DOMAIN-SUFFIX: 5332
+# TOTAL: 5791
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -3690,6 +3690,8 @@ DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,medicexam.net
 DOMAIN-SUFFIX,meegobeta.com
 DOMAIN-SUFFIX,mei.com
+DOMAIN-SUFFIX,meican.com
+DOMAIN-SUFFIX,meicanstatic.com
 DOMAIN-SUFFIX,meifang.com
 DOMAIN-SUFFIX,meika360.com
 DOMAIN-SUFFIX,meilishuo.com
@@ -4074,6 +4076,7 @@ DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,pn1waq.com
 DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,pniao.com
+DOMAIN-SUFFIX,podcast.xyz
 DOMAIN-SUFFIX,poizon-inner.com
 DOMAIN-SUFFIX,poizon-inner.net
 DOMAIN-SUFFIX,poizon-support.com
@@ -5371,6 +5374,7 @@ DOMAIN-SUFFIX,xiaoxiaapi.com
 DOMAIN-SUFFIX,xiaoxiongxitong.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,xiaoyuxitong.com
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,xiayx.com
 DOMAIN-SUFFIX,xiazaiba.com
 DOMAIN-SUFFIX,xiezuocat.com
@@ -5467,6 +5471,9 @@ DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xywy.com
+DOMAIN-SUFFIX,xyzcdn.net
+DOMAIN-SUFFIX,xyzfm.link
+DOMAIN-SUFFIX,xyzfm.space
 DOMAIN-SUFFIX,xzking.com
 DOMAIN-SUFFIX,yach.me
 DOMAIN-SUFFIX,yahui.cc
