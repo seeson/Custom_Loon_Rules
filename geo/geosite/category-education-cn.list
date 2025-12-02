@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-02 07:13:06
+# UPDATED: 2025-12-03 07:12:08
 # TOTAL: 116
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 113
@@ -15,27 +15,27 @@ DOMAIN-SUFFIX,chesicc.com
 DOMAIN-SUFFIX,chesicc.net
 DOMAIN-SUFFIX,chsi.cn
 DOMAIN-SUFFIX,gfbzb.cn
-DOMAIN-SUFFIX,yeshj.com
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,shareintelli.com
 DOMAIN-SUFFIX,hugecore.net
 DOMAIN-SUFFIX,gfbzb.com
 DOMAIN-SUFFIX,applysquare.net
 DOMAIN-SUFFIX,applysquare.com
-DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,ncss.cn
-DOMAIN-SUFFIX,fenbilantian.cn
-DOMAIN-SUFFIX,fenbike.com
-DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,cedf.cn
 DOMAIN-SUFFIX,zbbm.net
-DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,smartedu.cn
 DOMAIN-SUFFIX,cugbonline.cn
 DOMAIN-SUFFIX,zhihuishu.com
@@ -65,7 +65,7 @@ DOMAIN-SUFFIX,91yunxiao.com
 DOMAIN-SUFFIX,aiyunxiao.com
 DOMAIN-SUFFIX,haofenshu.com
 DOMAIN-SUFFIX,iyunxiao.com
-DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,fenbilantian.com
 DOMAIN-SUFFIX,ketangpai.com
 DOMAIN-SUFFIX,chesicc.cn
 DOMAIN-SUFFIX,pigai.org
@@ -79,10 +79,6 @@ DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,winyoungreading.com
 DOMAIN-SUFFIX,saduck.top
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,shanbay.com
-DOMAIN-SUFFIX,rainclassroom.com
-DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,cnmooc.org
 DOMAIN-SUFFIX,icourse163.org
@@ -90,21 +86,25 @@ DOMAIN-SUFFIX,icourses.cn
 DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,pmphmooc.com
-DOMAIN-SUFFIX,yuantiku.com
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.net
+DOMAIN-SUFFIX,fenbilantian.cn
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com
 DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koopass.com
-DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
 DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,yuantiku.com
+DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,qgzb.com.cn
 DOMAIN-SUFFIX,icve.com.cn
