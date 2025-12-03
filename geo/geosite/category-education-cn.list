@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-03 07:12:08
+# UPDATED: 2025-12-04 07:11:09
 # TOTAL: 116
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 113
@@ -18,11 +18,11 @@ DOMAIN-SUFFIX,gfbzb.cn
 DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,shanbay.com
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,mojidict.com
-DOMAIN-SUFFIX,shareintelli.com
-DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,yeshj.com
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,gfbzb.com
 DOMAIN-SUFFIX,applysquare.net
 DOMAIN-SUFFIX,applysquare.com
@@ -87,14 +87,14 @@ DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,fenbilantian.cn
-DOMAIN-SUFFIX,cctalk.com
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,yeshj.com
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,baydn.com
+DOMAIN-SUFFIX,shanbay.com
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
