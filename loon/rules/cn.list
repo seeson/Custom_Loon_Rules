@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 362
-# DOMAIN-SUFFIX: 116714
-# TOTAL: 117076
+# DOMAIN-SUFFIX: 116715
+# TOTAL: 117077
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -45028,6 +45028,7 @@ DOMAIN-SUFFIX,hapierxia.com
 DOMAIN-SUFFIX,hapingapp.com
 DOMAIN-SUFFIX,hapipixia.com
 DOMAIN-SUFFIX,hapiyixia.com
+DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,haplat.net
 DOMAIN-SUFFIX,happi123.com
 DOMAIN-SUFFIX,happigo.com
