@@ -1,16 +1,17 @@
 # NAME: category-game-accelerator-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-06 07:12:51
-# TOTAL: 35
-# DOMAIN-SUFFIX: 35
+# UPDATED: 2025-12-07 07:12:32
+# TOTAL: 36
+# DOMAIN-SUFFIX: 36
 
+DOMAIN-SUFFIX,htjsq.mobi
+DOMAIN-SUFFIX,ccspeed.cn
+DOMAIN-SUFFIX,qiyou.cn
 DOMAIN-SUFFIX,htjsq.com
 DOMAIN-SUFFIX,xunyou.com
-DOMAIN-SUFFIX,guaiku.com
-DOMAIN-SUFFIX,htjsq.mobi
 DOMAIN-SUFFIX,bohejiasuqi.com
-DOMAIN-SUFFIX,fhyx.com
+DOMAIN-SUFFIX,guaiku.com
 DOMAIN-SUFFIX,golink.com
 DOMAIN-SUFFIX,golinkapi.com
 DOMAIN-SUFFIX,golinkcn.com
@@ -20,16 +21,16 @@ DOMAIN-SUFFIX,steam302.xyz
 DOMAIN-SUFFIX,benfuip.com
 DOMAIN-SUFFIX,funjsq.com
 DOMAIN-SUFFIX,biubiu001.com
-DOMAIN-SUFFIX,qiyou.cn
-DOMAIN-SUFFIX,et-api.com
 DOMAIN-SUFFIX,tmjiasuqi.com
+DOMAIN-SUFFIX,et-api.com
 DOMAIN-SUFFIX,leigod.com
+DOMAIN-SUFFIX,fhyx.com
 DOMAIN-SUFFIX,akspeedy.com
 DOMAIN-SUFFIX,yebaojiasu.com
 DOMAIN-SUFFIX,liuxing.com
 DOMAIN-SUFFIX,lxjiasu.com
 DOMAIN-SUFFIX,ggkuai.com
-DOMAIN-SUFFIX,ccspeed.cn
+DOMAIN-SUFFIX,leigod.cn
 DOMAIN-SUFFIX,yuelun.com
 DOMAIN-SUFFIX,gijsq.com
 DOMAIN-SUFFIX,kk1.vip
@@ -38,5 +39,5 @@ DOMAIN-SUFFIX,fnjiasu.com
 DOMAIN-SUFFIX,lorhf.com
 DOMAIN-SUFFIX,oojsq.com
 DOMAIN-SUFFIX,et001.com
-DOMAIN-SUFFIX,jiasu.bohe.com
 DOMAIN-SUFFIX,uu.163.com
+DOMAIN-SUFFIX,jiasu.bohe.com
