@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 35
-# DOMAIN-SUFFIX: 694
-# TOTAL: 729
+# DOMAIN-SUFFIX: 700
+# TOTAL: 735
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,apexlegends.com
+DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
@@ -194,6 +195,8 @@ DOMAIN-SUFFIX,egdownload.fastly-edge.com
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,electronicarts.com
 DOMAIN-SUFFIX,electronicarts.fr
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicgamescdn.com
@@ -202,6 +205,8 @@ DOMAIN-SUFFIX,excitebots.com
 DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,fab.com
 DOMAIN-SUFFIX,fabricmc.net
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
@@ -504,6 +509,7 @@ DOMAIN-SUFFIX,rbxcdn.com
 DOMAIN-SUFFIX,rbxinfra.net
 DOMAIN-SUFFIX,rbxlabs.com
 DOMAIN-SUFFIX,rbxtrk.com
+DOMAIN-SUFFIX,reachthefinals.com
 DOMAIN-SUFFIX,realityscan.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,rgpub.io

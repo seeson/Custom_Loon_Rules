@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5354
-# TOTAL: 5811
+# DOMAIN-SUFFIX: 5359
+# TOTAL: 5816
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -1913,6 +1913,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanvoice.com
 DOMAIN-SUFFIX,dandanzan.com
 DOMAIN-SUFFIX,dangbei.com
+DOMAIN-SUFFIX,dangbei.net
 DOMAIN-SUFFIX,dangdang.com
 DOMAIN-SUFFIX,danji100.com
 DOMAIN-SUFFIX,danji6.com
@@ -4124,6 +4125,7 @@ DOMAIN-SUFFIX,pupuapi.com
 DOMAIN-SUFFIX,pupumall.com
 DOMAIN-SUFFIX,pushcfg.com
 DOMAIN-SUFFIX,py-axa.com
+DOMAIN-SUFFIX,qbitai.com
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qc188.com
 DOMAIN-SUFFIX,qcc.com
@@ -4375,6 +4377,7 @@ DOMAIN-SUFFIX,sf-saas.com
 DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,sfbuy.com
 DOMAIN-SUFFIX,sfcar.hk
+DOMAIN-SUFFIX,sfccn.com
 DOMAIN-SUFFIX,sfgy.org
 DOMAIN-SUFFIX,sgamer.com
 DOMAIN-SUFFIX,sgsic.com
@@ -4871,6 +4874,7 @@ DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,toutiaowap.com
 DOMAIN-SUFFIX,toutiaowap.net
+DOMAIN-SUFFIX,touying.com
 DOMAIN-SUFFIX,touzid.com
 DOMAIN-SUFFIX,tower.im
 DOMAIN-SUFFIX,tower0788.com
@@ -5777,6 +5781,7 @@ DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+DOMAIN-SUFFIX,znds.com
 DOMAIN-SUFFIX,zofund.com
 DOMAIN-SUFFIX,zongheng.com
 DOMAIN-SUFFIX,zoom3g.com
