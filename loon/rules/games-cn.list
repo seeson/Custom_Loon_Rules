@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 24
-# DOMAIN-SUFFIX: 257
-# TOTAL: 281
+# DOMAIN-SUFFIX: 259
+# TOTAL: 283
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,gcloudcstest.com
 DOMAIN-SUFFIX,gcloudcstestonly.com
 DOMAIN-SUFFIX,gclouddolphin.com
 DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,ggkuai.com
 DOMAIN-SUFFIX,gijsq.com
@@ -272,6 +273,7 @@ DOMAIN-SUFFIX,xindong.com
 DOMAIN-SUFFIX,xinwuji.com
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
 DOMAIN-SUFFIX,xunyou.com
+DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yebaojiasu.com
 DOMAIN-SUFFIX,yingxiong.com

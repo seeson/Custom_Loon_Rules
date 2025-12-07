@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5359
-# TOTAL: 5816
+# DOMAIN-SUFFIX: 5363
+# TOTAL: 5820
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -2473,6 +2473,7 @@ DOMAIN-SUFFIX,gcloudcstest.com
 DOMAIN-SUFFIX,gcloudcstestonly.com
 DOMAIN-SUFFIX,gclouddolphin.com
 DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-SUFFIX,gcloudsvcs.com
 DOMAIN-SUFFIX,gcores.com
 DOMAIN-SUFFIX,gdjdxy.com
 DOMAIN-SUFFIX,gdliontech.com
@@ -3499,6 +3500,7 @@ DOMAIN-SUFFIX,larksuiteimg.com
 DOMAIN-SUFFIX,larkvc.com
 DOMAIN-SUFFIX,larsonlimited.com
 DOMAIN-SUFFIX,lascn.net
+DOMAIN-SUFFIX,latepost.com
 DOMAIN-SUFFIX,lawxp.com
 DOMAIN-SUFFIX,lawyee.org
 DOMAIN-SUFFIX,lazada.com
@@ -3957,6 +3959,7 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,officese.com
+DOMAIN-SUFFIX,ofweek.com
 DOMAIN-SUFFIX,oi-wiki.com
 DOMAIN-SUFFIX,oicq88.com
 DOMAIN-SUFFIX,okjike.com
@@ -5486,6 +5489,7 @@ DOMAIN-SUFFIX,xundupdf.com
 DOMAIN-SUFFIX,xunfeixxj.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xunyou.com
+DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,xwbank.com
 DOMAIN-SUFFIX,xxsy.net
 DOMAIN-SUFFIX,xxtmail.com
