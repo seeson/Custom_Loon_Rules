@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 362
-# DOMAIN-SUFFIX: 116715
-# TOTAL: 117077
+# DOMAIN-SUFFIX: 116716
+# TOTAL: 117078
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -66414,6 +66414,7 @@ DOMAIN-SUFFIX,m-edu.com
 DOMAIN-SUFFIX,m-finder.com
 DOMAIN-SUFFIX,m-hero.com
 DOMAIN-SUFFIX,m-rainbow.com
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.travelzoo.com
 DOMAIN-SUFFIX,m1.run
 DOMAIN-SUFFIX,m123.com

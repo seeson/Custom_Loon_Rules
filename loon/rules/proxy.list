@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 88
+# DOMAIN: 87
 # DOMAIN-SUFFIX: 27169
-# TOTAL: 27257
+# TOTAL: 27256
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -29,7 +29,6 @@ DOMAIN,crl.versign.net
 DOMAIN,databank.worldbank.org
 DOMAIN,datarouter.apps.netherrealm.com
 DOMAIN,default.exp-tas.com
-DOMAIN,deribit.cdn.prismic.io
 DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,dl.begellhouse.com
 DOMAIN,elib.maruzen.co.jp
@@ -1925,7 +1924,6 @@ DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.nebula-emby.com
 DOMAIN-SUFFIX,api.news
-DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com
@@ -12668,7 +12666,6 @@ DOMAIN-SUFFIX,imagemodeler.com
 DOMAIN-SUFFIX,imagepost.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,images-gaytube.com
-DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,imageshack.com
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,imagetwist.com
@@ -14880,7 +14877,6 @@ DOMAIN-SUFFIX,lsnzxzy1.com
 DOMAIN-SUFFIX,lspimg.com
 DOMAIN-SUFFIX,lss55.com
 DOMAIN-SUFFIX,lsxszzg.com
-DOMAIN-SUFFIX,lt.sntp.uk
 DOMAIN-SUFFIX,lthgav.buzz
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,ltsports.com.tw
@@ -14940,7 +14936,6 @@ DOMAIN-SUFFIX,lzjscript.com
 DOMAIN-SUFFIX,lzmtnews.org
 DOMAIN-SUFFIX,m-power.com
 DOMAIN-SUFFIX,m-sport.co.uk
-DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,m12.vc
 DOMAIN-SUFFIX,m2m.com
@@ -18349,6 +18344,7 @@ DOMAIN-SUFFIX,pali.ltd
 DOMAIN-SUFFIX,paljorpublications.com
 DOMAIN-SUFFIX,palmislife.com
 DOMAIN-SUFFIX,paltalk.com
+DOMAIN-SUFFIX,palworldgame.com
 DOMAIN-SUFFIX,panasonic
 DOMAIN-SUFFIX,panasonic.com
 DOMAIN-SUFFIX,panasonic.jp
@@ -19582,6 +19578,7 @@ DOMAIN-SUFFIX,printfriendly.com
 DOMAIN-SUFFIX,printspots.com
 DOMAIN-SUFFIX,printspots.net
 DOMAIN-SUFFIX,prism-break.org
+DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,prismlive.com
 DOMAIN-SUFFIX,prisoneralert.com
@@ -19961,6 +19958,7 @@ DOMAIN-SUFFIX,r18.com
 DOMAIN-SUFFIX,r18av.com
 DOMAIN-SUFFIX,r18lu-avi.shop
 DOMAIN-SUFFIX,r18lu.com
+DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,r34porn.net
 DOMAIN-SUFFIX,ra.gg
 DOMAIN-SUFFIX,rabbitscams.com
@@ -21620,6 +21618,7 @@ DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,snowcorp.com
 DOMAIN-SUFFIX,snowlionpub.com
 DOMAIN-SUFFIX,snowmiku.com
+DOMAIN-SUFFIX,sntp.uk
 DOMAIN-SUFFIX,so-net.ne.jp
 DOMAIN-SUFFIX,so-net.net.tw
 DOMAIN-SUFFIX,soasta-dswb.com
