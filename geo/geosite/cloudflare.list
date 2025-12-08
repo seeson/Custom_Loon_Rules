@@ -1,18 +1,18 @@
 # NAME: cloudflare
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-08 07:12:06
-# TOTAL: 59
-# DOMAIN-SUFFIX: 59
+# UPDATED: 2025-12-09 07:12:54
+# TOTAL: 60
+# DOMAIN-SUFFIX: 60
 
 DOMAIN-SUFFIX,cloudflareregistrar.com
-DOMAIN-SUFFIX,trycloudflare.com
-DOMAIN-SUFFIX,cfl.re
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare-ech.com
-DOMAIN-SUFFIX,cloudflare-esni.com
-DOMAIN-SUFFIX,cloudflareportal.com
 DOMAIN-SUFFIX,cloudflare-quic.com
+DOMAIN-SUFFIX,cfl.re
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflare-gateway.com
+DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflare.tv
@@ -22,12 +22,12 @@ DOMAIN-SUFFIX,cloudflarebolt.com
 DOMAIN-SUFFIX,cloudflareclient.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareok.com
-DOMAIN-SUFFIX,argotunnel.com
-DOMAIN-SUFFIX,cloudflare-gateway.com
-DOMAIN-SUFFIX,cfargotunnel.com
 DOMAIN-SUFFIX,cloudflarepartners.com
-DOMAIN-SUFFIX,cloudflareresolve.com
-DOMAIN-SUFFIX,cloudflaressl.com
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,cloudflare-esni.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
@@ -39,7 +39,8 @@ DOMAIN-SUFFIX,isbgpsafeyet.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,pacloudflare.com
 DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,cloudflarepreview.com
+DOMAIN-SUFFIX,r2.dev
+DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
