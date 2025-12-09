@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-09 07:12:55
-# TOTAL: 117289
-# DOMAIN-SUFFIX: 117289
+# UPDATED: 2025-12-10 07:13:52
+# TOTAL: 117291
+# DOMAIN-SUFFIX: 117291
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,juzioo.com
-DOMAIN-SUFFIX,union-game.com
+DOMAIN-SUFFIX,taaas.org
 DOMAIN-SUFFIX,0311hd.com
 DOMAIN-SUFFIX,0311led.com
 DOMAIN-SUFFIX,0311wifi.com
@@ -6679,7 +6679,7 @@ DOMAIN-SUFFIX,6tktrd.com
 DOMAIN-SUFFIX,6tt.com
 DOMAIN-SUFFIX,6tu.com
 DOMAIN-SUFFIX,6twrte12ft.com
-DOMAIN-SUFFIX,jxlwgame.com
+DOMAIN-SUFFIX,6u9muvn94m.com
 DOMAIN-SUFFIX,6uudy.com
 DOMAIN-SUFFIX,6v.com
 DOMAIN-SUFFIX,6v520.net
@@ -36974,6 +36974,7 @@ DOMAIN-SUFFIX,gametea.com
 DOMAIN-SUFFIX,gametea.net
 DOMAIN-SUFFIX,gamethk.com
 DOMAIN-SUFFIX,gamett.net
+DOMAIN-SUFFIX,gameviewer.com
 DOMAIN-SUFFIX,gameweibo.com
 DOMAIN-SUFFIX,gamewifi.net
 DOMAIN-SUFFIX,gamexdd.com
@@ -52775,6 +52776,7 @@ DOMAIN-SUFFIX,infimotion.com
 DOMAIN-SUFFIX,infineon-autoeco.com
 DOMAIN-SUFFIX,infini-ai.com
 DOMAIN-SUFFIX,infinisign.com
+DOMAIN-SUFFIX,infiniteborders3kingdoms.com
 DOMAIN-SUFFIX,infinitescript.com
 DOMAIN-SUFFIX,infinity8ball.com
 DOMAIN-SUFFIX,infinitynewtab.com
@@ -55635,7 +55637,7 @@ DOMAIN-SUFFIX,jikejiang.com
 DOMAIN-SUFFIX,jikejiazhuang.com
 DOMAIN-SUFFIX,jikejishu.com
 DOMAIN-SUFFIX,jikeq.com
-DOMAIN-SUFFIX,jiketuchuang.com
+DOMAIN-SUFFIX,jxlwgame.com
 DOMAIN-SUFFIX,jikewan.com
 DOMAIN-SUFFIX,jikexiaojiang.com
 DOMAIN-SUFFIX,jikexiu.com
@@ -58670,9 +58672,9 @@ DOMAIN-SUFFIX,jxlong.com
 DOMAIN-SUFFIX,jxlpjt.com
 DOMAIN-SUFFIX,jxlsxy.com
 DOMAIN-SUFFIX,jxlvs.com
-DOMAIN-SUFFIX,6u9muvn94m.com
+DOMAIN-SUFFIX,jiketuchuang.com
 DOMAIN-SUFFIX,03118888.com
-DOMAIN-SUFFIX,trylmr.com
+DOMAIN-SUFFIX,weike.fm
 DOMAIN-SUFFIX,jxmj.com
 DOMAIN-SUFFIX,jxmkt.com
 DOMAIN-SUFFIX,jxmlkd.com
@@ -90873,7 +90875,7 @@ DOMAIN-SUFFIX,ta-shang.com
 DOMAIN-SUFFIX,ta26.com
 DOMAIN-SUFFIX,ta313.com
 DOMAIN-SUFFIX,ta39.com
-DOMAIN-SUFFIX,taaas.org
+DOMAIN-SUFFIX,jxlygo.com
 DOMAIN-SUFFIX,taagoo.com
 DOMAIN-SUFFIX,tabalt.net
 DOMAIN-SUFFIX,tabbypro.com
@@ -94458,7 +94460,7 @@ DOMAIN-SUFFIX,tryfun.com
 DOMAIN-SUFFIX,tryine.com
 DOMAIN-SUFFIX,tryineapp.com
 DOMAIN-SUFFIX,trykan.com
-DOMAIN-SUFFIX,jxmhp.com
+DOMAIN-SUFFIX,trylmr.com
 DOMAIN-SUFFIX,trymoka.com
 DOMAIN-SUFFIX,tryudesk.com
 DOMAIN-SUFFIX,tryurbest.com
@@ -96001,7 +96003,7 @@ DOMAIN-SUFFIX,uninstall-tools.com
 DOMAIN-SUFFIX,uninto.com
 DOMAIN-SUFFIX,uniny.com
 DOMAIN-SUFFIX,union-4.com
-DOMAIN-SUFFIX,jxlygo.com
+DOMAIN-SUFFIX,union-game.com
 DOMAIN-SUFFIX,union-net.com
 DOMAIN-SUFFIX,union-tio2.com
 DOMAIN-SUFFIX,union400.com
@@ -98954,7 +98956,7 @@ DOMAIN-SUFFIX,weijuju.com
 DOMAIN-SUFFIX,weikao.com
 DOMAIN-SUFFIX,weikaowu.com
 DOMAIN-SUFFIX,weikasen.com
-DOMAIN-SUFFIX,weike.fm
+DOMAIN-SUFFIX,jxmhp.com
 DOMAIN-SUFFIX,weike21.com
 DOMAIN-SUFFIX,weikeimg.com
 DOMAIN-SUFFIX,weikelink.com
