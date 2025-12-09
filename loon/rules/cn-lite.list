@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5364
-# TOTAL: 5821
+# DOMAIN-SUFFIX: 5375
+# TOTAL: 5832
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -747,6 +747,7 @@ DOMAIN-SUFFIX,75team.com
 DOMAIN-SUFFIX,7down.com
 DOMAIN-SUFFIX,7fresh.com
 DOMAIN-SUFFIX,7k7k.com
+DOMAIN-SUFFIX,7moor-fs1.com
 DOMAIN-SUFFIX,7moor.com
 DOMAIN-SUFFIX,7po.com
 DOMAIN-SUFFIX,7x24cc.com
@@ -2085,6 +2086,7 @@ DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyincloud.net
 DOMAIN-SUFFIX,douyincloud.run
+DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinpic.com
@@ -2145,6 +2147,7 @@ DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,dxmstatic.com
 DOMAIN-SUFFIX,dxmyqh.com
 DOMAIN-SUFFIX,dxpmedia.com
+DOMAIN-SUFFIX,dxy.com
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dxzq.net
 DOMAIN-SUFFIX,dycloud.run
@@ -2182,6 +2185,7 @@ DOMAIN-SUFFIX,ecitic.net
 DOMAIN-SUFFIX,ecjobhome.com
 DOMAIN-SUFFIX,ecloud-gdu.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdstatic.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,edgeonedy1.com
@@ -2613,6 +2617,7 @@ DOMAIN-SUFFIX,hanboshi.com
 DOMAIN-SUFFIX,handanjob.com
 DOMAIN-SUFFIX,hangjiayun.com
 DOMAIN-SUFFIX,hangzhouyq.com
+DOMAIN-SUFFIX,hanyi.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,hao222.com
@@ -3008,6 +3013,7 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iqoo.com
 DOMAIN-SUFFIX,iranshao.com
+DOMAIN-SUFFIX,ireader.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,irsnp.com
 DOMAIN-SUFFIX,isd.com
@@ -3192,6 +3198,7 @@ DOMAIN-SUFFIX,jingpinhui.com
 DOMAIN-SUFFIX,jingxi.com
 DOMAIN-SUFFIX,jinianbi.com
 DOMAIN-SUFFIX,jinrishici.com
+DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,jinrongren.net
 DOMAIN-SUFFIX,jinse.com
 DOMAIN-SUFFIX,jinshuju.net
@@ -4488,6 +4495,7 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,snwx.com
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,sobot.com
+DOMAIN-SUFFIX,soboten.com
 DOMAIN-SUFFIX,socpk.com
 DOMAIN-SUFFIX,sofreight.com
 DOMAIN-SUFFIX,softwhy.com
@@ -5708,6 +5716,9 @@ DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhanbuba.com
 DOMAIN-SUFFIX,zhangle.com
 DOMAIN-SUFFIX,zhangyoubao.com
+DOMAIN-SUFFIX,zhangyue.com
+DOMAIN-SUFFIX,zhangyue01.com
+DOMAIN-SUFFIX,zhangyuecdn.com
 DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhanzhang.net
