@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 87
-# DOMAIN-SUFFIX: 27174
-# TOTAL: 27261
+# DOMAIN: 91
+# DOMAIN-SUFFIX: 27177
+# TOTAL: 27268
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -62,6 +62,10 @@ DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
 DOMAIN,public-us-pingsx.api.clonoth.com
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
 DOMAIN,rss.4040940.xyz
 DOMAIN,rss.datuan.dev
 DOMAIN,rss.littlebaby.life
@@ -4849,6 +4853,7 @@ DOMAIN-SUFFIX,bynet.co.il
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net
@@ -17205,6 +17210,7 @@ DOMAIN-SUFFIX,nextwork.com.tw
 DOMAIN-SUFFIX,nextwork.hk
 DOMAIN-SUFFIX,nextwork.tw
 DOMAIN-SUFFIX,nexus
+DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nf.id.au
 DOMAIN-SUFFIX,nfjtyd.com
@@ -23203,6 +23209,7 @@ DOMAIN-SUFFIX,tiffany-towers.com
 DOMAIN-SUFFIX,tig-ol-bitties.live
 DOMAIN-SUFFIX,tigervpn.com
 DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
 DOMAIN-SUFFIX,tiktok-row.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com

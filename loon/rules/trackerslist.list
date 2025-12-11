@@ -2,14 +2,15 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 153
-# TOTAL: 153
+# DOMAIN: 154
+# TOTAL: 154
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
+DOMAIN,admin.52ywp.com
 DOMAIN,anna.bt.bontal.net
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -42,6 +43,8 @@ DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
+DOMAIN,open.dstud.io
+DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
@@ -60,7 +63,6 @@ DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t-backup.213891.xyz
 DOMAIN,t.213891.xyz
-DOMAIN,t.overflow.biz
 DOMAIN,threads.canofsocks.com
 DOMAIN,tk.greedland.net
 DOMAIN,torrent.hificode.in
@@ -78,6 +80,7 @@ DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
@@ -102,7 +105,6 @@ DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
-DOMAIN,tracker.hifimarket.in
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
@@ -114,7 +116,6 @@ DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
-DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.playground.ru
@@ -123,15 +124,16 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.rescuecrew7.com
 DOMAIN,tracker.sbsub.com
+DOMAIN,tracker.skillindia.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
-DOMAIN,tracker.startwork.cv
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
-DOMAIN,tracker.tritan.gg
+DOMAIN,tracker.tricitytorrents.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.uraniumhexafluori.de
@@ -157,4 +159,3 @@ DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
-DOMAIN,yuki.bt.bontal.net
