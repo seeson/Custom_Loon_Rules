@@ -1,9 +1,9 @@
 # NAME: akamai@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-11 07:10:56
-# TOTAL: 10
-# DOMAIN-SUFFIX: 10
+# UPDATED: 2025-12-12 07:12:27
+# TOTAL: 11
+# DOMAIN-SUFFIX: 11
 
 DOMAIN-SUFFIX,accdn.com.cn
 DOMAIN-SUFFIX,akadns88.net
@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,edgekey88.net
 DOMAIN-SUFFIX,janrain.biz
 DOMAIN-SUFFIX,janrainservices.com
 DOMAIN-SUFFIX,skycdn.com.cn
+DOMAIN-SUFFIX,tl88.net

@@ -1,10 +1,12 @@
 # NAME: category-dev@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-11 07:11:25
-# TOTAL: 6
-# DOMAIN-SUFFIX: 6
+# UPDATED: 2025-12-12 07:13:13
+# TOTAL: 8
+# DOMAIN-SUFFIX: 8
 
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
 DOMAIN-SUFFIX,splash-ads.unitychina.cn
