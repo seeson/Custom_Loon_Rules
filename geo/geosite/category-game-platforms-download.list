@@ -1,14 +1,14 @@
 # NAME: category-game-platforms-download
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-12 07:13:19
-# TOTAL: 486
-# DOMAIN: 485
+# UPDATED: 2025-12-13 07:14:02
+# TOTAL: 490
+# DOMAIN: 489
 # DOMAIN-SUFFIX: 1
 
 DOMAIN,download.cdp.bethesda.net
 DOMAIN,content.cdp.bethesda.net
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,lion.secure.dyn.riotcdn.net
 DOMAIN,lol.secure.dyn.riotcdn.net
 DOMAIN,ks-foundation.secure.dyn.riotcdn.net
 DOMAIN,riot-client.secure.dyn.riotcdn.net
@@ -57,6 +57,7 @@ DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uplaypc-s-ubisoft-ww.cdn.ubi.com
 DOMAIN,ubisoftconnect.cdn.ubi.com
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,prod.cloudflare.cdn.ea.com
 DOMAIN,cache10-atl3.steamcontent.com
 DOMAIN,cache10-fra1.steamcontent.com
 DOMAIN,cache10-fra2.steamcontent.com
@@ -476,10 +477,13 @@ DOMAIN,blzdist-wow.necdn.leihuo.netease.com
 DOMAIN,blzdist-hs.necdn.leihuo.netease.com
 DOMAIN,blzdist-di.necdn.leihuo.netease.com
 DOMAIN,blzdist-ow.necdn.leihuo.netease.com
+DOMAIN,blzdist-d3.necdn.leihuo.netease.com
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
 DOMAIN,dl.delivery.mp.microsoft.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,ubisoftconnect.eo-edgefunctions7.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,st.dl.eccdnx.com

@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-12 07:13:29
+# UPDATED: 2025-12-13 07:14:10
 # TOTAL: 109
 # DOMAIN-SUFFIX: 109
 
@@ -18,8 +18,6 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
@@ -73,14 +71,14 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
-DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
+DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,mycdn.me
@@ -107,6 +105,8 @@ DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
