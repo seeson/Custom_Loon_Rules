@@ -1,16 +1,22 @@
 # NAME: tiktok
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-07 04:11:03
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 23
-# TOTAL: 24
+# UPDATED: 2025-12-13 04:12:07
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 25
+# TOTAL: 30
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
 DOMAIN-SUFFIX,tiktok-row.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
