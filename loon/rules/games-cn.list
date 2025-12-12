@@ -2,12 +2,13 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
-# DOMAIN: 24
+# DOMAIN: 26
 # DOMAIN-SUFFIX: 259
-# TOTAL: 283
+# TOTAL: 285
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
+DOMAIN,blzdist-d3.necdn.leihuo.netease.com
 DOMAIN,blzdist-di.necdn.leihuo.netease.com
 DOMAIN,blzdist-hs.necdn.leihuo.netease.com
 DOMAIN,blzdist-ow.necdn.leihuo.netease.com
@@ -27,6 +28,7 @@ DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN,trts.baishancdnx.cn
+DOMAIN,ubisoftconnect.eo-edgefunctions7.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
@@ -66,6 +68,8 @@ DOMAIN-SUFFIX,5054399.com
 DOMAIN-SUFFIX,5054399.net
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,71acg.net
+DOMAIN-SUFFIX,7k7k.com
+DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,aki-game.com
 DOMAIN-SUFFIX,akspeedy.com
@@ -236,7 +240,6 @@ DOMAIN-SUFFIX,tencentstart.com
 DOMAIN-SUFFIX,texasholdemcup.cn
 DOMAIN-SUFFIX,texasholdemcup.com
 DOMAIN-SUFFIX,texasholdemcup.net
-DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,themisweeps.com
@@ -247,7 +250,6 @@ DOMAIN-SUFFIX,tmjiasuqi.com
 DOMAIN-SUFFIX,tuer123.com
 DOMAIN-SUFFIX,tuyoo.com
 DOMAIN-SUFFIX,uu.163.com
-DOMAIN-SUFFIX,vgtime.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
