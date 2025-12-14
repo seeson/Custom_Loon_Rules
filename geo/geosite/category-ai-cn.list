@@ -1,7 +1,7 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-14 07:12:05
+# UPDATED: 2025-12-15 07:12:03
 # TOTAL: 59
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 57
@@ -10,24 +10,24 @@ DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
 DOMAIN-SUFFIX,metaso.cn
 DOMAIN-SUFFIX,baichuan-ai.com
-DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,tongyi.com
-DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
-DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,botvip.cn
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,cueme.cn
@@ -37,9 +37,8 @@ DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,meta.law
 DOMAIN-SUFFIX,rwkv.cn
-DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,rwkv.com
-DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,butterflyai.cn
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.site
@@ -58,10 +57,11 @@ DOMAIN-SUFFIX,marscode.cn
 DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,mcprev.cn
 DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
-DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,qianwen.aliyun.com

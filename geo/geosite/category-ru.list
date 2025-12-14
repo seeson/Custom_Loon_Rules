@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-14 07:12:17
+# UPDATED: 2025-12-15 07:12:16
 # TOTAL: 109
 # DOMAIN-SUFFIX: 109
 
@@ -18,6 +18,42 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
+DOMAIN-SUFFIX,yandex.pl
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
+DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,donationalerts.com
+DOMAIN-SUFFIX,memealerts.com
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-apps.com
+DOMAIN-SUFFIX,yandex.uz
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.design
+DOMAIN-SUFFIX,vk.link
+DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vk.team
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkgo.app
+DOMAIN-SUFFIX,vklive.app
+DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkuser.net
+DOMAIN-SUFFIX,vkuseraudio.com
+DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
 DOMAIN-SUFFIX,okolo.app
@@ -59,54 +95,18 @@ DOMAIN-SUFFIX,yandex.lv
 DOMAIN-SUFFIX,yandex.md
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yandex.org
-DOMAIN-SUFFIX,yandex.pl
+DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,yandex.st
 DOMAIN-SUFFIX,yandex.kz
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
-DOMAIN-SUFFIX,yandex.ua
-DOMAIN-SUFFIX,yandex.uz
-DOMAIN-SUFFIX,yandexadexchange.net
+DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,ru.com
-DOMAIN-SUFFIX,ru.net
-DOMAIN-SUFFIX,mycdn.me
-DOMAIN-SUFFIX,habr.com
-DOMAIN-SUFFIX,habrastorage.org
-DOMAIN-SUFFIX,boosty.to
-DOMAIN-SUFFIX,donationalerts.com
-DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,userapi.com
-DOMAIN-SUFFIX,vk-apps.com
-DOMAIN-SUFFIX,vk-cdn.me
-DOMAIN-SUFFIX,vk-cdn.net
-DOMAIN-SUFFIX,vk-portal.net
-DOMAIN-SUFFIX,vk.cc
-DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,vk.company
-DOMAIN-SUFFIX,vk.design
-DOMAIN-SUFFIX,vk.link
-DOMAIN-SUFFIX,vk.me
-DOMAIN-SUFFIX,vk.team
-DOMAIN-SUFFIX,vkcache.com
-DOMAIN-SUFFIX,vkgo.app
-DOMAIN-SUFFIX,vklive.app
-DOMAIN-SUFFIX,vkmessenger.app
-DOMAIN-SUFFIX,vkmessenger.com
-DOMAIN-SUFFIX,vkuser.net
-DOMAIN-SUFFIX,vkuseraudio.com
-DOMAIN-SUFFIX,vkuseraudio.net
-DOMAIN-SUFFIX,vkuserlive.net
-DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,yandex.ua
+DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
