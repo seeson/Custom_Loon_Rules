@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:31 CST
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 67
-# TOTAL: 69
+# DOMAIN-SUFFIX: 68
+# TOTAL: 70
 
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,ekahau.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,nperf.com
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,open.cachefly.net
