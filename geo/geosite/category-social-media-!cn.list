@@ -1,7 +1,7 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-16 07:13:42
+# UPDATED: 2025-12-17 07:12:35
 # TOTAL: 584
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 580
@@ -10,11 +10,8 @@ DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,facebookloginhelp.net
-DOMAIN-SUFFIX,bsky.social
-DOMAIN-SUFFIX,aboutfacebook.com
-DOMAIN-SUFFIX,accessfacebookfromschool.com
+DOMAIN-SUFFIX,fbthirdpartypixel.com
+DOMAIN-SUFFIX,facebookmail.tv
 DOMAIN-SUFFIX,acebooik.com
 DOMAIN-SUFFIX,acebook.com
 DOMAIN-SUFFIX,advancediddetection.com
@@ -166,10 +163,10 @@ DOMAIN-SUFFIX,facebooklivestaging.net
 DOMAIN-SUFFIX,facebooklivestaging.org
 DOMAIN-SUFFIX,facebooklogin.com
 DOMAIN-SUFFIX,facebooklogin.info
-DOMAIN-SUFFIX,fbsbx.net
+DOMAIN-SUFFIX,facebookloginhelp.net
 DOMAIN-SUFFIX,facebooklogs.com
 DOMAIN-SUFFIX,facebookmail.com
-DOMAIN-SUFFIX,facebookmail.tv
+DOMAIN-SUFFIX,fbthirdpartypixel.net
 DOMAIN-SUFFIX,facebookmanager.info
 DOMAIN-SUFFIX,facebookmarketing.info
 DOMAIN-SUFFIX,facebookmarketingpartner.com
@@ -296,12 +293,12 @@ DOMAIN-SUFFIX,fbinnovation.com
 DOMAIN-SUFFIX,fbmarketing.com
 DOMAIN-SUFFIX,fbreg.com
 DOMAIN-SUFFIX,fbrpms.com
-DOMAIN-SUFFIX,instagranm.com
-DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,intagram.com
-DOMAIN-SUFFIX,fbthirdpartypixel.com
-DOMAIN-SUFFIX,fbthirdpartypixel.net
-DOMAIN-SUFFIX,fbthirdpartypixel.org
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbsbx.net
+DOMAIN-SUFFIX,fbsupport-covid.net
+DOMAIN-SUFFIX,instagtram.com
+DOMAIN-SUFFIX,accessfacebookfromschool.com
+DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,fburl.com
 DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,fbworkmail.com
@@ -456,10 +453,10 @@ DOMAIN-SUFFIX,instagramtakiphilesi.com
 DOMAIN-SUFFIX,instagramtips.com
 DOMAIN-SUFFIX,instagramtr.com
 DOMAIN-SUFFIX,instagran.com
-DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,instagranm.com
 DOMAIN-SUFFIX,instagrem.com
 DOMAIN-SUFFIX,instagrm.com
-DOMAIN-SUFFIX,instagtram.com
+DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,instagy.com
 DOMAIN-SUFFIX,instamgram.com
 DOMAIN-SUFFIX,instangram.com
@@ -467,10 +464,10 @@ DOMAIN-SUFFIX,instanttelegram.com
 DOMAIN-SUFFIX,instaplayer.net
 DOMAIN-SUFFIX,instastyle.tv
 DOMAIN-SUFFIX,instgram.com
-DOMAIN-SUFFIX,fbsupport-covid.net
+DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intgram.com
-DOMAIN-SUFFIX,kingstagram.com
+DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,lnstagram-help.com
 DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,oninstagram.com
@@ -483,8 +480,6 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
-DOMAIN-SUFFIX,imgsmail.ru
-DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,twitter.jp
@@ -509,6 +504,11 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,misskeyusercontent.jp
 DOMAIN-SUFFIX,oekakiskey.com
