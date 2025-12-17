@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5416
-# TOTAL: 5873
+# DOMAIN-SUFFIX: 5420
+# TOTAL: 5877
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -3775,6 +3775,7 @@ DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mi-idc.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,miaobolive.com
 DOMAIN-SUFFIX,miaomiaoz.com
 DOMAIN-SUFFIX,miaomiaozhe.com
@@ -4034,6 +4035,7 @@ DOMAIN-SUFFIX,openbcs.com
 DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,openmidas.com
+DOMAIN-SUFFIX,openvela.com
 DOMAIN-SUFFIX,oppo.com
 DOMAIN-SUFFIX,oppo.mobi
 DOMAIN-SUFFIX,oppocolor.com
@@ -5411,6 +5413,7 @@ DOMAIN-SUFFIX,xiangbababus.com
 DOMAIN-SUFFIX,xiangrikuijianzhan.com
 DOMAIN-SUFFIX,xiangrikuisite.com
 DOMAIN-SUFFIX,xianjiqun.com
+DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,xiaobaixitong.com
 DOMAIN-SUFFIX,xiaodutv.com
 DOMAIN-SUFFIX,xiaoe-tech.com
@@ -5430,6 +5433,7 @@ DOMAIN-SUFFIX,xiaomiev.com
 DOMAIN-SUFFIX,xiaomiflash.com
 DOMAIN-SUFFIX,xiaomiinc.com
 DOMAIN-SUFFIX,xiaomiinc.net
+DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,xiaomimobile.com
 DOMAIN-SUFFIX,xiaomingtaiji.com
 DOMAIN-SUFFIX,xiaominr.com

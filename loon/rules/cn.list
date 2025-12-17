@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 362
-# DOMAIN-SUFFIX: 116939
-# TOTAL: 117301
+# DOMAIN-SUFFIX: 116942
+# TOTAL: 117304
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -68365,6 +68365,7 @@ DOMAIN-SUFFIX,mi0.cc
 DOMAIN-SUFFIX,mi1.cc
 DOMAIN-SUFFIX,mi72.net
 DOMAIN-SUFFIX,mia.com
+DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,mian520.com
 DOMAIN-SUFFIX,mianbao.com
 DOMAIN-SUFFIX,miancp.com
@@ -74438,6 +74439,7 @@ DOMAIN-SUFFIX,opensplendid.com
 DOMAIN-SUFFIX,openssw.com
 DOMAIN-SUFFIX,opentrust.net
 DOMAIN-SUFFIX,openuc.com
+DOMAIN-SUFFIX,openvela.com
 DOMAIN-SUFFIX,openwbs.com
 DOMAIN-SUFFIX,openwrt.ai
 DOMAIN-SUFFIX,openwrt.pro
@@ -103485,6 +103487,7 @@ DOMAIN-SUFFIX,xiaomiev.com
 DOMAIN-SUFFIX,xiaomiflash.com
 DOMAIN-SUFFIX,xiaomiinc.com
 DOMAIN-SUFFIX,xiaomiinc.net
+DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,xiaomimobile.com
 DOMAIN-SUFFIX,xiaominet.com
 DOMAIN-SUFFIX,xiaominfo.com
