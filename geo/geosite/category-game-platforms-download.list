@@ -1,9 +1,9 @@
 # NAME: category-game-platforms-download
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-17 07:12:29
-# TOTAL: 490
-# DOMAIN: 489
+# UPDATED: 2025-12-19 07:13:54
+# TOTAL: 491
+# DOMAIN: 490
 # DOMAIN-SUFFIX: 1
 
 DOMAIN,download.cdp.bethesda.net
@@ -291,6 +291,7 @@ DOMAIN,cache8-waw1.steamcontent.com
 DOMAIN,cache9-atl3.steamcontent.com
 DOMAIN,cache9-fra1.steamcontent.com
 DOMAIN,cache9-fra2.steamcontent.com
+DOMAIN,cache9-hkg1.steamcontent.com
 DOMAIN,cache9-iad1.steamcontent.com
 DOMAIN,cache9-lax1.steamcontent.com
 DOMAIN,cache9-lhr1.steamcontent.com
