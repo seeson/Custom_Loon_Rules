@@ -1,17 +1,22 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-19 07:14:02
+# UPDATED: 2025-12-20 07:13:49
 # TOTAL: 584
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 580
 
-DOMAIN,fbcdn-a.akamaihd.net
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
-DOMAIN-SUFFIX,faebok.com
-DOMAIN-SUFFIX,facebookclub.com
+DOMAIN,fbcdn-a.akamaihd.net
+DOMAIN-SUFFIX,facfacebook.com
+DOMAIN-SUFFIX,facebookatschool.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,misskeyusercontent.jp
 DOMAIN-SUFFIX,oekakiskey.com
 DOMAIN-SUFFIX,maniakey.homes
 DOMAIN-SUFFIX,misskey.gg
@@ -32,18 +37,22 @@ DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,bsky.app
-DOMAIN-SUFFIX,bsky.network
-DOMAIN-SUFFIX,bsky.social
-DOMAIN-SUFFIX,mycdn.me
-DOMAIN-SUFFIX,okcdn.ru
-DOMAIN-SUFFIX,ok.ru
-DOMAIN-SUFFIX,lnkd.in
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,linkedin.at
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,bizographics.com
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,wwwinstagram.com
 DOMAIN-SUFFIX,web-instagram.net
+DOMAIN-SUFFIX,onlineinstagram.com
+DOMAIN-SUFFIX,online-instagram.com
+DOMAIN-SUFFIX,oninstagram.com
+DOMAIN-SUFFIX,theinstagramhack.com
+DOMAIN-SUFFIX,lnstagram-help.com
+DOMAIN-SUFFIX,kingstagram.com
+DOMAIN-SUFFIX,intgram.com
+DOMAIN-SUFFIX,intagrm.com
+DOMAIN-SUFFIX,intagram.com
+DOMAIN-SUFFIX,instgram.com
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -157,7 +166,7 @@ DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
-DOMAIN-SUFFIX,facebookatschool.com
+DOMAIN-SUFFIX,facfebook.com
 DOMAIN-SUFFIX,facebookawards.com
 DOMAIN-SUFFIX,facebookblueprint.net
 DOMAIN-SUFFIX,facebookbrand.com
@@ -166,7 +175,7 @@ DOMAIN-SUFFIX,facebookcanadianelectionintegrityinitiative.com
 DOMAIN-SUFFIX,facebookcareer.com
 DOMAIN-SUFFIX,facebookcheats.com
 DOMAIN-SUFFIX,facebookck.com
-DOMAIN-SUFFIX,faebook.com
+DOMAIN-SUFFIX,facebookclub.com
 DOMAIN-SUFFIX,facebookcom.com
 DOMAIN-SUFFIX,facebookconsultant.org
 DOMAIN-SUFFIX,facebookcoronavirus.com
@@ -287,18 +296,18 @@ DOMAIN-SUFFIX,facetook.com
 DOMAIN-SUFFIX,facevbook.com
 DOMAIN-SUFFIX,facewbook.co
 DOMAIN-SUFFIX,facewook.com
-DOMAIN-SUFFIX,facfacebook.com
-DOMAIN-SUFFIX,facfebook.com
-DOMAIN-SUFFIX,fackebook.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,facnbook.com
 DOMAIN-SUFFIX,facrbook.com
 DOMAIN-SUFFIX,facvebook.com
 DOMAIN-SUFFIX,facwebook.com
 DOMAIN-SUFFIX,facxebook.com
 DOMAIN-SUFFIX,fadebook.com
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,misskeyusercontent.jp
-DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,faebok.com
+DOMAIN-SUFFIX,faebook.com
+DOMAIN-SUFFIX,faebookc.com
 DOMAIN-SUFFIX,faeboook.com
 DOMAIN-SUFFIX,faecebok.com
 DOMAIN-SUFFIX,faesebook.com
@@ -437,8 +446,9 @@ DOMAIN-SUFFIX,facebookwork.com
 DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
-DOMAIN-SUFFIX,imgsmail.ru
-DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,mycdn.me
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -446,7 +456,7 @@ DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twittercommunity.com
 DOMAIN-SUFFIX,pscp.tv
@@ -456,18 +466,16 @@ DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterstat.us
-DOMAIN-SUFFIX,misskey.io
-DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,fackebook.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,onlineinstagram.com
-DOMAIN-SUFFIX,online-instagram.com
-DOMAIN-SUFFIX,oninstagram.com
-DOMAIN-SUFFIX,theinstagramhack.com
-DOMAIN-SUFFIX,lnstagram-help.com
-DOMAIN-SUFFIX,kingstagram.com
-DOMAIN-SUFFIX,faebookc.com
+DOMAIN-SUFFIX,instastyle.tv
+DOMAIN-SUFFIX,instaplayer.net
+DOMAIN-SUFFIX,instanttelegram.com
+DOMAIN-SUFFIX,instangram.com
+DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
@@ -559,15 +567,7 @@ DOMAIN-SUFFIX,instagrm.com
 DOMAIN-SUFFIX,instagtram.com
 DOMAIN-SUFFIX,instagy.com
 DOMAIN-SUFFIX,instamgram.com
-DOMAIN-SUFFIX,instangram.com
-DOMAIN-SUFFIX,instanttelegram.com
-DOMAIN-SUFFIX,instaplayer.net
-DOMAIN-SUFFIX,instastyle.tv
-DOMAIN-SUFFIX,instgram.com
-DOMAIN-SUFFIX,intagram.com
-DOMAIN-SUFFIX,intagrm.com
-DOMAIN-SUFFIX,intgram.com
-DOMAIN-SUFFIX,misskey.gamelore.fun
+DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,mi.kochudaho.me
 DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,mk.yopo.work
@@ -580,13 +580,13 @@ DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,mi.mashiro.site
 DOMAIN-SUFFIX,misskey.yukineko.me
 DOMAIN-SUFFIX,misskey.always-we-need.games
-DOMAIN-SUFFIX,l-0005.dc-msedge.net
-DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,misskey.ranranhome.info
 DOMAIN-SUFFIX,misskey.noellabo.jp
+DOMAIN-SUFFIX,misskey.gamelore.fun
+DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,twitter.map.fastly.net
+DOMAIN-SUFFIX,licdn.cn
+DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,licdn.cn
-DOMAIN-SUFFIX,linkedin.cn
