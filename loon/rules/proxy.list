@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 91
-# DOMAIN-SUFFIX: 27278
-# TOTAL: 27369
+# DOMAIN-SUFFIX: 27279
+# TOTAL: 27370
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -18491,6 +18491,7 @@ DOMAIN-SUFFIX,parstream.com
 DOMAIN-SUFFIX,parstream.net
 DOMAIN-SUFFIX,parstream.org
 DOMAIN-SUFFIX,partmaker.com
+DOMAIN-SUFFIX,partnerstack.xyz
 DOMAIN-SUFFIX,partycasino.com
 DOMAIN-SUFFIX,partylikeits1986.org
 DOMAIN-SUFFIX,partypoker.com
