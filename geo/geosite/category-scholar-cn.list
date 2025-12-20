@@ -1,20 +1,21 @@
 # NAME: category-scholar-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-20 07:13:49
-# TOTAL: 89
+# UPDATED: 2025-12-21 07:12:13
+# TOTAL: 90
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 88
+# DOMAIN-SUFFIX: 89
 
 DOMAIN,www.libvideo.com
-DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-SUFFIX,sbsjk.com
+DOMAIN-SUFFIX,sslibrary.com
+DOMAIN-SUFFIX,er07.com
 DOMAIN-SUFFIX,ancientbooks.cn
 DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,bjinfobank.com
 DOMAIN-SUFFIX,blyun.com
+DOMAIN-SUFFIX,medalink.cn
 DOMAIN-SUFFIX,chinabooktrading.com
-DOMAIN-SUFFIX,wenxin-ge.com
+DOMAIN-SUFFIX,wf.pub
 DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,chndoi.org
 DOMAIN-SUFFIX,cspro.org
@@ -26,13 +27,13 @@ DOMAIN-SUFFIX,umajor.net
 DOMAIN-SUFFIX,vipexam.org
 DOMAIN-SUFFIX,cnthinkers.com
 DOMAIN-SUFFIX,cqvip.com
-DOMAIN-SUFFIX,twscholar.com
+DOMAIN-SUFFIX,crggcn.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,duxiu.com
-DOMAIN-SUFFIX,er07.com
+DOMAIN-SUFFIX,wenxin-ge.com
 DOMAIN-SUFFIX,ersjk.com
-DOMAIN-SUFFIX,xxtmail.com
+DOMAIN-SUFFIX,sbsjk.com
 DOMAIN-SUFFIX,gtarsc.com
 DOMAIN-SUFFIX,htcases.com
 DOMAIN-SUFFIX,hwshu.com
@@ -42,17 +43,17 @@ DOMAIN-SUFFIX,lawyee.org
 DOMAIN-SUFFIX,neohytung.com
 DOMAIN-SUFFIX,nmrdata.com
 DOMAIN-SUFFIX,nssd.cn
-DOMAIN-SUFFIX,xuexi365.com
+DOMAIN-SUFFIX,xxtmail.com
 DOMAIN-SUFFIX,pkulaw.com
-DOMAIN-SUFFIX,rdfybk.com
-DOMAIN-SUFFIX,resset.com
+DOMAIN-SUFFIX,xuexi365.com
+DOMAIN-SUFFIX,uonline-sh.net
 DOMAIN-SUFFIX,sciencechina.cn
 DOMAIN-SUFFIX,tokyotrial.cn
 DOMAIN-SUFFIX,tongxianghuicn.com
-DOMAIN-SUFFIX,crggcn.com
+DOMAIN-SUFFIX,twscholar.com
+DOMAIN-SUFFIX,rdfybk.com
 DOMAIN-SUFFIX,airitilibrary.cn
-DOMAIN-SUFFIX,wf.pub
-DOMAIN-SUFFIX,uonline-sh.net
+DOMAIN-SUFFIX,resset.com
 DOMAIN-SUFFIX,yiigle.com
 DOMAIN-SUFFIX,uonline-sh.com
 DOMAIN-SUFFIX,superlib.net
@@ -72,18 +73,18 @@ DOMAIN-SUFFIX,mti100.com
 DOMAIN-SUFFIX,nihaoafrica.org
 DOMAIN-SUFFIX,ssvideo.cn
 DOMAIN-SUFFIX,sslawy.com
-DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,51ccd.com
+DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,nihaorwanda.cn
 DOMAIN-SUFFIX,zaifan.com
 DOMAIN-SUFFIX,ylike.net
 DOMAIN-SUFFIX,iscas.ac.cn
-DOMAIN-SUFFIX,pishu.com.cn
+DOMAIN-SUFFIX,unihan.com.cn
 DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,wind.com.cn
 DOMAIN-SUFFIX,csdl.ac.cn
-DOMAIN-SUFFIX,unihan.com.cn
+DOMAIN-SUFFIX,pishu.com.cn
 DOMAIN-SUFFIX,drcnet.com.cn
 DOMAIN-SUFFIX,zaifan.com.cn
 DOMAIN-SUFFIX,ssvideo.com.cn

@@ -1,17 +1,18 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-20 07:13:39
+# UPDATED: 2025-12-21 07:12:07
 # TOTAL: 50
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 33
 
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN,gog.qtlglb.com
 DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,menu-static.gog-statics.com
@@ -52,7 +53,6 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
-DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,bluearchive-cn.com
