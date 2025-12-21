@@ -1,7 +1,7 @@
 # NAME: alibaba
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-21 07:11:39
+# UPDATED: 2025-12-22 07:11:55
 # TOTAL: 398
 # DOMAIN-SUFFIX: 398
 
@@ -145,7 +145,7 @@ DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,feizhu.com
-DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,56che.com
 DOMAIN-SUFFIX,xiami.fm
@@ -165,24 +165,9 @@ DOMAIN-SUFFIX,lydaas.net
 DOMAIN-SUFFIX,lydass.cn
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,lydass.net
+DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alicloud.com
-DOMAIN-SUFFIX,ddurl.to
-DOMAIN-SUFFIX,dingding.xin
-DOMAIN-SUFFIX,dingtalk.cn
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingtalk.net
-DOMAIN-SUFFIX,dingtalkapps.com
-DOMAIN-SUFFIX,dingtalkcloud.com
-DOMAIN-SUFFIX,laiwang.com
-DOMAIN-SUFFIX,lwurl.to
-DOMAIN-SUFFIX,ztna-dingtalk.com
-DOMAIN-SUFFIX,kumiao.com
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudapi.com
@@ -229,24 +214,47 @@ DOMAIN-SUFFIX,a-map.vip
 DOMAIN-SUFFIX,a-map.link
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.cn
-DOMAIN-SUFFIX,9game.cn
-DOMAIN-SUFFIX,whalecloud.com
-DOMAIN-SUFFIX,uyunad.com
-DOMAIN-SUFFIX,umtrack.com
-DOMAIN-SUFFIX,umsns.com
-DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingtalkcloud.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,ztna-dingtalk.com
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,teambitionapis.com
+DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,puata.info
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,umtrack.com
+DOMAIN-SUFFIX,uyunad.com
+DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,doservice.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to
@@ -255,15 +263,7 @@ DOMAIN-SUFFIX,eleme.io
 DOMAIN-SUFFIX,elemecdn.cn
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,elenet.me
-DOMAIN-SUFFIX,teambition.com
-DOMAIN-SUFFIX,teambition.net
-DOMAIN-SUFFIX,teambitionapis.com
 DOMAIN-SUFFIX,uc.cn
-DOMAIN-SUFFIX,uc123.com
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,uczzd.cn
-DOMAIN-SUFFIX,cnzz.com
-DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,oss-cn-nanjing.aliyuncs.com
 DOMAIN-SUFFIX,cainiao.com.cn
@@ -290,12 +290,6 @@ DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,fliggy.hk
-DOMAIN-SUFFIX,alibabacloud.co.in
-DOMAIN-SUFFIX,alibabacloud.com.au
-DOMAIN-SUFFIX,alibabacloud.com.hk
-DOMAIN-SUFFIX,alibabacloud.com.my
-DOMAIN-SUFFIX,alibabacloud.com.sg
-DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
@@ -336,11 +330,6 @@ DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
-DOMAIN-SUFFIX,dualstack-logs.amap.com
-DOMAIN-SUFFIX,logs.amap.com
-DOMAIN-SUFFIX,optimus-ads.amap.com
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -362,6 +351,17 @@ DOMAIN-SUFFIX,statis.api.3g.youku.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+DOMAIN-SUFFIX,alibabacloud.co.in
+DOMAIN-SUFFIX,alibabacloud.com.au
+DOMAIN-SUFFIX,alibabacloud.com.hk
+DOMAIN-SUFFIX,alibabacloud.com.my
+DOMAIN-SUFFIX,alibabacloud.com.sg
+DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
