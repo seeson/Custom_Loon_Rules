@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5427
-# TOTAL: 5884
+# DOMAIN-SUFFIX: 5434
+# TOTAL: 5891
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -2453,7 +2453,10 @@ DOMAIN-SUFFIX,funnycore.com
 DOMAIN-SUFFIX,funshion.com
 DOMAIN-SUFFIX,funshion.net
 DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fuwai.com
 DOMAIN-SUFFIX,fuwj.com
 DOMAIN-SUFFIX,fxt365.com
@@ -2544,6 +2547,7 @@ DOMAIN-SUFFIX,gitcode.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,gk100.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsigncdn.com
 DOMAIN-SUFFIX,globrand.com
@@ -3194,6 +3198,7 @@ DOMAIN-SUFFIX,jdx.com
 DOMAIN-SUFFIX,jet-ego.com
 DOMAIN-SUFFIX,jet-logistics.com
 DOMAIN-SUFFIX,jetlogistic.com
+DOMAIN-SUFFIX,jfdaily.com
 DOMAIN-SUFFIX,jhgtgb.com
 DOMAIN-SUFFIX,jhscm.com
 DOMAIN-SUFFIX,jhu.edu
@@ -3297,6 +3302,7 @@ DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,jpushoa.com
 DOMAIN-SUFFIX,jsbc.com
 DOMAIN-SUFFIX,jsboxbbs.com
+DOMAIN-SUFFIX,jsdmirror.com
 DOMAIN-SUFFIX,jsehealth.com
 DOMAIN-SUFFIX,jslife.net
 DOMAIN-SUFFIX,jsrdgg.com
@@ -4473,6 +4479,7 @@ DOMAIN-SUFFIX,shixiseng.com
 DOMAIN-SUFFIX,shizhuang-inc.com
 DOMAIN-SUFFIX,shizhuang-inc.net
 DOMAIN-SUFFIX,shmetro.com
+DOMAIN-SUFFIX,shobserver.com
 DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,shopss.com
 DOMAIN-SUFFIX,shoujihuifu.com
