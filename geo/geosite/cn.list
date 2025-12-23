@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-23 07:13:29
-# TOTAL: 116978
-# DOMAIN-SUFFIX: 116978
+# UPDATED: 2025-12-24 07:13:24
+# TOTAL: 116977
+# DOMAIN-SUFFIX: 116977
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juyingonline.com
-DOMAIN-SUFFIX,52fanxing.com
+DOMAIN-SUFFIX,juyisuliao.com
+DOMAIN-SUFFIX,179e.com
 DOMAIN-SUFFIX,0311led.com
 DOMAIN-SUFFIX,0311wifi.com
 DOMAIN-SUFFIX,0316.cc
@@ -1338,7 +1338,6 @@ DOMAIN-SUFFIX,14885566.com
 DOMAIN-SUFFIX,148com.com
 DOMAIN-SUFFIX,148la.com
 DOMAIN-SUFFIX,14944.net
-DOMAIN-SUFFIX,1495c8.com
 DOMAIN-SUFFIX,14hj.com
 DOMAIN-SUFFIX,14play.net
 DOMAIN-SUFFIX,14xd.com
@@ -1683,7 +1682,7 @@ DOMAIN-SUFFIX,1797.cc
 DOMAIN-SUFFIX,17986.net
 DOMAIN-SUFFIX,17989.com
 DOMAIN-SUFFIX,179cy.com
-DOMAIN-SUFFIX,179e.com
+DOMAIN-SUFFIX,jxiaolan.com
 DOMAIN-SUFFIX,17admob.com
 DOMAIN-SUFFIX,17ai.me
 DOMAIN-SUFFIX,17aifun.com
@@ -5268,7 +5267,7 @@ DOMAIN-SUFFIX,52erhu.com
 DOMAIN-SUFFIX,52eshu.com
 DOMAIN-SUFFIX,52etf.site
 DOMAIN-SUFFIX,52fangzi.com
-DOMAIN-SUFFIX,jxic.com
+DOMAIN-SUFFIX,52fanxing.com
 DOMAIN-SUFFIX,52feijuba.com
 DOMAIN-SUFFIX,52fzwg.com
 DOMAIN-SUFFIX,52gaoge.com
@@ -5303,7 +5302,7 @@ DOMAIN-SUFFIX,52jiaoshi.com
 DOMAIN-SUFFIX,52jiaozhou.com
 DOMAIN-SUFFIX,52jiawei.com
 DOMAIN-SUFFIX,52jingsai.com
-DOMAIN-SUFFIX,jxiaolan.com
+DOMAIN-SUFFIX,52jinhu.com
 DOMAIN-SUFFIX,52jisu.com
 DOMAIN-SUFFIX,52jj.net
 DOMAIN-SUFFIX,52jrjy.com
@@ -11404,7 +11403,6 @@ DOMAIN-SUFFIX,antutu.net
 DOMAIN-SUFFIX,antvr.com
 DOMAIN-SUFFIX,antwork.link
 DOMAIN-SUFFIX,antzk.com
-DOMAIN-SUFFIX,anviettek.com
 DOMAIN-SUFFIX,anw.red
 DOMAIN-SUFFIX,anweilan.com
 DOMAIN-SUFFIX,anweishi.com
@@ -14540,7 +14538,7 @@ DOMAIN-SUFFIX,best198.com
 DOMAIN-SUFFIX,best66.me
 DOMAIN-SUFFIX,best73.com
 DOMAIN-SUFFIX,bestadprof.com
-DOMAIN-SUFFIX,bestapp.wiki
+DOMAIN-SUFFIX,jxic.com
 DOMAIN-SUFFIX,bestarzx.com
 DOMAIN-SUFFIX,bestatic.com
 DOMAIN-SUFFIX,bestb2b.com
@@ -54104,6 +54102,7 @@ DOMAIN-SUFFIX,jamalube.net
 DOMAIN-SUFFIX,jamanetwork.com
 DOMAIN-SUFFIX,jamcz.com
 DOMAIN-SUFFIX,jamidol.com
+DOMAIN-SUFFIX,jamms.org
 DOMAIN-SUFFIX,jammyfm.com
 DOMAIN-SUFFIX,jampotgames.com
 DOMAIN-SUFFIX,janbao.net
@@ -58111,7 +58110,7 @@ DOMAIN-SUFFIX,julefun.com
 DOMAIN-SUFFIX,juli-china.com
 DOMAIN-SUFFIX,juliandianqi.com
 DOMAIN-SUFFIX,juliang8.com
-DOMAIN-SUFFIX,jximage.com
+DOMAIN-SUFFIX,juliangcili.com
 DOMAIN-SUFFIX,julianghttp.com
 DOMAIN-SUFFIX,juliangip.com
 DOMAIN-SUFFIX,juliangyinqing.com
@@ -58348,8 +58347,8 @@ DOMAIN-SUFFIX,juyang-chem.com
 DOMAIN-SUFFIX,juyanwenjuan.com
 DOMAIN-SUFFIX,juyebwg.com
 DOMAIN-SUFFIX,juyingele.com
+DOMAIN-SUFFIX,juyingonline.com
 DOMAIN-SUFFIX,0.zone
-DOMAIN-SUFFIX,juyisuliao.com
 DOMAIN-SUFFIX,juyoubao.com
 DOMAIN-SUFFIX,juyoukuaisong.net
 DOMAIN-SUFFIX,juyouqu.com
@@ -58515,10 +58514,10 @@ DOMAIN-SUFFIX,jxhmxxjs.com
 DOMAIN-SUFFIX,jxhswhcb.com
 DOMAIN-SUFFIX,jxhuahang.com
 DOMAIN-SUFFIX,jxhxmed.com
-DOMAIN-SUFFIX,jxhyxx.com
-DOMAIN-SUFFIX,52jinhu.com
+DOMAIN-SUFFIX,ryc360.com
 DOMAIN-SUFFIX,0311hd.com
-DOMAIN-SUFFIX,juliangcili.com
+DOMAIN-SUFFIX,bestapp.wiki
+DOMAIN-SUFFIX,jximage.com
 DOMAIN-SUFFIX,jxjatv.com
 DOMAIN-SUFFIX,jxjdgy.com
 DOMAIN-SUFFIX,jxjee.com
@@ -81379,7 +81378,7 @@ DOMAIN-SUFFIX,ryansu.tech
 DOMAIN-SUFFIX,rybbaby.com
 DOMAIN-SUFFIX,rybridge.com
 DOMAIN-SUFFIX,rybyurom.com
-DOMAIN-SUFFIX,ryc360.com
+DOMAIN-SUFFIX,jxhyxx.com
 DOMAIN-SUFFIX,rycc.net
 DOMAIN-SUFFIX,ryd-group.com
 DOMAIN-SUFFIX,rydbatt.com
