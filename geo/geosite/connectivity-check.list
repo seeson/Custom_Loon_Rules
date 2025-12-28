@@ -1,11 +1,13 @@
 # NAME: connectivity-check
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-28 07:12:48
-# TOTAL: 13
-# DOMAIN: 4
-# DOMAIN-SUFFIX: 9
+# UPDATED: 2025-12-29 07:13:33
+# TOTAL: 14
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 8
 
+DOMAIN,ping.archlinux.org
+DOMAIN,redirect.archlinux.org
 DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN,connectivitycheck.platform.hicloud.com
 DOMAIN,connect.rom.miui.com
@@ -13,7 +15,6 @@ DOMAIN,connectivity-check.ubuntu.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,captive.apple.com
-DOMAIN-SUFFIX,ping.archlinux.org
 DOMAIN-SUFFIX,cp.cloudflare.com
 DOMAIN-SUFFIX,network-test.debian.org
 DOMAIN-SUFFIX,detectportal.firefox.com
