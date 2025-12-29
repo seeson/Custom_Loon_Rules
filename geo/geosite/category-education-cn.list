@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-29 07:13:01
+# UPDATED: 2025-12-30 07:13:26
 # TOTAL: 131
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 128
@@ -19,27 +19,27 @@ DOMAIN-SUFFIX,chesicc.cn
 DOMAIN-SUFFIX,chesicc.com
 DOMAIN-SUFFIX,chesicc.net
 DOMAIN-SUFFIX,chsi.cn
-DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,nattest-china.com
 DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,yuketang.cn
-DOMAIN-SUFFIX,nattest-china.com
-DOMAIN-SUFFIX,fenbilantian.com
-DOMAIN-SUFFIX,fenbilantian.cn
-DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,gfbzb.cn
 DOMAIN-SUFFIX,gfbzb.com
-DOMAIN-SUFFIX,fenbike.cn
-DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,yuketang.cn
 DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,ncss.cn
-DOMAIN-SUFFIX,fbstatic.cn
-DOMAIN-SUFFIX,yuantiku.com
-DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 DOMAIN-SUFFIX,91yunxiao.com
@@ -68,10 +68,10 @@ DOMAIN-SUFFIX,keboyunxiao.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
-DOMAIN-SUFFIX,ybccode.com
+DOMAIN-SUFFIX,fenbike.cn
 DOMAIN-SUFFIX,xir.cn
 DOMAIN-SUFFIX,j-test.com
-DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,applysquare.net
 DOMAIN-SUFFIX,yushiyan.net
 DOMAIN-SUFFIX,ystbds.com
 DOMAIN-SUFFIX,kuaiduizuoye.com
@@ -101,24 +101,24 @@ DOMAIN-SUFFIX,icourses.cn
 DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,pmphmooc.com
-DOMAIN-SUFFIX,xiaoyuankousuan.com
-DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,xueersi.com
-DOMAIN-SUFFIX,hugecore.net
-DOMAIN-SUFFIX,shareintelli.com
-DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,fenbi.com
 DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,hjapi.com
 DOMAIN-SUFFIX,hjfile.cn
 DOMAIN-SUFFIX,hujiang.com
 DOMAIN-SUFFIX,yeshj.com
-DOMAIN-SUFFIX,koocdn.com
-DOMAIN-SUFFIX,koolearn.com
-DOMAIN-SUFFIX,koopass.com
 DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,banmaaike.com
+DOMAIN-SUFFIX,xiaoyuankousuan.com
+DOMAIN-SUFFIX,ybccode.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,yuantiku.com
+DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,cbern.com.cn
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,chinayz.com.cn
