@@ -1,14 +1,14 @@
 # NAME: category-entertainment-cn@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2025-12-30 07:13:27
+# UPDATED: 2025-12-31 07:13:21
 # TOTAL: 6
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 5
 
+DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,iq.com
