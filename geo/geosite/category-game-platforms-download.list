@@ -1,10 +1,10 @@
 # NAME: category-game-platforms-download
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-01 07:13:26
-# TOTAL: 491
+# UPDATED: 2026-01-02 07:14:02
+# TOTAL: 492
 # DOMAIN: 490
-# DOMAIN-SUFFIX: 1
+# DOMAIN-SUFFIX: 2
 
 DOMAIN,download.cdp.bethesda.net
 DOMAIN,content.cdp.bethesda.net
@@ -472,6 +472,7 @@ DOMAIN,steam.naeu.qtlglb.com
 DOMAIN,steam.ru.qtlglb.com
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
+DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,blzdist-phx.necdn.leihuo.netease.com
 DOMAIN,blzdist-wow.necdn.leihuo.netease.com

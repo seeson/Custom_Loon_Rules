@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-01 07:13:21
+# UPDATED: 2026-01-02 07:13:53
 # TOTAL: 172
 # DOMAIN-SUFFIX: 172
 
@@ -77,8 +77,16 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-terrarium.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,lldns.net
@@ -87,13 +95,8 @@ DOMAIN-SUFFIX,llnw.com
 DOMAIN-SUFFIX,llnw.net
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
-DOMAIN-SUFFIX,pagecdn.com
-DOMAIN-SUFFIX,pagecdn.io
-DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
-DOMAIN-SUFFIX,cdn77.com
-DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cloudflareregistrar.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cfl.re
@@ -134,14 +137,11 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,fastly-edge.com
-DOMAIN-SUFFIX,fastly-terrarium.com
-DOMAIN-SUFFIX,fastly.com
-DOMAIN-SUFFIX,fastly.io
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,fastlylabs.com
-DOMAIN-SUFFIX,fastlylb.net
-DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,pagecdn.com
+DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,vrcdn.cloud
 DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,vrcdn.video
