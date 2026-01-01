@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5970
-# TOTAL: 5970
+# DOMAIN-SUFFIX: 5972
+# TOTAL: 5972
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -3872,6 +3872,7 @@ DOMAIN-SUFFIX,pct.org.tw
 DOMAIN-SUFFIX,pdetails.com
 DOMAIN-SUFFIX,pdproxy.com
 DOMAIN-SUFFIX,pds.nasa.gov
+DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,peace.ca
 DOMAIN-SUFFIX,peacefire.org
 DOMAIN-SUFFIX,peeasian.com
@@ -5266,6 +5267,7 @@ DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,unstable.icu
 DOMAIN-SUFFIX,unwire.hk
 DOMAIN-SUFFIX,uocn.org
+DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,updates.tdesktop.com
 DOMAIN-SUFFIX,upghsbc.com
