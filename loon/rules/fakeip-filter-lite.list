@@ -2,21 +2,15 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:27 CST
-# DOMAIN: 7
+# DOMAIN: 5
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 3
-# TOTAL: 13
+# TOTAL: 8
 
 DOMAIN,adguardteam.github.io
 DOMAIN,adrules.top
 DOMAIN,anti-ad.net
 DOMAIN,local.adguard.org
 DOMAIN,static.adtidy.org
-DOMAIN,time-ios.apple.com
-DOMAIN,time1.cloud.tencent.com
-DOMAIN-SUFFIX,ntp.org.cn
-DOMAIN-SUFFIX,pool.ntp.org
-DOMAIN-SUFFIX,time.edu.cn
 DOMAIN-KEYWORD,ntp
 DOMAIN-KEYWORD,stun
 DOMAIN-KEYWORD,time
