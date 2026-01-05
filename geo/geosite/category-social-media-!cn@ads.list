@@ -1,10 +1,10 @@
 # NAME: category-social-media-!cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-05 07:14:05
+# UPDATED: 2026-01-06 07:13:51
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
 
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,ads-twitter.com
