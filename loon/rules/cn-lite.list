@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5457
-# TOTAL: 5914
+# DOMAIN-SUFFIX: 5458
+# TOTAL: 5915
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -1544,6 +1544,7 @@ DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
 DOMAIN-SUFFIX,cf-ns.site
 DOMAIN-SUFFIX,cf-ns.tech
+DOMAIN-SUFFIX,cfc108.com
 DOMAIN-SUFFIX,cftest7.com
 DOMAIN-SUFFIX,cftest8.com
 DOMAIN-SUFFIX,cftsupport.com

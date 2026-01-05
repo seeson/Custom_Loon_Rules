@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 5989
-# TOTAL: 5989
+# DOMAIN-SUFFIX: 5994
+# TOTAL: 5994
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -199,6 +199,7 @@ DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai.binwang.me
 DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
@@ -1266,6 +1267,7 @@ DOMAIN-SUFFIX,david-kilgour.com
 DOMAIN-SUFFIX,dawangidc.com
 DOMAIN-SUFFIX,daxa.cn
 DOMAIN-SUFFIX,daylife.com
+DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,dbgjd.com
 DOMAIN-SUFFIX,dcard.tw
@@ -3761,6 +3763,8 @@ DOMAIN-SUFFIX,onmypc.org
 DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,oojj.de
+DOMAIN-SUFFIX,ooni.io
+DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.firstory.me
 DOMAIN-SUFFIX,openai.com
@@ -5748,6 +5752,7 @@ DOMAIN-SUFFIX,xbabe.com
 DOMAIN-SUFFIX,xbookcn.com
 DOMAIN-SUFFIX,xbtce.com
 DOMAIN-SUFFIX,xcafe.in
+DOMAIN-SUFFIX,xcancel.com
 DOMAIN-SUFFIX,xcity.jp
 DOMAIN-SUFFIX,xcritic.com
 DOMAIN-SUFFIX,xerotica.com
