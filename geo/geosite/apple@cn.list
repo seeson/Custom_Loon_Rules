@@ -1,10 +1,10 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-06 07:13:08
-# TOTAL: 293
-# DOMAIN: 231
-# DOMAIN-SUFFIX: 62
+# UPDATED: 2026-01-07 07:13:19
+# TOTAL: 284
+# DOMAIN: 224
+# DOMAIN-SUFFIX: 60
 
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
@@ -149,7 +149,6 @@ DOMAIN,cds-cdn.v.aaplimg.com
 DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
 DOMAIN,cdsassets.apple.com
-DOMAIN,certs.apple.com
 DOMAIN,cl2-cn.apple.com
 DOMAIN,cl4-cn.apple.com
 DOMAIN,clientflow.apple.com
@@ -157,7 +156,6 @@ DOMAIN,clientflow.apple.com.akadns.net
 DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
-DOMAIN,crl.apple.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
@@ -210,10 +208,6 @@ DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,music.apple.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
-DOMAIN,ocsp2.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.g.aaplimg.com
@@ -256,8 +250,6 @@ DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-data.apple.com.akadns.net
 DOMAIN,weather-map.apple.com
@@ -266,26 +258,6 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
-DOMAIN-SUFFIX,beats1.cn
-DOMAIN-SUFFIX,beats1.com.cn
-DOMAIN-SUFFIX,beats2.com.cn
-DOMAIN-SUFFIX,beats4.cn
-DOMAIN-SUFFIX,beatsbydre.com
-DOMAIN-SUFFIX,beatsbydre.com.cn
-DOMAIN-SUFFIX,beatsep.cn
-DOMAIN-SUFFIX,apple-itunes.cn
-DOMAIN-SUFFIX,itunes-apple.cn
-DOMAIN-SUFFIX,itunesapple.cn
-DOMAIN-SUFFIX,itunesradio.cn
-DOMAIN-SUFFIX,itunesradio.com.cn
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.cn
@@ -299,3 +271,22 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,beats1.cn
+DOMAIN-SUFFIX,beats1.com.cn
+DOMAIN-SUFFIX,beats2.com.cn
+DOMAIN-SUFFIX,beats4.cn
+DOMAIN-SUFFIX,beatsbydre.com
+DOMAIN-SUFFIX,beatsbydre.com.cn
+DOMAIN-SUFFIX,beatsep.cn
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,apple-itunes.cn
+DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN-SUFFIX,itunesradio.cn
+DOMAIN-SUFFIX,itunesradio.com.cn

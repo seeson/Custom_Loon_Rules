@@ -1,14 +1,13 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-06 07:13:34
+# UPDATED: 2026-01-07 07:13:38
 # TOTAL: 172
 # DOMAIN-SUFFIX: 172
 
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
-DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cloudflareregistrar.com
@@ -61,6 +60,14 @@ DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,vrcdn.cloud
 DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,vrcdn.video
@@ -133,16 +140,9 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
-DOMAIN-SUFFIX,delvenetworks.com
-DOMAIN-SUFFIX,limelight.com
-DOMAIN-SUFFIX,lldns.net
-DOMAIN-SUFFIX,llnw-trials.com
-DOMAIN-SUFFIX,llnw.com
-DOMAIN-SUFFIX,llnw.net
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,pagecdn.com
 DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,one.one.one
