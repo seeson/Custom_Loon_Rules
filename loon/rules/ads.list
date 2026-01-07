@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:18 CST
-# DOMAIN-SUFFIX: 98910
-# TOTAL: 98910
+# DOMAIN-SUFFIX: 98912
+# TOTAL: 98912
 
 DOMAIN-SUFFIX,0.myikas.com
 DOMAIN-SUFFIX,0.net.easyjet.com
@@ -8125,7 +8125,6 @@ DOMAIN-SUFFIX,ali-pro-origin-pull.kwai.net.iberostar.com
 DOMAIN-SUFFIX,ali-pro-pull.kwai.net.iberostar.com
 DOMAIN-SUFFIX,ali8.alinea.fr
 DOMAIN-SUFFIX,alia-iso.com
-DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alias.cloud-marketing.dimensiondata.com
 DOMAIN-SUFFIX,aliasanvil.com
 DOMAIN-SUFFIX,aliasfoot.com
@@ -16831,6 +16830,7 @@ DOMAIN-SUFFIX,cdn.wuyou.ca
 DOMAIN-SUFFIX,cdn.xbcpcn.com
 DOMAIN-SUFFIX,cdn.xiaoduoai.com
 DOMAIN-SUFFIX,cdn.yld.is
+DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
 DOMAIN-SUFFIX,cdn0.mobmore.com
 DOMAIN-SUFFIX,cdn1.crispadvertising.com
 DOMAIN-SUFFIX,cdn1.lbesec.com
@@ -86376,6 +86376,7 @@ DOMAIN-SUFFIX,tracker.unbxdapi.com
 DOMAIN-SUFFIX,tracker.wigzopush.com
 DOMAIN-SUFFIX,tracker.winload.de
 DOMAIN-SUFFIX,tracker.wpserveur.net
+DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracker.yhd.com
 DOMAIN-SUFFIX,trackerapi.truste.com
 DOMAIN-SUFFIX,trackercloud.net
@@ -89247,6 +89248,7 @@ DOMAIN-SUFFIX,umbel.com
 DOMAIN-SUFFIX,umbkhpryixebl.space
 DOMAIN-SUFFIX,umbrella6.top
 DOMAIN-SUFFIX,umc.danuoyi.alicdn.com
+DOMAIN-SUFFIX,umdc.aliapp.org
 DOMAIN-SUFFIX,umdlbn.globetrotter.de
 DOMAIN-SUFFIX,umdpva.gakumado.mynavi.jp
 DOMAIN-SUFFIX,umdwwuasqcdar.online
