@@ -1,41 +1,46 @@
 # NAME: category-social-media-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-08 07:14:37
+# UPDATED: 2026-01-09 07:13:31
 # TOTAL: 93
 # DOMAIN-SUFFIX: 93
 
-DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,dandanvoice.com
 DOMAIN-SUFFIX,maimai.cn
-DOMAIN-SUFFIX,okjk.co
+DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,ivwen.com
+DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,meipian.me
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xhslink.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,douban.fm
+DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,gracg.com
+DOMAIN-SUFFIX,procg.cn
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dwstatic.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coolapkmarket.net
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,hupu.com
-DOMAIN-SUFFIX,hupucdn.com
-DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
-DOMAIN-SUFFIX,meipian.me
-DOMAIN-SUFFIX,dandan818.com
-DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,okjike.com
+DOMAIN-SUFFIX,okjk.co
+DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sinajs.com
@@ -56,13 +61,8 @@ DOMAIN-SUFFIX,wcdn.cn
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,gracg.com
-DOMAIN-SUFFIX,procg.cn
-DOMAIN-SUFFIX,okjike.com
-DOMAIN-SUFFIX,meipian.cn
-DOMAIN-SUFFIX,ivwen.com
-DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,weibo.com.cn
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,crash2.zhihu.com
