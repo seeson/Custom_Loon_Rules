@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5458
-# TOTAL: 5915
+# DOMAIN-SUFFIX: 5464
+# TOTAL: 5921
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -858,6 +858,7 @@ DOMAIN-SUFFIX,aiemy.com
 DOMAIN-SUFFIX,aiganggu.com
 DOMAIN-SUFFIX,aigc-cloud.com
 DOMAIN-SUFFIX,aihst8.com
+DOMAIN-SUFFIX,aihuishou.com
 DOMAIN-SUFFIX,aiketour.com
 DOMAIN-SUFFIX,aiops.com
 DOMAIN-SUFFIX,aip.org
@@ -1005,6 +1006,7 @@ DOMAIN-SUFFIX,antgroup.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,antpcdn.com
 DOMAIN-SUFFIX,antutu.com
+DOMAIN-SUFFIX,antutu.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,anycross.com
 DOMAIN-SUFFIX,anywlan.com
@@ -2369,6 +2371,9 @@ DOMAIN-SUFFIX,flymeauto.com
 DOMAIN-SUFFIX,fm365.com
 DOMAIN-SUFFIX,fm3838.com
 DOMAIN-SUFFIX,fnjiasu.com
+DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fnnas.net
+DOMAIN-SUFFIX,fnos.net
 DOMAIN-SUFFIX,fofa.info
 DOMAIN-SUFFIX,fofa.so
 DOMAIN-SUFFIX,ford.com
@@ -4711,6 +4716,7 @@ DOMAIN-SUFFIX,taoche.com
 DOMAIN-SUFFIX,taomee.com
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapimg.net
 DOMAIN-SUFFIX,taptap.com

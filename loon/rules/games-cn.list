@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 26
-# DOMAIN-SUFFIX: 259
-# TOTAL: 285
+# DOMAIN-SUFFIX: 260
+# TOTAL: 286
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,supercellcommunity.cn
 DOMAIN-SUFFIX,supercellsupport.cn
 DOMAIN-SUFFIX,syxlgame.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapimg.net
 DOMAIN-SUFFIX,taptap.cn

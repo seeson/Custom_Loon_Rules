@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:27 CST
 # DOMAIN: 34
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 46
-# TOTAL: 83
+# DOMAIN-SUFFIX: 48
+# TOTAL: 85
 
 DOMAIN,adguardteam.github.io
 DOMAIN,adrules.top
@@ -49,11 +49,13 @@ DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,direct
+DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,example
 DOMAIN-SUFFIX,ff14.sdo.com
 DOMAIN-SUFFIX,ffxiv.com
 DOMAIN-SUFFIX,finalfantasyxiv.com
 DOMAIN-SUFFIX,gcloudcs.com
+DOMAIN-SUFFIX,gcloudsdk.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,invalid
 DOMAIN-SUFFIX,kk-rays.com

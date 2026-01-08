@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 364
-# DOMAIN-SUFFIX: 114511
-# TOTAL: 114875
+# DOMAIN-SUFFIX: 114513
+# TOTAL: 114877
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -35338,6 +35338,7 @@ DOMAIN-SUFFIX,fnkslift.com
 DOMAIN-SUFFIX,fnkvision.com
 DOMAIN-SUFFIX,fnmobi.com
 DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnnsh.com
 DOMAIN-SUFFIX,fnnspa.com
 DOMAIN-SUFFIX,fnos.net
@@ -89786,6 +89787,7 @@ DOMAIN-SUFFIX,tapafun.com
 DOMAIN-SUFFIX,tapai.com
 DOMAIN-SUFFIX,tapaijiu.com
 DOMAIN-SUFFIX,tapapis.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapas.net
 DOMAIN-SUFFIX,tapbooster.net
 DOMAIN-SUFFIX,tapdata.net
