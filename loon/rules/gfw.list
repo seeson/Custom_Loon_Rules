@@ -147,7 +147,6 @@ DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-SUFFIX,abitno.linpie.com
 DOMAIN-SUFFIX,ablwang.com
 DOMAIN-SUFFIX,aboluowang.com
-DOMAIN-SUFFIX,about.gitlab.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,abplive.com
 DOMAIN-SUFFIX,abs.edu
@@ -1025,7 +1024,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,chromestatus.com
-DOMAIN-SUFFIX,chromium.org 
+DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chuang-yen.org
 DOMAIN-SUFFIX,chubold.com
 DOMAIN-SUFFIX,chubun.com
@@ -2010,6 +2009,7 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com

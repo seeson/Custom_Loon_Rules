@@ -2,10 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 142
-# TOTAL: 142
+# DOMAIN: 144
+# TOTAL: 144
 
-DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -19,13 +18,12 @@ DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
-DOMAIN,burmese.app
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
 DOMAIN,colivioo.com
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
-DOMAIN,echostar.ddnsfree.com
+DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,extracker.dahrkael.net
@@ -37,13 +35,14 @@ DOMAIN,jvavav.com
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,node01.trackerstatus.live
+DOMAIN,node02.torrentonline.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open-tracker.demonoid.ch
 DOMAIN,open.acgtracker.com
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
+DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.trackerlist.xyz
@@ -51,8 +50,8 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.demonoid.ch
+DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
-DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run.publictracker.xyz
 DOMAIN,servandroidkino.ru
@@ -75,20 +74,23 @@ DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.1h.is
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
-DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
+DOMAIN,tracker.bug38.com
 DOMAIN,tracker.bz
-DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cutie.dating
+DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
+DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
+DOMAIN,tracker.file09.com
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
@@ -97,16 +99,12 @@ DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.iochimari.moe
-DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.org
-DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
-DOMAIN,tracker.lintk.me
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
@@ -131,17 +129,21 @@ DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
+DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
 DOMAIN,tracker1.t-1.org
 DOMAIN,tracker2.dler.org
+DOMAIN,tracker2.itzmx.com
+DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker3.t-1.org
+DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
 DOMAIN,trackr.appolon.dev
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,utracker.ghostchu-services.top
-DOMAIN,wepzone.net
+DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org

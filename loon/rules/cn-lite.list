@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5464
-# TOTAL: 5921
+# DOMAIN-SUFFIX: 5467
+# TOTAL: 5924
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -2203,6 +2203,7 @@ DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,eastmoneyfutures.com
 DOMAIN-SUFFIX,eastsoo.com
 DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,easytrip.com
 DOMAIN-SUFFIX,eayyou.com
 DOMAIN-SUFFIX,eb-ind.com
@@ -4429,6 +4430,7 @@ DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sbsjk.com
 DOMAIN-SUFFIX,sc96655.com
 DOMAIN-SUFFIX,scdng.com
+DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,scm121.com
 DOMAIN-SUFFIX,scomper.me
@@ -4927,6 +4929,7 @@ DOMAIN-SUFFIX,tongfangpc.com
 DOMAIN-SUFFIX,tongji.linezing.com
 DOMAIN-SUFFIX,tongtaiamc.com
 DOMAIN-SUFFIX,tongxianghuicn.com
+DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,tools.team
 DOMAIN-SUFFIX,tophub.today
