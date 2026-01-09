@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-09 07:13:45
-# TOTAL: 115413
-# DOMAIN-SUFFIX: 115413
+# UPDATED: 2026-01-10 07:13:59
+# TOTAL: 115415
+# DOMAIN-SUFFIX: 115415
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juyingele.com
-DOMAIN-SUFFIX,kzwr.com
+DOMAIN-SUFFIX,juyebwg.com
+DOMAIN-SUFFIX,ihykb.com
 DOMAIN-SUFFIX,0355fk.com
 DOMAIN-SUFFIX,0356.com
 DOMAIN-SUFFIX,0356f.com
@@ -34672,6 +34672,7 @@ DOMAIN-SUFFIX,fnkslift.com
 DOMAIN-SUFFIX,fnkvision.com
 DOMAIN-SUFFIX,fnmobi.com
 DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnnsh.com
 DOMAIN-SUFFIX,fnnspa.com
 DOMAIN-SUFFIX,fnos.net
@@ -51354,7 +51355,7 @@ DOMAIN-SUFFIX,ihwrm.com
 DOMAIN-SUFFIX,ihx.cc
 DOMAIN-SUFFIX,ihxlife.com
 DOMAIN-SUFFIX,ihying.cc
-DOMAIN-SUFFIX,ihykb.com
+DOMAIN-SUFFIX,jxjee.com
 DOMAIN-SUFFIX,ihypnus.com
 DOMAIN-SUFFIX,ihypo.net
 DOMAIN-SUFFIX,ihytv.com
@@ -53109,7 +53110,7 @@ DOMAIN-SUFFIX,iwteexpo.com
 DOMAIN-SUFFIX,iwuchen.com
 DOMAIN-SUFFIX,iwurexs.info
 DOMAIN-SUFFIX,iwurexs.net
-DOMAIN-SUFFIX,jxjee.com
+DOMAIN-SUFFIX,iwurexs.org
 DOMAIN-SUFFIX,iwuyou189.com
 DOMAIN-SUFFIX,iwwwwwi.com
 DOMAIN-SUFFIX,iwxapi.com
@@ -57562,8 +57563,8 @@ DOMAIN-SUFFIX,juxuecms.com
 DOMAIN-SUFFIX,juxuewen.com
 DOMAIN-SUFFIX,juyang-chem.com
 DOMAIN-SUFFIX,juyanwenjuan.com
-DOMAIN-SUFFIX,juyebwg.com
 DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,juyingele.com
 DOMAIN-SUFFIX,juyingonline.com
 DOMAIN-SUFFIX,juyisuliao.com
 DOMAIN-SUFFIX,juyoubao.com
@@ -57732,10 +57733,10 @@ DOMAIN-SUFFIX,jxhyxx.com
 DOMAIN-SUFFIX,jxiaolan.com
 DOMAIN-SUFFIX,jxic.com
 DOMAIN-SUFFIX,jximage.com
-DOMAIN-SUFFIX,lbzuo.com
+DOMAIN-SUFFIX,jxjatv.com
+DOMAIN-SUFFIX,qs921.com
 DOMAIN-SUFFIX,0354rcw.com
-DOMAIN-SUFFIX,iwurexs.org
-DOMAIN-SUFFIX,jxjia.net
+DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,jxjianwei.com
 DOMAIN-SUFFIX,jxjktzjt.com
 DOMAIN-SUFFIX,jxjmzc.com
@@ -60569,7 +60570,7 @@ DOMAIN-SUFFIX,kzrcw.com
 DOMAIN-SUFFIX,kzread.com
 DOMAIN-SUFFIX,kzrqicae.com
 DOMAIN-SUFFIX,kztsjj.com
-DOMAIN-SUFFIX,jxjdgy.com
+DOMAIN-SUFFIX,kzwr.com
 DOMAIN-SUFFIX,kzwx.net
 DOMAIN-SUFFIX,kzyzz.com
 DOMAIN-SUFFIX,l-zb.com
@@ -61280,7 +61281,7 @@ DOMAIN-SUFFIX,lbycwx.com
 DOMAIN-SUFFIX,lbyeyaji.com
 DOMAIN-SUFFIX,lbyq.com
 DOMAIN-SUFFIX,lbysgz.com
-DOMAIN-SUFFIX,jxjatv.com
+DOMAIN-SUFFIX,lbzuo.com
 DOMAIN-SUFFIX,lc-cn-e1-shared.com
 DOMAIN-SUFFIX,lc-cn-n1-ayaqc.com
 DOMAIN-SUFFIX,lc-cn-n1-npxfk.com
@@ -77589,7 +77590,7 @@ DOMAIN-SUFFIX,qrzxx.com
 DOMAIN-SUFFIX,qs-jt.net
 DOMAIN-SUFFIX,qs12315.com
 DOMAIN-SUFFIX,qs5.org
-DOMAIN-SUFFIX,qs921.com
+DOMAIN-SUFFIX,jxjdgy.com
 DOMAIN-SUFFIX,qsap-group.com
 DOMAIN-SUFFIX,zyylee.com
 DOMAIN-SUFFIX,qsbank.cc
@@ -89931,6 +89932,7 @@ DOMAIN-SUFFIX,tapafun.com
 DOMAIN-SUFFIX,tapai.com
 DOMAIN-SUFFIX,tapaijiu.com
 DOMAIN-SUFFIX,tapapis.com
+DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapbooster.net
 DOMAIN-SUFFIX,tapd-app.com
 DOMAIN-SUFFIX,tapdata.net
@@ -97317,7 +97319,7 @@ DOMAIN-SUFFIX,weichewl.com
 DOMAIN-SUFFIX,weichuanbo.com
 DOMAIN-SUFFIX,weichuangtech.com
 DOMAIN-SUFFIX,weichuming.com
-DOMAIN-SUFFIX,weico.cc
+DOMAIN-SUFFIX,jxjia.net
 DOMAIN-SUFFIX,weico.com
 DOMAIN-SUFFIX,weicogif.com
 DOMAIN-SUFFIX,weicon.cc
