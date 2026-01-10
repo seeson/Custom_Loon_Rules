@@ -1,15 +1,15 @@
 # NAME: category-logistics-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-10 07:13:44
+# UPDATED: 2026-01-11 07:13:35
 # TOTAL: 152
 # DOMAIN-SUFFIX: 152
 
 DOMAIN-SUFFIX,tianxiajiameng.cn
 DOMAIN-SUFFIX,yt0.cc
-DOMAIN-SUFFIX,kd100.com
-DOMAIN-SUFFIX,kuaidi100.com
-DOMAIN-SUFFIX,kuaidilab.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,sto-express.cn
 DOMAIN-SUFFIX,sto-express.com
 DOMAIN-SUFFIX,sto.cn
@@ -24,8 +24,6 @@ DOMAIN-SUFFIX,yundalog.com
 DOMAIN-SUFFIX,yundaltl.com
 DOMAIN-SUFFIX,udalogistic.com
 DOMAIN-SUFFIX,udalogistic.cn
-DOMAIN-SUFFIX,fcbox.com
-DOMAIN-SUFFIX,fcboxmall.com
 DOMAIN-SUFFIX,upfos.cn
 DOMAIN-SUFFIX,jtexpress.com
 DOMAIN-SUFFIX,upfos.com
@@ -45,13 +43,15 @@ DOMAIN-SUFFIX,jet-logistics.com
 DOMAIN-SUFFIX,jetlogistic.com
 DOMAIN-SUFFIX,jtg2g.com
 DOMAIN-SUFFIX,jtexpress.top
-DOMAIN-SUFFIX,deppon.com
+DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,kd100.com
+DOMAIN-SUFFIX,fcboxmall.com
+DOMAIN-SUFFIX,fcbox.com
 DOMAIN-SUFFIX,dpma.cc
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kuaidilab.com
 DOMAIN-SUFFIX,sf-financial.com
 DOMAIN-SUFFIX,sf-saas.com
-DOMAIN-SUFFIX,guoguo-app.com
-DOMAIN-SUFFIX,cainiaoyizhan.com
-DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,rongechain.com
 DOMAIN-SUFFIX,sf-airlines.com
 DOMAIN-SUFFIX,sf-cityrush.com
@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,sf.cn
 DOMAIN-SUFFIX,sfbuy.com
 DOMAIN-SUFFIX,sfcar.hk
 DOMAIN-SUFFIX,sffix.cn
-DOMAIN-SUFFIX,cainiao-inc.com
+DOMAIN-SUFFIX,deppon.com
 DOMAIN-SUFFIX,youyitms.com
 DOMAIN-SUFFIX,youyierp.com
 DOMAIN-SUFFIX,guoocang.com
@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,gpall.cn
 DOMAIN-SUFFIX,yuantongyizhan.cn
 DOMAIN-SUFFIX,xinyuanfin.com
 DOMAIN-SUFFIX,sfgy.org
-DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,tianxiajiameng.com
 DOMAIN-SUFFIX,mamayz.cn
 DOMAIN-SUFFIX,gpall.net
@@ -138,7 +138,7 @@ DOMAIN-SUFFIX,bestincapp.com
 DOMAIN-SUFFIX,bestdataclub.com
 DOMAIN-SUFFIX,bestincapi.cn
 DOMAIN-SUFFIX,nellit.org.cn
-DOMAIN-SUFFIX,jtexpress.com.cn
+DOMAIN-SUFFIX,deppon.com.cn
 DOMAIN-SUFFIX,nellit.net.cn
 DOMAIN-SUFFIX,ytokj.com.cn
 DOMAIN-SUFFIX,yto.net.cn
@@ -150,10 +150,10 @@ DOMAIN-SUFFIX,ytojg.com.cn
 DOMAIN-SUFFIX,ytocargo.com.cn
 DOMAIN-SUFFIX,nellit.com.cn
 DOMAIN-SUFFIX,sf-tech.com.cn
-DOMAIN-SUFFIX,deppon.com.cn
-DOMAIN-SUFFIX,800best.com.cn
 DOMAIN-SUFFIX,bxexpress.com.cn
+DOMAIN-SUFFIX,800best.com.cn
 DOMAIN-SUFFIX,jnt-express.com.cn
+DOMAIN-SUFFIX,jtexpress.com.cn
 DOMAIN-SUFFIX,izto.com.cn
 DOMAIN-SUFFIX,sto-express.com.cn
 DOMAIN-SUFFIX,ytokj.net.cn
