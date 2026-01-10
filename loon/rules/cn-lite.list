@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5467
-# TOTAL: 5924
+# DOMAIN-SUFFIX: 5476
+# TOTAL: 5933
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -988,6 +988,7 @@ DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,andfx.net
 DOMAIN-SUFFIX,anfensi.com
+DOMAIN-SUFFIX,anhuinews.com
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,animetamashi.com
 DOMAIN-SUFFIX,animetorrents.me
@@ -1786,6 +1787,7 @@ DOMAIN-SUFFIX,cmf.biz
 DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cmfchina.com
 DOMAIN-SUFFIX,cmfu.com
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cn
@@ -2163,6 +2165,7 @@ DOMAIN-SUFFIX,duoshan.com
 DOMAIN-SUFFIX,duoshuo.com
 DOMAIN-SUFFIX,duote.com
 DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dutenews.com
 DOMAIN-SUFFIX,dutils.com
 DOMAIN-SUFFIX,duxiaoman-int.com
 DOMAIN-SUFFIX,duxiaoman.com
@@ -2732,6 +2735,7 @@ DOMAIN-SUFFIX,hf-aw.com
 DOMAIN-SUFFIX,hftfund.com
 DOMAIN-SUFFIX,hhtravel.com
 DOMAIN-SUFFIX,hhtravel.com.tw
+DOMAIN-SUFFIX,hiaiabc.com
 DOMAIN-SUFFIX,hiascend.com
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,hiclc.com
@@ -3863,6 +3867,7 @@ DOMAIN-SUFFIX,mndqlib.net
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mobmore.com
+DOMAIN-SUFFIX,mobsdks.com
 DOMAIN-SUFFIX,modelarts-infer.com
 DOMAIN-SUFFIX,modelarts-maas.com
 DOMAIN-SUFFIX,moegirl.org
@@ -3928,6 +3933,7 @@ DOMAIN-SUFFIX,mychinaunicom.com
 DOMAIN-SUFFIX,mydown.com
 DOMAIN-SUFFIX,mydrivers.com
 DOMAIN-SUFFIX,myelasticsearch.com
+DOMAIN-SUFFIX,mygolbs.com
 DOMAIN-SUFFIX,myhuaweicloud-custom.com
 DOMAIN-SUFFIX,myhuaweicloud-koodrive.com
 DOMAIN-SUFFIX,myhuaweicloud-obs.com
@@ -4682,6 +4688,8 @@ DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,szfw.org
 DOMAIN-SUFFIX,szhk.com
 DOMAIN-SUFFIX,szlcsc.com
+DOMAIN-SUFFIX,sznews.com
+DOMAIN-SUFFIX,szpgm.com
 DOMAIN-SUFFIX,szzfgjj.com
 DOMAIN-SUFFIX,t.tt
 DOMAIN-SUFFIX,t00ls.cc
@@ -5659,6 +5667,7 @@ DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,yjbys.com
 DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,ykzq.com
 DOMAIN-SUFFIX,yl-scm.com
 DOMAIN-SUFFIX,ylike.net

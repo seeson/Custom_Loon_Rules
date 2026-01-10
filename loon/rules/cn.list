@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 364
-# DOMAIN-SUFFIX: 114516
-# TOTAL: 114880
+# DOMAIN-SUFFIX: 114517
+# TOTAL: 114881
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -67909,6 +67909,7 @@ DOMAIN-SUFFIX,moboplayer.com
 DOMAIN-SUFFIX,mobotap.com
 DOMAIN-SUFFIX,mobring.co
 DOMAIN-SUFFIX,mobrtb.com
+DOMAIN-SUFFIX,mobsdks.com
 DOMAIN-SUFFIX,mobsurl.com
 DOMAIN-SUFFIX,mobtou.com
 DOMAIN-SUFFIX,mobvoi.com
