@@ -1,9 +1,9 @@
 # NAME: cctv
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-11 07:13:48
-# TOTAL: 41
-# DOMAIN-SUFFIX: 41
+# UPDATED: 2026-01-12 07:13:22
+# TOTAL: 42
+# DOMAIN-SUFFIX: 42
 
 DOMAIN-SUFFIX,icntvcdn.com
 DOMAIN-SUFFIX,cctvpro.cn
@@ -46,3 +46,4 @@ DOMAIN-SUFFIX,cnms.net.cn
 DOMAIN-SUFFIX,zggbdszt.com.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
 DOMAIN-SUFFIX,zygbdszt.net.cn
+DOMAIN-SUFFIX,ad.cctv.com

@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-11 07:13:27
+# UPDATED: 2026-01-12 07:13:08
 # TOTAL: 133
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 130
@@ -35,11 +35,11 @@ DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,liulishuo.com
 DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,kuaiduizuoye.com
-DOMAIN-SUFFIX,yeshj.com
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,speiyou.com
 DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 DOMAIN-SUFFIX,91yunxiao.com
@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,huatu.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
-DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,xir.cn
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com
@@ -94,23 +94,8 @@ DOMAIN-SUFFIX,yunzhuxue.com
 DOMAIN-SUFFIX,ystbds.com
 DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,shanbay.com
-DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,yuketang.cn
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.net
-DOMAIN-SUFFIX,applysquare.com
-DOMAIN-SUFFIX,applysquare.net
-DOMAIN-SUFFIX,koocdn.com
-DOMAIN-SUFFIX,koolearn.com
-DOMAIN-SUFFIX,koopass.com
-DOMAIN-SUFFIX,schoopia.com
-DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,cnmooc.org
 DOMAIN-SUFFIX,icourse163.org
@@ -119,6 +104,21 @@ DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,baydn.com
+DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,hugecore.net
 DOMAIN-SUFFIX,shareintelli.com
 DOMAIN-SUFFIX,cbern.com.cn

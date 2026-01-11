@@ -1,13 +1,10 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-11 07:13:26
+# UPDATED: 2026-01-12 07:13:07
 # TOTAL: 12
 # DOMAIN-SUFFIX: 12
 
-DOMAIN-SUFFIX,ozon.ru
-DOMAIN-SUFFIX,ozone.ru
-DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,rwb.ru
@@ -17,3 +14,6 @@ DOMAIN-SUFFIX,wbbasket.ru
 DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wibes.ru
 DOMAIN-SUFFIX,wildberries.ru
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonusercontent.com

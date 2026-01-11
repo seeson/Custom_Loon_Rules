@@ -1,8 +1,8 @@
-# NAME: casimages
+# NAME: cctv@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-12 07:13:01
+# UPDATED: 2026-01-12 07:13:22
 # TOTAL: 1
 # DOMAIN-SUFFIX: 1
 
-DOMAIN-SUFFIX,casimages.com
+DOMAIN-SUFFIX,ad.cctv.com

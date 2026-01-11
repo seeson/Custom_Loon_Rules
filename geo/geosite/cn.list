@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-11 07:13:58
-# TOTAL: 115415
-# DOMAIN-SUFFIX: 115415
+# UPDATED: 2026-01-12 07:13:28
+# TOTAL: 115418
+# DOMAIN-SUFFIX: 115418
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,juyebwg.com
-DOMAIN-SUFFIX,ihykb.com
+DOMAIN-SUFFIX,juyingonline.com
+DOMAIN-SUFFIX,jinghongsh.com
 DOMAIN-SUFFIX,0355fk.com
 DOMAIN-SUFFIX,0356.com
 DOMAIN-SUFFIX,0356f.com
@@ -11692,7 +11692,7 @@ DOMAIN-SUFFIX,arayzou.com
 DOMAIN-SUFFIX,arbays.com
 DOMAIN-SUFFIX,arc-uds.com
 DOMAIN-SUFFIX,arcas-da.com
-DOMAIN-SUFFIX,arcdmi.com
+DOMAIN-SUFFIX,jxjktzjt.com
 DOMAIN-SUFFIX,archaeuscapital.com
 DOMAIN-SUFFIX,archcollege.com
 DOMAIN-SUFFIX,archcookie.com
@@ -51355,7 +51355,7 @@ DOMAIN-SUFFIX,ihwrm.com
 DOMAIN-SUFFIX,ihx.cc
 DOMAIN-SUFFIX,ihxlife.com
 DOMAIN-SUFFIX,ihying.cc
-DOMAIN-SUFFIX,jxjee.com
+DOMAIN-SUFFIX,ihykb.com
 DOMAIN-SUFFIX,ihypnus.com
 DOMAIN-SUFFIX,ihypo.net
 DOMAIN-SUFFIX,ihytv.com
@@ -54944,7 +54944,7 @@ DOMAIN-SUFFIX,jingheiot.com
 DOMAIN-SUFFIX,jinghesh.net
 DOMAIN-SUFFIX,jinghonggroup.com
 DOMAIN-SUFFIX,jinghongmedical.com
-DOMAIN-SUFFIX,jinghongsh.com
+DOMAIN-SUFFIX,jxjianwei.com
 DOMAIN-SUFFIX,jinghua.com
 DOMAIN-SUFFIX,jinghuans.com
 DOMAIN-SUFFIX,jinghuaqimo.com
@@ -57563,9 +57563,9 @@ DOMAIN-SUFFIX,juxuecms.com
 DOMAIN-SUFFIX,juxuewen.com
 DOMAIN-SUFFIX,juyang-chem.com
 DOMAIN-SUFFIX,juyanwenjuan.com
-DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,juyebwg.com
 DOMAIN-SUFFIX,juyingele.com
-DOMAIN-SUFFIX,juyingonline.com
+DOMAIN-SUFFIX,0.zone
 DOMAIN-SUFFIX,juyisuliao.com
 DOMAIN-SUFFIX,juyoubao.com
 DOMAIN-SUFFIX,juyoukuaisong.net
@@ -57734,11 +57734,11 @@ DOMAIN-SUFFIX,jxiaolan.com
 DOMAIN-SUFFIX,jxic.com
 DOMAIN-SUFFIX,jximage.com
 DOMAIN-SUFFIX,jxjatv.com
-DOMAIN-SUFFIX,qs921.com
+DOMAIN-SUFFIX,jxjdgy.com
+DOMAIN-SUFFIX,jxjee.com
+DOMAIN-SUFFIX,xiaoshuowu.com
 DOMAIN-SUFFIX,0354rcw.com
-DOMAIN-SUFFIX,weico.cc
-DOMAIN-SUFFIX,jxjianwei.com
-DOMAIN-SUFFIX,jxjktzjt.com
+DOMAIN-SUFFIX,arcdmi.com
 DOMAIN-SUFFIX,jxjmzc.com
 DOMAIN-SUFFIX,jxjob.net
 DOMAIN-SUFFIX,jxjrw.com
@@ -67834,6 +67834,7 @@ DOMAIN-SUFFIX,moboplayer.com
 DOMAIN-SUFFIX,mobotap.com
 DOMAIN-SUFFIX,mobring.co
 DOMAIN-SUFFIX,mobrtb.com
+DOMAIN-SUFFIX,mobsdks.com
 DOMAIN-SUFFIX,mobsurl.com
 DOMAIN-SUFFIX,mobtou.com
 DOMAIN-SUFFIX,mobvoi.com
@@ -77590,7 +77591,7 @@ DOMAIN-SUFFIX,qrzxx.com
 DOMAIN-SUFFIX,qs-jt.net
 DOMAIN-SUFFIX,qs12315.com
 DOMAIN-SUFFIX,qs5.org
-DOMAIN-SUFFIX,jxjdgy.com
+DOMAIN-SUFFIX,qs921.com
 DOMAIN-SUFFIX,qsap-group.com
 DOMAIN-SUFFIX,zyylee.com
 DOMAIN-SUFFIX,qsbank.cc
@@ -81120,6 +81121,7 @@ DOMAIN-SUFFIX,school51.com
 DOMAIN-SUFFIX,school888.com
 DOMAIN-SUFFIX,schoolinweb.com
 DOMAIN-SUFFIX,schoolpi.net
+DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,schstv.com
 DOMAIN-SUFFIX,scht.cc
 DOMAIN-SUFFIX,schwarzeni.com
@@ -92321,6 +92323,7 @@ DOMAIN-SUFFIX,tongxiong.com
 DOMAIN-SUFFIX,tongxue.com
 DOMAIN-SUFFIX,tongxue365.com
 DOMAIN-SUFFIX,tongxue8.com
+DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,tongyangship.com
 DOMAIN-SUFFIX,tongyaoplay.com
 DOMAIN-SUFFIX,tongyavisa.com
@@ -97319,7 +97322,7 @@ DOMAIN-SUFFIX,weichewl.com
 DOMAIN-SUFFIX,weichuanbo.com
 DOMAIN-SUFFIX,weichuangtech.com
 DOMAIN-SUFFIX,weichuming.com
-DOMAIN-SUFFIX,jxjia.net
+DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weico.com
 DOMAIN-SUFFIX,weicogif.com
 DOMAIN-SUFFIX,weicon.cc
@@ -102006,7 +102009,7 @@ DOMAIN-SUFFIX,xiaoshuodaquan.com
 DOMAIN-SUFFIX,xiaoshuohui.net
 DOMAIN-SUFFIX,xiaoshuoli.com
 DOMAIN-SUFFIX,xiaoshuomi.cc
-DOMAIN-SUFFIX,xiaoshuowu.com
+DOMAIN-SUFFIX,jxjia.net
 DOMAIN-SUFFIX,xiaoshuxiong.com
 DOMAIN-SUFFIX,xiaositv.com
 DOMAIN-SUFFIX,xiaot.com
