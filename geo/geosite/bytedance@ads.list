@@ -1,11 +1,26 @@
 # NAME: bytedance@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-12 07:12:59
+# UPDATED: 2026-01-13 07:11:42
 # TOTAL: 57
 # DOMAIN: 30
 # DOMAIN-SUFFIX: 27
 
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN-SUFFIX,ad.toutiao.com
 DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,bds.snssdk.com
@@ -33,21 +48,6 @@ DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shoppingads.cn
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
