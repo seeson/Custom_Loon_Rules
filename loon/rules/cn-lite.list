@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5478
-# TOTAL: 5935
+# DOMAIN-SUFFIX: 5486
+# TOTAL: 5943
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -652,6 +652,7 @@ DOMAIN-SUFFIX,4399api.net
 DOMAIN-SUFFIX,4399biule.com
 DOMAIN-SUFFIX,4399dmw.com
 DOMAIN-SUFFIX,4399er.com
+DOMAIN-SUFFIX,4399hdhh.com
 DOMAIN-SUFFIX,4399hhh.com
 DOMAIN-SUFFIX,4399inc.com
 DOMAIN-SUFFIX,4399mail.com
@@ -727,6 +728,7 @@ DOMAIN-SUFFIX,5gzm.net
 DOMAIN-SUFFIX,5ifund.com
 DOMAIN-SUFFIX,5khouse.com
 DOMAIN-SUFFIX,5read.com
+DOMAIN-SUFFIX,5wyxi.com
 DOMAIN-SUFFIX,5you.com
 DOMAIN-SUFFIX,6-u.com
 DOMAIN-SUFFIX,61.com
@@ -805,6 +807,7 @@ DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,aardio.com
 DOMAIN-SUFFIX,abc-ca.com
 DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,abdf002.com
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,abhouses.com
 DOMAIN-SUFFIX,ac.fun
@@ -1309,6 +1312,7 @@ DOMAIN-SUFFIX,btgtravel.com
 DOMAIN-SUFFIX,bthhotels.com
 DOMAIN-SUFFIX,btime.com
 DOMAIN-SUFFIX,build9s.io
+DOMAIN-SUFFIX,buke999.com
 DOMAIN-SUFFIX,burningvocabulary.com
 DOMAIN-SUFFIX,bvfcdn.com
 DOMAIN-SUFFIX,bx0byte.com
@@ -2675,6 +2679,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,hao222.com
 DOMAIN-SUFFIX,haofenshu.com
+DOMAIN-SUFFIX,haohaowan.net
 DOMAIN-SUFFIX,haokan.com
 DOMAIN-SUFFIX,haolietou.com
 DOMAIN-SUFFIX,haoso.com
@@ -3735,6 +3740,7 @@ DOMAIN-SUFFIX,mahjongcup.com
 DOMAIN-SUFFIX,mahjongcup.net
 DOMAIN-SUFFIX,mai.tn
 DOMAIN-SUFFIX,mail4399.com
+DOMAIN-SUFFIX,maindown4399.com
 DOMAIN-SUFFIX,maisanqi.com
 DOMAIN-SUFFIX,maitix.com
 DOMAIN-SUFFIX,maixhub.com
@@ -5776,7 +5782,9 @@ DOMAIN-SUFFIX,yuzua.com
 DOMAIN-SUFFIX,yxbao.com
 DOMAIN-SUFFIX,yxdmgame.com
 DOMAIN-SUFFIX,yxdown.com
+DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,yxhhdl.com
+DOMAIN-SUFFIX,yxhimg.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yy.com
