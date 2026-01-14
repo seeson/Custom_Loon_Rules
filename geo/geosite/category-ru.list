@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-14 07:14:47
+# UPDATED: 2026-01-15 07:13:28
 # TOTAL: 125
 # DOMAIN-SUFFIX: 125
 
@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,moscow
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,okolo.app
 DOMAIN-SUFFIX,dodostatic.net
 DOMAIN-SUFFIX,dodois.io
 DOMAIN-SUFFIX,uni.rest
@@ -67,7 +67,6 @@ DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,vkuservideo.net
 DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,ru.net
@@ -75,12 +74,15 @@ DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,dodopizza.com
 DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,fix-price.com
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
-DOMAIN-SUFFIX,okolo.app
-DOMAIN-SUFFIX,perekrestok.com
 DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,x5.ai
 DOMAIN-SUFFIX,x5.com
 DOMAIN-SUFFIX,x5.digital
 DOMAIN-SUFFIX,x5.group
@@ -88,13 +90,10 @@ DOMAIN-SUFFIX,x5.media
 DOMAIN-SUFFIX,x5.team
 DOMAIN-SUFFIX,x5.tech
 DOMAIN-SUFFIX,x5static.net
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,ngenix.net
 DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,fix-price.com
-DOMAIN-SUFFIX,lenta.com
-DOMAIN-SUFFIX,lenta.tech
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,donationalerts.com
@@ -123,6 +122,7 @@ DOMAIN-SUFFIX,vkmessenger.com
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex-images.clstorage.net
