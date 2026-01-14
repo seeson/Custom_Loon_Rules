@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 457
-# DOMAIN-SUFFIX: 5486
-# TOTAL: 5943
+# DOMAIN-SUFFIX: 5492
+# TOTAL: 5949
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -976,6 +976,7 @@ DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,allawntech.com
 DOMAIN-SUFFIX,alloyteam.com
 DOMAIN-SUFFIX,allyes.com
+DOMAIN-SUFFIX,alookweb.com
 DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,amap.com
@@ -1980,6 +1981,7 @@ DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dcdkjx.com
 DOMAIN-SUFFIX,dcg.microsoft.com
+DOMAIN-SUFFIX,dcloud.io
 DOMAIN-SUFFIX,dcloudlive.com
 DOMAIN-SUFFIX,dcloudlive.net
 DOMAIN-SUFFIX,dcloudsp.com
@@ -2158,6 +2160,7 @@ DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,duba.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,dui.ai
+DOMAIN-SUFFIX,dui88.com
 DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,duitang.com
 DOMAIN-SUFFIX,duoduocdn.com
@@ -3584,6 +3587,7 @@ DOMAIN-SUFFIX,lawxp.com
 DOMAIN-SUFFIX,lawyee.org
 DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,lazycat.cloud
+DOMAIN-SUFFIX,lbtp.com
 DOMAIN-SUFFIX,lckfb.com
 DOMAIN-SUFFIX,lczq.com
 DOMAIN-SUFFIX,ld246.com
@@ -3592,6 +3596,7 @@ DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,leangoo.com
 DOMAIN-SUFFIX,leanote.com
 DOMAIN-SUFFIX,leautolink.com
+DOMAIN-SUFFIX,lebo.top
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lecloudapi.com
 DOMAIN-SUFFIX,ledu.com
@@ -5440,6 +5445,7 @@ DOMAIN-SUFFIX,x-cloud.cc
 DOMAIN-SUFFIX,x315.com
 DOMAIN-SUFFIX,xa-bank.com
 DOMAIN-SUFFIX,xafc.com
+DOMAIN-SUFFIX,xbext.com
 DOMAIN-SUFFIX,xbiao.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
