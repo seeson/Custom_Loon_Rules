@@ -1,33 +1,31 @@
 # NAME: category-antivirus
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-15 07:13:02
+# UPDATED: 2026-01-16 07:13:57
 # TOTAL: 166
 # DOMAIN: 98
 # DOMAIN-SUFFIX: 68
 
 DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
-DOMAIN-SUFFIX,avast.com
-DOMAIN-SUFFIX,avg.com
+DOMAIN-SUFFIX,kaspersky.pt
+DOMAIN-SUFFIX,drweb.kz
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,bitdefender.com
 DOMAIN-SUFFIX,clamwin.com
 DOMAIN-SUFFIX,f-secure.com
 DOMAIN-SUFFIX,mcafee.com
-DOMAIN-SUFFIX,norton.com
+DOMAIN-SUFFIX,avast.com
 DOMAIN-SUFFIX,pandasecurity.com
-DOMAIN-SUFFIX,comodo.com
-DOMAIN-SUFFIX,comodo.net
 DOMAIN-SUFFIX,drweb.by
 DOMAIN-SUFFIX,drweb.cn
 DOMAIN-SUFFIX,drweb.com
 DOMAIN-SUFFIX,drweb.fr
-DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,kaspersky.nl
 DOMAIN-SUFFIX,drweb.ru
 DOMAIN-SUFFIX,drweb.uz
 DOMAIN-SUFFIX,drweb-av.de
-DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,kaspersky.my
 DOMAIN-SUFFIX,drweb-av.it
 DOMAIN-SUFFIX,drweb-av.pl
 DOMAIN-SUFFIX,e5.sk
@@ -42,9 +40,9 @@ DOMAIN-SUFFIX,kaspersky.se
 DOMAIN-SUFFIX,kaspersky.ru
 DOMAIN-SUFFIX,kaspersky.rs
 DOMAIN-SUFFIX,kaspersky.ro
-DOMAIN-SUFFIX,kaspersky.pt
-DOMAIN-SUFFIX,kaspersky.nl
-DOMAIN-SUFFIX,kaspersky.my
+DOMAIN-SUFFIX,norton.com
+DOMAIN-SUFFIX,avg.com
+DOMAIN-SUFFIX,drweb-av.es
 DOMAIN-SUFFIX,kaspersky.ma
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.it
@@ -60,14 +58,16 @@ DOMAIN-SUFFIX,kaspersky.dk
 DOMAIN-SUFFIX,kaspersky.dz
 DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,symantecliveupdate.com
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,comodo.net
+DOMAIN-SUFFIX,kaspersky.com.br
+DOMAIN-SUFFIX,kaspersky.com.au
+DOMAIN-SUFFIX,kaspersky.co.za
+DOMAIN-SUFFIX,kaspersky.com.pl
+DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,drweb.co.jp
 DOMAIN-SUFFIX,kaspersky.co.uk
-DOMAIN-SUFFIX,kaspersky.co.za
-DOMAIN-SUFFIX,kaspersky.com.hk
-DOMAIN-SUFFIX,kaspersky.com.br
 DOMAIN-SUFFIX,kaspersky.com.tr
-DOMAIN-SUFFIX,kaspersky.com.pl
-DOMAIN-SUFFIX,kaspersky.com.au
 DOMAIN-SUFFIX,kaspersky.co.jp
 DOMAIN-SUFFIX,kaspersky.co.kr
 DOMAIN-SUFFIX,kaspersky.co.th
