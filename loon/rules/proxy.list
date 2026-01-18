@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 88
-# DOMAIN-SUFFIX: 27519
-# TOTAL: 27607
+# DOMAIN: 89
+# DOMAIN-SUFFIX: 27532
+# TOTAL: 27621
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -60,6 +60,7 @@ DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
+DOMAIN,pubg1.battleye.com
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
@@ -1877,7 +1878,10 @@ DOMAIN-SUFFIX,anistreaming.xyz
 DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,anm.co.uk
 DOMAIN-SUFFIX,annamilk.com
+DOMAIN-SUFFIX,annas-archive.in
+DOMAIN-SUFFIX,annas-archive.li
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.pm
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,annstores.net
@@ -14526,6 +14530,7 @@ DOMAIN-SUFFIX,kpinsurances.com
 DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,kpptoto.info
 DOMAIN-SUFFIX,kqes.net
+DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,krakenjs.com
@@ -17885,15 +17890,19 @@ DOMAIN-SUFFIX,ntdca.com
 DOMAIN-SUFFIX,ntdimg.com
 DOMAIN-SUFFIX,ntdtv-dc.com
 DOMAIN-SUFFIX,ntdtv.ca
+DOMAIN-SUFFIX,ntdtv.co.il
 DOMAIN-SUFFIX,ntdtv.co.kr
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntdtv.com.tw
 DOMAIN-SUFFIX,ntdtv.cz
+DOMAIN-SUFFIX,ntdtv.fr
 DOMAIN-SUFFIX,ntdtv.jp
 DOMAIN-SUFFIX,ntdtv.kr
 DOMAIN-SUFFIX,ntdtv.org
 DOMAIN-SUFFIX,ntdtv.ru
+DOMAIN-SUFFIX,ntdtv.se
 DOMAIN-SUFFIX,ntdtvla.com
+DOMAIN-SUFFIX,ntdvideo.tw
 DOMAIN-SUFFIX,ntdvn.com
 DOMAIN-SUFFIX,ntnews.com.au
 DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp
@@ -19239,6 +19248,7 @@ DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playbar.biz
+DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
 DOMAIN-SUFFIX,playbydurex.com
@@ -19987,6 +19997,7 @@ DOMAIN-SUFFIX,ptwxz.com
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,pu82.vip
 DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,public-sex-porn.com
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,publicagentxxx.com
@@ -26506,6 +26517,7 @@ DOMAIN-SUFFIX,xuehua.us
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xujan.com
 DOMAIN-SUFFIX,xuzhiyong.net
+DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,xv1.monster
 DOMAIN-SUFFIX,xvbelink.com
 DOMAIN-SUFFIX,xvds.tv
@@ -26519,8 +26531,10 @@ DOMAIN-SUFFIX,xvideo.vlog.br
 DOMAIN-SUFFIX,xvideo1.org
 DOMAIN-SUFFIX,xvideo2.org
 DOMAIN-SUFFIX,xvideoporno.tv
+DOMAIN-SUFFIX,xvideos-ar.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos-dl.top
+DOMAIN-SUFFIX,xvideos-india.com
 DOMAIN-SUFFIX,xvideos-porn-video.com
 DOMAIN-SUFFIX,xvideos-xxxx.com
 DOMAIN-SUFFIX,xvideos.blog

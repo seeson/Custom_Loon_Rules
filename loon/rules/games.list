@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
-# DOMAIN: 35
-# DOMAIN-SUFFIX: 712
-# TOTAL: 747
+# DOMAIN: 36
+# DOMAIN-SUFFIX: 715
+# TOTAL: 751
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -31,6 +31,7 @@ DOMAIN,notify.ppy.sh
 DOMAIN,originasserts.akamaized.net
 DOMAIN,osu.ppy.sh
 DOMAIN,prodforza.blob.core.windows.net
+DOMAIN,pubg1.battleye.com
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN,roblox-poc.global.ssl.fastly.net
 DOMAIN,robloxcorp.s.llnwi.net
@@ -287,6 +288,7 @@ DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,joyjoy.net
 DOMAIN-SUFFIX,kirbysepicyarn.com
 DOMAIN-SUFFIX,kirbysuperstarultra.com
+DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,kyurem.com
 DOMAIN-SUFFIX,lb-cdn.maj-soul.com
 DOMAIN-SUFFIX,lb-hw.maj-soul.com
@@ -456,6 +458,7 @@ DOMAIN-SUFFIX,plantsvszombies2.com
 DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
+DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,playoverwatch.com
@@ -497,6 +500,7 @@ DOMAIN-SUFFIX,priconne-redive.jp
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,protondb.com
+DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,pvzgw2.com
