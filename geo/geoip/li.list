@@ -1,7 +1,7 @@
 # NAME: li
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-19 07:14:31
+# UPDATED: 2026-01-20 07:14:15
 # TOTAL: 728
 # IP-CIDR: 728
 
@@ -570,7 +570,7 @@ IP-CIDR,2a0e:97c0:3ea:4000::/50
 IP-CIDR,2a0e:97c0:3ea:8000::/49
 IP-CIDR,2a0e:97c0:3eb::/48
 IP-CIDR,2a0e:97c0:3ec::/46
-IP-CIDR,2a0e:97c0:3f0::/47
+IP-CIDR,2a0e:97c0:3f1::/48
 IP-CIDR,2a0e:97c0:3f3::/48
 IP-CIDR,2a0e:97c0:3f4::/46
 IP-CIDR,2a0e:97c0:3f8::/45
