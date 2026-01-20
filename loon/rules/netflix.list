@@ -3,8 +3,9 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:31 CST
 # DOMAIN: 2
+# DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 30
-# TOTAL: 32
+# TOTAL: 36
 
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
@@ -38,3 +39,7 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,us-west-2.amazonaws.com
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN-KEYWORD,netflixdnstest

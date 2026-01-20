@@ -2,9 +2,28 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
+# DOMAIN: 18
 # DOMAIN-SUFFIX: 224
-# TOTAL: 224
+# TOTAL: 242
 
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,cl2-cdn.origin-apple.com.akadns.net
+DOMAIN,communities.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,discussionschinese.apple.com
+DOMAIN,fides-pol.apple.com
+DOMAIN,gspe11-2-cn-ssl.ls.apple.com
+DOMAIN,gspe12-cn-ssl.ls.apple.com
+DOMAIN,gspe85-cn-ssl.ls.apple.com
+DOMAIN,init.gc-lb.apple.com.akadns.net
+DOMAIN,init.gc.apple.com
+DOMAIN,maps.apple.com
+DOMAIN,s1.mzstatic.com
+DOMAIN,s2.mzstatic.com
+DOMAIN,s3.mzstatic.com
+DOMAIN,s4.mzstatic.com
+DOMAIN,s5.mzstatic.com
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com

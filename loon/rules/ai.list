@@ -3,8 +3,9 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 101
-# TOTAL: 121
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 106
+# TOTAL: 129
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -100,6 +101,8 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,meta.ai
@@ -127,3 +130,9 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,openai

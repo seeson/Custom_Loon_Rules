@@ -3,8 +3,9 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:31 CST
 # DOMAIN: 14
+# DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 16
-# TOTAL: 30
+# TOTAL: 31
 
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
@@ -36,3 +37,4 @@ DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN-KEYWORD,avoddashs
