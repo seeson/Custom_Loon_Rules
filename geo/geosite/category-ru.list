@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-23 07:14:36
+# UPDATED: 2026-01-24 07:14:37
 # TOTAL: 125
 # DOMAIN-SUFFIX: 125
 
@@ -20,15 +20,17 @@ DOMAIN-SUFFIX,moscow
 DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,dodostatic.net
-DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,dodois.io
 DOMAIN-SUFFIX,uni.rest
 DOMAIN-SUFFIX,unirest.tech
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,tbank-online.com
 DOMAIN-SUFFIX,taxsee.com
+DOMAIN-SUFFIX,fix-price.com
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,boosty.to
-DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,tamtam.chat
 DOMAIN-SUFFIX,mycdn.me
@@ -109,24 +111,22 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,avito.st
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,mosmetro.tech
+DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,dodopizza.com
 DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,ru.com
-DOMAIN-SUFFIX,fix-price.com
-DOMAIN-SUFFIX,lenta.com
-DOMAIN-SUFFIX,lenta.tech
-DOMAIN-SUFFIX,mosmetro.tech
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,yandex.com.ua
-DOMAIN-SUFFIX,yandex-images.clstorage.net
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
 DOMAIN-SUFFIX,yandex.com.tr
+DOMAIN-SUFFIX,yandex-images.clstorage.net
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net

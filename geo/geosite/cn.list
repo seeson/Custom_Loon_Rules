@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-23 07:14:46
-# TOTAL: 114999
-# DOMAIN-SUFFIX: 114999
+# UPDATED: 2026-01-24 07:14:50
+# TOTAL: 115001
+# DOMAIN-SUFFIX: 115001
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,juxiang3d.com
-DOMAIN-SUFFIX,hbswjt.com
+DOMAIN-SUFFIX,gxmuyfy.com
 DOMAIN-SUFFIX,0377auto.com
 DOMAIN-SUFFIX,0378zz.com
 DOMAIN-SUFFIX,0379home.com
@@ -12921,6 +12921,7 @@ DOMAIN-SUFFIX,baimatech.com
 DOMAIN-SUFFIX,baimda.com
 DOMAIN-SUFFIX,baimei.com
 DOMAIN-SUFFIX,baimeidashu.com
+DOMAIN-SUFFIX,baimiao.tech
 DOMAIN-SUFFIX,baimiaoapp.com
 DOMAIN-SUFFIX,baimin.com
 DOMAIN-SUFFIX,baina.com
@@ -16701,7 +16702,6 @@ DOMAIN-SUFFIX,btp-pharm.com
 DOMAIN-SUFFIX,btpig.com
 DOMAIN-SUFFIX,btplay.net
 DOMAIN-SUFFIX,btpxbf.com
-DOMAIN-SUFFIX,btrbdf.com
 DOMAIN-SUFFIX,btropdi.xyz
 DOMAIN-SUFFIX,btsemi.com
 DOMAIN-SUFFIX,btshidai.com
@@ -41370,7 +41370,7 @@ DOMAIN-SUFFIX,gxmsgy.com
 DOMAIN-SUFFIX,gxmtzn1658.com
 DOMAIN-SUFFIX,gxmuch.com
 DOMAIN-SUFFIX,gxmuwmfy.com
-DOMAIN-SUFFIX,gxmuyfy.com
+DOMAIN-SUFFIX,jxhxmed.com
 DOMAIN-SUFFIX,gxmuzi.com
 DOMAIN-SUFFIX,gxmxc.com
 DOMAIN-SUFFIX,gxmxin.com
@@ -44440,7 +44440,7 @@ DOMAIN-SUFFIX,hbstars.com
 DOMAIN-SUFFIX,hbsti.com
 DOMAIN-SUFFIX,hbstoo.com
 DOMAIN-SUFFIX,hbsunlink.com
-DOMAIN-SUFFIX,jxhxmed.com
+DOMAIN-SUFFIX,hbswjt.com
 DOMAIN-SUFFIX,hbswkj.com
 DOMAIN-SUFFIX,hbswmyyxgs.com
 DOMAIN-SUFFIX,hbsxkyy.com
@@ -57526,9 +57526,9 @@ DOMAIN-SUFFIX,jxhjxy.com
 DOMAIN-SUFFIX,jxhmjx.com
 DOMAIN-SUFFIX,jxhmxxjs.com
 DOMAIN-SUFFIX,jxhswhcb.com
-DOMAIN-SUFFIX,tbq168.com
+DOMAIN-SUFFIX,paperccb.com
 DOMAIN-SUFFIX,037398.com
-DOMAIN-SUFFIX,vipsinaapp.com
+DOMAIN-SUFFIX,pkucarenjk.com
 DOMAIN-SUFFIX,jxiaolan.com
 DOMAIN-SUFFIX,jxic.com
 DOMAIN-SUFFIX,jximage.com
@@ -73390,7 +73390,7 @@ DOMAIN-SUFFIX,paperask.com
 DOMAIN-SUFFIX,paperbert.com
 DOMAIN-SUFFIX,paperbus.com
 DOMAIN-SUFFIX,paperbye.com
-DOMAIN-SUFFIX,paperccb.com
+DOMAIN-SUFFIX,jxhuahang.com
 DOMAIN-SUFFIX,paperclipglobal.com
 DOMAIN-SUFFIX,papercool.com
 DOMAIN-SUFFIX,paperdb.com
@@ -74391,7 +74391,7 @@ DOMAIN-SUFFIX,pku-hit.com
 DOMAIN-SUFFIX,pku-lvxin.com
 DOMAIN-SUFFIX,pku666.com
 DOMAIN-SUFFIX,pkucare.com
-DOMAIN-SUFFIX,pkucarenjk.com
+DOMAIN-SUFFIX,jxhyxx.com
 DOMAIN-SUFFIX,pkucnooch.com
 DOMAIN-SUFFIX,pkuczuo.com
 DOMAIN-SUFFIX,pkufh.com
@@ -78712,6 +78712,7 @@ DOMAIN-SUFFIX,redmagic.com
 DOMAIN-SUFFIX,redmart.com
 DOMAIN-SUFFIX,redmou.com
 DOMAIN-SUFFIX,rednetdns.com
+DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,redocn.com
 DOMAIN-SUFFIX,redodopower.com
 DOMAIN-SUFFIX,redoop.com
@@ -83340,6 +83341,7 @@ DOMAIN-SUFFIX,shinelon.com
 DOMAIN-SUFFIX,shineoptics.com
 DOMAIN-SUFFIX,shineray-motors.com
 DOMAIN-SUFFIX,shinerayad.com
+DOMAIN-SUFFIX,shinescan.tech
 DOMAIN-SUFFIX,shinetsu.shop
 DOMAIN-SUFFIX,shineu.com
 DOMAIN-SUFFIX,shineway.com
@@ -89708,7 +89710,7 @@ DOMAIN-SUFFIX,tbmkt.com
 DOMAIN-SUFFIX,tbnimg.com
 DOMAIN-SUFFIX,tboxn.com
 DOMAIN-SUFFIX,tbpark.com
-DOMAIN-SUFFIX,jxhuahang.com
+DOMAIN-SUFFIX,tbq168.com
 DOMAIN-SUFFIX,tbqjx.com
 DOMAIN-SUFFIX,tbreeden.com
 DOMAIN-SUFFIX,tbs321.com
@@ -95265,7 +95267,7 @@ DOMAIN-SUFFIX,vipshare.com
 DOMAIN-SUFFIX,vipshop.com
 DOMAIN-SUFFIX,vipshopyao.com
 DOMAIN-SUFFIX,vipshou.com
-DOMAIN-SUFFIX,jxhyxx.com
+DOMAIN-SUFFIX,vipsinaapp.com
 DOMAIN-SUFFIX,vipskill.com
 DOMAIN-SUFFIX,vipslib.com
 DOMAIN-SUFFIX,vipsmt.com

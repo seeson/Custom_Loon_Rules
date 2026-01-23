@@ -1,9 +1,9 @@
 # NAME: binance
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-23 07:14:13
-# TOTAL: 36
-# DOMAIN-SUFFIX: 36
+# UPDATED: 2026-01-24 07:14:06
+# TOTAL: 37
+# DOMAIN-SUFFIX: 37
 
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,binancezh.pro
 DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,nftstatic.com
