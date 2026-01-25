@@ -1,10 +1,10 @@
 # NAME: category-entertainment@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-25 07:13:33
+# UPDATED: 2026-01-26 07:14:06
 # TOTAL: 2
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
 
-DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN,disney.my.sentry.io

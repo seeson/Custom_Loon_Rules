@@ -1,7 +1,7 @@
 # NAME: amazon
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-25 07:13:06
+# UPDATED: 2026-01-26 07:13:14
 # TOTAL: 233
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 218
@@ -205,6 +205,8 @@ DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,z.cn
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,images-cn-8.ssl-images-amazon.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
@@ -237,5 +239,3 @@ DOMAIN-SUFFIX,kindleoasis.cn
 DOMAIN-SUFFIX,kindleoasis.com.cn
 DOMAIN-SUFFIX,amazonprimevideo.cn
 DOMAIN-SUFFIX,amazonprimevideo.com.cn
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,serving-sys.com
