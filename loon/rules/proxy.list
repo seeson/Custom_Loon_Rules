@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 89
+# DOMAIN: 88
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 27377
-# TOTAL: 27502
+# DOMAIN-SUFFIX: 27388
+# TOTAL: 27512
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -61,7 +61,6 @@ DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
-DOMAIN,pubg1.battleye.com
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
@@ -2396,6 +2395,8 @@ DOMAIN-SUFFIX,aria.ms
 DOMAIN-SUFFIX,arirangmeari.com
 DOMAIN-SUFFIX,ark.to
 DOMAIN-SUFFIX,arlingtoncemetery.mil
+DOMAIN-SUFFIX,arma3.com
+DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,armovs.com
 DOMAIN-SUFFIX,army.mil
@@ -3098,6 +3099,7 @@ DOMAIN-SUFFIX,battlefront2.com
 DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
 DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,baxsound.com
 DOMAIN-SUFFIX,bayareabmw.com
 DOMAIN-SUFFIX,bayvoice.net
@@ -3782,6 +3784,7 @@ DOMAIN-SUFFIX,biqle.ru
 DOMAIN-SUFFIX,bird.so
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bistudio.com
 DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
 DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bit.com
@@ -4458,6 +4461,7 @@ DOMAIN-SUFFIX,bodgirls.com
 DOMAIN-SUFFIX,bodog88.com
 DOMAIN-SUFFIX,bodyandsoul.com.au
 DOMAIN-SUFFIX,bodyfluids-jav.com
+DOMAIN-SUFFIX,bohemia.net
 DOMAIN-SUFFIX,boj.or.jp
 DOMAIN-SUFFIX,bokep.net
 DOMAIN-SUFFIX,bokepseks.org
@@ -6222,6 +6226,7 @@ DOMAIN-SUFFIX,cristyli.com
 DOMAIN-SUFFIX,crit-staging.com
 DOMAIN-SUFFIX,critiquebrainz.org
 DOMAIN-SUFFIX,crittercism.com
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crocotube.com
@@ -6534,6 +6539,7 @@ DOMAIN-SUFFIX,daylife.com
 DOMAIN-SUFFIX,dayone.me
 DOMAIN-SUFFIX,daytonbmw.com
 DOMAIN-SUFFIX,daytontrucktires.com
+DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
@@ -15188,6 +15194,7 @@ DOMAIN-SUFFIX,mairbeats.com
 DOMAIN-SUFFIX,maizhong.org
 DOMAIN-SUFFIX,makaan.com
 DOMAIN-SUFFIX,makeanything.com
+DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,makecode.org
 DOMAIN-SUFFIX,makeeu.com
@@ -21530,6 +21537,7 @@ DOMAIN-SUFFIX,sih.app
 DOMAIN-SUFFIX,sijihuisuo.club
 DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,sikiswap.com
+DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,silicon-mobility.com
 DOMAIN-SUFFIX,siliconmobility.com
 DOMAIN-SUFFIX,silkbook.com
@@ -24707,6 +24715,7 @@ DOMAIN-SUFFIX,vietdaikynguyen.com
 DOMAIN-SUFFIX,viewerswives.net
 DOMAIN-SUFFIX,viewgals.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
+DOMAIN-SUFFIX,vigorgame.com
 DOMAIN-SUFFIX,vijayatemple.org
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,vikiporn.com
@@ -26860,6 +26869,7 @@ DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org
 DOMAIN-SUFFIX,yiyechat.com
 DOMAIN-SUFFIX,yizhihongxing.com
 DOMAIN-SUFFIX,yjcontentdelivery.com
+DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,ymhsf.top
 DOMAIN-SUFFIX,ymhsf1.top

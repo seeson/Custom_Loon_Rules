@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 6000
-# TOTAL: 6000
+# DOMAIN-SUFFIX: 6001
+# TOTAL: 6001
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -434,6 +434,7 @@ DOMAIN-SUFFIX,b0ne.com
 DOMAIN-SUFFIX,babylonbee.com
 DOMAIN-SUFFIX,babynet.com.hk
 DOMAIN-SUFFIX,backchina.com
+DOMAIN-SUFFIX,backend-v2.crixet.com
 DOMAIN-SUFFIX,backpackers.com.tw
 DOMAIN-SUFFIX,backtotiananmen.com
 DOMAIN-SUFFIX,bad.news

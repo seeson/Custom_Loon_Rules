@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 364
+# DOMAIN: 365
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 114957
-# TOTAL: 115330
+# TOTAL: 115331
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -24,6 +24,7 @@ DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.media.apple.com
 DOMAIN,amp-api.music.apple.com
 DOMAIN,analytics.strava.com
+DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
 DOMAIN,app-analytics-services.com
