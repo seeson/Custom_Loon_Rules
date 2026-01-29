@@ -1,9 +1,9 @@
 # NAME: cloudflare
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-28 07:15:40
-# TOTAL: 71
-# DOMAIN-SUFFIX: 71
+# UPDATED: 2026-01-30 07:19:26
+# TOTAL: 74
+# DOMAIN-SUFFIX: 74
 
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,cloudflarewarp.com
 DOMAIN-SUFFIX,cloudflareworkers.com
 DOMAIN-SUFFIX,encryptedsni.com
 DOMAIN-SUFFIX,every1dns.net
+DOMAIN-SUFFIX,foundationdns.com
+DOMAIN-SUFFIX,foundationdns.net
+DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,isbgpsafeyet.com
 DOMAIN-SUFFIX,pacloudflare.com

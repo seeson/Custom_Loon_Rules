@@ -1,14 +1,18 @@
 # NAME: atlassian
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-28 07:14:37
-# TOTAL: 7
-# DOMAIN-SUFFIX: 7
+# UPDATED: 2026-01-30 07:18:47
+# TOTAL: 11
+# DOMAIN-SUFFIX: 11
 
+DOMAIN-SUFFIX,atl-paas.net
+DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,jira.com
+DOMAIN-SUFFIX,ss-inf.net
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
