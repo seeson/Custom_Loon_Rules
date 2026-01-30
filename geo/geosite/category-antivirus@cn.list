@@ -1,12 +1,11 @@
 # NAME: category-antivirus@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-30 07:19:03
+# UPDATED: 2026-01-31 07:18:23
 # TOTAL: 98
 # DOMAIN: 96
 # DOMAIN-SUFFIX: 2
 
-DOMAIN-SUFFIX,cn.eset.com
 DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN,activation-v2.kaspersky.com
 DOMAIN,activation-v2.geo.kaspersky.com
@@ -104,3 +103,4 @@ DOMAIN,s16.upd.kaspersky.com
 DOMAIN,s17.upd.kaspersky.com
 DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
+DOMAIN-SUFFIX,cn.eset.com
