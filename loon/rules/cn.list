@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 365
+# DOMAIN: 366
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 114957
-# TOTAL: 115331
+# DOMAIN-SUFFIX: 114958
+# TOTAL: 115333
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -344,6 +344,7 @@ DOMAIN,time.xtracloud.net
 DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tools.google.com
 DOMAIN,tools.l.google.com
+DOMAIN,tp.louisvuitton.com
 DOMAIN,tx.lilyemby.com
 DOMAIN,uberproxy-debug4.corp.google.com
 DOMAIN,uberproxy.corp.google.com
@@ -64981,6 +64982,7 @@ DOMAIN-SUFFIX,lvbenma.com
 DOMAIN-SUFFIX,lvbitte.com
 DOMAIN-SUFFIX,lvbogas.com
 DOMAIN-SUFFIX,lvcai.biz
+DOMAIN-SUFFIX,lvcampaign.com
 DOMAIN-SUFFIX,lvcchong.com
 DOMAIN-SUFFIX,lvchanghuanbao.com
 DOMAIN-SUFFIX,lvchayun.com
