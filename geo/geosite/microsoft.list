@@ -1,10 +1,10 @@
 # NAME: microsoft
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-01-15 04:11:12
-# DOMAIN: 64
+# UPDATED: 2026-02-03 21:51:08
+# DOMAIN: 65
 # DOMAIN-SUFFIX: 618
-# TOTAL: 682
+# TOTAL: 683
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -44,6 +44,7 @@ DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdn.microsoft.com
 DOMAIN,oneocsp.microsoft.com
+DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,prodforza.blob.core.windows.net
 DOMAIN,psg-int-centralus.cloudapp.net
