@@ -1,12 +1,13 @@
 # NAME: category-collaborate-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-05 07:19:10
-# TOTAL: 24
-# DOMAIN-SUFFIX: 24
+# UPDATED: 2026-02-06 07:17:29
+# TOTAL: 25
+# DOMAIN-SUFFIX: 25
 
 DOMAIN-SUFFIX,asklink.com
 DOMAIN-SUFFIX,easytier.cn
+DOMAIN-SUFFIX,feihengip.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayer.com

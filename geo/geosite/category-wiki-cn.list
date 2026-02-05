@@ -1,16 +1,17 @@
 # NAME: category-wiki-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-05 07:19:25
-# TOTAL: 12
-# DOMAIN-SUFFIX: 12
+# UPDATED: 2026-02-06 07:17:52
+# TOTAL: 13
+# DOMAIN-SUFFIX: 13
 
-DOMAIN-SUFFIX,fgo.wiki
+DOMAIN-SUFFIX,huijistatic.com
 DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,mbalib.com
 DOMAIN-SUFFIX,sec-wiki.com
 DOMAIN-SUFFIX,shidianbaike.com
-DOMAIN-SUFFIX,huijistatic.com
+DOMAIN-SUFFIX,chaz.fun
+DOMAIN-SUFFIX,fgo.wiki
 DOMAIN-SUFFIX,huijiwiki.com
 DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,mcmod.cn
