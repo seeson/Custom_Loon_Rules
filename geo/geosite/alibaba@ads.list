@@ -1,31 +1,10 @@
 # NAME: alibaba@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-07 07:17:23
+# UPDATED: 2026-02-08 07:20:52
 # TOTAL: 92
 # DOMAIN-SUFFIX: 92
 
-DOMAIN-SUFFIX,aaid.umeng.com
-DOMAIN-SUFFIX,alog.umeng.com
-DOMAIN-SUFFIX,alog.umengcloud.com
-DOMAIN-SUFFIX,alogs.umeng.com
-DOMAIN-SUFFIX,alogus.umeng.com
-DOMAIN-SUFFIX,ar.umeng.com
-DOMAIN-SUFFIX,aspect-upush.umeng.com
-DOMAIN-SUFFIX,audid.umeng.com
-DOMAIN-SUFFIX,ccs.umeng.com
-DOMAIN-SUFFIX,cnlogs.umeng.com
-DOMAIN-SUFFIX,cnlogs.umengcloud.com
-DOMAIN-SUFFIX,new-aaid.umeng.com
-DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com
-DOMAIN-SUFFIX,oc.umeng.com
-DOMAIN-SUFFIX,plbslog.umeng.com
-DOMAIN-SUFFIX,resolve.umeng.com
-DOMAIN-SUFFIX,ulogs.umeng.com
-DOMAIN-SUFFIX,ulogs.umengcloud.com
-DOMAIN-SUFFIX,utoken.umeng.com
-DOMAIN-SUFFIX,w.cnzz.com
-DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-c.m.taobao.com
@@ -66,11 +45,6 @@ DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
-DOMAIN-SUFFIX,dualstack-logs.amap.com
-DOMAIN-SUFFIX,logs.amap.com
-DOMAIN-SUFFIX,optimus-ads.amap.com
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -92,6 +66,32 @@ DOMAIN-SUFFIX,statis.api.3g.youku.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+DOMAIN-SUFFIX,aaid.umeng.com
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,ar.umeng.com
+DOMAIN-SUFFIX,aspect-upush.umeng.com
+DOMAIN-SUFFIX,audid.umeng.com
+DOMAIN-SUFFIX,ccs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,new-aaid.umeng.com
+DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com
+DOMAIN-SUFFIX,oc.umeng.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,resolve.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+DOMAIN-SUFFIX,utoken.umeng.com
+DOMAIN-SUFFIX,w.cnzz.com
+DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com

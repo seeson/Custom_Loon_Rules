@@ -1,10 +1,10 @@
-# NAME: avmoo
+# NAME: aviasales
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2026-02-08 07:21:00
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
 
-DOMAIN-SUFFIX,avmoo.click
-DOMAIN-SUFFIX,avmoo.com
-DOMAIN-SUFFIX,tellme.pw
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com

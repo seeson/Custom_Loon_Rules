@@ -1,32 +1,11 @@
 # NAME: category-entertainment-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-07 07:18:11
+# UPDATED: 2026-02-08 07:21:19
 # TOTAL: 41
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 23
 
-DOMAIN-SUFFIX,apple.www.letv.com
-DOMAIN-SUFFIX,ark.letv.com
-DOMAIN-SUFFIX,dc.letv.com
-DOMAIN-SUFFIX,g3.letv.com
-DOMAIN-SUFFIX,adbkwai.com
-DOMAIN-SUFFIX,adkwai.com
-DOMAIN-SUFFIX,adukwai.com
-DOMAIN-SUFFIX,e.kuaishou.cn
-DOMAIN-SUFFIX,e.kuaishou.com
-DOMAIN,log-sdk.gifshow.com
-DOMAIN,wlog.kuaishou.com
-DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
-DOMAIN,apilog-web.acfun.cn
-DOMAIN-SUFFIX,click.hunantv.com
-DOMAIN-SUFFIX,da.hunantv.com
-DOMAIN-SUFFIX,da.mgtv.com
-DOMAIN-SUFFIX,log.hunantv.com
-DOMAIN-SUFFIX,log.v2.hunantv.com
-DOMAIN-SUFFIX,res.hunantv.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -47,3 +26,24 @@ DOMAIN-SUFFIX,ja.gamersky.com
 DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
+DOMAIN-SUFFIX,adbkwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,e.kuaishou.cn
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
+DOMAIN-SUFFIX,apple.www.letv.com
+DOMAIN-SUFFIX,ark.letv.com
+DOMAIN-SUFFIX,dc.letv.com
+DOMAIN-SUFFIX,g3.letv.com
+DOMAIN-SUFFIX,click.hunantv.com
+DOMAIN-SUFFIX,da.hunantv.com
+DOMAIN-SUFFIX,da.mgtv.com
+DOMAIN-SUFFIX,log.hunantv.com
+DOMAIN-SUFFIX,log.v2.hunantv.com
+DOMAIN-SUFFIX,res.hunantv.com
+DOMAIN,apilog-web.acfun.cn
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
