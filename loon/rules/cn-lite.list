@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 572
-# DOMAIN-SUFFIX: 3507
-# TOTAL: 4079
+# DOMAIN: 573
+# DOMAIN-SUFFIX: 3476
+# TOTAL: 4049
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -510,6 +510,7 @@ DOMAIN,storeedgefd.dsx.mp.microsoft.com
 DOMAIN,streaming-uberproxy-rotation.corp.google.com
 DOMAIN,streaming-uberproxy.corp.google.com
 DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,study.163.com
 DOMAIN,su.itunes.apple.com
 DOMAIN,sup-ssh-relay.corp.google.com
 DOMAIN,sup-ssh-relay2.corp.google.com
@@ -617,22 +618,8 @@ DOMAIN-SUFFIX,123juzi.net
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,123panpay.com
 DOMAIN-SUFFIX,123u.com
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,126.link
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.com
-DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,13a.com
-DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,1637.com
-DOMAIN-SUFFIX,163cn.tv
-DOMAIN-SUFFIX,163industry.com
-DOMAIN-SUFFIX,163jiasu.com
-DOMAIN-SUFFIX,163mail.com
-DOMAIN-SUFFIX,163qiyukf.com
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,166.com
-DOMAIN-SUFFIX,166.net
 DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,16rd.com
 DOMAIN-SUFFIX,17173.com
@@ -649,7 +636,6 @@ DOMAIN-SUFFIX,17usoft.net
 DOMAIN-SUFFIX,17zuoye.com
 DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,18183.com
-DOMAIN-SUFFIX,188.com
 DOMAIN-SUFFIX,1905.com
 DOMAIN-SUFFIX,19yxw.com
 DOMAIN-SUFFIX,1nongjing.com
@@ -672,7 +658,6 @@ DOMAIN-SUFFIX,3000.com
 DOMAIN-SUFFIX,310win.com
 DOMAIN-SUFFIX,315che.com
 DOMAIN-SUFFIX,315dian.com
-DOMAIN-SUFFIX,321fenx.com
 DOMAIN-SUFFIX,3234.com
 DOMAIN-SUFFIX,32r.com
 DOMAIN-SUFFIX,3304399.com
@@ -1965,7 +1950,6 @@ DOMAIN-SUFFIX,haoso.com
 DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,haosou.net
 DOMAIN-SUFFIX,haote.com
-DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,haoyouyinxiang.com
 DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,happyhlddz.com
@@ -2263,6 +2247,7 @@ DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jikipedia.com
+DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,jindidata.com
 DOMAIN-SUFFIX,jinglingbiaozhu.com
 DOMAIN-SUFFIX,jinianbi.com
@@ -2549,8 +2534,6 @@ DOMAIN-SUFFIX,leturich.org
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcdn.com
 DOMAIN-SUFFIX,letvimg.com
-DOMAIN-SUFFIX,lf126.net
-DOMAIN-SUFFIX,lf127.net
 DOMAIN-SUFFIX,lgstatic.com
 DOMAIN-SUFFIX,lhzq.com
 DOMAIN-SUFFIX,lianjia.com
@@ -2594,7 +2577,6 @@ DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,llscdn.com
 DOMAIN-SUFFIX,llsserver.com
 DOMAIN-SUFFIX,lnlib.net
-DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,longhoo.net
 DOMAIN-SUFFIX,longre.com
 DOMAIN-SUFFIX,longtugame.com
@@ -2797,7 +2779,6 @@ DOMAIN-SUFFIX,narwal.com
 DOMAIN-SUFFIX,narwaltech.com
 DOMAIN-SUFFIX,natfrp.com
 DOMAIN-SUFFIX,nattest-china.com
-DOMAIN-SUFFIX,nease.net
 DOMAIN-SUFFIX,nellit.info
 DOMAIN-SUFFIX,nellit.net
 DOMAIN-SUFFIX,nellit.xyz
@@ -2805,10 +2786,6 @@ DOMAIN-SUFFIX,neohytung.com
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,netbian.com
-DOMAIN-SUFFIX,netease-inc.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,netease.im
-DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,newasp.net
 DOMAIN-SUFFIX,newbandeng.com
@@ -3014,8 +2991,6 @@ DOMAIN-SUFFIX,qishui.com
 DOMAIN-SUFFIX,qiumibao.com
 DOMAIN-SUFFIX,qiuwen.wiki
 DOMAIN-SUFFIX,qixin.com
-DOMAIN-SUFFIX,qiyukf.com
-DOMAIN-SUFFIX,qiyukf.net
 DOMAIN-SUFFIX,qizuang.com
 DOMAIN-SUFFIX,ql1d.com
 DOMAIN-SUFFIX,qm989.com
@@ -3260,7 +3235,6 @@ DOMAIN-SUFFIX,stage1st.com
 DOMAIN-SUFFIX,starbaby.cc
 DOMAIN-SUFFIX,starbaby.com
 DOMAIN-SUFFIX,starworldgames.com
-DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,statickksmg.com
@@ -3507,6 +3481,7 @@ DOMAIN-SUFFIX,urselect.com
 DOMAIN-SUFFIX,urumqi-air.com
 DOMAIN-SUFFIX,useso.com
 DOMAIN-SUFFIX,uslk.net
+DOMAIN-SUFFIX,uu.163.com
 DOMAIN-SUFFIX,uucl.vip
 DOMAIN-SUFFIX,uuu9.com
 DOMAIN-SUFFIX,uwn.com
@@ -3811,8 +3786,6 @@ DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,ycrx360.com
 DOMAIN-SUFFIX,yctdyy.com
 DOMAIN-SUFFIX,ydamc.com
-DOMAIN-SUFFIX,ydstatic.com
-DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,yebaojiasu.com
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yeshj.com
@@ -3868,7 +3841,6 @@ DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,yoojia.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,youboy.com
-DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youhua.com
 DOMAIN-SUFFIX,youjiao.com
 DOMAIN-SUFFIX,youke.co
@@ -3942,7 +3914,6 @@ DOMAIN-SUFFIX,yunpan.com
 DOMAIN-SUFFIX,yunqishi.net
 DOMAIN-SUFFIX,yunshipei.com
 DOMAIN-SUFFIX,yunxiao.com
-DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,yunzhijia.com
 DOMAIN-SUFFIX,yunzhuxue.com
 DOMAIN-SUFFIX,yupoo.com
@@ -4029,7 +4000,6 @@ DOMAIN-SUFFIX,zhuaninc.com
 DOMAIN-SUFFIX,zhuanspirit.com
 DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,zhuanyewanjia.com
-DOMAIN-SUFFIX,zhuanzfx.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,zhuayoukong.com
 DOMAIN-SUFFIX,zhubajie.com
