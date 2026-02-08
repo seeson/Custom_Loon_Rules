@@ -1,11 +1,13 @@
 # NAME: 2kgames
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-08 07:20:46
-# TOTAL: 4
-# DOMAIN-SUFFIX: 4
+# UPDATED: 2026-02-09 07:21:28
+# TOTAL: 6
+# DOMAIN-SUFFIX: 6
 
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
 DOMAIN-SUFFIX,2kgames.com
-DOMAIN-SUFFIX,take2games.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online
