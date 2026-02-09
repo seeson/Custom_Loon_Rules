@@ -1,7 +1,7 @@
 # NAME: category-web-archive
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-09 07:22:36
+# UPDATED: 2026-02-10 07:30:10
 # TOTAL: 18
 # DOMAIN-SUFFIX: 18
 
@@ -11,11 +11,6 @@ DOMAIN-SUFFIX,megalodon.jp
 DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,webcitation.org
-DOMAIN-SUFFIX,archive-it.org
-DOMAIN-SUFFIX,archive.org
-DOMAIN-SUFFIX,openlibrary.org
-DOMAIN-SUFFIX,4pcdn.org
-DOMAIN-SUFFIX,4plebs.org
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -23,3 +18,8 @@ DOMAIN-SUFFIX,archive.li
 DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.vn
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,openlibrary.org
+DOMAIN-SUFFIX,4pcdn.org
+DOMAIN-SUFFIX,4plebs.org
