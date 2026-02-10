@@ -1,9 +1,9 @@
 # NAME: baidu@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-10 07:29:41
-# TOTAL: 54
-# DOMAIN-SUFFIX: 54
+# UPDATED: 2026-02-11 07:31:26
+# TOTAL: 53
+# DOMAIN-SUFFIX: 53
 
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
@@ -57,5 +57,4 @@ DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wkctj.baidu.com
 DOMAIN-SUFFIX,wm.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
-DOMAIN-SUFFIX,syh.zybang.com
 DOMAIN-SUFFIX,syh.zybang.com

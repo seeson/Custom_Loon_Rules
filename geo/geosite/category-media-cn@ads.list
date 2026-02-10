@@ -1,11 +1,10 @@
 # NAME: category-media-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-10 07:30:04
+# UPDATED: 2026-02-11 07:32:04
 # TOTAL: 25
 # DOMAIN-SUFFIX: 25
 
-DOMAIN-SUFFIX,ad.cctv.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
@@ -14,19 +13,20 @@ DOMAIN-SUFFIX,assp.sohu.com
 DOMAIN-SUFFIX,bdu.focus.cn
 DOMAIN-SUFFIX,fpb.sohu.com
 DOMAIN-SUFFIX,imp.go.sohu.com
-DOMAIN-SUFFIX,inte.sogou.com
-DOMAIN-SUFFIX,inte.sogoucdn.com
-DOMAIN-SUFFIX,lu.sogou.com
-DOMAIN-SUFFIX,lu.sogoucdn.com
 DOMAIN-SUFFIX,m.aty.sohu.com
 DOMAIN-SUFFIX,p.aty.sohu.com
-DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,pv.hd.sohu.com
 DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,qpb.sohu.com
 DOMAIN-SUFFIX,qpb1.sohu.com
 DOMAIN-SUFFIX,reke.at.sohu.com
-DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,track.sohu.com
+DOMAIN-SUFFIX,inte.sogou.com
+DOMAIN-SUFFIX,inte.sogoucdn.com
+DOMAIN-SUFFIX,lu.sogou.com
+DOMAIN-SUFFIX,lu.sogoucdn.com
+DOMAIN-SUFFIX,pb.i.sogou.com
+DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
+DOMAIN-SUFFIX,ad.cctv.com

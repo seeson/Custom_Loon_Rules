@@ -1,0 +1,14 @@
+# NAME: bytedance-ai-!cn@!cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-02-11 07:31:41
+# TOTAL: 7
+# DOMAIN-SUFFIX: 7
+
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
