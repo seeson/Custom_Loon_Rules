@@ -1,12 +1,13 @@
 # NAME: youtube
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-03 21:51:09
+# UPDATED: 2026-02-12 04:28:03
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 176
-# TOTAL: 177
+# DOMAIN-SUFFIX: 177
+# TOTAL: 178
 
 DOMAIN,yt3.googleusercontent.com
+DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
