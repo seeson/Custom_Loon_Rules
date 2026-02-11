@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-11 07:32:24
-# TOTAL: 116148
-# DOMAIN-SUFFIX: 116148
+# UPDATED: 2026-02-12 07:24:45
+# TOTAL: 116156
+# DOMAIN-SUFFIX: 116156
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,julaibao.com
-DOMAIN-SUFFIX,zhongnice.com
+DOMAIN-SUFFIX,jukeyouxuan.com
+DOMAIN-SUFFIX,wuzhoucj.com
 DOMAIN-SUFFIX,028csc.com
 DOMAIN-SUFFIX,028desite.com
 DOMAIN-SUFFIX,028f.com
@@ -8785,7 +8785,7 @@ DOMAIN-SUFFIX,99844666.com
 DOMAIN-SUFFIX,99887w.com
 DOMAIN-SUFFIX,99895.org
 DOMAIN-SUFFIX,998jk.com
-DOMAIN-SUFFIX,jushi.com
+DOMAIN-SUFFIX,998jx.com
 DOMAIN-SUFFIX,998law.com
 DOMAIN-SUFFIX,998tool.com
 DOMAIN-SUFFIX,9991.com
@@ -27874,6 +27874,7 @@ DOMAIN-SUFFIX,ddcdn.com
 DOMAIN-SUFFIX,ddcheshi.com
 DOMAIN-SUFFIX,ddchong.com
 DOMAIN-SUFFIX,ddcits.com
+DOMAIN-SUFFIX,ddcorp.net
 DOMAIN-SUFFIX,ddcsjw.com
 DOMAIN-SUFFIX,ddcwl.com
 DOMAIN-SUFFIX,ddd-china.com
@@ -27890,6 +27891,7 @@ DOMAIN-SUFFIX,dde-desktop.org
 DOMAIN-SUFFIX,ddedush.com
 DOMAIN-SUFFIX,ddfans.com
 DOMAIN-SUFFIX,ddfchina.com
+DOMAIN-SUFFIX,ddfresh.net
 DOMAIN-SUFFIX,ddfzb.com
 DOMAIN-SUFFIX,ddguanhuai.com
 DOMAIN-SUFFIX,ddhly.com
@@ -27913,7 +27915,9 @@ DOMAIN-SUFFIX,ddkt365.com
 DOMAIN-SUFFIX,ddky.com
 DOMAIN-SUFFIX,ddle.cc
 DOMAIN-SUFFIX,ddlequ.com
+DOMAIN-SUFFIX,ddmaicai.net
 DOMAIN-SUFFIX,ddmap.com
+DOMAIN-SUFFIX,ddmc.mobi
 DOMAIN-SUFFIX,ddmer.com
 DOMAIN-SUFFIX,ddmogo.com
 DOMAIN-SUFFIX,ddnddn.com
@@ -48355,6 +48359,7 @@ DOMAIN-SUFFIX,hrsteelpipe.com
 DOMAIN-SUFFIX,hrtechchina.com
 DOMAIN-SUFFIX,hrtfin.com
 DOMAIN-SUFFIX,hrtn.net
+DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hrtx.com
 DOMAIN-SUFFIX,hruikang.com
 DOMAIN-SUFFIX,hrvouge.com
@@ -52212,6 +52217,7 @@ DOMAIN-SUFFIX,imaginde.com
 DOMAIN-SUFFIX,imagineadtech.com
 DOMAIN-SUFFIX,imahui.com
 DOMAIN-SUFFIX,imaibo.net
+DOMAIN-SUFFIX,imaicai.mobi
 DOMAIN-SUFFIX,imaijia.com
 DOMAIN-SUFFIX,imaitu.com
 DOMAIN-SUFFIX,imalljoy.com
@@ -56664,7 +56670,7 @@ DOMAIN-SUFFIX,jnec-tencentclb.net
 DOMAIN-SUFFIX,jnec-tencentclb.work
 DOMAIN-SUFFIX,jnesc.com
 DOMAIN-SUFFIX,jnexpert.com
-DOMAIN-SUFFIX,jushihui.com
+DOMAIN-SUFFIX,jnfx.com
 DOMAIN-SUFFIX,jnfxny.com
 DOMAIN-SUFFIX,jngaobo.com
 DOMAIN-SUFFIX,jngcxy.com
@@ -57922,9 +57928,9 @@ DOMAIN-SUFFIX,juke200.com
 DOMAIN-SUFFIX,jukebao.com
 DOMAIN-SUFFIX,jukejia.com
 DOMAIN-SUFFIX,juketai.net
-DOMAIN-SUFFIX,jukeyouxuan.com
-DOMAIN-SUFFIX,jukuu.com
 DOMAIN-SUFFIX,0.zone
+DOMAIN-SUFFIX,jukuu.com
+DOMAIN-SUFFIX,julaibao.com
 DOMAIN-SUFFIX,julang88.com
 DOMAIN-SUFFIX,julanggroup.com
 DOMAIN-SUFFIX,julanhp.com
@@ -58098,11 +58104,11 @@ DOMAIN-SUFFIX,jusen2008.com
 DOMAIN-SUFFIX,jushe.org
 DOMAIN-SUFFIX,jushen.co
 DOMAIN-SUFFIX,jushequ.net
-DOMAIN-SUFFIX,jushequan.com
-DOMAIN-SUFFIX,jushewang.com
-DOMAIN-SUFFIX,998jx.com
+DOMAIN-SUFFIX,pdfdo.com
 DOMAIN-SUFFIX,0289kh1448.xin
-DOMAIN-SUFFIX,jnfx.com
+DOMAIN-SUFFIX,xunye1975.com
+DOMAIN-SUFFIX,jushigj.com
+DOMAIN-SUFFIX,jushihui.com
 DOMAIN-SUFFIX,jushiwangedu.com
 DOMAIN-SUFFIX,jushri.com
 DOMAIN-SUFFIX,jushtong.com
@@ -74563,7 +74569,7 @@ DOMAIN-SUFFIX,pdf00.com
 DOMAIN-SUFFIX,pdf1122.com
 DOMAIN-SUFFIX,pdfangchan.com
 DOMAIN-SUFFIX,pdfbianji.com
-DOMAIN-SUFFIX,pdfdo.com
+DOMAIN-SUFFIX,jushequan.com
 DOMAIN-SUFFIX,pdffsy.com
 DOMAIN-SUFFIX,pdfjia.com
 DOMAIN-SUFFIX,pdflibr.com
@@ -100843,7 +100849,7 @@ DOMAIN-SUFFIX,wuzhiwei.net
 DOMAIN-SUFFIX,wuzhong.com
 DOMAIN-SUFFIX,wuzhongdc.com
 DOMAIN-SUFFIX,wuzhongwater.com
-DOMAIN-SUFFIX,wuzhoucj.com
+DOMAIN-SUFFIX,jushewang.com
 DOMAIN-SUFFIX,wuzhoucloud.com
 DOMAIN-SUFFIX,wuzhoudonghui.com
 DOMAIN-SUFFIX,wuzhouhotels.com
@@ -102086,6 +102092,7 @@ DOMAIN-SUFFIX,xhsf.com
 DOMAIN-SUFFIX,xhslink.com
 DOMAIN-SUFFIX,xhslw.com
 DOMAIN-SUFFIX,xhsmlt.com
+DOMAIN-SUFFIX,xhsrcdn.com
 DOMAIN-SUFFIX,xhsrmyy.com
 DOMAIN-SUFFIX,xhsxmt.com
 DOMAIN-SUFFIX,xhsyqx.com
@@ -105273,7 +105280,7 @@ DOMAIN-SUFFIX,xunxi.com
 DOMAIN-SUFFIX,xunxiang.site
 DOMAIN-SUFFIX,xunxu.com
 DOMAIN-SUFFIX,xunyangzaixian.com
-DOMAIN-SUFFIX,xunye1975.com
+DOMAIN-SUFFIX,jushi.com
 DOMAIN-SUFFIX,xunyou.com
 DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,xunyouyw.com
@@ -112797,6 +112804,7 @@ DOMAIN-SUFFIX,zhipianbang.com
 DOMAIN-SUFFIX,zhipianbang.vip
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhipingke.com
+DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,zhipuzi.com
 DOMAIN-SUFFIX,zhiqi.info
 DOMAIN-SUFFIX,zhiqiang.org
@@ -113129,7 +113137,7 @@ DOMAIN-SUFFIX,zhongminenergy.com
 DOMAIN-SUFFIX,zhongmingjiaoyu.net
 DOMAIN-SUFFIX,zhongnakeji.com
 DOMAIN-SUFFIX,zhongnengrecycling.com
-DOMAIN-SUFFIX,jushigj.com
+DOMAIN-SUFFIX,zhongnice.com
 DOMAIN-SUFFIX,zhongnongjimu.com
 DOMAIN-SUFFIX,zhongp.com
 DOMAIN-SUFFIX,zhongpaiwang.com
