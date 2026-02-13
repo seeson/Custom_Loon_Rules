@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 573
-# DOMAIN-SUFFIX: 3491
-# TOTAL: 4064
+# DOMAIN-SUFFIX: 3485
+# TOTAL: 4058
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -3051,7 +3051,6 @@ DOMAIN-SUFFIX,rdfybk.com
 DOMAIN-SUFFIX,rdnsdb.com
 DOMAIN-SUFFIX,realcybertron.com
 DOMAIN-SUFFIX,redmagic.com
-DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,renren-inc.com
 DOMAIN-SUFFIX,renren.com
 DOMAIN-SUFFIX,resset.com
@@ -3667,10 +3666,6 @@ DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,xf-fund.com
 DOMAIN-SUFFIX,xfdown.com
 DOMAIN-SUFFIX,xhlsgs.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xhslink.com
-DOMAIN-SUFFIX,xhsrcdn.com
 DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,xiamai.net
 DOMAIN-SUFFIX,xiamenair.com
@@ -3683,7 +3678,6 @@ DOMAIN-SUFFIX,xiaobaixitong.com
 DOMAIN-SUFFIX,xiaodutv.com
 DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,xiaogouh5.com
-DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,xiaokaxiu.com
 DOMAIN-SUFFIX,xiaoluyouxuan.com

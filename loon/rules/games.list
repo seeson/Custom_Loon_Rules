@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
-# DOMAIN: 36
+# DOMAIN: 60
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 747
-# TOTAL: 787
+# TOTAL: 811
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -41,7 +41,31 @@ DOMAIN,spectator.ppy.sh
 DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
 DOMAIN,store-images.s-microsoft.com
+DOMAIN,ubisoft.siteintercept.qualtrics.com
+DOMAIN,ubistatic1-a.akamaihd.net
+DOMAIN,ubistatic10-a.akamaihd.net
+DOMAIN,ubistatic11-a.akamaihd.net
+DOMAIN,ubistatic12-a.akamaihd.net
+DOMAIN,ubistatic13-a.akamaihd.net
+DOMAIN,ubistatic14-a.akamaihd.net
+DOMAIN,ubistatic15-a.akamaihd.net
+DOMAIN,ubistatic16-a.akamaihd.net
+DOMAIN,ubistatic17-a.akamaihd.net
+DOMAIN,ubistatic18-a.akamaihd.net
+DOMAIN,ubistatic19-a.akamaihd.net
+DOMAIN,ubistatic2-a.akamaihd.net
+DOMAIN,ubistatic20-a.akamaihd.net
+DOMAIN,ubistatic21-a.akamaihd.net
+DOMAIN,ubistatic22-a.akamaihd.net
+DOMAIN,ubistatic23-a.akamaihd.net
+DOMAIN,ubistatic24-a.akamaihd.net
 DOMAIN,ubistatic3-a.akamaihd.net
+DOMAIN,ubistatic4-a.akamaihd.net
+DOMAIN,ubistatic5-a.akamaihd.net
+DOMAIN,ubistatic6-a.akamaihd.net
+DOMAIN,ubistatic7-a.akamaihd.net
+DOMAIN,ubistatic8-a.akamaihd.net
+DOMAIN,ubistatic9-a.akamaihd.net
 DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,2k.com
