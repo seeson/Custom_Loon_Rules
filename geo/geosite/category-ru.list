@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-14 07:22:58
+# UPDATED: 2026-02-15 07:16:16
 # TOTAL: 128
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 127
@@ -29,19 +29,21 @@ DOMAIN-SUFFIX,unirest.tech
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,tbank-online.com
 DOMAIN-SUFFIX,taxsee.com
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,mosmetro.tech
-DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,ru.net
 DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,tamtam.chat
-DOMAIN-SUFFIX,ru.com
-DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mycdn.me
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,vk-apps.com
 DOMAIN-SUFFIX,vk-cdn.me
@@ -64,6 +66,7 @@ DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
 DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.tr
 DOMAIN-SUFFIX,naydex.net
@@ -104,6 +107,7 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,ngenix.net
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,okko.sport
@@ -111,8 +115,7 @@ DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
-DOMAIN-SUFFIX,avs.io
-DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
 DOMAIN-SUFFIX,okolo.app
@@ -124,9 +127,6 @@ DOMAIN-SUFFIX,x5.group
 DOMAIN-SUFFIX,x5.media
 DOMAIN-SUFFIX,x5.team
 DOMAIN-SUFFIX,x5.tech
-DOMAIN-SUFFIX,x5static.net
-DOMAIN-SUFFIX,ozonusercontent.com
-DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.ge
 DOMAIN-SUFFIX,yandex.com.am
