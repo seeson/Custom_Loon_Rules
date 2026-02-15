@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-15 07:16:25
-# TOTAL: 116156
-# DOMAIN-SUFFIX: 116156
+# UPDATED: 2026-02-16 07:18:19
+# TOTAL: 116154
+# DOMAIN-SUFFIX: 116154
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,jukeyouxuan.com
-DOMAIN-SUFFIX,wuzhoucj.com
+DOMAIN-SUFFIX,wmxue.com
 DOMAIN-SUFFIX,028csc.com
 DOMAIN-SUFFIX,028desite.com
 DOMAIN-SUFFIX,028f.com
@@ -1326,7 +1326,7 @@ DOMAIN-SUFFIX,120jxxh.com
 DOMAIN-SUFFIX,120kid.com
 DOMAIN-SUFFIX,120kq.com
 DOMAIN-SUFFIX,120naotan.com
-DOMAIN-SUFFIX,120scp.com
+DOMAIN-SUFFIX,jushi.com
 DOMAIN-SUFFIX,120sg.com
 DOMAIN-SUFFIX,120shgc.com
 DOMAIN-SUFFIX,120spd.com
@@ -58104,9 +58104,9 @@ DOMAIN-SUFFIX,jusen2008.com
 DOMAIN-SUFFIX,jushe.org
 DOMAIN-SUFFIX,jushen.co
 DOMAIN-SUFFIX,jushequ.net
-DOMAIN-SUFFIX,pdfdo.com
+DOMAIN-SUFFIX,teach365.com
 DOMAIN-SUFFIX,0289kh1448.xin
-DOMAIN-SUFFIX,xunye1975.com
+DOMAIN-SUFFIX,120scp.com
 DOMAIN-SUFFIX,jushigj.com
 DOMAIN-SUFFIX,jushihui.com
 DOMAIN-SUFFIX,jushiwangedu.com
@@ -74569,7 +74569,7 @@ DOMAIN-SUFFIX,pdf00.com
 DOMAIN-SUFFIX,pdf1122.com
 DOMAIN-SUFFIX,pdfangchan.com
 DOMAIN-SUFFIX,pdfbianji.com
-DOMAIN-SUFFIX,jushequan.com
+DOMAIN-SUFFIX,pdfdo.com
 DOMAIN-SUFFIX,pdffsy.com
 DOMAIN-SUFFIX,pdfjia.com
 DOMAIN-SUFFIX,pdflibr.com
@@ -79662,7 +79662,6 @@ DOMAIN-SUFFIX,redmagic.com
 DOMAIN-SUFFIX,redmart.com
 DOMAIN-SUFFIX,redmou.com
 DOMAIN-SUFFIX,rednetdns.com
-DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN-SUFFIX,redocn.com
 DOMAIN-SUFFIX,redodopower.com
 DOMAIN-SUFFIX,redoop.com
@@ -91016,7 +91015,7 @@ DOMAIN-SUFFIX,te6.com
 DOMAIN-SUFFIX,tea-gd.com
 DOMAIN-SUFFIX,tea26.com
 DOMAIN-SUFFIX,tea7.com
-DOMAIN-SUFFIX,teach365.com
+DOMAIN-SUFFIX,jushequan.com
 DOMAIN-SUFFIX,teachblog.net
 DOMAIN-SUFFIX,teachclinic.com
 DOMAIN-SUFFIX,teachcn.net
@@ -99824,7 +99823,7 @@ DOMAIN-SUFFIX,wmwm.com
 DOMAIN-SUFFIX,wmxba.com
 DOMAIN-SUFFIX,wmxcjj.com
 DOMAIN-SUFFIX,wmxpro.com
-DOMAIN-SUFFIX,wmxue.com
+DOMAIN-SUFFIX,jushewang.com
 DOMAIN-SUFFIX,wmxxgy.com
 DOMAIN-SUFFIX,wmxxgz.com
 DOMAIN-SUFFIX,wmxxwh.com
@@ -100849,7 +100848,7 @@ DOMAIN-SUFFIX,wuzhiwei.net
 DOMAIN-SUFFIX,wuzhong.com
 DOMAIN-SUFFIX,wuzhongdc.com
 DOMAIN-SUFFIX,wuzhongwater.com
-DOMAIN-SUFFIX,jushewang.com
+DOMAIN-SUFFIX,wuzhoucj.com
 DOMAIN-SUFFIX,wuzhoucloud.com
 DOMAIN-SUFFIX,wuzhoudonghui.com
 DOMAIN-SUFFIX,wuzhouhotels.com
@@ -102092,7 +102091,6 @@ DOMAIN-SUFFIX,xhsf.com
 DOMAIN-SUFFIX,xhslink.com
 DOMAIN-SUFFIX,xhslw.com
 DOMAIN-SUFFIX,xhsmlt.com
-DOMAIN-SUFFIX,xhsrcdn.com
 DOMAIN-SUFFIX,xhsrmyy.com
 DOMAIN-SUFFIX,xhsxmt.com
 DOMAIN-SUFFIX,xhsyqx.com
@@ -105280,7 +105278,7 @@ DOMAIN-SUFFIX,xunxi.com
 DOMAIN-SUFFIX,xunxiang.site
 DOMAIN-SUFFIX,xunxu.com
 DOMAIN-SUFFIX,xunyangzaixian.com
-DOMAIN-SUFFIX,jushi.com
+DOMAIN-SUFFIX,xunye1975.com
 DOMAIN-SUFFIX,xunyou.com
 DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,xunyouyw.com
