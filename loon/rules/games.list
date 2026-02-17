@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 60
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 747
-# TOTAL: 811
+# DOMAIN-SUFFIX: 755
+# TOTAL: 819
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -655,6 +655,7 @@ DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,starcraft2.com
 DOMAIN-SUFFIX,starfox.com
+DOMAIN-SUFFIX,stargazer-games.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com
 DOMAIN-SUFFIX,starwarsfallenorder.com
@@ -697,6 +698,8 @@ DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,supercell.net
 DOMAIN-SUFFIX,supercellcreators.com
@@ -808,8 +811,13 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
 DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ynoproject.net
+DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,yoshisnewisland.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,zenlesszonezero.com
 DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,zyngaplayersupport.com
