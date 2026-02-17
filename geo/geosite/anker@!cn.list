@@ -1,0 +1,14 @@
+# NAME: anker@!cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-02-18 07:21:14
+# TOTAL: 7
+# DOMAIN-SUFFIX: 7
+
+DOMAIN-SUFFIX,anker-in.com
+DOMAIN-SUFFIX,anker.com
+DOMAIN-SUFFIX,ankersolix.com
+DOMAIN-SUFFIX,eufy.com
+DOMAIN-SUFFIX,eufylife.com
+DOMAIN-SUFFIX,eufymake.com
+DOMAIN-SUFFIX,soundcore.com
