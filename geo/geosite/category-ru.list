@@ -1,12 +1,13 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-18 07:21:56
+# UPDATED: 2026-02-19 07:21:33
 # TOTAL: 128
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 127
 
 DOMAIN,yandex-pogoda.static-storage.net
+DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,psk
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,xn--p1acf
@@ -19,29 +20,20 @@ DOMAIN-SUFFIX,tatar
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,ru
 DOMAIN-SUFFIX,moscow
-DOMAIN-SUFFIX,yandex
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,ngenix.net
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,yandex.de
-DOMAIN-SUFFIX,mosmetro.tech
-DOMAIN-SUFFIX,taxsee.com
-DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,yandex.tr
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,turbopages.org
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-bank.net
-DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yandex.aero
 DOMAIN-SUFFIX,yandex.az
 DOMAIN-SUFFIX,yandex.by
-DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,yandex.cloud
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.de
 DOMAIN-SUFFIX,yandex.ee
 DOMAIN-SUFFIX,yandex.eu
 DOMAIN-SUFFIX,yandex.jobs
@@ -67,10 +59,9 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,yandex.cloud
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
 DOMAIN-SUFFIX,okolo.app
@@ -83,17 +74,6 @@ DOMAIN-SUFFIX,x5.media
 DOMAIN-SUFFIX,x5.team
 DOMAIN-SUFFIX,x5.tech
 DOMAIN-SUFFIX,x5static.net
-DOMAIN-SUFFIX,tbank-online.com
-DOMAIN-SUFFIX,trbcdn.net
-DOMAIN-SUFFIX,unirest.tech
-DOMAIN-SUFFIX,uni.rest
-DOMAIN-SUFFIX,dodois.io
-DOMAIN-SUFFIX,dodois.com
-DOMAIN-SUFFIX,dodostatic.net
-DOMAIN-SUFFIX,dodopizza.com
-DOMAIN-SUFFIX,ru.net
-DOMAIN-SUFFIX,ozonusercontent.com
-DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
@@ -127,10 +107,30 @@ DOMAIN-SUFFIX,vkmessenger.com
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-DOMAIN-SUFFIX,yandex.com.ua
-DOMAIN-SUFFIX,yandex-images.clstorage.net
+DOMAIN-SUFFIX,taxsee.com
+DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,yandex.kg
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,trbcdn.net
+DOMAIN-SUFFIX,unirest.tech
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodostatic.net
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.ge
-DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.am
+DOMAIN-SUFFIX,yandex.com.tr
+DOMAIN-SUFFIX,yandex-images.clstorage.net
+DOMAIN-SUFFIX,yandex.com.ua
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
