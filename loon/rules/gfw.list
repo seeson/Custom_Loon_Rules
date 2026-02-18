@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4180
-# TOTAL: 4180
+# DOMAIN-SUFFIX: 4181
+# TOTAL: 4181
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -2408,6 +2408,7 @@ DOMAIN-SUFFIX,moptt.tw
 DOMAIN-SUFFIX,moresci.sale
 DOMAIN-SUFFIX,morningsun.org
 DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,motherless.com
 DOMAIN-SUFFIX,movements.org
 DOMAIN-SUFFIX,moviefap.com
