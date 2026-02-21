@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:26 CST
-# IP-CIDR: 9042
-# TOTAL: 9042
+# IP-CIDR: 9037
+# TOTAL: 9037
 
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -7065,10 +7065,9 @@ IP-CIDR,45.127.156.0/22,no-resolve
 IP-CIDR,45.127.8.0/21,no-resolve
 IP-CIDR,45.135.149.0/24,no-resolve
 IP-CIDR,45.147.6.0/24,no-resolve
+IP-CIDR,45.150.236.0/23,no-resolve
 IP-CIDR,45.151.47.0/24,no-resolve
 IP-CIDR,45.157.88.0/24,no-resolve
-IP-CIDR,45.162.136.0/24,no-resolve
-IP-CIDR,45.170.160.0/24,no-resolve
 IP-CIDR,45.195.6.0/24,no-resolve
 IP-CIDR,45.197.131.0/24,no-resolve
 IP-CIDR,45.202.209.0/24,no-resolve
@@ -8740,12 +8739,10 @@ IP-CIDR6,2a09:54c6:e000::/36,no-resolve
 IP-CIDR6,2a09:b280:ff81::/48,no-resolve
 IP-CIDR6,2a09:b280:ff83::/48,no-resolve
 IP-CIDR6,2a09:b280:ff84::/47,no-resolve
-IP-CIDR6,2a0a:280:2389::/48,no-resolve
 IP-CIDR6,2a0a:2840::/30,no-resolve
 IP-CIDR6,2a0a:2845:aab8::/46,no-resolve
 IP-CIDR6,2a0a:2845:d647::/48,no-resolve
 IP-CIDR6,2a0a:2846::/48,no-resolve
-IP-CIDR6,2a0a:6040:ba17::/48,no-resolve
 IP-CIDR6,2a0a:6040:ec00::/40,no-resolve
 IP-CIDR6,2a0a:6044:6600::/39,no-resolve
 IP-CIDR6,2a0a:6044:7a00::/40,no-resolve
@@ -8944,8 +8941,7 @@ IP-CIDR6,2a14:67c1:b100::/46,no-resolve
 IP-CIDR6,2a14:67c1:b105::/48,no-resolve
 IP-CIDR6,2a14:67c1:b107::/48,no-resolve
 IP-CIDR6,2a14:67c1:b110::/48,no-resolve
-IP-CIDR6,2a14:67c1:b130::/48,no-resolve
-IP-CIDR6,2a14:67c1:b132::/47,no-resolve
+IP-CIDR6,2a14:67c1:b130::/46,no-resolve
 IP-CIDR6,2a14:67c1:b134::/48,no-resolve
 IP-CIDR6,2a14:67c1:b136::/48,no-resolve
 IP-CIDR6,2a14:67c1:b140::/46,no-resolve
@@ -8954,7 +8950,6 @@ IP-CIDR6,2a14:67c1:b500::/47,no-resolve
 IP-CIDR6,2a14:67c1:b511::/48,no-resolve
 IP-CIDR6,2a14:67c1:b514::/48,no-resolve
 IP-CIDR6,2a14:67c1:b530::/44,no-resolve
-IP-CIDR6,2a14:67c1:b549::/48,no-resolve
 IP-CIDR6,2a14:67c1:b561::/48,no-resolve
 IP-CIDR6,2a14:67c1:b563::/48,no-resolve
 IP-CIDR6,2a14:67c1:b578::/48,no-resolve
