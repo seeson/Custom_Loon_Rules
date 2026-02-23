@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 26
-# DOMAIN-SUFFIX: 258
-# TOTAL: 284
+# DOMAIN-SUFFIX: 262
+# TOTAL: 288
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
@@ -162,12 +162,14 @@ DOMAIN-SUFFIX,kk1.vip
 DOMAIN-SUFFIX,kurogames.com
 DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,leigod.cn
 DOMAIN-SUFFIX,leigod.com
 DOMAIN-SUFFIX,liuxing.com
 DOMAIN-SUFFIX,longtugame.com
 DOMAIN-SUFFIX,lorhf.com
+DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,lxjiasu.com
@@ -217,6 +219,7 @@ DOMAIN-SUFFIX,roblox.cn
 DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,robloxdev.cn
 DOMAIN-SUFFIX,roco.qq.com
+DOMAIN-SUFFIX,rpglogs.cn
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,sccreator.cn
 DOMAIN-SUFFIX,sccreators.cn
@@ -275,6 +278,7 @@ DOMAIN-SUFFIX,xunyou.com
 DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yebaojiasu.com
+DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,youba.com

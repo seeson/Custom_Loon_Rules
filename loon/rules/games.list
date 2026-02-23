@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
-# DOMAIN: 60
+# DOMAIN: 59
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 755
-# TOTAL: 819
+# DOMAIN-SUFFIX: 758
+# TOTAL: 821
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -32,7 +32,6 @@ DOMAIN,notify.ppy.sh
 DOMAIN,originasserts.akamaized.net
 DOMAIN,osu.ppy.sh
 DOMAIN,prodforza.blob.core.windows.net
-DOMAIN,pubg1.battleye.com
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN,roblox-poc.global.ssl.fastly.net
 DOMAIN,robloxcorp.s.llnwi.net
@@ -106,6 +105,7 @@ DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,bejeweledstars.com
 DOMAIN-SUFFIX,bejewled-stars.com
 DOMAIN-SUFFIX,beth.games
@@ -123,7 +123,9 @@ DOMAIN-SUFFIX,blizzardgames.cn
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
 DOMAIN-SUFFIX,blox.com
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,bluearchive.jp
+DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,blz.nosdn.127.net
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
@@ -155,6 +157,7 @@ DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,client-update.queniuqe.com
 DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,cncrivals.com
 DOMAIN-SUFFIX,commandandconquer.com
@@ -163,7 +166,6 @@ DOMAIN-SUFFIX,convrgencegame.com
 DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,crysis.jp
-DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,cubicodyssey.game
 DOMAIN-SUFFIX,curseforge.com
@@ -187,14 +189,11 @@ DOMAIN-SUFFIX,dicela.net
 DOMAIN-SUFFIX,diddykongracing.com
 DOMAIN-SUFFIX,dinopoloclub.com
 DOMAIN-SUFFIX,dkr.com
-DOMAIN-SUFFIX,dl.steam.clngaa.com
-DOMAIN-SUFFIX,dl.steam.ksyna.com
 DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
 DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
-DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
 DOMAIN-SUFFIX,dragonagemovie.com
@@ -252,6 +251,7 @@ DOMAIN-SUFFIX,fabricmc.net
 DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,fflogs.com
 DOMAIN-SUFFIX,fifastreet.com
 DOMAIN-SUFFIX,fifastreet3.com
 DOMAIN-SUFFIX,fire-emblem-heroes.com
@@ -302,6 +302,7 @@ DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gog.qtlglb.com
 DOMAIN-SUFFIX,gooblox.com
+DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,hackyourconsole.com
 DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
@@ -368,6 +369,7 @@ DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,lowiro.com
 DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,maa.plus
 DOMAIN-SUFFIX,maddenchampionship.com
 DOMAIN-SUFFIX,maddenrewards.com
 DOMAIN-SUFFIX,maddenseason.info
@@ -506,6 +508,8 @@ DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,playcover.io
+DOMAIN-SUFFIX,playcover.workers.dev
 DOMAIN-SUFFIX,playhearthstone.com
 DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,playoverwatch.com
@@ -518,6 +522,7 @@ DOMAIN-SUFFIX,playvalorant.com
 DOMAIN-SUFFIX,playwarcraft3.com
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
+DOMAIN-SUFFIX,poi.moe
 DOMAIN-SUFFIX,pokedex3d.com
 DOMAIN-SUFFIX,pokemon-moon.com
 DOMAIN-SUFFIX,pokemon-sun.com
@@ -547,6 +552,7 @@ DOMAIN-SUFFIX,priconne-redive.jp
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,projectapex.com
 DOMAIN-SUFFIX,protondb.com
+DOMAIN-SUFFIX,prts.plus
 DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
@@ -618,6 +624,7 @@ DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rowblocks.com
 DOMAIN-SUFFIX,rowblox.com
+DOMAIN-SUFFIX,rpglogs.com
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,ruinedking.com
@@ -648,9 +655,6 @@ DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,squadbusters.com
 DOMAIN-SUFFIX,ssx3.com
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,starcraft2.com
@@ -676,7 +680,6 @@ DOMAIN-SUFFIX,steambroadcast.akamaized.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steamdeck.com
@@ -687,15 +690,11 @@ DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamstatic.com.8686c.com
 DOMAIN-SUFFIX,steamstore-a.akamaihd.net
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
-DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,stellasora.global
@@ -730,11 +729,14 @@ DOMAIN-SUFFIX,thesims.com
 DOMAIN-SUFFIX,thesims3.com
 DOMAIN-SUFFIX,thesims4.com
 DOMAIN-SUFFIX,thesimssocial.com
+DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,thewonderful101.com
 DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,titanfall.com
 DOMAIN-SUFFIX,tnt-ea.com
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,twinmotion.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
@@ -775,7 +777,6 @@ DOMAIN-SUFFIX,wiisports.com
 DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
-DOMAIN-SUFFIX,wmsjsteam.com
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,worldflipper.jp
 DOMAIN-SUFFIX,worldofwarcraft.com
@@ -815,6 +816,7 @@ DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,yoshisnewisland.com
 DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.cn
 DOMAIN-SUFFIX,yostar.co.jp
 DOMAIN-SUFFIX,yostar.net
 DOMAIN-SUFFIX,yostarplat.com
