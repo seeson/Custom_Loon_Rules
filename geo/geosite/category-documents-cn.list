@@ -1,10 +1,10 @@
 # NAME: category-documents-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-24 07:28:30
+# UPDATED: 2026-02-25 07:23:16
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
 
+DOMAIN-SUFFIX,doc88.com
 DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,douding.cn
-DOMAIN-SUFFIX,doc88.com
