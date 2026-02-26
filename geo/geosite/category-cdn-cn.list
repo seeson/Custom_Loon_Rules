@@ -1,7 +1,7 @@
 # NAME: category-cdn-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-26 07:22:00
+# UPDATED: 2026-02-27 07:22:20
 # TOTAL: 91
 # DOMAIN-SUFFIX: 91
 
@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,funcdn.com
 DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,yunaq.com
-DOMAIN-SUFFIX,bsclink.cn
-DOMAIN-SUFFIX,qingcdn.com
-DOMAIN-SUFFIX,trpcdn.net
 DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,bootcdn.net
 DOMAIN-SUFFIX,bootcss.com
@@ -75,6 +72,9 @@ DOMAIN-SUFFIX,wsglb.com
 DOMAIN-SUFFIX,wsglb.net
 DOMAIN-SUFFIX,wswebcdn.com
 DOMAIN-SUFFIX,wswebpic.com
+DOMAIN-SUFFIX,bsclink.cn
+DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,trpcdn.net
 DOMAIN-SUFFIX,dfyun.com.cn
 DOMAIN-SUFFIX,fastcdn.com.cn
 DOMAIN-SUFFIX,cf-china.info
