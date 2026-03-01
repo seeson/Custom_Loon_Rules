@@ -1,10 +1,15 @@
 # NAME: category-proxy-tunnels
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-01 07:14:53
+# UPDATED: 2026-03-02 07:16:00
 # TOTAL: 14
 # DOMAIN-SUFFIX: 14
 
+DOMAIN-SUFFIX,pinggy.io
+DOMAIN-SUFFIX,pinggy.link
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,ngrok-free.pizza
@@ -14,8 +19,3 @@ DOMAIN-SUFFIX,ngrok.dev
 DOMAIN-SUFFIX,ngrok.io
 DOMAIN-SUFFIX,ngrok.pizza
 DOMAIN-SUFFIX,ngrok.pro
-DOMAIN-SUFFIX,pinggy.io
-DOMAIN-SUFFIX,pinggy.link
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net
