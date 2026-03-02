@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4189
-# TOTAL: 4189
+# DOMAIN-SUFFIX: 4190
+# TOTAL: 4190
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -764,6 +764,7 @@ DOMAIN-SUFFIX,cixiaoya.club
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,cldr.unicode.org
 DOMAIN-SUFFIX,clearsurance.com
 DOMAIN-SUFFIX,clementine-player.org
@@ -2268,6 +2269,7 @@ DOMAIN-SUFFIX,mangafox.com
 DOMAIN-SUFFIX,mangafox.me
 DOMAIN-SUFFIX,mangmang.run
 DOMAIN-SUFFIX,manta.com
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,marc.info
 DOMAIN-SUFFIX,martau.com
@@ -3984,7 +3986,6 @@ DOMAIN-SUFFIX,www.gmiddle.net
 DOMAIN-SUFFIX,www.hoyolab.com
 DOMAIN-SUFFIX,www.hustlercash.com
 DOMAIN-SUFFIX,www.idlcoyote.com
-DOMAIN-SUFFIX,www.imdb.com
 DOMAIN-SUFFIX,www.kindleren.com
 DOMAIN-SUFFIX,www.lorenzetti.com.br
 DOMAIN-SUFFIX,www.m-sport.co.uk
