@@ -1,7 +1,7 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-03 07:18:12
+# UPDATED: 2026-03-04 07:19:01
 # TOTAL: 117039
 # DOMAIN-SUFFIX: 117039
 
@@ -58546,7 +58546,7 @@ DOMAIN-SUFFIX,jufengcompany.com
 DOMAIN-SUFFIX,jufenginfo.com
 DOMAIN-SUFFIX,jufengshang.com
 DOMAIN-SUFFIX,jufengwuxi.com
-DOMAIN-SUFFIX,sh-jinxiang.com
+DOMAIN-SUFFIX,sh-jingjin.com
 DOMAIN-SUFFIX,028csc.com
 DOMAIN-SUFFIX,ecshop123.com
 DOMAIN-SUFFIX,juguang.com
@@ -69423,6 +69423,7 @@ DOMAIN-SUFFIX,monfetch.com
 DOMAIN-SUFFIX,mongac.com
 DOMAIN-SUFFIX,monhun.fun
 DOMAIN-SUFFIX,monidata.com
+DOMAIN-SUFFIX,monika.love
 DOMAIN-SUFFIX,monkeylsp.com
 DOMAIN-SUFFIX,monknow.com
 DOMAIN-SUFFIX,mono.work
@@ -83939,8 +83940,8 @@ DOMAIN-SUFFIX,sh-hywin.com
 DOMAIN-SUFFIX,sh-italent.com
 DOMAIN-SUFFIX,sh-iwatani.com
 DOMAIN-SUFFIX,sh-jiapeng.com
-DOMAIN-SUFFIX,sh-jingjin.com
 DOMAIN-SUFFIX,jufoinfo.com
+DOMAIN-SUFFIX,sh-jinxiang.com
 DOMAIN-SUFFIX,sh-jjsb.com
 DOMAIN-SUFFIX,sh-jkyy.com
 DOMAIN-SUFFIX,sh-jzgroup.com
@@ -102586,7 +102587,6 @@ DOMAIN-SUFFIX,xcstuido.com
 DOMAIN-SUFFIX,xcsyy.com
 DOMAIN-SUFFIX,xctmr.com
 DOMAIN-SUFFIX,xcukezmr.com
-DOMAIN-SUFFIX,xcultur.com
 DOMAIN-SUFFIX,xcurrency.com
 DOMAIN-SUFFIX,xcvec.com
 DOMAIN-SUFFIX,xcvmbyte.com

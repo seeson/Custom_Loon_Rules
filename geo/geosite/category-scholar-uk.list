@@ -1,44 +1,44 @@
 # NAME: category-scholar-uk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-03 07:18:01
+# UPDATED: 2026-03-04 07:18:50
 # TOTAL: 36
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 35
 
 DOMAIN,imperial.insendi.com
-DOMAIN-SUFFIX,oxfordpoliticstrove.com
-DOMAIN-SUFFIX,oxfordmedicine.com
+DOMAIN-SUFFIX,oxfordbibliographies.com
 DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
-DOMAIN-SUFFIX,cambridgedigital.net
 DOMAIN-SUFFIX,cambridgemaths.org
-DOMAIN-SUFFIX,universitypressscholarship.com
-DOMAIN-SUFFIX,ouplaw.com
-DOMAIN-SUFFIX,ukwhoswho.com
-DOMAIN-SUFFIX,imperialbusiness.school
-DOMAIN-SUFFIX,sipriyearbook.org
-DOMAIN-SUFFIX,oxfordwesternmusic.com
+DOMAIN-SUFFIX,cambridgedigital.net
 DOMAIN-SUFFIX,oxfordfirstsource.com
 DOMAIN-SUFFIX,oxfordscholarlyeditions.com
-DOMAIN-SUFFIX,amamanualofstyle.com
+DOMAIN-SUFFIX,blackstonespoliceservice.com
 DOMAIN-SUFFIX,epigeum.com
 DOMAIN-SUFFIX,oxfordhandbooks.com
 DOMAIN-SUFFIX,omscr.com
-DOMAIN-SUFFIX,oxfordaasc.com
-DOMAIN-SUFFIX,veryshortintroductions.com
-DOMAIN-SUFFIX,oxfordscholarship.com
 DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,ouplaw.com
+DOMAIN-SUFFIX,veryshortintroductions.com
+DOMAIN-SUFFIX,oxfordaasc.com
 DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordlawtrove.com
 DOMAIN-SUFFIX,oxfordclinicalpsych.com
-DOMAIN-SUFFIX,oxforddnb.com
-DOMAIN-SUFFIX,blackstonespoliceservice.com
-DOMAIN-SUFFIX,oed.com
-DOMAIN-SUFFIX,oxfordbibliographies.com
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,oxfordmusiconline.com
 DOMAIN-SUFFIX,ac.uk
+DOMAIN-SUFFIX,amamanualofstyle.com
+DOMAIN-SUFFIX,imperialbusiness.school
+DOMAIN-SUFFIX,oxforddnb.com
+DOMAIN-SUFFIX,oxfordmedicine.com
+DOMAIN-SUFFIX,oxfordmusiconline.com
+DOMAIN-SUFFIX,oxfordpoliticstrove.com
 DOMAIN-SUFFIX,oxfordre.com
 DOMAIN-SUFFIX,oxfordreference.com
 DOMAIN-SUFFIX,anb.org
+DOMAIN-SUFFIX,oxfordscholarship.com
+DOMAIN-SUFFIX,oxfordwesternmusic.com
+DOMAIN-SUFFIX,sipriyearbook.org
+DOMAIN-SUFFIX,ukwhoswho.com
+DOMAIN-SUFFIX,universitypressscholarship.com
+DOMAIN-SUFFIX,oed.com
+DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,dlib.eastview.com
