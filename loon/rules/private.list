@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:32 CST
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 125
-# TOTAL: 138
+# DOMAIN-SUFFIX: 123
+# TOTAL: 136
 
 DOMAIN,asusrouter.com
 DOMAIN,board.zash.run.place
@@ -19,8 +19,6 @@ DOMAIN,www.asusrouter.com
 DOMAIN,www.miwifi.com
 DOMAIN,yacd.haishan.me
 DOMAIN,yacd.metacubex.one
-DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,100.100.in-addr.arpa
