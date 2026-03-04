@@ -1,10 +1,10 @@
 # NAME: tiktok
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-02-12 04:28:03
+# UPDATED: 2026-03-05 04:21:39
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 31
-# TOTAL: 36
+# DOMAIN-SUFFIX: 32
+# TOTAL: 37
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,roovza-launches.appsflyersdk.com
@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
