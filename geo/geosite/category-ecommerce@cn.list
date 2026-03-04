@@ -1,10 +1,17 @@
 # NAME: category-ecommerce@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-04 07:18:37
+# UPDATED: 2026-03-05 07:22:13
 # TOTAL: 80
 # DOMAIN-SUFFIX: 80
 
+DOMAIN-SUFFIX,hm.com.cn
+DOMAIN-SUFFIX,shopee.cn
+DOMAIN-SUFFIX,shopeesz.com
+DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,farfetch.cn
+DOMAIN-SUFFIX,farfetch.com.cn
+DOMAIN-SUFFIX,farfetch.net.cn
 DOMAIN-SUFFIX,just-do-it.cn
 DOMAIN-SUFFIX,nike-shox.cn
 DOMAIN-SUFFIX,nike.cn
@@ -68,20 +75,13 @@ DOMAIN-SUFFIX,terapeak.cn
 DOMAIN-SUFFIX,adidas.cn
 DOMAIN-SUFFIX,adidas.com.cn
 DOMAIN-SUFFIX,adidasspecialtysports.cn
-DOMAIN-SUFFIX,hm.com.cn
+DOMAIN-SUFFIX,gucci.cn
 DOMAIN-SUFFIX,ikea.cn
 DOMAIN-SUFFIX,ingka-dt.cn
 DOMAIN-SUFFIX,ingka-internal.cn
 DOMAIN-SUFFIX,ingka-system.cn
-DOMAIN-SUFFIX,shopee.cn
-DOMAIN-SUFFIX,shopeesz.com
-DOMAIN-SUFFIX,gucci.cn
 DOMAIN-SUFFIX,miniso.cn
 DOMAIN-SUFFIX,minisohome.cn
 DOMAIN-SUFFIX,minsio.cn
 DOMAIN-SUFFIX,muji.com.cn
-DOMAIN-SUFFIX,booking.cn
-DOMAIN-SUFFIX,farfetch.cn
-DOMAIN-SUFFIX,farfetch.com.cn
-DOMAIN-SUFFIX,farfetch.net.cn
 DOMAIN-SUFFIX,walmart.cn

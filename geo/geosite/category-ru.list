@@ -1,7 +1,7 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-04 07:18:50
+# UPDATED: 2026-03-05 07:22:23
 # TOTAL: 151
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 143
@@ -27,19 +27,11 @@ DOMAIN-SUFFIX,xn--80adxhks
 DOMAIN-SUFFIX,tatar
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,ru
-DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,ngenix.net
 DOMAIN-SUFFIX,t1.cloud
 DOMAIN-SUFFIX,taxsee.com
 DOMAIN-SUFFIX,yclients.com
-DOMAIN-SUFFIX,premier.one
-DOMAIN-SUFFIX,smotreshka.tv
-DOMAIN-SUFFIX,kinorium.com
-DOMAIN-SUFFIX,trbcdn.net
-DOMAIN-SUFFIX,24h.tv
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,yandex.kg
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,naydex.net
@@ -90,12 +82,12 @@ DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,sistema-capital.com
+DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,moex.com
 DOMAIN-SUFFIX,avito.st
-DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,paywb.com
-DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,aviasales.com
 DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,boosty.to
@@ -120,13 +112,23 @@ DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkcache.com
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
-DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,vkmessenger.com
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkuseraudio.com
+DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuserlive.net
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,ru.net
+DOMAIN-SUFFIX,kinorium.com
+DOMAIN-SUFFIX,trbcdn.net
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5.team
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,dodois.com
@@ -148,12 +150,10 @@ DOMAIN-SUFFIX,x5.com
 DOMAIN-SUFFIX,x5.digital
 DOMAIN-SUFFIX,x5.group
 DOMAIN-SUFFIX,x5.media
-DOMAIN-SUFFIX,x5.team
-DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,yandex.com.ua
+DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex-images.clstorage.net
 DOMAIN-SUFFIX,yandex.co.il
 DOMAIN-SUFFIX,yandex.com.am
 DOMAIN-SUFFIX,yandex.com.ge
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-DOMAIN-SUFFIX,yandex.com.tr
-DOMAIN-SUFFIX,yandex.com.ua
