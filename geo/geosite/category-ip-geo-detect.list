@@ -1,10 +1,12 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-06 07:45:38
-# TOTAL: 67
+# UPDATED: 2026-03-07 07:20:33
+# TOTAL: 68
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 67
 
+DOMAIN,checkip.amazonaws.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,2ip.ua
