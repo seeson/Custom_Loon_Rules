@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 84
+# DOMAIN: 85
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 27429
-# TOTAL: 27549
+# DOMAIN-SUFFIX: 27435
+# TOTAL: 27556
 
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
@@ -91,6 +91,7 @@ DOMAIN,widgets.stripst.com
 DOMAIN,wrds-www.wharton.upenn.edu
 DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN,yangzhi.app
+DOMAIN,youla-web-static.mrgcdn.ru
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -16732,6 +16733,7 @@ DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,muslimvideo.com
 DOMAIN-SUFFIX,mut.ch
 DOMAIN-SUFFIX,muthead.com
+DOMAIN-SUFFIX,muvluv-girls-garden.com
 DOMAIN-SUFFIX,muycerdas.xxx
 DOMAIN-SUFFIX,muyzorras.com
 DOMAIN-SUFFIX,muzi.com
@@ -18208,6 +18210,7 @@ DOMAIN-SUFFIX,only3x.com
 DOMAIN-SUFFIX,onlyams.com
 DOMAIN-SUFFIX,onlycartoonsex.com
 DOMAIN-SUFFIX,onlydudes.com
+DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,onlyfanspw.com
 DOMAIN-SUFFIX,onlyfreelatinaporn.com
 DOMAIN-SUFFIX,onlygayvideo.com
@@ -21061,6 +21064,7 @@ DOMAIN-SUFFIX,semanticscholar.org
 DOMAIN-SUFFIX,sena.co.kr
 DOMAIN-SUFFIX,sendsmtp.com
 DOMAIN-SUFFIX,sendspace.com
+DOMAIN-SUFFIX,sendvid.com
 DOMAIN-SUFFIX,seneporno.com
 DOMAIN-SUFFIX,seniortgp.com
 DOMAIN-SUFFIX,senpaiheat.com
@@ -24335,6 +24339,7 @@ DOMAIN-SUFFIX,usunitednews.com
 DOMAIN-SUFFIX,usus.cc
 DOMAIN-SUFFIX,usvimosquito.com
 DOMAIN-SUFFIX,usvimosquitoproject.com
+DOMAIN-SUFFIX,utdstc.com
 DOMAIN-SUFFIX,utopianpal.com
 DOMAIN-SUFFIX,uu-gg.com
 DOMAIN-SUFFIX,uug22.com
@@ -26929,6 +26934,8 @@ DOMAIN-SUFFIX,youflix.is
 DOMAIN-SUFFIX,youjism.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youjizz.sex
+DOMAIN-SUFFIX,youla.io
+DOMAIN-SUFFIX,youla.ru
 DOMAIN-SUFFIX,youlucky.com
 DOMAIN-SUFFIX,youmaker.com
 DOMAIN-SUFFIX,youmind.ai
