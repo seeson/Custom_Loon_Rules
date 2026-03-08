@@ -1,12 +1,12 @@
 # NAME: category-games-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-08 07:15:57
+# UPDATED: 2026-03-09 07:16:06
 # TOTAL: 217
 # DOMAIN-SUFFIX: 216
 
-DOMAIN-SUFFIX,brawlstars.cn
-DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,wegame.com
+DOMAIN-SUFFIX,xhlsgs.com
 DOMAIN-SUFFIX,arcaea.cn
 DOMAIN-SUFFIX,astral-vector.com
 DOMAIN-SUFFIX,forevernine.com
@@ -26,6 +26,12 @@ DOMAIN-SUFFIX,wmsj.cn
 DOMAIN-SUFFIX,winegame.net
 DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,ycgame.com
+DOMAIN-SUFFIX,9game.cn
+DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,aki-game.com
+DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,tiancitycdn.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -105,15 +111,15 @@ DOMAIN-SUFFIX,gotolink.net
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,gtgres.com
 DOMAIN-SUFFIX,realcybertron.com
-DOMAIN-SUFFIX,wegame.com
-DOMAIN-SUFFIX,anticheatexpert.com
-DOMAIN-SUFFIX,tcfmglobal.com
+DOMAIN-SUFFIX,qq163.net
+DOMAIN-SUFFIX,9xgame.com
+DOMAIN-SUFFIX,4399wanju.com
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,codm.com
-DOMAIN-SUFFIX,img4399.com
-DOMAIN-SUFFIX,9xgame.com
-DOMAIN-SUFFIX,4399hdhh.com
+DOMAIN-SUFFIX,brawlstars.cn
+DOMAIN-SUFFIX,haydaypop.cn
+DOMAIN-SUFFIX,labycore.cn
 DOMAIN-SUFFIX,sccreator.cn
 DOMAIN-SUFFIX,sccreators.cn
 DOMAIN-SUFFIX,scescdn.cn
@@ -121,32 +127,18 @@ DOMAIN-SUFFIX,scid.cn
 DOMAIN-SUFFIX,scsentry.cn
 DOMAIN-SUFFIX,supercellcommunity.cn
 DOMAIN-SUFFIX,supercellsupport.cn
-DOMAIN-SUFFIX,dobest.com
-DOMAIN-SUFFIX,langrenclub.com
-DOMAIN-SUFFIX,sanguosha.com
-DOMAIN-SUFFIX,xhlsgs.com
-DOMAIN-SUFFIX,xinwuji.com
-DOMAIN-SUFFIX,tiancitycdn.com
-DOMAIN-SUFFIX,yokaverse.com
-DOMAIN-SUFFIX,zhuoyou.com
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,haydaypop.cn
-DOMAIN-SUFFIX,cowlevel.net
-DOMAIN-SUFFIX,cdncl.net
-DOMAIN-SUFFIX,hero.com
-DOMAIN-SUFFIX,herogame.com
-DOMAIN-SUFFIX,heroesports.com
-DOMAIN-SUFFIX,shyxhy.com
-DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
+DOMAIN-SUFFIX,dobest.com
+DOMAIN-SUFFIX,yingxiong.com
+DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,sanguosha.com
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN-SUFFIX,xinwuji.com
+DOMAIN-SUFFIX,yokaverse.com
+DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
 DOMAIN-SUFFIX,3839.com
@@ -166,7 +158,7 @@ DOMAIN-SUFFIX,4399api.net
 DOMAIN-SUFFIX,4399biule.com
 DOMAIN-SUFFIX,4399dmw.com
 DOMAIN-SUFFIX,4399er.com
-DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,4399hdhh.com
 DOMAIN-SUFFIX,4399hhh.com
 DOMAIN-SUFFIX,4399inc.com
 DOMAIN-SUFFIX,4399mail.com
@@ -174,7 +166,7 @@ DOMAIN-SUFFIX,4399pk.com
 DOMAIN-SUFFIX,4399sj.cn
 DOMAIN-SUFFIX,4399sj.com
 DOMAIN-SUFFIX,4399swf.com
-DOMAIN-SUFFIX,4399wanju.com
+DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,4399youpai.com
 DOMAIN-SUFFIX,4399youxi.com
 DOMAIN-SUFFIX,4399yyy.com
@@ -193,7 +185,7 @@ DOMAIN-SUFFIX,guoping123.com
 DOMAIN-SUFFIX,haohaowan.net
 DOMAIN-SUFFIX,i3839.com
 DOMAIN-SUFFIX,ihykb.com
-DOMAIN-SUFFIX,7k7k.com
+DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,mail4399.com
 DOMAIN-SUFFIX,maindown4399.com
 DOMAIN-SUFFIX,me4399.com
@@ -201,7 +193,7 @@ DOMAIN-SUFFIX,my4399.com
 DOMAIN-SUFFIX,mysiteres.com
 DOMAIN-SUFFIX,nzsiteres.com
 DOMAIN-SUFFIX,qq163.com
-DOMAIN-SUFFIX,qq163.net
+DOMAIN-SUFFIX,7k7k.com
 DOMAIN-SUFFIX,tuer123.com
 DOMAIN-SUFFIX,wanwan4399.com
 DOMAIN-SUFFIX,we4399.com
@@ -210,10 +202,18 @@ DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,yxhhdl.com
 DOMAIN-SUFFIX,yxhimg.com
-DOMAIN-SUFFIX,9game.cn
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,aki-game.com
-DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,cowlevel.net
+DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,hero.com
+DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,werepository.com.cn
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,gouhuo.qq.com
