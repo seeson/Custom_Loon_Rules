@@ -1,10 +1,10 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-11 07:20:19
-# TOTAL: 135
+# UPDATED: 2026-03-12 07:18:34
+# TOTAL: 138
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 132
+# DOMAIN-SUFFIX: 135
 
 DOMAIN,moocs.unipus.cn
 DOMAIN,opencourse.pku.edu.cn
@@ -19,27 +19,27 @@ DOMAIN-SUFFIX,chesicc.cn
 DOMAIN-SUFFIX,chesicc.com
 DOMAIN-SUFFIX,chesicc.net
 DOMAIN-SUFFIX,chsi.cn
-DOMAIN-SUFFIX,xueersi.com
-DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,mojidict.com
-DOMAIN-SUFFIX,shareintelli.com
-DOMAIN-SUFFIX,hugecore.net
-DOMAIN-SUFFIX,yudou.cn
-DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,gfbzb.cn
-DOMAIN-SUFFIX,gfbzb.com
 DOMAIN-SUFFIX,17zuoye.cn
 DOMAIN-SUFFIX,pmphmooc.com
-DOMAIN-SUFFIX,gfbzb.net
-DOMAIN-SUFFIX,ketangpai.com
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,mooc.cn
 DOMAIN-SUFFIX,icourses.cn
-DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,cnmooc.org
+DOMAIN-SUFFIX,chinesemooc.org
+DOMAIN-SUFFIX,gfbzb.cn
+DOMAIN-SUFFIX,gfbzb.com
+DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,fenbilantian.cn
+DOMAIN-SUFFIX,gfbzb.net
+DOMAIN-SUFFIX,liulishuo.com
+DOMAIN-SUFFIX,fenbike.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,qgzb.net
+DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 DOMAIN-SUFFIX,91yunxiao.com
@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,burningvocabulary.cn
 DOMAIN-SUFFIX,burningvocabulary.com
 DOMAIN-SUFFIX,centuryenglish.com
 DOMAIN-SUFFIX,cugbonline.cn
-DOMAIN-SUFFIX,dearedu.com
+DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eoffcn.com
@@ -69,23 +69,26 @@ DOMAIN-SUFFIX,huatu.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
-DOMAIN-SUFFIX,cnmooc.org
+DOMAIN-SUFFIX,yuantiku.com
 DOMAIN-SUFFIX,xir.cn
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com
-DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,keboyunxiao.com
+DOMAIN-SUFFIX,ketangpai.com
+DOMAIN-SUFFIX,saduck.top
 DOMAIN-SUFFIX,yushiyan.net
-DOMAIN-SUFFIX,applysquare.net
-DOMAIN-SUFFIX,liulishuo.com
-DOMAIN-SUFFIX,llsapp.com
+DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,llscdn.com
 DOMAIN-SUFFIX,llsserver.com
 DOMAIN-SUFFIX,magedu.com
+DOMAIN-SUFFIX,maimemo.com
+DOMAIN-SUFFIX,maimemostatus.com
+DOMAIN-SUFFIX,markji.com
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,oldboyedu.com
 DOMAIN-SUFFIX,pigai.org
-DOMAIN-SUFFIX,saduck.top
+DOMAIN-SUFFIX,yudou.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,winyoungreading.com
 DOMAIN-SUFFIX,x-cloud.cc
@@ -108,36 +111,36 @@ DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,yuketang.cn
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
 DOMAIN-SUFFIX,yuanfudao.com
 DOMAIN-SUFFIX,yuansouti.com
-DOMAIN-SUFFIX,yuantiku.com
-DOMAIN-SUFFIX,keboyunxiao.com
-DOMAIN-SUFFIX,fenbi.com
-DOMAIN-SUFFIX,fenbike.cn
-DOMAIN-SUFFIX,fenbike.com
-DOMAIN-SUFFIX,fenbilantian.cn
-DOMAIN-SUFFIX,fenbilantian.com
-DOMAIN-SUFFIX,rainclassroom.com
-DOMAIN-SUFFIX,yuketang.cn
-DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,cbern.com.cn
 DOMAIN-SUFFIX,qgzb.gov.cn
+DOMAIN-SUFFIX,chesicc.org.cn
 DOMAIN-SUFFIX,chinayz.com.cn
-DOMAIN-SUFFIX,chsi.com.cn
 DOMAIN-SUFFIX,ncss.org.cn
 DOMAIN-SUFFIX,gfbzb.gov.cn
-DOMAIN-SUFFIX,icve.com.cn
-DOMAIN-SUFFIX,zbbm.gov.cn
-DOMAIN-SUFFIX,gatzs.com.cn
 DOMAIN-SUFFIX,gfbzb.com.cn
+DOMAIN-SUFFIX,zbbm.gov.cn
+DOMAIN-SUFFIX,chsi.com.cn
+DOMAIN-SUFFIX,gatzs.com.cn
 DOMAIN-SUFFIX,qgzb.com.cn
-DOMAIN-SUFFIX,chesicc.org.cn
 DOMAIN-SUFFIX,chesicc.net.cn
 DOMAIN-SUFFIX,chesicc.com.cn
 DOMAIN-SUFFIX,chei.com.cn
+DOMAIN-SUFFIX,icve.com.cn
 DOMAIN-SUFFIX,chdi.com.cn
 DOMAIN-SUFFIX,cedf.org.cn
 DOMAIN-SUFFIX,modex.com.cn

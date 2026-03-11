@@ -1,18 +1,30 @@
 # NAME: category-companies@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-11 07:20:17
+# UPDATED: 2026-03-12 07:18:32
 # TOTAL: 90
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 88
 
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,metrics.duolingo.com
-DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,advertising.apple.com
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,qwapi.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,msads.net
@@ -22,6 +34,12 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,tubemogul.com
+DOMAIN-SUFFIX,samsungads.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com
@@ -78,21 +96,3 @@ DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-SUFFIX,advertising.apple.com
-DOMAIN-SUFFIX,api-adservices.apple.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,iad.apple.com
-DOMAIN-SUFFIX,qwapi.com
-DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,advertising.adobe.com
-DOMAIN-SUFFIX,tubemogul.com
-DOMAIN-SUFFIX,snapads.com
-DOMAIN-SUFFIX,analytics.facebook.com
-DOMAIN-SUFFIX,facebookads.com
-DOMAIN-SUFFIX,pixel.facebook.com
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,serving-sys.com
