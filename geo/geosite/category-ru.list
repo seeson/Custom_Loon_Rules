@@ -1,15 +1,11 @@
 # NAME: category-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-13 07:20:01
+# UPDATED: 2026-03-14 07:20:16
 # TOTAL: 155
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 144
 
-DOMAIN,youla-web-static.mrgcdn.ru
-DOMAIN,st-ok-pts.cdn-vk.ru
-DOMAIN,st-ok.cdn-vk.ru
-DOMAIN,yandex-pogoda.static-storage.net
 DOMAIN,bilet.nspk.ru
 DOMAIN,metro.spb.ru
 DOMAIN,mos.transport.vtb.ru
@@ -17,8 +13,13 @@ DOMAIN,podorozhnik.spb.ru
 DOMAIN,transport.mos.ru
 DOMAIN,arenda.yandex.ru
 DOMAIN,taxi.yandex.ru
-DOMAIN-SUFFIX,yandex
+DOMAIN,youla-web-static.mrgcdn.ru
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
+DOMAIN,yandex-pogoda.static-storage.net
+DOMAIN-SUFFIX,moscow
 DOMAIN-SUFFIX,psk
+DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--d1acj3b
@@ -29,33 +30,18 @@ DOMAIN-SUFFIX,xn--80adxhks
 DOMAIN-SUFFIX,tatar
 DOMAIN-SUFFIX,su
 DOMAIN-SUFFIX,ru
-DOMAIN-SUFFIX,moscow
+DOMAIN-SUFFIX,x5.team
 DOMAIN-SUFFIX,ngenix.net
 DOMAIN-SUFFIX,t1.cloud
 DOMAIN-SUFFIX,taxsee.com
 DOMAIN-SUFFIX,yclients.com
-DOMAIN-SUFFIX,dodois.com
-DOMAIN-SUFFIX,dodois.io
-DOMAIN-SUFFIX,dodopizza.com
-DOMAIN-SUFFIX,dodostatic.net
-DOMAIN-SUFFIX,evrasia.rest
-DOMAIN-SUFFIX,fix-price.com
-DOMAIN-SUFFIX,lenta.com
-DOMAIN-SUFFIX,lenta.tech
-DOMAIN-SUFFIX,tbank-online.com
-DOMAIN-SUFFIX,unirest.tech
-DOMAIN-SUFFIX,5post.market
-DOMAIN-SUFFIX,chizhik.club
-DOMAIN-SUFFIX,okolo.app
-DOMAIN-SUFFIX,perekrestok.com
-DOMAIN-SUFFIX,x5.ai
-DOMAIN-SUFFIX,x5.com
-DOMAIN-SUFFIX,x5.digital
-DOMAIN-SUFFIX,x5.group
-DOMAIN-SUFFIX,x5.media
-DOMAIN-SUFFIX,x5.team
-DOMAIN-SUFFIX,x5.tech
-DOMAIN-SUFFIX,x5static.net
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,memealerts.com
@@ -129,31 +115,45 @@ DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,dbo-dengi.online
-DOMAIN-SUFFIX,mosmetro.tech
-DOMAIN-SUFFIX,aviasales.com
-DOMAIN-SUFFIX,tips.tips
+DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,sberbank.com
-DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
+DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,sistema-capital.com
 DOMAIN-SUFFIX,moex.com
 DOMAIN-SUFFIX,ru.net
-DOMAIN-SUFFIX,ozonusercontent.com
-DOMAIN-SUFFIX,paywb.com
-DOMAIN-SUFFIX,avito.st
-DOMAIN-SUFFIX,ru.com
-DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,tochka-tech.com
-DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,trbcdn.net
-DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodostatic.net
+DOMAIN-SUFFIX,evrasia.rest
+DOMAIN-SUFFIX,fix-price.com
+DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,yandex.com.tr
