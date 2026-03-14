@@ -28,7 +28,7 @@ DOMAIN,ipv6.rer.lol
 DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
-DOMAIN,node01.madtia.cc
+DOMAIN,node01.torrentonline.cc
 DOMAIN,node01.trackerstatus.live
 DOMAIN,node02.madtia.cc
 DOMAIN,ns575949.ip-51-222-82.net
@@ -52,7 +52,6 @@ DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,torrentvpn.club
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.cili001.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
@@ -83,6 +82,8 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.huadongblower.xyz
+DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
@@ -91,7 +92,6 @@ DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
-DOMAIN,tracker.novy.vip
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -112,6 +112,7 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yggleak.top
@@ -129,4 +130,3 @@ DOMAIN,udp1.torrust-tracker-demo.com
 DOMAIN,utracker.ghostchu-services.top
 DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
-DOMAIN,www.wareztorrent.com
