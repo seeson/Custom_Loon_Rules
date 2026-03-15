@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 408
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4846
-# TOTAL: 5263
+# DOMAIN-SUFFIX: 4850
+# TOTAL: 5267
 
 DOMAIN,activate.activation-v2.kaspersky.com
 DOMAIN,activation-v2.geo.kaspersky.com
@@ -1072,6 +1072,7 @@ DOMAIN-SUFFIX,beisenapp.com
 DOMAIN-SUFFIX,beisencloud.com
 DOMAIN-SUFFIX,beisenpaas.com
 DOMAIN-SUFFIX,beitaichufang.com
+DOMAIN-SUFFIX,bemanicn.com
 DOMAIN-SUFFIX,bendibao.com
 DOMAIN-SUFFIX,benfuip.com
 DOMAIN-SUFFIX,bengbeng.com
@@ -1247,6 +1248,7 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cczq.com
 DOMAIN-SUFFIX,cczq.net
 DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,cdkeynogap.com
 DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,cdn30.org
@@ -4794,6 +4796,7 @@ DOMAIN-SUFFIX,xbiao.com
 DOMAIN-SUFFIX,xcsc.com
 DOMAIN-SUFFIX,xdqtech.com
 DOMAIN-SUFFIX,xdrig.com
+DOMAIN-SUFFIX,xdrtc.com
 DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,xdwan.com
 DOMAIN-SUFFIX,xedge.cc
@@ -5141,6 +5144,7 @@ DOMAIN-SUFFIX,zdnscloud.info
 DOMAIN-SUFFIX,zdnscloud.net
 DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zeekrlife.com
+DOMAIN-SUFFIX,zgbk.com
 DOMAIN-SUFFIX,zgcbank.com
 DOMAIN-SUFFIX,zggqzp.com
 DOMAIN-SUFFIX,zgjm.org
