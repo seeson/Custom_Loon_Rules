@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 123
-# TOTAL: 123
+# DOMAIN: 126
+# TOTAL: 126
 
 DOMAIN,004430.xyz
 DOMAIN,1337.abcvg.info
@@ -113,8 +113,10 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
+DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yggleak.top
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.myporn.club
@@ -126,5 +128,6 @@ DOMAIN,uabits.today
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,udp1.torrust-tracker-demo.com
 DOMAIN,utracker.ghostchu-services.top
+DOMAIN,wepzone.net
 DOMAIN,wolf.parrot.run
 DOMAIN,www.all4nothin.net

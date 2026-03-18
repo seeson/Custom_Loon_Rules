@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4199
-# TOTAL: 4199
+# DOMAIN-SUFFIX: 4200
+# TOTAL: 4200
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,9news.com.au
 DOMAIN-SUFFIX,a-normal-day.com
 DOMAIN-SUFFIX,a248.e.akamai.net
 DOMAIN-SUFFIX,aamacau.com
+DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,abebooks.co.uk
