@@ -1,10 +1,11 @@
 # NAME: category-acg
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-20 07:22:00
-# TOTAL: 8
-# DOMAIN-SUFFIX: 8
+# UPDATED: 2026-03-21 07:20:58
+# TOTAL: 9
+# DOMAIN-SUFFIX: 9
 
+DOMAIN-SUFFIX,bestdori.com
 DOMAIN-SUFFIX,colorfulstage.com
 DOMAIN-SUFFIX,lapriere.jp
 DOMAIN-SUFFIX,magicalmirai.com

@@ -1,19 +1,19 @@
 # NAME: category-cryptocurrency
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-20 07:22:06
+# UPDATED: 2026-03-21 07:21:05
 # TOTAL: 184
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 178
 
-DOMAIN,onekey.zendesk.com
 DOMAIN,deribit.cdn.prismic.io
-DOMAIN,bybit-exchange.github.io
-DOMAIN,bybit.ada.support
+DOMAIN,onekey.zendesk.com
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-DOMAIN-SUFFIX,huobitoken.com
-DOMAIN-SUFFIX,binancecnt.com
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+DOMAIN-SUFFIX,localbitcoins.com
+DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,bingx.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitcoin.org
@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,cryptomus.com
 DOMAIN-SUFFIX,curve.fi
-DOMAIN-SUFFIX,kraken.onl
+DOMAIN-SUFFIX,nexo.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,dydx.exchange
@@ -72,25 +72,6 @@ DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,zapper.fi
-DOMAIN-SUFFIX,onekey-asset.com
-DOMAIN-SUFFIX,onekey.so
-DOMAIN-SUFFIX,onekeycn.com
-DOMAIN-SUFFIX,trustwallet.com
-DOMAIN-SUFFIX,wyndlabs.ai
-DOMAIN-SUFFIX,wynd.network
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx-dns.com
-DOMAIN-SUFFIX,okx-dns1.com
-DOMAIN-SUFFIX,okx-dns2.com
-DOMAIN-SUFFIX,okx.cab
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,coinonecore.com
-DOMAIN-SUFFIX,coinonecorp.com
-DOMAIN-SUFFIX,deribit.com
-DOMAIN-SUFFIX,devcon.org
-DOMAIN-SUFFIX,ethereum.foundation
-DOMAIN-SUFFIX,ethereum.org
-DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
@@ -100,19 +81,52 @@ DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,huobi.sc
 DOMAIN-SUFFIX,huobiasia.vip
 DOMAIN-SUFFIX,huobigroup.com
-DOMAIN-SUFFIX,osl.com
-DOMAIN-SUFFIX,aave.com
-DOMAIN-SUFFIX,cyberx.com
+DOMAIN-SUFFIX,huobitoken.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp
+DOMAIN-SUFFIX,deribit.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
-DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,osl.com
+DOMAIN-SUFFIX,bitsquare.io
+DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,nexo.io
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com
+DOMAIN-SUFFIX,asproex.com
+DOMAIN-SUFFIX,asproexapi.com
+DOMAIN-SUFFIX,straitsx.com
+DOMAIN-SUFFIX,coinonecore.com
+DOMAIN-SUFFIX,coinonecorp.com
+DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,ethereum.foundation
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,zb.app
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,localbitcoinschain.com
+DOMAIN-SUFFIX,zb.io
+DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
-DOMAIN-SUFFIX,straitsx.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.co
 DOMAIN-SUFFIX,binance.com
@@ -122,7 +136,7 @@ DOMAIN-SUFFIX,binance.net
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.vision
-DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,binancezh.be
 DOMAIN-SUFFIX,binancezh.biz
 DOMAIN-SUFFIX,binancezh.cc
@@ -149,24 +163,6 @@ DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.io
-DOMAIN-SUFFIX,bisq.io
-DOMAIN-SUFFIX,bisq.network
-DOMAIN-SUFFIX,bitsquare.io
-DOMAIN-SUFFIX,redotpay.com
-DOMAIN-SUFFIX,localbitcoinschain.com
-DOMAIN-SUFFIX,localbitcoins.com
-DOMAIN-SUFFIX,gateio.services
-DOMAIN-SUFFIX,gateio.live
-DOMAIN-SUFFIX,gateimg.com
-DOMAIN-SUFFIX,gatedata.org
-DOMAIN-SUFFIX,zb.app
-DOMAIN-SUFFIX,zb.com
-DOMAIN-SUFFIX,zb.io
-DOMAIN-SUFFIX,zb.live
-DOMAIN-SUFFIX,asproex.com
-DOMAIN-SUFFIX,asproexapi.com
-DOMAIN-SUFFIX,bitflyer.com
-DOMAIN-SUFFIX,bitflyer.jp
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bytick.com
@@ -181,7 +177,11 @@ DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,bybit-global.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybitglobal.com
-DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bisq.io
+DOMAIN-SUFFIX,wynd.network
+DOMAIN-SUFFIX,wyndlabs.ai
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
 DOMAIN-SUFFIX,redotpay.zendesk.com
