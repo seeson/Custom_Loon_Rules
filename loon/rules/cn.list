@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 408
-# DOMAIN-SUFFIX: 117802
-# TOTAL: 118210
+# DOMAIN-SUFFIX: 117801
+# TOTAL: 118209
 
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
@@ -74931,7 +74931,6 @@ DOMAIN-SUFFIX,okk123.com
 DOMAIN-SUFFIX,okki.com
 DOMAIN-SUFFIX,okktee.com
 DOMAIN-SUFFIX,oklaapp.com
-DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,oklinklink.com
 DOMAIN-SUFFIX,okmao.com
 DOMAIN-SUFFIX,okmart.com
