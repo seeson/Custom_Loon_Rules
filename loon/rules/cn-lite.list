@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 408
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4850
-# TOTAL: 5267
+# DOMAIN-SUFFIX: 4854
+# TOTAL: 5271
 
 DOMAIN,activate.activation-v2.kaspersky.com
 DOMAIN,activation-v2.geo.kaspersky.com
@@ -3047,6 +3047,8 @@ DOMAIN-SUFFIX,jxedt.com
 DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,jxlog.istreamsche.com
 DOMAIN-SUFFIX,jxpp.com
+DOMAIN-SUFFIX,jyeoo.com
+DOMAIN-SUFFIX,jyeoo.net
 DOMAIN-SUFFIX,jyimg.com
 DOMAIN-SUFFIX,jzfz.net
 DOMAIN-SUFFIX,jzsec.com
@@ -4804,6 +4806,7 @@ DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,xf-fund.com
 DOMAIN-SUFFIX,xfdown.com
 DOMAIN-SUFFIX,xhaiwai.com
+DOMAIN-SUFFIX,xhby.net
 DOMAIN-SUFFIX,xhlsgs.com
 DOMAIN-SUFFIX,xhostfire.com
 DOMAIN-SUFFIX,xhscdn.com
@@ -5122,6 +5125,7 @@ DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yytcdn.com
+DOMAIN-SUFFIX,yzwb.net
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,z-bank.com
 DOMAIN-SUFFIX,z.ai
