@@ -1,10 +1,12 @@
 # NAME: category-proxy-tunnels
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-25 07:24:23
-# TOTAL: 14
-# DOMAIN-SUFFIX: 14
+# UPDATED: 2026-03-26 07:27:30
+# TOTAL: 16
+# DOMAIN-SUFFIX: 16
 
+DOMAIN-SUFFIX,equinox.io
+DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,ngrok-free.pizza

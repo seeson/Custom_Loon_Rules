@@ -1,16 +1,16 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-25 07:24:17
-# TOTAL: 142
+# UPDATED: 2026-03-26 07:27:22
+# TOTAL: 143
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 139
+# DOMAIN-SUFFIX: 140
 
 DOMAIN,checkip.amazonaws.com
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,ipgeolocation.io
-DOMAIN-SUFFIX,geojs.io
+DOMAIN-SUFFIX,find-my-ip.net
 DOMAIN-SUFFIX,2ip.ua
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,apiip.net
 DOMAIN-SUFFIX,apivoid.com
 DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,check-host.net
-DOMAIN-SUFFIX,checkip.org
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,checkip.ru
 DOMAIN-SUFFIX,country.is
 DOMAIN-SUFFIX,curlmyip.net
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,dadata.ru
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,extreme-ip-lookup.com
 DOMAIN-SUFFIX,find-my-ip.com
-DOMAIN-SUFFIX,find-my-ip.net
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,findip.net
 DOMAIN-SUFFIX,flagfox.net
 DOMAIN-SUFFIX,fraudguard.io
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,fraudlogix.com
 DOMAIN-SUFFIX,freegeoip.app
 DOMAIN-SUFFIX,freeipapi.com
 DOMAIN-SUFFIX,geodatatool.com
-DOMAIN-SUFFIX,ipfinder.io
+DOMAIN-SUFFIX,geojs.io
 DOMAIN-SUFFIX,geolocation-db.com
 DOMAIN-SUFFIX,geoplugin.com
 DOMAIN-SUFFIX,geoplugin.net
@@ -75,11 +75,11 @@ DOMAIN-SUFFIX,ipcalf.com
 DOMAIN-SUFFIX,ipchicken.com
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ipecho.net
-DOMAIN-SUFFIX,whatismyip.org
+DOMAIN-SUFFIX,ipfind.io
+DOMAIN-SUFFIX,ipfinder.io
+DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,showmyip.com
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ipligence.com
 DOMAIN-SUFFIX,iplocate.io
@@ -110,7 +110,8 @@ DOMAIN-SUFFIX,osint.sh
 DOMAIN-SUFFIX,proxycheck.io
 DOMAIN-SUFFIX,realip.cc
 DOMAIN-SUFFIX,seeip.org
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,showip.net
+DOMAIN-SUFFIX,showmyip.com
 DOMAIN-SUFFIX,showmyipaddress.com
 DOMAIN-SUFFIX,spur.us
 DOMAIN-SUFFIX,sxgeo.city
@@ -121,7 +122,7 @@ DOMAIN-SUFFIX,trustmyip.com
 DOMAIN-SUFFIX,wgetip.com
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whatismyip.net
-DOMAIN-SUFFIX,ipfind.io
+DOMAIN-SUFFIX,whatismyip.org
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,whatismyipaddress.net
 DOMAIN-SUFFIX,whatismyisp.com

@@ -1,17 +1,16 @@
 # NAME: alibaba
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-25 07:23:27
-# TOTAL: 393
-# DOMAIN-SUFFIX: 393
+# UPDATED: 2026-03-26 07:26:14
+# TOTAL: 394
+# DOMAIN-SUFFIX: 394
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
-DOMAIN-SUFFIX,feizhu.cn
-DOMAIN-SUFFIX,alifanyi.com
-DOMAIN-SUFFIX,95095.com
+DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,dayu.com
 DOMAIN-SUFFIX,ali-health.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba-inc.com
@@ -25,10 +24,10 @@ DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabaued.com
 DOMAIN-SUFFIX,alibabausercontent.com
-DOMAIN-SUFFIX,feizhu.com
+DOMAIN-SUFFIX,alifanyi.com
 DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,aliimg.com
-DOMAIN-SUFFIX,alikmd.com
+DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,alimama.cn
 DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,alimebot.com
@@ -61,7 +60,7 @@ DOMAIN-SUFFIX,bcvbw.com
 DOMAIN-SUFFIX,cheng.xin
 DOMAIN-SUFFIX,cloudeagle.cn
 DOMAIN-SUFFIX,damai.cn
-DOMAIN-SUFFIX,dayu.com
+DOMAIN-SUFFIX,xiami.fm
 DOMAIN-SUFFIX,dfkhgj.com
 DOMAIN-SUFFIX,doctoryou.ai
 DOMAIN-SUFFIX,doctoryou.cn
@@ -91,13 +90,12 @@ DOMAIN-SUFFIX,qingtingtrip.com
 DOMAIN-SUFFIX,rexpos.cn
 DOMAIN-SUFFIX,shenjing.com
 DOMAIN-SUFFIX,shuqi.com
-DOMAIN-SUFFIX,ztna-dingtalk.com
+DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,supet.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,ttpod.com
-DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,xin.xin
 DOMAIN-SUFFIX,xinlingshou.cn
 DOMAIN-SUFFIX,yowhale.com
@@ -108,7 +106,7 @@ DOMAIN-SUFFIX,zuodao.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress-media.com
 DOMAIN-SUFFIX,alipayplus.com
-DOMAIN-SUFFIX,fliggy.com
+DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,freshippo.com
 DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hemaos.com
@@ -143,14 +141,17 @@ DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,myquark.cn
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,alitrip.com
-DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,feizhu.cn
+DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,56che.com
-DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,iuynfg.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.fm
-DOMAIN-SUFFIX,xiami.net
+DOMAIN-SUFFIX,alikmd.com
+DOMAIN-SUFFIX,95095.com
+DOMAIN-SUFFIX,alidayu.com
 DOMAIN-SUFFIX,koubei.com
+DOMAIN-SUFFIX,wandoujia.com
+DOMAIN-SUFFIX,wdjimg.com
+DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,zhisheng.com
 DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,goofish.com
@@ -158,18 +159,23 @@ DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,kaolacdn.com
 DOMAIN-SUFFIX,lydaas.cn
 DOMAIN-SUFFIX,lydaas.com
-DOMAIN-SUFFIX,lwurl.to
-DOMAIN-SUFFIX,laiwang.com
-DOMAIN-SUFFIX,dingtalkcloud.com
+DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,uc123.com
 DOMAIN-SUFFIX,lydaas.net
 DOMAIN-SUFFIX,lydass.cn
-DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,lydass.net
-DOMAIN-SUFFIX,cainiao-inc.com
-DOMAIN-SUFFIX,cainiao.com
-DOMAIN-SUFFIX,cainiaoyizhan.com
-DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingtalkcloud.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,ztna-dingtalk.com
 DOMAIN-SUFFIX,doservice.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to
@@ -178,10 +184,9 @@ DOMAIN-SUFFIX,eleme.io
 DOMAIN-SUFFIX,elemecdn.cn
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,elenet.me
-DOMAIN-SUFFIX,uc.cn
-DOMAIN-SUFFIX,uc123.com
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,teambitionapis.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,puata.info
@@ -201,7 +206,7 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudapi.com
-DOMAIN-SUFFIX,alidayu.com
+DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,aligfwaf.com
 DOMAIN-SUFFIX,alikunlun.com
@@ -239,29 +244,25 @@ DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingtalk.cn
-DOMAIN-SUFFIX,dingding.xin
-DOMAIN-SUFFIX,ddurl.to
-DOMAIN-SUFFIX,9game.cn
-DOMAIN-SUFFIX,teambitionapis.com
-DOMAIN-SUFFIX,teambition.net
-DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,gaode.com
-DOMAIN-SUFFIX,25pp.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,anav.com
 DOMAIN-SUFFIX,amapauto.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,acloudrender.com
+DOMAIN-SUFFIX,a-map.vip
+DOMAIN-SUFFIX,a-map.link
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
-DOMAIN-SUFFIX,a-map.link
-DOMAIN-SUFFIX,a-map.vip
-DOMAIN-SUFFIX,acloudrender.com
+DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,oss-cn-huhehaote.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-shenzhen.aliyuncs.com
@@ -312,12 +313,9 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
-DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
-DOMAIN-SUFFIX,ads.uc.cn
-DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
@@ -390,6 +388,9 @@ DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
+DOMAIN-SUFFIX,ads.uc.cn
+DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au

@@ -1,14 +1,14 @@
 # NAME: category-ai-chat-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-25 07:24:01
+# UPDATED: 2026-03-26 07:27:00
 # TOTAL: 130
 # DOMAIN: 21
 # DOMAIN-SUFFIX: 108
 
-DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -25,7 +25,7 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,clipdrop.co
@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,comfyregistry.org
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,lovart.ai
@@ -46,39 +46,39 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,spicywriter.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,clau.de
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudemcpclient.com
-DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,comfyci.org
+DOMAIN-SUFFIX,comfyregistry.org
+DOMAIN-SUFFIX,oystermercury.top
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,elevenlabs.com
-DOMAIN-SUFFIX,elevenlabs.io
-DOMAIN-SUFFIX,youmind.ai
-DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,coderabbit.ai
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
-DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,windsurf.build
 DOMAIN-SUFFIX,windsurf.com
-DOMAIN-SUFFIX,manus.im
-DOMAIN-SUFFIX,manuscdn.com
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,perplexity.com
-DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,cerebras.ai
-DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,youmind.site
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,cohere.ai
-DOMAIN-SUFFIX,poecdn.net
-DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
@@ -90,10 +90,8 @@ DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,oystermercury.top
-DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -101,9 +99,11 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,lpsnmedia.net
-DOMAIN-SUFFIX,liveperson.net
-DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,opal.google.com
 DOMAIN-SUFFIX,jules.google.com
@@ -112,17 +112,17 @@ DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
