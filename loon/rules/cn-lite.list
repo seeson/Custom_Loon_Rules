@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 408
+# DOMAIN: 409
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4854
-# TOTAL: 5271
+# DOMAIN-SUFFIX: 4862
+# TOTAL: 5280
 
 DOMAIN,activate.activation-v2.kaspersky.com
 DOMAIN,activation-v2.geo.kaspersky.com
@@ -97,6 +97,7 @@ DOMAIN,crls.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
+DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,customization-cdn.dell.com
 DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
@@ -808,6 +809,7 @@ DOMAIN-SUFFIX,airchinacargo.com
 DOMAIN-SUFFIX,airguilin.com
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,aiskycn.com
+DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,aitcfw.com
 DOMAIN-SUFFIX,aitransfy.com
 DOMAIN-SUFFIX,aixcoder.com
@@ -897,6 +899,7 @@ DOMAIN-SUFFIX,analog.com
 DOMAIN-SUFFIX,andfx.net
 DOMAIN-SUFFIX,anfensi.com
 DOMAIN-SUFFIX,anhuinews.com
+DOMAIN-SUFFIX,anhuiyun.com
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,animetamashi.com
 DOMAIN-SUFFIX,animetorrents.me
@@ -1665,6 +1668,7 @@ DOMAIN-SUFFIX,ctbcdn.com
 DOMAIN-SUFFIX,ctcdnov.net
 DOMAIN-SUFFIX,ctdcdn.com
 DOMAIN-SUFFIX,ctdns.net
+DOMAIN-SUFFIX,ctdsb.net
 DOMAIN-SUFFIX,ctexcel.ca
 DOMAIN-SUFFIX,ctexcel.com
 DOMAIN-SUFFIX,ctexcel.com.hk
@@ -2665,6 +2669,7 @@ DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,icpcw.com
 DOMAIN-SUFFIX,icplishi.com
 DOMAIN-SUFFIX,ics.design
+DOMAIN-SUFFIX,icswb.com
 DOMAIN-SUFFIX,ictbda.com
 DOMAIN-SUFFIX,idcgcloudcs.com
 DOMAIN-SUFFIX,idcquan.com
@@ -2711,6 +2716,7 @@ DOMAIN-SUFFIX,ihykb.com
 DOMAIN-SUFFIX,ijiandao.com
 DOMAIN-SUFFIX,ijinshan.com
 DOMAIN-SUFFIX,ikafan.com
+DOMAIN-SUFFIX,ikanchai.com
 DOMAIN-SUFFIX,ilanzou.com
 DOMAIN-SUFFIX,ileapcloud.com
 DOMAIN-SUFFIX,im-cc.com
@@ -3104,6 +3110,7 @@ DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,kkzj.com
 DOMAIN-SUFFIX,klpbbs.com
 DOMAIN-SUFFIX,knewone.com
+DOMAIN-SUFFIX,knewsmart.com
 DOMAIN-SUFFIX,kongfz.com
 DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,kookong.com
@@ -4165,6 +4172,7 @@ DOMAIN-SUFFIX,sojump.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,somode.com
+DOMAIN-SUFFIX,sootoo.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,sososnap.com
 DOMAIN-SUFFIX,sou.com
@@ -4324,6 +4332,7 @@ DOMAIN-SUFFIX,teambition.net
 DOMAIN-SUFFIX,teambitionapis.com
 DOMAIN-SUFFIX,tebiefuza.cloud
 DOMAIN-SUFFIX,techo.chat
+DOMAIN-SUFFIX,techwalker.com
 DOMAIN-SUFFIX,tefscloud.com
 DOMAIN-SUFFIX,tefscloud.net
 DOMAIN-SUFFIX,teleows.com
@@ -4836,7 +4845,6 @@ DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
-DOMAIN-SUFFIX,xiaomiflash.com
 DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,xiaomingtaiji.com
 DOMAIN-SUFFIX,xiaomiyoupin.com
@@ -4956,6 +4964,7 @@ DOMAIN-SUFFIX,yccdn.com
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,ycrx360.com
 DOMAIN-SUFFIX,yctdyy.com
+DOMAIN-SUFFIX,ycwb.com
 DOMAIN-SUFFIX,ydamc.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net

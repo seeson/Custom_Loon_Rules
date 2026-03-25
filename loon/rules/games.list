@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 59
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 757
-# TOTAL: 820
+# DOMAIN-SUFFIX: 763
+# TOTAL: 826
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,championshipseriesleague.com
 DOMAIN-SUFFIX,chillingo.com
+DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,clash.com
 DOMAIN-SUFFIX,clashmini.com
 DOMAIN-SUFFIX,clashofclans.com
@@ -392,6 +393,7 @@ DOMAIN-SUFFIX,miiverse.com
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,minecraftforge.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mirrorsedge.com
@@ -413,6 +415,7 @@ DOMAIN-SUFFIX,mythicentertainment.com
 DOMAIN-SUFFIX,mythicentertainment.net
 DOMAIN-SUFFIX,mythicgames.com
 DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,namemc.com
 DOMAIN-SUFFIX,needforspeed.com
 DOMAIN-SUFFIX,needforspeedboost.com
 DOMAIN-SUFFIX,needforspeeddriftkings.com
@@ -428,6 +431,7 @@ DOMAIN-SUFFIX,needforspeedtherun.com
 DOMAIN-SUFFIX,needforspeedtimeattack.com
 DOMAIN-SUFFIX,needforspeedundergroundeast.com
 DOMAIN-SUFFIX,nentindo.net
+DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,newsupermariobrosu.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
@@ -489,6 +493,7 @@ DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,opgg-static.akamaized.net
+DOMAIN-SUFFIX,optifine.net
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,origin.tv
@@ -649,6 +654,7 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,speedhunters.com
 DOMAIN-SUFFIX,speedrun.com
+DOMAIN-SUFFIX,spigotmc.org
 DOMAIN-SUFFIX,splatoon2tournament.com
 DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,spyjinx.com
