@@ -1,9 +1,9 @@
 # NAME: tn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-26 07:29:02
-# TOTAL: 311
-# IP-CIDR: 311
+# UPDATED: 2026-03-27 07:24:40
+# TOTAL: 312
+# IP-CIDR: 312
 
 IP-CIDR,5.62.63.165/32
 IP-CIDR,5.62.63.166/31
@@ -294,6 +294,7 @@ IP-CIDR,2a0a:6044:fb79::/48
 IP-CIDR,2a0a:6044:fb7a::/47
 IP-CIDR,2a0a:6044:fb7c::/46
 IP-CIDR,2a0a:6044:fb80::/45
+IP-CIDR,2a0b:4e07:3:7880::/60
 IP-CIDR,2a0e:ec05:d880::/41
 IP-CIDR,2a0e:ec05:d900::/40
 IP-CIDR,2a0e:ec05:da00::/41
