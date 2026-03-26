@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 128
-# TOTAL: 128
+# DOMAIN: 127
+# TOTAL: 127
 
 DOMAIN,004430.xyz
 DOMAIN,1337.abcvg.info
@@ -17,7 +17,6 @@ DOMAIN,bt.rer.lol
 DOMAIN,bughome.de
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cny.fan
-DOMAIN,colibri.parrot.run
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
@@ -31,6 +30,7 @@ DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,node01.torrentonline.cc
 DOMAIN,node01.trackerstatus.live
+DOMAIN,node02.madtia.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
@@ -45,7 +45,6 @@ DOMAIN,pybittrack.retiolus.net
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,s1130639.ha009.t.mydomain.zone
-DOMAIN,s1130642.ha014.t.mydomain.zone
 DOMAIN,shahidrazi.online
 DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.213891.xyz
@@ -53,19 +52,18 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
-DOMAIN,torrentvpn.club
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr.zukizuki.org
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.xn--1r3au8b.space
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.1h.is
-DOMAIN,tracker.23794.top
+DOMAIN,tracker.7471.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.breizh.pm
@@ -92,6 +90,7 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.moeking.me
+DOMAIN,tracker.mrhei.tech
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.opentorrent.top
