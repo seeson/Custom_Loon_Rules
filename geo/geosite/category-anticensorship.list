@@ -1,11 +1,11 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-27 07:23:45
+# UPDATED: 2026-03-28 07:24:16
 # TOTAL: 95
 # DOMAIN-SUFFIX: 95
 
-DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,lokinet.org
-DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
@@ -48,13 +48,12 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,akasha.world
-DOMAIN-SUFFIX,jorropo.net
-DOMAIN-SUFFIX,ipfs.tech
+DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,ipfs.io
@@ -62,13 +61,11 @@ DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,via0.com
 DOMAIN-SUFFIX,nftstorage.link
-DOMAIN-SUFFIX,ipns.co
-DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,ahmia.fi
-DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,greatfirevpn.com
@@ -77,18 +74,21 @@ DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,freebrowser.org
+DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,softether-download.com
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,applecensorship.com
-DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.best-practice.se
