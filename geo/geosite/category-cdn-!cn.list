@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-28 07:24:19
+# UPDATED: 2026-03-29 07:23:34
 # TOTAL: 190
 # DOMAIN-SUFFIX: 190
 
@@ -9,6 +9,17 @@ DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,cdnjs.com
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net
@@ -78,8 +89,6 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
-DOMAIN-SUFFIX,cdn77.com
-DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cfargotunnel.com
@@ -142,17 +151,8 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,zencdn.net
-DOMAIN-SUFFIX,esm.run
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,delvenetworks.com
-DOMAIN-SUFFIX,limelight.com
-DOMAIN-SUFFIX,lldns.net
-DOMAIN-SUFFIX,llnw-trials.com
-DOMAIN-SUFFIX,llnw.com
-DOMAIN-SUFFIX,llnw.net
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,llnwi.net
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,pagecdn.com
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,quantil.com
@@ -161,8 +161,8 @@ DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,vrcdn.cloud
 DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,vrcdn.video
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,akamai.co.kr
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,accdn.com.cn
