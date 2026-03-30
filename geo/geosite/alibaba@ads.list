@@ -1,7 +1,7 @@
 # NAME: alibaba@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-03-30 07:23:58
+# UPDATED: 2026-03-31 07:27:37
 # TOTAL: 87
 # DOMAIN-SUFFIX: 87
 
@@ -50,15 +50,6 @@ DOMAIN-SUFFIX,statis.api.3g.youku.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
-DOMAIN-SUFFIX,acjs.aliyun.com
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
-DOMAIN-SUFFIX,adash.man.aliyuncs.com
-DOMAIN-SUFFIX,alimama.alicdn.com
-DOMAIN-SUFFIX,atanx.alicdn.com
-DOMAIN-SUFFIX,atanx2.alicdn.com
-DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
-DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
-DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
@@ -68,6 +59,15 @@ DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
+DOMAIN-SUFFIX,acjs.aliyun.com
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,alimama.alicdn.com
+DOMAIN-SUFFIX,atanx.alicdn.com
+DOMAIN-SUFFIX,atanx2.alicdn.com
+DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
+DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
+DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,aaid.umeng.com
