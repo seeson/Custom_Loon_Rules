@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 411
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4862
-# TOTAL: 5282
+# DOMAIN-SUFFIX: 4864
+# TOTAL: 5284
 
 DOMAIN,activate.activation-v2.kaspersky.com
 DOMAIN,activation-v2.geo.kaspersky.com
@@ -3962,6 +3962,7 @@ DOMAIN-SUFFIX,qznovelvod.com
 DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,rainyun.com
 DOMAIN-SUFFIX,raychase.net
 DOMAIN-SUFFIX,razerapi.com
 DOMAIN-SUFFIX,razersynapse.com
@@ -4256,6 +4257,7 @@ DOMAIN-SUFFIX,syxlgame.com
 DOMAIN-SUFFIX,sz-jlc.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,szfw.org
+DOMAIN-SUFFIX,szhdy.com
 DOMAIN-SUFFIX,szhk.com
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,sznews.com
