@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 59
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 763
-# TOTAL: 826
+# DOMAIN-SUFFIX: 774
+# TOTAL: 837
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -385,6 +385,7 @@ DOMAIN-SUFFIX,mariokart8.com
 DOMAIN-SUFFIX,mariosupersluggers.com
 DOMAIN-SUFFIX,masseffect.com
 DOMAIN-SUFFIX,masseffectarchives.com
+DOMAIN-SUFFIX,masteroforion.com
 DOMAIN-SUFFIX,maxis.com
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,miitomo.com
@@ -767,6 +768,8 @@ DOMAIN-SUFFIX,visceralgames.com
 DOMAIN-SUFFIX,vrchat.cloud
 DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,vrchat.net
+DOMAIN-SUFFIX,wargaming.com
+DOMAIN-SUFFIX,wargaming.net
 DOMAIN-SUFFIX,wariolandshakeit.com
 DOMAIN-SUFFIX,wariowarediy.com
 DOMAIN-SUFFIX,warnerbrosgames.com
@@ -774,6 +777,8 @@ DOMAIN-SUFFIX,warthunder.com
 DOMAIN-SUFFIX,wbagora.com
 DOMAIN-SUFFIX,wbgames.com
 DOMAIN-SUFFIX,wbinsights.com
+DOMAIN-SUFFIX,wgcdn.co
+DOMAIN-SUFFIX,wgcrowd.io
 DOMAIN-SUFFIX,wii-u.com
 DOMAIN-SUFFIX,wiifit.com
 DOMAIN-SUFFIX,wiifitu.com
@@ -784,9 +789,15 @@ DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,worldflipper.jp
+DOMAIN-SUFFIX,worldoftanks.com
+DOMAIN-SUFFIX,worldoftanks.eu
 DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.com
+DOMAIN-SUFFIX,wotblitz.com
 DOMAIN-SUFFIX,wow.nosdn.127.net
 DOMAIN-SUFFIX,wowchina.com
+DOMAIN-SUFFIX,wowsblitz.com
 DOMAIN-SUFFIX,wtmobile.com
 DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,xbox.co
