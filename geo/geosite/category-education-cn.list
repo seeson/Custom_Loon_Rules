@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-02 07:29:57
+# UPDATED: 2026-04-03 07:26:47
 # TOTAL: 142
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 139
@@ -26,20 +26,20 @@ DOMAIN-SUFFIX,icourses.cn
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,cnmooc.org
 DOMAIN-SUFFIX,chinesemooc.org
-DOMAIN-SUFFIX,mojidict.com
-DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,yuketang.cn
+DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,liulishuo.com
 DOMAIN-SUFFIX,gfbzb.cn
 DOMAIN-SUFFIX,gfbzb.com
-DOMAIN-SUFFIX,hugecore.net
-DOMAIN-SUFFIX,17zuoye.net
+DOMAIN-SUFFIX,fenbilantian.com
+DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,ncss.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,fenbike.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbi.com
 DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,fbstatic.cn
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 DOMAIN-SUFFIX,91yunxiao.com
@@ -70,7 +70,7 @@ DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
-DOMAIN-SUFFIX,yuketang.cn
+DOMAIN-SUFFIX,yuantiku.com
 DOMAIN-SUFFIX,xir.cn
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com
@@ -79,7 +79,7 @@ DOMAIN-SUFFIX,jyeoo.net
 DOMAIN-SUFFIX,keboyunxiao.com
 DOMAIN-SUFFIX,huatu.com
 DOMAIN-SUFFIX,yudou.cn
-DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,yuansouti.com
 DOMAIN-SUFFIX,llsapp.com
 DOMAIN-SUFFIX,llscdn.com
 DOMAIN-SUFFIX,llsserver.com
@@ -103,11 +103,6 @@ DOMAIN-SUFFIX,ystbds.com
 DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,zjzs.net
-DOMAIN-SUFFIX,cctalk.com
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,yeshj.com
 DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koopass.com
@@ -115,6 +110,19 @@ DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.net
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com
 DOMAIN-SUFFIX,speiyou.com
 DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,xueersi.com
@@ -122,14 +130,6 @@ DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
 DOMAIN-SUFFIX,yuanfudao.com
-DOMAIN-SUFFIX,yuansouti.com
-DOMAIN-SUFFIX,yuantiku.com
-DOMAIN-SUFFIX,fbstatic.cn
-DOMAIN-SUFFIX,fenbi.com
-DOMAIN-SUFFIX,fenbike.cn
-DOMAIN-SUFFIX,fenbike.com
-DOMAIN-SUFFIX,fenbilantian.cn
-DOMAIN-SUFFIX,fenbilantian.com
 DOMAIN-SUFFIX,icve.com.cn
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,chesicc.org.cn
