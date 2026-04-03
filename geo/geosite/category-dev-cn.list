@@ -1,7 +1,7 @@
 # NAME: category-dev-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-03 07:26:45
+# UPDATED: 2026-04-04 07:26:43
 # TOTAL: 123
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 114
@@ -15,8 +15,8 @@ DOMAIN,p6-juejin.byteimg.com
 DOMAIN,p7-juejin.byteimg.com
 DOMAIN,p8-juejin.byteimg.com
 DOMAIN,p9-juejin.byteimg.com
-DOMAIN-SUFFIX,baltamatica.cn
-DOMAIN-SUFFIX,baltamatica.net
+DOMAIN-SUFFIX,nnthink.com
+DOMAIN-SUFFIX,juejin.cn
 DOMAIN-SUFFIX,openvela.com
 DOMAIN-SUFFIX,pingcode.com
 DOMAIN-SUFFIX,tipdm.org
@@ -27,9 +27,9 @@ DOMAIN-SUFFIX,hiascend.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,gneec.com
-DOMAIN-SUFFIX,teachblog.net
+DOMAIN-SUFFIX,baltamatica.com
 DOMAIN-SUFFIX,gneec3.com
-DOMAIN-SUFFIX,sxl.cn
+DOMAIN-SUFFIX,apifox.cn
 DOMAIN-SUFFIX,gneec7.com
 DOMAIN-SUFFIX,harmonyos.com
 DOMAIN-SUFFIX,hikunpeng.cn
@@ -43,9 +43,12 @@ DOMAIN-SUFFIX,hisilicon.com
 DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,huaweiapaas.com
 DOMAIN-SUFFIX,mindspore.cn
-DOMAIN-SUFFIX,phpweblog.net
-DOMAIN-SUFFIX,cppblog.com
-DOMAIN-SUFFIX,cnweblog.com
+DOMAIN-SUFFIX,baltamatica.net
+DOMAIN-SUFFIX,baltamatica.cn
+DOMAIN-SUFFIX,sxlcdn.cn
+DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,asktug.com
 DOMAIN-SUFFIX,pingcap.cn
 DOMAIN-SUFFIX,pingcap.com
@@ -53,8 +56,6 @@ DOMAIN-SUFFIX,tidb.ai
 DOMAIN-SUFFIX,tidb.net
 DOMAIN-SUFFIX,tidbcloud.com
 DOMAIN-SUFFIX,tikv.org
-DOMAIN-SUFFIX,apipost.cn
-DOMAIN-SUFFIX,apipost.net
 DOMAIN-SUFFIX,gitcode.com
 DOMAIN-SUFFIX,gitchat.cn
 DOMAIN-SUFFIX,csdn.net
@@ -67,39 +68,14 @@ DOMAIN-SUFFIX,datasea.cn
 DOMAIN-SUFFIX,codechina.net
 DOMAIN-SUFFIX,gitcode.net
 DOMAIN-SUFFIX,iteye.com
-DOMAIN-SUFFIX,cnitblog.com
 DOMAIN-SUFFIX,mysxl.cn
 DOMAIN-SUFFIX,hiclc.com
-DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,sxl.cn
 DOMAIN-SUFFIX,gneec4.com
-DOMAIN-SUFFIX,sxlcdn.cn
-DOMAIN-SUFFIX,u3d.cn
-DOMAIN-SUFFIX,unity.cn
-DOMAIN-SUFFIX,unitychina.cn
-DOMAIN-SUFFIX,juejin.cn
-DOMAIN-SUFFIX,juejin.im
-DOMAIN-SUFFIX,xitu.io
-DOMAIN-SUFFIX,ruby-china.org
-DOMAIN-SUFFIX,rubyconfchina.org
-DOMAIN-SUFFIX,dengguobi.com
-DOMAIN-SUFFIX,houyicaiji.com
-DOMAIN-SUFFIX,jinglingbiaozhu.com
-DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,apifox.com
 DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,tracup.com
 DOMAIN-SUFFIX,frontjs.com
-DOMAIN-SUFFIX,segmentfault.com
-DOMAIN-SUFFIX,sifou.com
-DOMAIN-SUFFIX,openkylin.top
-DOMAIN-SUFFIX,ubuntukylin.com
-DOMAIN-SUFFIX,aixcoder.com
-DOMAIN-SUFFIX,nnthink.com
-DOMAIN-SUFFIX,aardio.com
-DOMAIN-SUFFIX,jinrishici.com
-DOMAIN-SUFFIX,baltamatica.com
-DOMAIN-SUFFIX,blogjava.net
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,qq.design
 DOMAIN-SUFFIX,qqgamedesign.com
@@ -114,18 +90,42 @@ DOMAIN-SUFFIX,weui.io
 DOMAIN-SUFFIX,cnb.cool
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
-DOMAIN-SUFFIX,apifox.cn
-DOMAIN-SUFFIX,apifox.com
-DOMAIN-SUFFIX,baltamatica.org.cn
-DOMAIN-SUFFIX,programmer.com.cn
+DOMAIN-SUFFIX,u3d.cn
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,unitychina.cn
+DOMAIN-SUFFIX,aixcoder.com
+DOMAIN-SUFFIX,aardio.com
+DOMAIN-SUFFIX,jinrishici.com
+DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,xitu.io
+DOMAIN-SUFFIX,ruby-china.org
+DOMAIN-SUFFIX,rubyconfchina.org
+DOMAIN-SUFFIX,segmentfault.com
+DOMAIN-SUFFIX,sifou.com
+DOMAIN-SUFFIX,openkylin.top
+DOMAIN-SUFFIX,ubuntukylin.com
+DOMAIN-SUFFIX,apipost.cn
+DOMAIN-SUFFIX,apipost.net
+DOMAIN-SUFFIX,blogjava.net
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,cnitblog.com
+DOMAIN-SUFFIX,cnweblog.com
+DOMAIN-SUFFIX,cppblog.com
+DOMAIN-SUFFIX,phpweblog.net
+DOMAIN-SUFFIX,teachblog.net
+DOMAIN-SUFFIX,dengguobi.com
+DOMAIN-SUFFIX,houyicaiji.com
+DOMAIN-SUFFIX,jinglingbiaozhu.com
 DOMAIN-SUFFIX,csdn.net.cn
+DOMAIN-SUFFIX,programmer.net.cn
 DOMAIN-SUFFIX,gneec.com.cn
 DOMAIN-SUFFIX,hikunpeng.com.cn
 DOMAIN-SUFFIX,hisilicon.com.cn
-DOMAIN-SUFFIX,programmer.net.cn
+DOMAIN-SUFFIX,programmer.com.cn
+DOMAIN-SUFFIX,baltamatica.org.cn
+DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
 DOMAIN-SUFFIX,splash-ads.unitychina.cn
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unitychina.cn
-DOMAIN-SUFFIX,badjs.weixinbridge.com
