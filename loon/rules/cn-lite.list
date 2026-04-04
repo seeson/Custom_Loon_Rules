@@ -2,12 +2,13 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 19
+# DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4786
-# TOTAL: 4814
+# DOMAIN-SUFFIX: 4788
+# TOTAL: 4817
 
 DOMAIN,analytics.strava.com
+DOMAIN,cdn.angruo.com
 DOMAIN,cdn.lilyemby.com
 DOMAIN,client.amplifi.com
 DOMAIN,ctdsb.clouddiffuse.xyz
@@ -3073,6 +3074,7 @@ DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,mobsdks.com
+DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,mofang.com
 DOMAIN-SUFFIX,mofazhu.com
 DOMAIN-SUFFIX,mogoo.com
@@ -4783,6 +4785,7 @@ DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,zsxq.com
 DOMAIN-SUFFIX,zszq.com
 DOMAIN-SUFFIX,zt-express.com
+DOMAIN-SUFFIX,ztedevices.com
 DOMAIN-SUFFIX,ztemall.com
 DOMAIN-SUFFIX,ztems.com
 DOMAIN-SUFFIX,ztfsec.com
