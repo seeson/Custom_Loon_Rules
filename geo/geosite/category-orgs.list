@@ -1,11 +1,12 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-05 07:23:21
+# UPDATED: 2026-04-06 07:26:21
 # TOTAL: 130
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 120
 
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -15,7 +16,6 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -30,17 +30,31 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,ppy.sh
-DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com
-DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,fdroid.org
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
+DOMAIN-SUFFIX,csis.org
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la
 DOMAIN-SUFFIX,attestation.app
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
@@ -119,20 +133,6 @@ DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
-DOMAIN-SUFFIX,openmaps.org
-DOMAIN-SUFFIX,openstreetmap.com
-DOMAIN-SUFFIX,openstreetmap.net
-DOMAIN-SUFFIX,openstreetmap.org
-DOMAIN-SUFFIX,openstreetmaps.org
-DOMAIN-SUFFIX,osm.org
-DOMAIN-SUFFIX,osmfoundation.org
-DOMAIN-SUFFIX,stateofthemap.com
-DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,rolfoundation.org
-DOMAIN-SUFFIX,rolsociety.org
-DOMAIN-SUFFIX,ccstatic.org
-DOMAIN-SUFFIX,creativecommons.org
-DOMAIN-SUFFIX,creativecommons.engineering
-DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,csis.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,ppy.sh
