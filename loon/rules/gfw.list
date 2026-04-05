@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4206
-# TOTAL: 4206
+# DOMAIN-SUFFIX: 4210
+# TOTAL: 4210
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -243,6 +243,7 @@ DOMAIN-SUFFIX,appsocks.net
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
@@ -985,6 +986,7 @@ DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dns.cloudflare.com
+DOMAIN-SUFFIX,dns.sb
 DOMAIN-SUFFIX,dns2go.com
 DOMAIN-SUFFIX,dnscrypt.org
 DOMAIN-SUFFIX,dnssec.net
@@ -995,6 +997,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerstatus.com
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,documentingreality.com
+DOMAIN-SUFFIX,doh.sb
 DOMAIN-SUFFIX,dolc.de
 DOMAIN-SUFFIX,dolf.org.hk
 DOMAIN-SUFFIX,dongtaiwang.com
@@ -1002,6 +1005,7 @@ DOMAIN-SUFFIX,dongtaiwang.net
 DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,doosho.com
 DOMAIN-SUFFIX,doourbest.org
+DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dotplane.com
 DOMAIN-SUFFIX,dotsub.com
 DOMAIN-SUFFIX,dotvpn.com
