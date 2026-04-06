@@ -1,48 +1,22 @@
 # NAME: category-companies@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-06 07:26:03
-# TOTAL: 90
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 88
+# UPDATED: 2026-04-07 07:27:49
+# TOTAL: 125
+# DOMAIN: 29
+# DOMAIN-SUFFIX: 96
 
-DOMAIN-SUFFIX,ads-api.duolingo.com
-DOMAIN-SUFFIX,analytics.vpc.duolingo.com
-DOMAIN-SUFFIX,metrics.duolingo.com
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
+DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,microsoftads.com
-DOMAIN-SUFFIX,msads.net
-DOMAIN-SUFFIX,nelreports.net
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,browser.events.data.msn.cn
-DOMAIN-SUFFIX,browser.events.data.msn.com
-DOMAIN-SUFFIX,bingads.com
-DOMAIN,sentry.hetzner.company
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
 DOMAIN-SUFFIX,qwapi.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,analytics.facebook.com
-DOMAIN-SUFFIX,facebookads.com
-DOMAIN-SUFFIX,pixel.facebook.com
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,snapads.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com
@@ -96,3 +70,64 @@ DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
 DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,adfox.ru
+DOMAIN-SUFFIX,admetrica.ru
+DOMAIN-SUFFIX,ads.yandex
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,yads.tech
+DOMAIN-SUFFIX,yandex-metrica.ru
+DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN,adfox.yandex.ru
+DOMAIN,adfstat.yandex.ru
+DOMAIN,ads.yandex.com
+DOMAIN,ads.yandex.ru
+DOMAIN,adsdk.yandex.ru
+DOMAIN,adv.yandex.com
+DOMAIN,adv.yandex.ru
+DOMAIN,amc.yandex.ru
+DOMAIN,an.yandex.ru
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,api.appmetrica.yandex.ru
+DOMAIN,browser-updater.yandex.net
+DOMAIN,bs.yandex.ru
+DOMAIN,clck.yandex.net
+DOMAIN,clck.yandex.ru
+DOMAIN,counter.yandex.net
+DOMAIN,counter.yandex.ru
+DOMAIN,informer.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.ru
+DOMAIN,metrika.yandex.ru
+DOMAIN,pix.yandex.ru
+DOMAIN,pixel.yandex.net
+DOMAIN,report-partners.appmetrica.yandex.net
+DOMAIN,report.ap.yandex-net.ru
+DOMAIN,report.appmetrica.yandex.net
+DOMAIN,yabs.yandex.ru
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,samsungads.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,microsoftads.com
+DOMAIN-SUFFIX,msads.net
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com

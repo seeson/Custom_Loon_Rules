@@ -1,12 +1,19 @@
 # NAME: category-medicine-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-06 07:26:18
-# TOTAL: 5
-# DOMAIN-SUFFIX: 5
+# UPDATED: 2026-04-07 07:27:59
+# TOTAL: 12
+# DOMAIN-SUFFIX: 12
 
+DOMAIN-SUFFIX,klinikabudzdorov.ru
+DOMAIN-SUFFIX,emias.ru
+DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,medsi.com
 DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,medsi.ru
 DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,smartmed.pro
+DOMAIN-SUFFIX,mosgorzdrav.ru
+DOMAIN-SUFFIX,polyclinika.ru
+DOMAIN-SUFFIX,vipmed.ru
+DOMAIN-SUFFIX,lk.emias.mos.ru
