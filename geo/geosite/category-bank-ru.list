@@ -1,14 +1,14 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-07 07:27:47
+# UPDATED: 2026-04-08 07:30:14
 # TOTAL: 100
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 92
 
-DOMAIN,sberpro.vedomosti.ru
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
+DOMAIN,sberpro.vedomosti.ru
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,gazprombank.com
@@ -27,6 +27,24 @@ DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,pochtabank.ru
 DOMAIN-SUFFIX,vtb.ru
+DOMAIN-SUFFIX,bankline.ru
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,dolyame.ru
+DOMAIN-SUFFIX,phoenix-ca.ru
+DOMAIN-SUFFIX,rosbank.ru
+DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-j.ru
+DOMAIN-SUFFIX,t-static.ru
+DOMAIN-SUFFIX,t-technologies.ru
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,tinkoff-group.com
+DOMAIN-SUFFIX,tinkoff.ru
+DOMAIN-SUFFIX,tinkoffjournal.ru
+DOMAIN-SUFFIX,tinsurance.ru
+DOMAIN-SUFFIX,unidraw.io
+DOMAIN-SUFFIX,centraluniversity.ru
+DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,bps-sberbank.by
 DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sber.ru
@@ -80,24 +98,6 @@ DOMAIN-SUFFIX,2gis.ua
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,bankline.ru
-DOMAIN-SUFFIX,cdn-tinkoff.ru
-DOMAIN-SUFFIX,dolyame.ru
-DOMAIN-SUFFIX,phoenix-ca.ru
-DOMAIN-SUFFIX,rosbank.ru
-DOMAIN-SUFFIX,t-bank-app.ru
-DOMAIN-SUFFIX,t-j.ru
-DOMAIN-SUFFIX,t-static.ru
-DOMAIN-SUFFIX,t-technologies.ru
-DOMAIN-SUFFIX,tbank-online.com
-DOMAIN-SUFFIX,tbank.ru
-DOMAIN-SUFFIX,tinkoff-group.com
-DOMAIN-SUFFIX,tinkoff.ru
-DOMAIN-SUFFIX,tinkoffjournal.ru
-DOMAIN-SUFFIX,tinsurance.ru
-DOMAIN-SUFFIX,unidraw.io
-DOMAIN-SUFFIX,centraluniversity.ru
-DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,2gis.com.cy
 DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,sbermarketing.ru

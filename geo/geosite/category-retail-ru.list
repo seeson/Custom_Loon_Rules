@@ -1,9 +1,9 @@
 # NAME: category-retail-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-07 07:28:02
-# TOTAL: 57
-# DOMAIN-SUFFIX: 57
+# UPDATED: 2026-04-08 07:30:28
+# TOTAL: 58
+# DOMAIN-SUFFIX: 58
 
 DOMAIN-SUFFIX,av.ru
 DOMAIN-SUFFIX,auchan.ru
@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,x5.tech
 DOMAIN-SUFFIX,x5club.ru
 DOMAIN-SUFFIX,x5id.ru
 DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5media.ru
 DOMAIN-SUFFIX,x5paket.ru
 DOMAIN-SUFFIX,x5q.ru
 DOMAIN-SUFFIX,x5static.net

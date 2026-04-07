@@ -1,13 +1,13 @@
 # NAME: category-finance@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-07 07:27:54
+# UPDATED: 2026-04-08 07:30:21
 # TOTAL: 6
 # DOMAIN-SUFFIX: 6
 
-DOMAIN-SUFFIX,ifastps.com.cn
 DOMAIN-SUFFIX,cloudru.cn
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,ifastps.com.cn
