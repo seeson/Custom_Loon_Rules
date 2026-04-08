@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 90
-# DOMAIN-SUFFIX: 24743
-# TOTAL: 24833
+# DOMAIN-SUFFIX: 24741
+# TOTAL: 24831
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -14231,7 +14231,6 @@ DOMAIN-SUFFIX,meetandfuck.games
 DOMAIN-SUFFIX,meetandfuckgames.com
 DOMAIN-SUFFIX,meetfasttrack.com
 DOMAIN-SUFFIX,meetsmartbook.com
-DOMAIN-SUFFIX,meetup.com
 DOMAIN-SUFFIX,meetyourdevices.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
@@ -18143,7 +18142,6 @@ DOMAIN-SUFFIX,pyrobot.org
 DOMAIN-SUFFIX,python.com.tw
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
-DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,pzforever.skin
 DOMAIN-SUFFIX,pzforever01.homes
 DOMAIN-SUFFIX,pzhanfor.today
