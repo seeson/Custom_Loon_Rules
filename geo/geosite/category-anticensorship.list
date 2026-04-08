@@ -1,11 +1,11 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-08 07:30:13
+# UPDATED: 2026-04-09 07:31:15
 # TOTAL: 95
 # DOMAIN-SUFFIX: 95
 
-DOMAIN-SUFFIX,citizenlab.ca
+DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,lokinet.org
-DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,v2ray.cool
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
@@ -48,22 +48,22 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
-DOMAIN-SUFFIX,ipfs.tech
-DOMAIN-SUFFIX,akasha.world
-DOMAIN-SUFFIX,vpngate.jp
-DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,ipfs.tech
+DOMAIN-SUFFIX,akasha.world
+DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
+DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,citizenlab.ca
+DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -77,7 +77,8 @@ DOMAIN-SUFFIX,jorropo.net
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,dweb.link
-DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,epicbrowser.com
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,greatfirevpn.com
@@ -88,7 +89,6 @@ DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,applecensorship.com
-DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.best-practice.se
