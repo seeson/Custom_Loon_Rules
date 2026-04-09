@@ -1,9 +1,9 @@
 # NAME: category-ntp
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-09 07:31:31
-# TOTAL: 111
-# DOMAIN: 70
+# UPDATED: 2026-04-10 07:32:18
+# TOTAL: 116
+# DOMAIN: 75
 # DOMAIN-SUFFIX: 41
 
 DOMAIN,time.apple.com
@@ -57,6 +57,11 @@ DOMAIN,ntp4.ntp-servers.net
 DOMAIN,ntp5.ntp-servers.net
 DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.ntp-servers.net
+DOMAIN,ntp.time.nl
+DOMAIN,ntp1.time.nl
+DOMAIN,ntp2.time.nl
+DOMAIN,ntppool1.time.nl
+DOMAIN,ntppool2.time.nl
 DOMAIN-SUFFIX,ntp.se
 DOMAIN-SUFFIX,clock.isc.org
 DOMAIN-SUFFIX,ntp.fiord.ru

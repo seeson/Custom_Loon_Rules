@@ -1,12 +1,14 @@
 # NAME: alibaba@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-09 07:30:44
-# TOTAL: 31
-# DOMAIN-SUFFIX: 31
+# UPDATED: 2026-04-10 07:31:18
+# TOTAL: 33
+# DOMAIN-SUFFIX: 33
 
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,ae-rus.net
+DOMAIN-SUFFIX,aedns.ru
+DOMAIN-SUFFIX,aeplatform.ru
 DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alipay.hk
