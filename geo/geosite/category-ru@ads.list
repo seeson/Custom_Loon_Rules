@@ -1,11 +1,17 @@
 # NAME: category-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-10 07:32:22
+# UPDATED: 2026-04-11 07:28:02
 # TOTAL: 48
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 43
 
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN,clickstream.sberbank.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,ads.yandex
@@ -48,9 +54,3 @@ DOMAIN-SUFFIX,pix.yandex.ru
 DOMAIN-SUFFIX,pixel.yandex.net
 DOMAIN-SUFFIX,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,yabs.yandex.ru
-DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN,clickstream.sberbank.ru
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru

@@ -1,11 +1,11 @@
 # NAME: category-porn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-10 07:32:20
+# UPDATED: 2026-04-11 07:28:01
 # TOTAL: 3
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 1
 
-DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN,ad-channel.diwodiwo.xyz
 DOMAIN,ad-display.diwodiwo.xyz
+DOMAIN-SUFFIX,collector.xhamster.com
