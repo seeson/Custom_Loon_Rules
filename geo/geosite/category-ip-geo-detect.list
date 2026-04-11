@@ -1,12 +1,13 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-11 07:27:57
-# TOTAL: 144
-# DOMAIN: 3
+# UPDATED: 2026-04-12 07:24:54
+# TOTAL: 145
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 141
 
 DOMAIN,checkip.amazonaws.com
+DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,ipgeolocation.io
