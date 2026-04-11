@@ -2,13 +2,14 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:32 CST
-# DOMAIN: 12
-# DOMAIN-SUFFIX: 122
-# TOTAL: 134
+# DOMAIN: 13
+# DOMAIN-SUFFIX: 123
+# TOTAL: 136
 
 DOMAIN,asusrouter.com
 DOMAIN,board.zash.run.place
 DOMAIN,instant.arubanetworks.com
+DOMAIN,local.adguard.org
 DOMAIN,metacubex.github.io
 DOMAIN,metacubexd.pages.dev
 DOMAIN,miwifi.com
@@ -119,6 +120,7 @@ DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,internal
 DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,local

@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4206
-# TOTAL: 4206
+# DOMAIN-SUFFIX: 4207
+# TOTAL: 4207
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3051,6 +3051,7 @@ DOMAIN-SUFFIX,savetibet.org
 DOMAIN-SUFFIX,savetibetstore.org
 DOMAIN-SUFFIX,saveuighur.org
 DOMAIN-SUFFIX,sbme.me
+DOMAIN-SUFFIX,sbti.unun.dev
 DOMAIN-SUFFIX,scache.vzw.com
 DOMAIN-SUFFIX,scache1.vzw.com
 DOMAIN-SUFFIX,scache2.vzw.com
