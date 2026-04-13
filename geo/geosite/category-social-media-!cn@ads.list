@@ -1,13 +1,24 @@
 # NAME: category-social-media-!cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-13 07:26:42
-# TOTAL: 6
-# DOMAIN-SUFFIX: 6
+# UPDATED: 2026-04-14 07:35:51
+# TOTAL: 17
+# DOMAIN-SUFFIX: 17
 
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
 DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,adblogger.vk.com
+DOMAIN-SUFFIX,ads.vk.com
+DOMAIN-SUFFIX,ads.vk.ru
+DOMAIN-SUFFIX,analytics.vk.ru
+DOMAIN-SUFFIX,analytics.vk.com
+DOMAIN-SUFFIX,ms.vk.com
+DOMAIN-SUFFIX,ms.vk.ru
+DOMAIN-SUFFIX,stats.vk-portal.net
+DOMAIN-SUFFIX,target.vk.com
+DOMAIN-SUFFIX,target.vk.ru
