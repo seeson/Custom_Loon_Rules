@@ -1,9 +1,9 @@
 # NAME: category-ecommerce-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-14 07:35:39
-# TOTAL: 36
-# DOMAIN-SUFFIX: 36
+# UPDATED: 2026-04-15 07:36:04
+# TOTAL: 33
+# DOMAIN-SUFFIX: 33
 
 DOMAIN-SUFFIX,ad.ozone.ru
 DOMAIN-SUFFIX,adv.ozon.ru
@@ -16,9 +16,6 @@ DOMAIN-SUFFIX,new-adv.ozon.ru
 DOMAIN-SUFFIX,prodvizhenie-adv.ozon.ru
 DOMAIN-SUFFIX,questions-adv.ozon.ru
 DOMAIN-SUFFIX,sentry.ozon.ru
-DOMAIN-SUFFIX,tracking.ocourier.ru
-DOMAIN-SUFFIX,tracking.ozon-dostavka.ru
-DOMAIN-SUFFIX,tracking.ozon.ru
 DOMAIN-SUFFIX,xapi.ozon.by
 DOMAIN-SUFFIX,xapi.ozon.com
 DOMAIN-SUFFIX,xapi.ozon.com.by
