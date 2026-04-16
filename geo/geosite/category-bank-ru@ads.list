@@ -1,16 +1,17 @@
 # NAME: category-bank-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-16 07:35:05
+# UPDATED: 2026-04-17 07:33:14
 # TOTAL: 9
-# DOMAIN-SUFFIX: 9
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 4
 
-DOMAIN-SUFFIX,neon.click
-DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN-SUFFIX,error-tracking.megamarket.tech
-DOMAIN-SUFFIX,metrics.21-school.ru
-DOMAIN-SUFFIX,sentry.sberauto.com
-DOMAIN-SUFFIX,tracing-http.megamarket.tech
-DOMAIN-SUFFIX,visor.sberbank.ru
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru

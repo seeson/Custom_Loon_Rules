@@ -1,10 +1,10 @@
 # NAME: category-travel-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-16 07:35:22
-# TOTAL: 20
+# UPDATED: 2026-04-17 07:33:31
+# TOTAL: 24
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 13
+# DOMAIN-SUFFIX: 17
 
 DOMAIN,bilet.nspk.ru
 DOMAIN,metro.spb.ru
@@ -16,11 +16,15 @@ DOMAIN,taxi.yandex.ru
 DOMAIN-SUFFIX,blablacar.ru
 DOMAIN-SUFFIX,avtovokzaly.ru
 DOMAIN-SUFFIX,ostrovok.ru
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,sber.ru
 DOMAIN-SUFFIX,gorodpay.ru
 DOMAIN-SUFFIX,rrtp.ru
 DOMAIN-SUFFIX,rzd-bonus.ru
 DOMAIN-SUFFIX,rzd.ru
 DOMAIN-SUFFIX,tutu.ru
+DOMAIN-SUFFIX,fasten.ru
 DOMAIN-SUFFIX,avs.io
 DOMAIN-SUFFIX,aviasales.ru
 DOMAIN-SUFFIX,aviasales.com
