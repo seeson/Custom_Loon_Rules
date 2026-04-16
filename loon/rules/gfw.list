@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4195
-# TOTAL: 4195
+# DOMAIN-SUFFIX: 4196
+# TOTAL: 4196
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -297,6 +297,7 @@ DOMAIN-SUFFIX,avdb.tv
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avidemux.org
+DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,avmo.pw
 DOMAIN-SUFFIX,avmoo.pw
 DOMAIN-SUFFIX,avoision.com
