@@ -1,12 +1,11 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-18 07:31:48
+# UPDATED: 2026-04-19 07:27:15
 # TOTAL: 130
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 120
 
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -16,6 +15,7 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -46,13 +46,6 @@ DOMAIN-SUFFIX,grapheneos.page
 DOMAIN-SUFFIX,grapheneos.social
 DOMAIN-SUFFIX,seamlessupdate.app
 DOMAIN-SUFFIX,vanadium.app
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,ccstatic.org
-DOMAIN-SUFFIX,creativecommons.org
-DOMAIN-SUFFIX,creativecommons.engineering
-DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ieee.tv
 DOMAIN-SUFFIX,tryengineering.org
@@ -126,6 +119,13 @@ DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
 DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,ppy.sh
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
+DOMAIN-SUFFIX,csis.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,emojipedia.org
