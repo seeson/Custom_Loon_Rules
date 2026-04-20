@@ -1,16 +1,18 @@
 # NAME: category-retail-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-20 07:28:26
-# TOTAL: 72
+# UPDATED: 2026-04-21 07:36:10
+# TOTAL: 78
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 68
+# DOMAIN-SUFFIX: 74
 
 DOMAIN,mvideo.edna.io
 DOMAIN-SUFFIX,av.ru
 DOMAIN-SUFFIX,auchan.ru
+DOMAIN-SUFFIX,audiohead.ru
 DOMAIN-SUFFIX,bristol.ru
 DOMAIN-SUFFIX,detmir.ru
+DOMAIN-SUFFIX,coolera.ru
 DOMAIN-SUFFIX,dixy.ru
 DOMAIN-SUFFIX,dodois.com
 DOMAIN-SUFFIX,dodois.io
@@ -18,13 +20,17 @@ DOMAIN-SUFFIX,dodopizza.com
 DOMAIN-SUFFIX,dodopizza.ru
 DOMAIN-SUFFIX,dodostatic.net
 DOMAIN-SUFFIX,dostaevsky.ru
+DOMAIN-SUFFIX,doctorhead.ru
 DOMAIN-SUFFIX,evrasia.rest
 DOMAIN-SUFFIX,vkusnoitochka.ru
 DOMAIN-SUFFIX,fix-price.com
+DOMAIN-SUFFIX,lamoda.ru
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
 DOMAIN-SUFFIX,metro-cc.ru
+DOMAIN-SUFFIX,notik.ru
 DOMAIN-SUFFIX,krasnoeibeloe.ru
+DOMAIN-SUFFIX,regard.ru
 DOMAIN-SUFFIX,rostics.ru
 DOMAIN-SUFFIX,uni.rest
 DOMAIN-SUFFIX,unirest.tech
@@ -33,10 +39,6 @@ DOMAIN-SUFFIX,myspar.ru
 DOMAIN-SUFFIX,sushiwok.ru
 DOMAIN-SUFFIX,winelab.ru
 DOMAIN-SUFFIX,vkusvill.ru
-DOMAIN-SUFFIX,kazanexpress.ru
-DOMAIN-SUFFIX,magnit.com
-DOMAIN-SUFFIX,magnit.ru
-DOMAIN-SUFFIX,mm.ru
 DOMAIN-SUFFIX,acmvid.com
 DOMAIN-SUFFIX,mvideo.ru
 DOMAIN-SUFFIX,oskelly.co
@@ -75,6 +77,10 @@ DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,x5w.ru
 DOMAIN-SUFFIX,sokolov.io
 DOMAIN-SUFFIX,sokolov.ru
+DOMAIN-SUFFIX,kazanexpress.ru
+DOMAIN-SUFFIX,magnit.com
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru
 DOMAIN,ads.x5.ru
 DOMAIN,ads.x5media.ru
 DOMAIN,sentry.x5.ru
