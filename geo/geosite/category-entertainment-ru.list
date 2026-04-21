@@ -1,7 +1,7 @@
 # NAME: category-entertainment-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-21 07:35:57
+# UPDATED: 2026-04-22 07:28:46
 # TOTAL: 25
 # DOMAIN-SUFFIX: 25
 
@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,beeline.tv
-DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
@@ -20,13 +20,13 @@ DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,ivi.ru
-DOMAIN-SUFFIX,rtbcdn.ru
-DOMAIN-SUFFIX,okkoapi.tv
-DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,wink.ru
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
