@@ -1,10 +1,10 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-24 07:38:06
-# TOTAL: 151
-# DOMAIN: 6
-# DOMAIN-SUFFIX: 145
+# UPDATED: 2026-04-25 07:34:06
+# TOTAL: 153
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 146
 
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyndns.org
@@ -12,6 +12,7 @@ DOMAIN,checkip.dyn.com
 DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
+DOMAIN,whatismyip.akamai.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,2ip.ua
@@ -19,9 +20,9 @@ DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,apiip.net
 DOMAIN-SUFFIX,apivoid.com
-DOMAIN-SUFFIX,bigdatacloud.net
+DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,check-host.net
-DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,checkip.ru
 DOMAIN-SUFFIX,country.is
 DOMAIN-SUFFIX,curlmyip.net
@@ -50,7 +51,7 @@ DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifconfig.es
 DOMAIN-SUFFIX,ifconfig.io
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ip-adress.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-api.io
@@ -82,11 +83,11 @@ DOMAIN-SUFFIX,ipecho.net
 DOMAIN-SUFFIX,ipfind.io
 DOMAIN-SUFFIX,ipfinder.io
 DOMAIN-SUFFIX,ipgeolocation.io
-DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,iplocate.io
+DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,ipligence.com
-DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocation.com
 DOMAIN-SUFFIX,iplocation.io
 DOMAIN-SUFFIX,iplocation.net
@@ -148,6 +149,7 @@ DOMAIN-SUFFIX,my.ipinfo.app
 DOMAIN-SUFFIX,ip.hetzner.com
 DOMAIN-SUFFIX,ip.mail.ru
 DOMAIN-SUFFIX,ip.nic.ru
+DOMAIN-SUFFIX,ip.pe.kr
 DOMAIN-SUFFIX,ip.tyk.nu
 DOMAIN-SUFFIX,ipgeo.vercel.app
 DOMAIN-SUFFIX,ipv4-internet.yandex.net
