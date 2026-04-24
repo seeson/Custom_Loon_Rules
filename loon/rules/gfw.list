@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4203
-# TOTAL: 4203
+# DOMAIN-SUFFIX: 4204
+# TOTAL: 4204
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -3352,6 +3352,7 @@ DOMAIN-SUFFIX,tbsec.org
 DOMAIN-SUFFIX,tbsn.org
 DOMAIN-SUFFIX,tbssqh.org
 DOMAIN-SUFFIX,teachparentstech.org
+DOMAIN-SUFFIX,techbang.com
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techviz.net
 DOMAIN-SUFFIX,teck.in
