@@ -1,7 +1,7 @@
 # NAME: category-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-26 07:30:02
+# UPDATED: 2026-04-27 07:31:45
 # TOTAL: 184
 # DOMAIN: 122
 # DOMAIN-SUFFIX: 62
@@ -12,6 +12,17 @@ DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,saas-support.com
 DOMAIN-SUFFIX,targetads.io
 DOMAIN-SUFFIX,whitesaas.com
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -45,36 +56,6 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
-DOMAIN-SUFFIX,e.mindbox.ru
-DOMAIN-SUFFIX,g.mindbox.ru
-DOMAIN-SUFFIX,s.mindbox.ru
-DOMAIN,api-js.mindbox.ru
-DOMAIN,api-ru.mindbox.cloud
-DOMAIN,api-staging.mindbox.ru
-DOMAIN,api.mindbox.cloud
-DOMAIN,api.mindbox.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
-DOMAIN-SUFFIX,ads.sber.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN-SUFFIX,neon.click
-DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,metrics.21-school.ru
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru
-DOMAIN,api-eu.carrotquest.app
-DOMAIN,api-eu.carrotquest.io
-DOMAIN,api-ru.carrotquest.app
-DOMAIN,api-ru.carrotquest.io
-DOMAIN,api-secure.carrotquest.app
-DOMAIN,api-secure.carrottrack.app
-DOMAIN,api.carrotquest.app
-DOMAIN,api.carrotquest.io
-DOMAIN,api.carrottrack.app
-DOMAIN,api.dashly.app
-DOMAIN,api.dashlytrack.app
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN-SUFFIX,adsadvisor.io
@@ -185,8 +166,27 @@ DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,pixel.yandex.com
 DOMAIN,report.ap.yandex-net.ru
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
 DOMAIN,ads.x5.ru
 DOMAIN,ads.x5media.ru
 DOMAIN,sentry.x5.ru
