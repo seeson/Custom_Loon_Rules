@@ -1,7 +1,7 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-04-27 07:31:00
+# UPDATED: 2026-04-28 07:43:24
 # TOTAL: 290
 # DOMAIN: 229
 # DOMAIN-SUFFIX: 61
@@ -263,18 +263,6 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud.cn
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn
-DOMAIN-SUFFIX,apple-itunes.cn
-DOMAIN-SUFFIX,itunes-apple.cn
-DOMAIN-SUFFIX,itunesapple.cn
-DOMAIN-SUFFIX,itunesradio.cn
-DOMAIN-SUFFIX,itunesradio.com.cn
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.cn
@@ -296,3 +284,15 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn
+DOMAIN-SUFFIX,apple-itunes.cn
+DOMAIN-SUFFIX,itunes-apple.cn
+DOMAIN-SUFFIX,itunesapple.cn
+DOMAIN-SUFFIX,itunesradio.cn
+DOMAIN-SUFFIX,itunesradio.com.cn
