@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 137
-# TOTAL: 137
+# DOMAIN: 138
+# TOTAL: 138
 
 DOMAIN,004430.xyz
 DOMAIN,0123456789nonexistent.com
@@ -13,11 +13,11 @@ DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 DOMAIN,admin.52ywp.com
 DOMAIN,archive.torrentonline.cc
-DOMAIN,asiatorrent.giize.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.poletracker.org
 DOMAIN,bt1.archive.org
+DOMAIN,bt2.archive.org
 DOMAIN,buny.uk
 DOMAIN,bvarf.tracker.sh
 DOMAIN,coeus.torrentonline.cc
@@ -32,7 +32,6 @@ DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
-DOMAIN,obey.torrentonline.cc
 DOMAIN,open.demonii.com
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
@@ -50,13 +49,13 @@ DOMAIN,share.hkg-fansub.info
 DOMAIN,shubt.net
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
+DOMAIN,torrent.bowed.net
 DOMAIN,torrent.hificode.in
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.abir.ga
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -78,7 +77,6 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
-DOMAIN,tracker.exe.in.th
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
@@ -123,6 +121,7 @@ DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker.yggleak.top
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
+DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
 DOMAIN,tracker2.dler.org
@@ -131,9 +130,11 @@ DOMAIN,tracker3.ctix.cn
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
+DOMAIN,trackthis.cyber.pz.it
 DOMAIN,uabits.today
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,udp1.torrust-tracker-demo.com
+DOMAIN,utracker.ghostchu-services.top
 DOMAIN,vito-tracker.duckdns.org
 DOMAIN,vito-tracker.space
 DOMAIN,whybother.torrentonline.cc
