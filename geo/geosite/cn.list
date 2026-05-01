@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-01 07:43:47
-# TOTAL: 116126
-# DOMAIN-SUFFIX: 116126
+# UPDATED: 2026-05-02 07:44:07
+# TOTAL: 116125
+# DOMAIN-SUFFIX: 116125
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,jscj.com
-DOMAIN-SUFFIX,chayeo.com
+DOMAIN-SUFFIX,auspous.com
 DOMAIN-SUFFIX,027cloud.com
 DOMAIN-SUFFIX,027eat.com
 DOMAIN-SUFFIX,027g3nkf40.com
@@ -13568,7 +13568,7 @@ DOMAIN-SUFFIX,ausner.net
 DOMAIN-SUFFIX,ausnutria.com
 DOMAIN-SUFFIX,ausny.com
 DOMAIN-SUFFIX,ausperbio.com
-DOMAIN-SUFFIX,auspous.com
+DOMAIN-SUFFIX,jsjeda.com
 DOMAIN-SUFFIX,aussino.net
 DOMAIN-SUFFIX,austargroup.com
 DOMAIN-SUFFIX,austarstudy.com
@@ -13660,7 +13660,7 @@ DOMAIN-SUFFIX,av-ic.com
 DOMAIN-SUFFIX,av199.com
 DOMAIN-SUFFIX,av2.me
 DOMAIN-SUFFIX,av269.com
-DOMAIN-SUFFIX,jsjgbxg.com
+DOMAIN-SUFFIX,av380.net
 DOMAIN-SUFFIX,avadairy.com
 DOMAIN-SUFFIX,avalon233.com
 DOMAIN-SUFFIX,avanpa.com
@@ -21188,7 +21188,7 @@ DOMAIN-SUFFIX,chaxunjiao.com
 DOMAIN-SUFFIX,chayanfamily.com
 DOMAIN-SUFFIX,chayangge.com
 DOMAIN-SUFFIX,chaye.com
-DOMAIN-SUFFIX,jsjfz.com
+DOMAIN-SUFFIX,chayeo.com
 DOMAIN-SUFFIX,chayu.com
 DOMAIN-SUFFIX,chayueshebao.com
 DOMAIN-SUFFIX,chayuqing.com
@@ -58088,11 +58088,11 @@ DOMAIN-SUFFIX,jsjd.cc
 DOMAIN-SUFFIX,jsjdgy.com
 DOMAIN-SUFFIX,jsjdjt.com
 DOMAIN-SUFFIX,jsjdrcb.com
-DOMAIN-SUFFIX,jsjdzf.com
-DOMAIN-SUFFIX,jsjeda.com
-DOMAIN-SUFFIX,loorin.com
+DOMAIN-SUFFIX,nyzdjj.com
 DOMAIN-SUFFIX,027chx.com
-DOMAIN-SUFFIX,av380.net
+DOMAIN-SUFFIX,yswebportal.cc
+DOMAIN-SUFFIX,jsjfz.com
+DOMAIN-SUFFIX,jsjgbxg.com
 DOMAIN-SUFFIX,jsjgtz.com
 DOMAIN-SUFFIX,jsjhtz.com
 DOMAIN-SUFFIX,jsjiami.com
@@ -65018,7 +65018,7 @@ DOMAIN-SUFFIX,loonlog.com
 DOMAIN-SUFFIX,looooker.com
 DOMAIN-SUFFIX,loooooong.com
 DOMAIN-SUFFIX,looquan.com
-DOMAIN-SUFFIX,jsjffj.com
+DOMAIN-SUFFIX,loorin.com
 DOMAIN-SUFFIX,loovee.com
 DOMAIN-SUFFIX,looyuoms.com
 DOMAIN-SUFFIX,looyush.com
@@ -73292,7 +73292,7 @@ DOMAIN-SUFFIX,nyxr-home.com
 DOMAIN-SUFFIX,nyxx365.com
 DOMAIN-SUFFIX,nyxz166.com
 DOMAIN-SUFFIX,nyyfy.com
-DOMAIN-SUFFIX,nyzdjj.com
+DOMAIN-SUFFIX,jsjdzf.com
 DOMAIN-SUFFIX,nyzy.com
 DOMAIN-SUFFIX,nz86.com
 DOMAIN-SUFFIX,nz998.com
@@ -108640,7 +108640,6 @@ DOMAIN-SUFFIX,yodao.info
 DOMAIN-SUFFIX,yodao.net
 DOMAIN-SUFFIX,yodao.org
 DOMAIN-SUFFIX,yodiya.com
-DOMAIN-SUFFIX,yodo1.com
 DOMAIN-SUFFIX,yodo1api.com
 DOMAIN-SUFFIX,yodou.com
 DOMAIN-SUFFIX,yoduzw.com
@@ -109504,7 +109503,7 @@ DOMAIN-SUFFIX,ysug.com
 DOMAIN-SUFFIX,ysupan.com
 DOMAIN-SUFFIX,ysw1950.com
 DOMAIN-SUFFIX,ysw68.com
-DOMAIN-SUFFIX,yswebportal.cc
+DOMAIN-SUFFIX,jsjffj.com
 DOMAIN-SUFFIX,yswh.com
 DOMAIN-SUFFIX,yswlgame.com
 DOMAIN-SUFFIX,yswswkj.com

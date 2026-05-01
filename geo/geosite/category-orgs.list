@@ -1,7 +1,7 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-01 07:43:33
+# UPDATED: 2026-05-02 07:43:46
 # TOTAL: 130
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 120
@@ -30,10 +30,6 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
-DOMAIN-SUFFIX,ccstatic.org
-DOMAIN-SUFFIX,creativecommons.org
-DOMAIN-SUFFIX,creativecommons.engineering
-DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ieee.tv
 DOMAIN-SUFFIX,tryengineering.org
@@ -99,9 +95,10 @@ DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,osmfoundation.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,rolfoundation.org
-DOMAIN-SUFFIX,rolsociety.org
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,emojipedia.org
 DOMAIN-SUFFIX,worldemojiawards.com
@@ -127,6 +124,8 @@ DOMAIN-SUFFIX,grapheneos.page
 DOMAIN-SUFFIX,grapheneos.social
 DOMAIN-SUFFIX,seamlessupdate.app
 DOMAIN-SUFFIX,vanadium.app
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,ppy.sh
 DOMAIN-SUFFIX,acousticbrainz.org
 DOMAIN-SUFFIX,bookbrainz.org
 DOMAIN-SUFFIX,coverartarchive.org
@@ -135,4 +134,5 @@ DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,musicbrainz.org
-DOMAIN-SUFFIX,ppy.sh
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
