@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 25293
-# TOTAL: 25387
+# DOMAIN-SUFFIX: 25294
+# TOTAL: 25388
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -20155,6 +20155,7 @@ DOMAIN-SUFFIX,softbankusa.net
 DOMAIN-SUFFIX,softbankventuresasia.com
 DOMAIN-SUFFIX,softbankworld.com
 DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,softether.co.jp
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,softmodels.net
