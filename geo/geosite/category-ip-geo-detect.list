@@ -1,10 +1,10 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-04 07:36:29
-# TOTAL: 153
+# UPDATED: 2026-05-05 07:44:13
+# TOTAL: 154
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 146
+# DOMAIN-SUFFIX: 147
 
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyndns.org
@@ -13,16 +13,16 @@ DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN,whatismyip.akamai.com
-DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,2ip.ua
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,apiip.net
 DOMAIN-SUFFIX,apivoid.com
-DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,check-host.net
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,checkip.ru
 DOMAIN-SUFFIX,country.is
 DOMAIN-SUFFIX,curlmyip.net
@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,getipintel.net
 DOMAIN-SUFFIX,greip.io
 DOMAIN-SUFFIX,hackertarget.com
 DOMAIN-SUFFIX,httpbin.org
+DOMAIN-SUFFIX,i.pn
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,ifconfig.co
@@ -65,7 +66,7 @@ DOMAIN-SUFFIX,ip2location.com
 DOMAIN-SUFFIX,ip2location.io
 DOMAIN-SUFFIX,ip2ruscity.com
 DOMAIN-SUFFIX,ip4.me
-DOMAIN-SUFFIX,ip6.me
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,ip6only.me
 DOMAIN-SUFFIX,ip8.com
 DOMAIN-SUFFIX,ipaddr.site
@@ -82,10 +83,10 @@ DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ipecho.net
 DOMAIN-SUFFIX,ipfind.io
 DOMAIN-SUFFIX,ipfinder.io
-DOMAIN-SUFFIX,ipgeolocation.io
-DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,proxycheck.io
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,bigdatacloud.net
+DOMAIN-SUFFIX,ip6.me
+DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ipligence.com
 DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocation.com
@@ -116,7 +117,7 @@ DOMAIN-SUFFIX,myiplookup.com
 DOMAIN-SUFFIX,mylocation.org
 DOMAIN-SUFFIX,nodedata.io
 DOMAIN-SUFFIX,osint.sh
-DOMAIN-SUFFIX,proxycheck.io
+DOMAIN-SUFFIX,ipgeolocation.io
 DOMAIN-SUFFIX,realip.cc
 DOMAIN-SUFFIX,seeip.org
 DOMAIN-SUFFIX,showip.net
