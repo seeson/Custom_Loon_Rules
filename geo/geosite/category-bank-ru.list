@@ -1,7 +1,7 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-06 07:40:48
+# UPDATED: 2026-05-07 07:41:31
 # TOTAL: 235
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 227
@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
 DOMAIN-SUFFIX,sberfactoring.ru
 DOMAIN-SUFFIX,sberindex.ru
-DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sberhealth.ru
 DOMAIN-SUFFIX,sberleasing.ru
@@ -61,7 +61,7 @@ DOMAIN-SUFFIX,sbermegamarket.ru
 DOMAIN-SUFFIX,sbermobile.ru
 DOMAIN-SUFFIX,sberpb.ru
 DOMAIN-SUFFIX,sbertroika.ru
-DOMAIN-SUFFIX,2gis.tj
+DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,cloud.ru
 DOMAIN-SUFFIX,cloudru.cn
@@ -75,13 +75,13 @@ DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
-DOMAIN-SUFFIX,2gis.kg
-DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sberbankaktivno.ru
-DOMAIN-SUFFIX,2gis.ru
-DOMAIN-SUFFIX,2gis.ge
+DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2gis.tj
 DOMAIN-SUFFIX,jivochat.de
 DOMAIN-SUFFIX,jivochat.es
 DOMAIN-SUFFIX,jivochat.ng
@@ -104,10 +104,6 @@ DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
-DOMAIN-SUFFIX,okkoapi.tv
-DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,2gis.cz
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.az
@@ -115,6 +111,10 @@ DOMAIN-SUFFIX,2gis.by
 DOMAIN-SUFFIX,2gis.com
 DOMAIN-SUFFIX,2gis.tech
 DOMAIN-SUFFIX,2gis.am
+DOMAIN-SUFFIX,2gis.ge
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,prodcontest.com
 DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,centraluniversity.ru
@@ -224,11 +224,11 @@ DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,travel-tec.ru
 DOMAIN-SUFFIX,unidraw.io
+DOMAIN-SUFFIX,jivochat.co.in
 DOMAIN-SUFFIX,jivochat.com.br
 DOMAIN-SUFFIX,jivochat.com.co
-DOMAIN-SUFFIX,2gis.com.cy
-DOMAIN-SUFFIX,jivochat.co.in
 DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,2gis.com.cy
 DOMAIN-SUFFIX,jivochat.com.pe
 DOMAIN-SUFFIX,jivochat.com.tr
 DOMAIN-SUFFIX,alfabank.oavdo.amc
