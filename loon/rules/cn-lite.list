@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 20
+# DOMAIN: 22
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4892
-# TOTAL: 4921
+# DOMAIN-SUFFIX: 4894
+# TOTAL: 4925
 
 DOMAIN,analytics.strava.com
 DOMAIN,cdn.angruo.com
@@ -14,6 +14,8 @@ DOMAIN,client.amplifi.com
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,download.jetbrains.com
 DOMAIN,download.microsoft.com
+DOMAIN,end-api.shallow.ink
+DOMAIN,end.shallow.ink
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,izattime.qcomgeo2.com
@@ -580,6 +582,7 @@ DOMAIN-SUFFIX,awemeugsoul.com
 DOMAIN-SUFFIX,awemeugwave.com
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,awstme.top
+DOMAIN-SUFFIX,azz.net
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,b2byao.com
 DOMAIN-SUFFIX,b3log.org
@@ -2173,6 +2176,7 @@ DOMAIN-SUFFIX,huoshanvod.com
 DOMAIN-SUFFIX,huoshanxiaoshipin.net
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,huoshanzhibo.net
+DOMAIN-SUFFIX,huotan.net
 DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,hupucdn.com
 DOMAIN-SUFFIX,hupun.com
