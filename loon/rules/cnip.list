@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:26 CST
-# IP-CIDR: 8669
-# TOTAL: 8669
+# IP-CIDR: 8680
+# TOTAL: 8680
 
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -7295,6 +7295,15 @@ IP-CIDR6,2400:cb80:e30::/44,no-resolve
 IP-CIDR6,2400:cb80:e40::/44,no-resolve
 IP-CIDR6,2400:da00::/32,no-resolve
 IP-CIDR6,2400:dd00::/28,no-resolve
+IP-CIDR6,2400:e3e0:aa00::/40,no-resolve
+IP-CIDR6,2400:e3e0:ab00::/41,no-resolve
+IP-CIDR6,2400:e3e0:ab80::/43,no-resolve
+IP-CIDR6,2400:e3e0:aba0::/44,no-resolve
+IP-CIDR6,2400:e3e0:abb0::/47,no-resolve
+IP-CIDR6,2400:e3e0:abb3::/48,no-resolve
+IP-CIDR6,2400:e3e0:abb4::/46,no-resolve
+IP-CIDR6,2400:e3e0:abb8::/45,no-resolve
+IP-CIDR6,2400:e3e0:abc0::/42,no-resolve
 IP-CIDR6,2400:e680::/32,no-resolve
 IP-CIDR6,2400:ee00::/32,no-resolve
 IP-CIDR6,2400:f6e0::/32,no-resolve
@@ -7444,8 +7453,6 @@ IP-CIDR6,2402:840:d000::/46,no-resolve
 IP-CIDR6,2402:840:e000::/46,no-resolve
 IP-CIDR6,2402:840:f000::/38,no-resolve
 IP-CIDR6,2402:8bc0::/32,no-resolve
-IP-CIDR6,2402:8cc0:200::/40,no-resolve
-IP-CIDR6,2402:8cc0::/40,no-resolve
 IP-CIDR6,2402:92c0::/48,no-resolve
 IP-CIDR6,2402:93c0:100::/48,no-resolve
 IP-CIDR6,2402:93c0:20::/48,no-resolve
@@ -7666,6 +7673,7 @@ IP-CIDR6,2406:840:fec4::/48,no-resolve
 IP-CIDR6,2406:840:feca::/47,no-resolve
 IP-CIDR6,2406:840:fecf::/48,no-resolve
 IP-CIDR6,2406:840:fed1::/48,no-resolve
+IP-CIDR6,2406:840:fed7::/48,no-resolve
 IP-CIDR6,2406:840:fed8::/48,no-resolve
 IP-CIDR6,2406:840:fedb::/48,no-resolve
 IP-CIDR6,2406:840:fedc::/48,no-resolve
@@ -8476,6 +8484,7 @@ IP-CIDR6,240e:a00::/23,no-resolve
 IP-CIDR6,240e:c00::/22,no-resolve
 IP-CIDR6,2602:f92a:a46d::/48,no-resolve
 IP-CIDR6,2602:f92a:a46f::/48,no-resolve
+IP-CIDR6,2602:f92a:a47d::/48,no-resolve
 IP-CIDR6,2602:f9ba:10c::/48,no-resolve
 IP-CIDR6,2602:f9ba:a8::/48,no-resolve
 IP-CIDR6,2602:f9f6:450::/48,no-resolve
@@ -8593,6 +8602,7 @@ IP-CIDR6,2a0f:6284:4c60::/44,no-resolve
 IP-CIDR6,2a0f:6284:4c80::/43,no-resolve
 IP-CIDR6,2a0f:6284:4ca0::/44,no-resolve
 IP-CIDR6,2a0f:6284:4cd0::/44,no-resolve
+IP-CIDR6,2a0f:7802:e111::/48,no-resolve
 IP-CIDR6,2a0f:7803:e300::/40,no-resolve
 IP-CIDR6,2a0f:85c1:bfe::/48,no-resolve
 IP-CIDR6,2a0f:9400:6110::/48,no-resolve
@@ -8664,6 +8674,7 @@ IP-CIDR6,2a14:7586:6107::/48,no-resolve
 IP-CIDR6,2a14:7586:6110::/48,no-resolve
 IP-CIDR6,2a14:7586:6300::/44,no-resolve
 IP-CIDR6,2a14:7dc0:506::/48,no-resolve
+IP-CIDR6,2a14:c380:21::/48,no-resolve
 IP-CIDR6,2c0f:f7a8:8011::/48,no-resolve
 IP-CIDR6,2c0f:f7a8:8050::/48,no-resolve
 IP-CIDR6,2c0f:f7a8:805f::/48,no-resolve
