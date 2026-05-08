@@ -1,42 +1,42 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-08 07:44:48
+# UPDATED: 2026-05-09 07:47:49
 # TOTAL: 97
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 95
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,marscode.cn
 DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,tapnow.top
-DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,api-building.fun
 DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
-DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,pixeldance.com
 DOMAIN-SUFFIX,tongyi.com
-DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-SUFFIX,picpic-ai.cn
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zhipuai.cn
-DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,obricclouddw.com
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
-DOMAIN-SUFFIX,miaibox.com
-DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,obriccloud.com
+DOMAIN-SUFFIX,oceancloudapi.com
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,n.cn
@@ -53,10 +53,27 @@ DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,safeskill.cn
 DOMAIN-SUFFIX,zhiexa.com
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,cozetest.cn
+DOMAIN-SUFFIX,doudou.com
+DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,liblib.cloud
-DOMAIN-SUFFIX,cozefn.cn
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,myparallelstory.com
+DOMAIN-SUFFIX,maoxiangai.com
+DOMAIN-SUFFIX,mcdemo.show
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,coze-dns-01.com
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.email
 DOMAIN-SUFFIX,coze.site
@@ -65,10 +82,10 @@ DOMAIN-SUFFIX,cozebaas.cn
 DOMAIN-SUFFIX,cozebuild.com
 DOMAIN-SUFFIX,cozecdn.com
 DOMAIN-SUFFIX,cozedeploy.com
-DOMAIN-SUFFIX,coze-dns-01.com
+DOMAIN-SUFFIX,cozefn.cn
 DOMAIN-SUFFIX,cozeide.cn
 DOMAIN-SUFFIX,cozesdk.com
-DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,cozetest.cn
 DOMAIN-SUFFIX,cozetest2.cn
 DOMAIN-SUFFIX,cozetest3.cn
 DOMAIN-SUFFIX,dbbuilding.fun
@@ -78,26 +95,9 @@ DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
-DOMAIN-SUFFIX,maoxiangai.com
-DOMAIN-SUFFIX,myparallelstory.com
-DOMAIN-SUFFIX,oceancloudapi.com
-DOMAIN-SUFFIX,obriccloud.com
-DOMAIN-SUFFIX,obricclouddw.com
-DOMAIN-SUFFIX,picpic-ai.cn
-DOMAIN-SUFFIX,pixeldance.com
-DOMAIN-SUFFIX,api-building.fun
-DOMAIN-SUFFIX,doudou.com
-DOMAIN-SUFFIX,marscode.cn
-DOMAIN-SUFFIX,mcbaas.work
-DOMAIN-SUFFIX,mcdemo.show
-DOMAIN-SUFFIX,mchost.guru
-DOMAIN-SUFFIX,mcprev.cn
-DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,trae.cn
-DOMAIN-SUFFIX,trae.guru
-DOMAIN-SUFFIX,yuanqi.tencent.com
-DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yiyan.baidu.com

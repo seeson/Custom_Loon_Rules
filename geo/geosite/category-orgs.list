@@ -1,11 +1,12 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-08 07:45:03
+# UPDATED: 2026-05-09 07:48:10
 # TOTAL: 131
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 121
 
+DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh
 DOMAIN,c.ppy.sh
@@ -15,7 +16,6 @@ DOMAIN,lazer.ppy.sh
 DOMAIN,notify.ppy.sh
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
-DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,aomedia.org
 DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
@@ -31,6 +31,39 @@ DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
 DOMAIN-SUFFIX,wto.org
+DOMAIN-SUFFIX,attestation.app
+DOMAIN-SUFFIX,grapheneos.app
+DOMAIN-SUFFIX,grapheneos.ca
+DOMAIN-SUFFIX,grapheneos.com
+DOMAIN-SUFFIX,grapheneos.dev
+DOMAIN-SUFFIX,grapheneos.foundation
+DOMAIN-SUFFIX,grapheneos.info
+DOMAIN-SUFFIX,grapheneos.net
+DOMAIN-SUFFIX,grapheneos.network
+DOMAIN-SUFFIX,grapheneos.online
+DOMAIN-SUFFIX,grapheneos.org
+DOMAIN-SUFFIX,grapheneos.ovh
+DOMAIN-SUFFIX,grapheneos.page
+DOMAIN-SUFFIX,grapheneos.social
+DOMAIN-SUFFIX,seamlessupdate.app
+DOMAIN-SUFFIX,vanadium.app
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,csis.org
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la
 DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
@@ -104,36 +137,3 @@ DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,creativecommons.engineering
 DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,csis.org
-DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com
-DOMAIN-SUFFIX,xn--yt8h.la
-DOMAIN-SUFFIX,attestation.app
-DOMAIN-SUFFIX,grapheneos.app
-DOMAIN-SUFFIX,grapheneos.ca
-DOMAIN-SUFFIX,grapheneos.com
-DOMAIN-SUFFIX,grapheneos.dev
-DOMAIN-SUFFIX,grapheneos.foundation
-DOMAIN-SUFFIX,grapheneos.info
-DOMAIN-SUFFIX,grapheneos.net
-DOMAIN-SUFFIX,grapheneos.network
-DOMAIN-SUFFIX,grapheneos.online
-DOMAIN-SUFFIX,grapheneos.org
-DOMAIN-SUFFIX,grapheneos.ovh
-DOMAIN-SUFFIX,grapheneos.page
-DOMAIN-SUFFIX,grapheneos.social
-DOMAIN-SUFFIX,seamlessupdate.app
-DOMAIN-SUFFIX,vanadium.app
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-DOMAIN-SUFFIX,openmaps.org
-DOMAIN-SUFFIX,openstreetmap.com
-DOMAIN-SUFFIX,openstreetmap.net
-DOMAIN-SUFFIX,openstreetmap.org
-DOMAIN-SUFFIX,openstreetmaps.org
-DOMAIN-SUFFIX,osm.org
-DOMAIN-SUFFIX,osmfoundation.org
-DOMAIN-SUFFIX,stateofthemap.com
-DOMAIN-SUFFIX,stateofthemap.org
-DOMAIN-SUFFIX,paskoocheh.com
