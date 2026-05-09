@@ -1,14 +1,13 @@
 # NAME: category-gov-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-09 07:48:03
-# TOTAL: 127
-# DOMAIN-SUFFIX: 127
+# UPDATED: 2026-05-10 07:38:54
+# TOTAL: 128
+# DOMAIN-SUFFIX: 128
 
 DOMAIN-SUFFIX,psk
-DOMAIN-SUFFIX,government.ru
-DOMAIN-SUFFIX,gov.ru
-DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,arkhangelsk.ru
+DOMAIN-SUFFIX,marine.ru
 DOMAIN-SUFFIX,gu-st.ru
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,mgfoms.ru
@@ -23,11 +22,12 @@ DOMAIN-SUFFIX,kremlin.ru
 DOMAIN-SUFFIX,mil.ru
 DOMAIN-SUFFIX,nalog.ru
 DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai
+DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai
 DOMAIN-SUFFIX,mos.ru
 DOMAIN-SUFFIX,mosreg.ru
 DOMAIN-SUFFIX,spb.ru
 DOMAIN-SUFFIX,sevastopol.ru
-DOMAIN-SUFFIX,adygeya.ru
+DOMAIN-SUFFIX,astrakhan.ru
 DOMAIN-SUFFIX,bashkiria.ru
 DOMAIN-SUFFIX,buryatia.ru
 DOMAIN-SUFFIX,chuvashia.ru
@@ -62,15 +62,15 @@ DOMAIN-SUFFIX,khv.ru
 DOMAIN-SUFFIX,krasnodar.su
 DOMAIN-SUFFIX,krasnoyarsk.ru
 DOMAIN-SUFFIX,kuban.ru
-DOMAIN-SUFFIX,marine.ru
+DOMAIN-SUFFIX,government.ru
 DOMAIN-SUFFIX,perm.ru
 DOMAIN-SUFFIX,stavropol.ru
 DOMAIN-SUFFIX,stv.ru
 DOMAIN-SUFFIX,vl.ru
 DOMAIN-SUFFIX,vladivostok.ru
-DOMAIN-SUFFIX,amur.ru
-DOMAIN-SUFFIX,arkhangelsk.ru
-DOMAIN-SUFFIX,astrakhan.ru
+DOMAIN-SUFFIX,nsk.ru
+DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,adygeya.ru
 DOMAIN-SUFFIX,belgorod.ru
 DOMAIN-SUFFIX,bir.ru
 DOMAIN-SUFFIX,bryansk.ru
@@ -96,11 +96,12 @@ DOMAIN-SUFFIX,murmansk.ru
 DOMAIN-SUFFIX,nn.ru
 DOMAIN-SUFFIX,nov.ru
 DOMAIN-SUFFIX,novosibirsk.ru
-DOMAIN-SUFFIX,nsk.ru
+DOMAIN-SUFFIX,amur.ru
 DOMAIN-SUFFIX,omsk.ru
 DOMAIN-SUFFIX,orb.ru
 DOMAIN-SUFFIX,oryol.ru
 DOMAIN-SUFFIX,penza.ru
+DOMAIN-SUFFIX,gov.ru
 DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskov.ru
 DOMAIN-SUFFIX,rnd.ru

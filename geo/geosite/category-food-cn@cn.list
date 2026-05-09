@@ -1,0 +1,11 @@
+# NAME: category-food-cn@cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-05-10 07:38:50
+# TOTAL: 4
+# DOMAIN-SUFFIX: 4
+
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdchina.net
+DOMAIN-SUFFIX,mcdonalds.com.cn
