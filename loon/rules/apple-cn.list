@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
-# DOMAIN: 18
-# DOMAIN-SUFFIX: 225
-# TOTAL: 243
+# DOMAIN: 24
+# DOMAIN-SUFFIX: 221
+# TOTAL: 245
 
 DOMAIN,cdn-cn.apple-mapkit.com
 DOMAIN,certs-lb.apple.com.akadns.net
@@ -16,9 +16,15 @@ DOMAIN,fides-pol.apple.com
 DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
 DOMAIN,gspe85-cn-ssl.ls.apple.com
+DOMAIN,icloud-cdn.icloud.com.akadns.net
+DOMAIN,icloud.cdn-apple.com
 DOMAIN,init.gc-lb.apple.com.akadns.net
 DOMAIN,init.gc.apple.com
 DOMAIN,maps.apple.com
+DOMAIN,ocsp-lb.apple.com.akadns.net
+DOMAIN,ocsp2-lb.apple.com.akadns.net
+DOMAIN,pancake.cdn-apple.com.akadns.net
+DOMAIN,reserve-prime.apple.com
 DOMAIN,s1.mzstatic.com
 DOMAIN,s2.mzstatic.com
 DOMAIN,s3.mzstatic.com
@@ -91,6 +97,7 @@ DOMAIN-SUFFIX,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,cl1.apple.com
 DOMAIN-SUFFIX,cl2-cn.apple.com
 DOMAIN-SUFFIX,cl2.apple.com
+DOMAIN-SUFFIX,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,cl3.apple.com
 DOMAIN-SUFFIX,cl4-cdn.origin-apple.com.akadns.net
@@ -117,6 +124,7 @@ DOMAIN-SUFFIX,faceshift.cn
 DOMAIN-SUFFIX,gs-loc-cn.apple.com
 DOMAIN-SUFFIX,gs-loc.apple.com
 DOMAIN-SUFFIX,gsp10-ssl-cn.ls.apple.com
+DOMAIN-SUFFIX,gsp11-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp12-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp13-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com
@@ -137,8 +145,6 @@ DOMAIN-SUFFIX,guzzoni.smoot.apple.com
 DOMAIN-SUFFIX,homepod.cn
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
-DOMAIN-SUFFIX,icloud.cdn-apple.com
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
@@ -185,22 +191,18 @@ DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,ml.cdn-apple.com
 DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp.apple.com
-DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,pancake.apple.com
-DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,pba0.apple.com
 DOMAIN-SUFFIX,probe.siri.apple.com
 DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
 DOMAIN-SUFFIX,publicassets.cdn-apple.com
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,reserve-prime.apple.com
 DOMAIN-SUFFIX,s.mzstatic.com
 DOMAIN-SUFFIX,seed-sequoia.siri.apple.com
 DOMAIN-SUFFIX,seed-swallow.siri.apple.com

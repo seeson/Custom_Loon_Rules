@@ -2,14 +2,13 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 22
+# DOMAIN: 19
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 4894
-# TOTAL: 4925
+# DOMAIN-SUFFIX: 4902
+# TOTAL: 4930
 
 DOMAIN,analytics.strava.com
 DOMAIN,cdn.angruo.com
-DOMAIN,cdn.lilyemby.com
 DOMAIN,client.amplifi.com
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,download.jetbrains.com
@@ -21,11 +20,9 @@ DOMAIN,ip.istatmenus.app
 DOMAIN,izattime.qcomgeo2.com
 DOMAIN,ntservicepack.microsoft.com
 DOMAIN,origin-a.akamaihd.ne
-DOMAIN,smart.uhdnow.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net
-DOMAIN,tx.lilyemby.com
 DOMAIN,weixin.com
 DOMAIN,www.yxssp.com
 DOMAIN,xtratime.qcomgeo2.com
@@ -2021,6 +2018,7 @@ DOMAIN-SUFFIX,hdcmct.org
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hdfimg.com
 DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdlcdns.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,hdyxgame.com
@@ -2192,6 +2190,7 @@ DOMAIN-SUFFIX,hwcloudvis.com
 DOMAIN-SUFFIX,hwocloud.com
 DOMAIN-SUFFIX,hwshu.com
 DOMAIN-SUFFIX,hwtrip.com
+DOMAIN-SUFFIX,hwwt8.com
 DOMAIN-SUFFIX,hxcdn.net
 DOMAIN-SUFFIX,hxfy888.com
 DOMAIN-SUFFIX,hxsd.com
@@ -2540,7 +2539,6 @@ DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jiazhao.com
 DOMAIN-SUFFIX,jibencaozuo.com
 DOMAIN-SUFFIX,jidian.im
-DOMAIN-SUFFIX,jiedaibao.gs
 DOMAIN-SUFFIX,jiemeng8.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jike.city
@@ -2713,6 +2711,7 @@ DOMAIN-SUFFIX,kingdee.com
 DOMAIN-SUFFIX,kinghomechina.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,kiwa-tech.com
 DOMAIN-SUFFIX,kiyuu.club
 DOMAIN-SUFFIX,kjcdn.com
 DOMAIN-SUFFIX,kjwugx.com
@@ -3044,6 +3043,7 @@ DOMAIN-SUFFIX,mblyun.com
 DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcbang.com
 DOMAIN-SUFFIX,mcbbs.net
+DOMAIN-SUFFIX,mcdchina.net
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mdeer.com
@@ -3190,6 +3190,8 @@ DOMAIN-SUFFIX,muyewx.com
 DOMAIN-SUFFIX,muzhiwan.com
 DOMAIN-SUFFIX,mwcdns.com
 DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,mxbc.com
+DOMAIN-SUFFIX,mxbc.net
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,my4399.com
@@ -3537,6 +3539,7 @@ DOMAIN-SUFFIX,qiyukf.com
 DOMAIN-SUFFIX,qizuang.com
 DOMAIN-SUFFIX,ql1d.com
 DOMAIN-SUFFIX,qm989.com
+DOMAIN-SUFFIX,qmai.com
 DOMAIN-SUFFIX,qmniu.com
 DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
@@ -3730,6 +3733,7 @@ DOMAIN-SUFFIX,shuoshuokong.com
 DOMAIN-SUFFIX,shuqi.com
 DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,shutcm.com
+DOMAIN-SUFFIX,shuxinyc.com
 DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,shzq.com
@@ -4732,6 +4736,7 @@ DOMAIN-SUFFIX,yuelun.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yufuid.com
 DOMAIN-SUFFIX,yufuid.net
+DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yunda56.com
