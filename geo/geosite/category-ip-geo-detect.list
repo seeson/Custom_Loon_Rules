@@ -1,10 +1,10 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-12 07:49:37
-# TOTAL: 157
+# UPDATED: 2026-05-13 07:52:18
+# TOTAL: 159
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 150
+# DOMAIN-SUFFIX: 152
 
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyndns.org
@@ -13,15 +13,15 @@ DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN,whatismyip.akamai.com
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ipaddress.my
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,ip6only.me
 DOMAIN-SUFFIX,2ip.ua
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,apiip.net
 DOMAIN-SUFFIX,apivoid.com
 DOMAIN-SUFFIX,bigdatacloud.net
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,check-host.net
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,checkip.ru
 DOMAIN-SUFFIX,country.is
@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,extreme-ip-lookup.com
 DOMAIN-SUFFIX,find-my-ip.com
 DOMAIN-SUFFIX,find-my-ip.net
 DOMAIN-SUFFIX,findip.net
-DOMAIN-SUFFIX,ipligence.com
+DOMAIN-SUFFIX,flagfox.net
 DOMAIN-SUFFIX,fraudguard.io
 DOMAIN-SUFFIX,fraudlogix.com
 DOMAIN-SUFFIX,freegeoip.app
@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,ifconfig.io
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ip-adress.com
 DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,ip-api.io
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,ip-api.ru
 DOMAIN-SUFFIX,ip-check.info
 DOMAIN-SUFFIX,ip-score.com
@@ -67,16 +67,17 @@ DOMAIN-SUFFIX,ip2location.io
 DOMAIN-SUFFIX,ip2ruscity.com
 DOMAIN-SUFFIX,ip4.me
 DOMAIN-SUFFIX,ip6.me
-DOMAIN-SUFFIX,ip6only.me
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ip8.com
 DOMAIN-SUFFIX,ipaddr.site
 DOMAIN-SUFFIX,ipaddress.com
-DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,ipaddress.my
 DOMAIN-SUFFIX,ipaddress.sh
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipapi.com
 DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,ipbase.com
+DOMAIN-SUFFIX,ipbot.com
 DOMAIN-SUFFIX,ipcalf.com
 DOMAIN-SUFFIX,ipchicken.com
 DOMAIN-SUFFIX,ipdata.co
@@ -85,13 +86,14 @@ DOMAIN-SUFFIX,ipfind.io
 DOMAIN-SUFFIX,ipfinder.io
 DOMAIN-SUFFIX,ipgeolocation.io
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,check-host.net
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,flagfox.net
+DOMAIN-SUFFIX,ip-api.io
+DOMAIN-SUFFIX,ipligence.com
 DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocation.com
 DOMAIN-SUFFIX,iplocation.io
 DOMAIN-SUFFIX,iplocation.net
+DOMAIN-SUFFIX,iplookup.it
 DOMAIN-SUFFIX,ipqualityscore.com
 DOMAIN-SUFFIX,ipquery.io
 DOMAIN-SUFFIX,ipregistry.co

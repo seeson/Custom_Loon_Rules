@@ -1,31 +1,31 @@
 # NAME: 58tongcheng
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-12 07:48:52
-# TOTAL: 39
-# DOMAIN-SUFFIX: 39
+# UPDATED: 2026-05-13 07:51:37
+# TOTAL: 40
+# DOMAIN-SUFFIX: 40
 
-DOMAIN-SUFFIX,chinahr.com
+DOMAIN-SUFFIX,daojia.com
 DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,5858.com
 DOMAIN-SUFFIX,58antenna.cn
 DOMAIN-SUFFIX,58antenna.com
 DOMAIN-SUFFIX,ganjistatic1.com
-DOMAIN-SUFFIX,58che.com
+DOMAIN-SUFFIX,chinahr.com
 DOMAIN-SUFFIX,58control.cn
 DOMAIN-SUFFIX,58corp.com
 DOMAIN-SUFFIX,58dns.org
 DOMAIN-SUFFIX,58lovepet.com
 DOMAIN-SUFFIX,58uxd.com
 DOMAIN-SUFFIX,58v5.cn
-DOMAIN-SUFFIX,daojia.com
+DOMAIN-SUFFIX,58xinghuo.cn
 DOMAIN-SUFFIX,58xinghuo.com
 DOMAIN-SUFFIX,58xueche.com
 DOMAIN-SUFFIX,anjuke.com
-DOMAIN-SUFFIX,anjukestatic.com
-DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,58.com
-DOMAIN-SUFFIX,58xinghuo.cn
+DOMAIN-SUFFIX,58che.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,anjukestatic.com
 DOMAIN-SUFFIX,diandao.org
 DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,sofun.com
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,jxedt.com
 DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,roomeet.cn
+DOMAIN-SUFFIX,58ganji-corp.com
 DOMAIN-SUFFIX,xinchong.com
 DOMAIN-SUFFIX,zhuancorp.com
 DOMAIN-SUFFIX,zhuaninc.com
@@ -41,6 +42,6 @@ DOMAIN-SUFFIX,zhuanspirit.com
 DOMAIN-SUFFIX,chrstatic.com
 DOMAIN-SUFFIX,zhuanzhuan.com
 DOMAIN-SUFFIX,58ganji.com
-DOMAIN-SUFFIX,58ganji-corp.com
+DOMAIN-SUFFIX,xgo-img.com.cn
 DOMAIN-SUFFIX,58.com.cn
 DOMAIN-SUFFIX,58cdn.com.cn

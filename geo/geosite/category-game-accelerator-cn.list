@@ -1,35 +1,35 @@
 # NAME: category-game-accelerator-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-12 07:49:35
-# TOTAL: 44
-# DOMAIN-SUFFIX: 44
+# UPDATED: 2026-05-13 07:52:16
+# TOTAL: 45
+# DOMAIN-SUFFIX: 45
 
 DOMAIN-SUFFIX,funjsq.com
-DOMAIN-SUFFIX,leigod.cn
+DOMAIN-SUFFIX,guaiku.com
 DOMAIN-SUFFIX,leigodjsq.com
-DOMAIN-SUFFIX,benfuip.com
+DOMAIN-SUFFIX,xxghh.biz
 DOMAIN-SUFFIX,leigod.com
 DOMAIN-SUFFIX,ls66.cn
 DOMAIN-SUFFIX,nnbooster.com
 DOMAIN-SUFFIX,nn.com
 DOMAIN-SUFFIX,waifushangcheng.com
 DOMAIN-SUFFIX,tmjiasuqi.com
-DOMAIN-SUFFIX,steam302.xyz
+DOMAIN-SUFFIX,99jiasu.net
 DOMAIN-SUFFIX,xunyou.com
-DOMAIN-SUFFIX,xxghh.biz
+DOMAIN-SUFFIX,xunyou.mobi
 DOMAIN-SUFFIX,bohejiasuqi.com
-DOMAIN-SUFFIX,guaiku.com
+DOMAIN-SUFFIX,biubiu001.com
 DOMAIN-SUFFIX,golink.com
 DOMAIN-SUFFIX,golinkapi.com
-DOMAIN-SUFFIX,golinkcn.com
+DOMAIN-SUFFIX,qiyou.cn
 DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,rmbgame.net
-DOMAIN-SUFFIX,et-api.com
+DOMAIN-SUFFIX,steam302.xyz
+DOMAIN-SUFFIX,benfuip.com
+DOMAIN-SUFFIX,leigod.cn
 DOMAIN-SUFFIX,gangwan.com
-DOMAIN-SUFFIX,xunyou.mobi
-DOMAIN-SUFFIX,biubiu001.com
-DOMAIN-SUFFIX,qiyou.cn
+DOMAIN-SUFFIX,golinkcn.com
 DOMAIN-SUFFIX,htjsq.com
 DOMAIN-SUFFIX,htjsq.mobi
 DOMAIN-SUFFIX,fhyx.com
@@ -47,5 +47,6 @@ DOMAIN-SUFFIX,fnjiasu.com
 DOMAIN-SUFFIX,lorhf.com
 DOMAIN-SUFFIX,oojsq.com
 DOMAIN-SUFFIX,et001.com
-DOMAIN-SUFFIX,uu.163.com
+DOMAIN-SUFFIX,et-api.com
 DOMAIN-SUFFIX,jiasu.bohe.com
+DOMAIN-SUFFIX,uu.163.com
