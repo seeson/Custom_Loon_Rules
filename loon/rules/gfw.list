@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4233
-# TOTAL: 4233
+# DOMAIN-SUFFIX: 4234
+# TOTAL: 4234
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -746,6 +746,7 @@ DOMAIN-SUFFIX,chineseupress.com
 DOMAIN-SUFFIX,chingcheong.com
 DOMAIN-SUFFIX,chinman.net
 DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,chonglangtv.org
 DOMAIN-SUFFIX,chrdnet.com
 DOMAIN-SUFFIX,christianfreedom.org
 DOMAIN-SUFFIX,christianstudy.com
