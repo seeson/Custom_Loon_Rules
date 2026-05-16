@@ -1,12 +1,13 @@
 # NAME: archlinux
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-16 07:45:59
-# TOTAL: 5
-# DOMAIN-SUFFIX: 5
+# UPDATED: 2026-05-17 07:42:12
+# TOTAL: 6
+# DOMAIN-SUFFIX: 6
 
 DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinux.page
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,pkgbuild.com
 DOMAIN-SUFFIX,archlinuxcn.org
