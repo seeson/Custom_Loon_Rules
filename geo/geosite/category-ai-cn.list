@@ -1,14 +1,14 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-18 07:51:52
+# UPDATED: 2026-05-19 07:57:12
 # TOTAL: 98
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 96
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,coze-dns-01.com
 DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,rwkv.cn
@@ -25,18 +25,18 @@ DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,kimi.com
-DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,butterflyai.cn
 DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,xiaomimimo.com
-DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,liblib.art
@@ -54,10 +54,9 @@ DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,safeskill.cn
 DOMAIN-SUFFIX,zhiexa.com
 DOMAIN-SUFFIX,linka2a.net
-DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,liblib.cloud
-DOMAIN-SUFFIX,coze-dns-01.com
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.email
 DOMAIN-SUFFIX,coze.site
@@ -96,9 +95,10 @@ DOMAIN-SUFFIX,mcprev.cn
 DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,trae.guru
-DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
