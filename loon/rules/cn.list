@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 113148
-# TOTAL: 113153
+# DOMAIN-SUFFIX: 113151
+# TOTAL: 113156
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -1694,6 +1694,7 @@ DOMAIN-SUFFIX,12322app.com
 DOMAIN-SUFFIX,123242.com
 DOMAIN-SUFFIX,123245.com
 DOMAIN-SUFFIX,123254.com
+DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123294.com
 DOMAIN-SUFFIX,123295.com
 DOMAIN-SUFFIX,12333.com
@@ -12545,6 +12546,7 @@ DOMAIN-SUFFIX,ant-cloud.net
 DOMAIN-SUFFIX,ant-financial.com
 DOMAIN-SUFFIX,ant-open.com
 DOMAIN-SUFFIX,anta.com
+DOMAIN-SUFFIX,antafu.com
 DOMAIN-SUFFIX,antaiib.com
 DOMAIN-SUFFIX,antairui.net
 DOMAIN-SUFFIX,antangbusiness.com
@@ -79391,6 +79393,7 @@ DOMAIN-SUFFIX,safenext.com
 DOMAIN-SUFFIX,safetyimg.com
 DOMAIN-SUFFIX,safetystatic.com
 DOMAIN-SUFFIX,safetyvod.com
+DOMAIN-SUFFIX,safewk.com
 DOMAIN-SUFFIX,safround.com
 DOMAIN-SUFFIX,sagewc-exp.com
 DOMAIN-SUFFIX,sagigame.net

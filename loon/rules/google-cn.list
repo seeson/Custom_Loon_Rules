@@ -2,44 +2,13 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN: 34
+# DOMAIN: 3
 # DOMAIN-SUFFIX: 119
-# TOTAL: 153
+# TOTAL: 122
 
-DOMAIN,cnappinstall.googleadapis.com
-DOMAIN,content.googleadapis.com
 DOMAIN,crls.pki.goog
-DOMAIN,download.qatp1.net
-DOMAIN,emmapplecodevice.googleapis.com
-DOMAIN,go.corp.google.com
 DOMAIN,i.pki.goog
-DOMAIN,l2-uberproxy.corp.google.com
-DOMAIN,logger-dev.corp.google.com
-DOMAIN,logger.corp.google.com
-DOMAIN,login.corp.google.com
-DOMAIN,monitoring.qpdp1.net
 DOMAIN,o.pki.goog
-DOMAIN,proxyconfig.corp.google.com
-DOMAIN,qagpublic.qatp1.net
-DOMAIN,qgadmin.qcpp1.net
-DOMAIN,qualysapi.qatp1.net
-DOMAIN,qualysguard.qpdp1.net
-DOMAIN,r.cert.corp.google.com
-DOMAIN,rapture-prod.corp.google.com
-DOMAIN,scanservice1.qcpp1.net
-DOMAIN,sslredirect.corp.google.com
-DOMAIN,streaming-uberproxy-rotation.corp.google.com
-DOMAIN,streaming-uberproxy.corp.google.com
-DOMAIN,sup-ssh-relay.corp.google.com
-DOMAIN,sup-ssh-relay2.corp.google.com
-DOMAIN,sup.corp.google.com
-DOMAIN,sup.l.google.com
-DOMAIN,test.gbugs-qa.chromium.org
-DOMAIN,tools.l.google.com
-DOMAIN,uberproxy-debug4.corp.google.com
-DOMAIN,uberproxy.corp.google.com
-DOMAIN,uberproxy6.corp.google.com
-DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
