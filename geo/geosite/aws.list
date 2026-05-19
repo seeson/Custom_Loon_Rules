@@ -1,9 +1,9 @@
 # NAME: aws
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-19 07:56:56
-# TOTAL: 76
-# DOMAIN-SUFFIX: 73
+# UPDATED: 2026-05-20 07:55:41
+# TOTAL: 77
+# DOMAIN-SUFFIX: 74
 
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,awsbraket.com
@@ -57,6 +57,7 @@ DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonwebservices.cn
 DOMAIN-SUFFIX,amazonwebservices.com.cn
 DOMAIN-SUFFIX,amazonworkdocs.cn
 DOMAIN-SUFFIX,amazonworkdocs.com.cn

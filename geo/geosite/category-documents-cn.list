@@ -1,21 +1,29 @@
 # NAME: category-documents-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-19 07:57:17
-# TOTAL: 14
-# DOMAIN-SUFFIX: 14
+# UPDATED: 2026-05-20 07:56:29
+# TOTAL: 22
+# DOMAIN-SUFFIX: 22
 
 DOMAIN-SUFFIX,1ppt.com
 DOMAIN-SUFFIX,360doc.com
+DOMAIN-SUFFIX,51pptmoban.com
 DOMAIN-SUFFIX,51wendang.com
 DOMAIN-SUFFIX,52ppt.com
 DOMAIN-SUFFIX,badou.com
 DOMAIN-SUFFIX,book118.com
+DOMAIN-SUFFIX,daodoc.com
 DOMAIN-SUFFIX,doc88.com
 DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,douding.cn
+DOMAIN-SUFFIX,goldhoe.com
 DOMAIN-SUFFIX,haohaodoc.com
+DOMAIN-SUFFIX,jinchutou.com
 DOMAIN-SUFFIX,lazyer.net
 DOMAIN-SUFFIX,renrendoc.com
+DOMAIN-SUFFIX,safewk.com
+DOMAIN-SUFFIX,taodocs.com
 DOMAIN-SUFFIX,wenkeju.com
+DOMAIN-SUFFIX,wenkub.com
 DOMAIN-SUFFIX,ypppt.com
+DOMAIN-SUFFIX,zhijidoc.com

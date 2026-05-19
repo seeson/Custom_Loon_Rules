@@ -1,23 +1,28 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-19 07:57:12
-# TOTAL: 98
+# UPDATED: 2026-05-20 07:56:19
+# TOTAL: 100
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 96
+# DOMAIN-SUFFIX: 98
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,coze-dns-01.com
-DOMAIN-SUFFIX,n.cn
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,tapnow.top
+DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,qianwen.com
-DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,qwenlm.ai
-DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,antafu.com
+DOMAIN-SUFFIX,antaq.com
+DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
@@ -25,21 +30,18 @@ DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,kimi.com
-DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,diandianlife.top
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
-DOMAIN-SUFFIX,butterfly-static.cn
-DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,cueme.cn
-DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,n.cn
 DOMAIN-SUFFIX,namiso.com
 DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,faxingbao.com
@@ -54,9 +56,12 @@ DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,safeskill.cn
 DOMAIN-SUFFIX,zhiexa.com
 DOMAIN-SUFFIX,linka2a.net
-DOMAIN-SUFFIX,miaibox.com
-DOMAIN-SUFFIX,moonshot.ai
+DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,coze-dns-01.com
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.email
 DOMAIN-SUFFIX,coze.site
@@ -93,14 +98,11 @@ DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mcprev.cn
 DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,trae.cn
-DOMAIN-SUFFIX,trae.guru
-DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,yuanqi.tencent.com
+DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn
-DOMAIN-SUFFIX,hunyuan.tencent.com
-DOMAIN-SUFFIX,yuanqi.tencent.com
-DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
 DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,qianwen.aliyun.com
