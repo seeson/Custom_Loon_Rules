@@ -1,12 +1,15 @@
 # NAME: category-games@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-21 08:01:28
+# UPDATED: 2026-05-22 07:53:16
 # TOTAL: 49
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 31
 
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-SUFFIX,yostar.cn
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -36,10 +39,9 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,yostar.cn
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
 DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN,gog.qtlglb.com
@@ -53,5 +55,3 @@ DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
 DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
