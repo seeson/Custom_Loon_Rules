@@ -1,9 +1,9 @@
 # NAME: category-doh
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-20 07:56:29
-# TOTAL: 119
-# DOMAIN: 116
+# UPDATED: 2026-05-21 08:01:22
+# TOTAL: 121
+# DOMAIN: 118
 # DOMAIN-SUFFIX: 3
 
 DOMAIN,dns.adguard.com
@@ -100,6 +100,8 @@ DOMAIN,secondary.dns.seia.io
 DOMAIN,common.dot.dns.yandex.net
 DOMAIN,safe.dot.dns.yandex.net
 DOMAIN,family.dot.dns.yandex.net
+DOMAIN,dns.shaw.ca
+DOMAIN,doh.xfinity.com
 DOMAIN,doh.nl.ahadns.net
 DOMAIN,doh.la.ahadns.net
 DOMAIN,dns.arapurayil.com
