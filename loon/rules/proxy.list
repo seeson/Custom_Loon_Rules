@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 25564
-# TOTAL: 25658
+# DOMAIN-SUFFIX: 25567
+# TOTAL: 25661
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -320,6 +320,7 @@ DOMAIN-SUFFIX,22112211.xyz
 DOMAIN-SUFFIX,233abc.com
 DOMAIN-SUFFIX,2371tom.com
 DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,24hbook.com
 DOMAIN-SUFFIX,24hjav.com
 DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,24porn.com
@@ -14285,6 +14286,7 @@ DOMAIN-SUFFIX,marvelsuperheroseptember.com
 DOMAIN-SUFFIX,marvelsuperwar.com
 DOMAIN-SUFFIX,marxist.net
 DOMAIN-SUFFIX,marxists.org
+DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,masalabin.com
 DOMAIN-SUFFIX,masaladesi.com
 DOMAIN-SUFFIX,masalaseen.net
@@ -15968,6 +15970,7 @@ DOMAIN-SUFFIX,nenastran.com
 DOMAIN-SUFFIX,nenitas.club
 DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,neo-miracle.com
+DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neotokyo.supertop-100.com
 DOMAIN-SUFFIX,neovim.io
