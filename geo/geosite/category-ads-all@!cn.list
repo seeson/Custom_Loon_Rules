@@ -1,10 +1,10 @@
 # NAME: category-ads-all@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-27 07:57:44
+# UPDATED: 2026-05-28 07:54:32
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
 
-DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,dt.dbankcloud.ru
+DOMAIN-SUFFIX,htrace.wetvinfo.com
