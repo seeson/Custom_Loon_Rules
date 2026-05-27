@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4246
-# TOTAL: 4246
+# DOMAIN-SUFFIX: 4247
+# TOTAL: 4247
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -1026,6 +1026,7 @@ DOMAIN-SUFFIX,doublethinklab.org
 DOMAIN-SUFFIX,douchi.space
 DOMAIN-SUFFIX,dougscripts.com
 DOMAIN-SUFFIX,doujincafe.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dpool.top
 DOMAIN-SUFFIX,dpp.org.tw
