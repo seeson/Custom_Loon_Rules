@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 25601
-# TOTAL: 25695
+# DOMAIN-SUFFIX: 25603
+# TOTAL: 25697
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -2356,6 +2356,7 @@ DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,arzon.jp
 DOMAIN-SUFFIX,as-hp.ca
+DOMAIN-SUFFIX,as.mr
 DOMAIN-SUFFIX,asacp.org
 DOMAIN-SUFFIX,asagaku.com
 DOMAIN-SUFFIX,asahi.com
@@ -9581,6 +9582,7 @@ DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,gemfury.com
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,gen.lib.rus.ec
+DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,gendai.net
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,genetic-technologies.am
@@ -22760,6 +22762,7 @@ DOMAIN-SUFFIX,vday.io
 DOMAIN-SUFFIX,vdoav.com
 DOMAIN-SUFFIX,vecchiescopate.casa
 DOMAIN-SUFFIX,vector.im
+DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,veet.at
 DOMAIN-SUFFIX,veet.be
 DOMAIN-SUFFIX,veet.ca
@@ -25142,7 +25145,6 @@ DOMAIN-SUFFIX,yho.com
 DOMAIN-SUFFIX,yhy.cool
 DOMAIN-SUFFIX,yibaochina.com
 DOMAIN-SUFFIX,yibei.org
-DOMAIN-SUFFIX,yidio.com
 DOMAIN-SUFFIX,yigeni.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp

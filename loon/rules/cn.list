@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 112809
-# TOTAL: 112814
+# DOMAIN-SUFFIX: 112808
+# TOTAL: 112813
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -13219,7 +13219,6 @@ DOMAIN-SUFFIX,arvinhk.com
 DOMAIN-SUFFIX,aryasec.com
 DOMAIN-SUFFIX,as-doll.com
 DOMAIN-SUFFIX,as-hitech.com
-DOMAIN-SUFFIX,as.mr
 DOMAIN-SUFFIX,as16.com
 DOMAIN-SUFFIX,as3f.com
 DOMAIN-SUFFIX,as5.com
