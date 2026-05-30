@@ -1,22 +1,25 @@
 # NAME: category-scholar-uk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-30 08:03:31
-# TOTAL: 36
+# UPDATED: 2026-05-31 07:53:58
+# TOTAL: 38
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 35
+# DOMAIN-SUFFIX: 37
 
 DOMAIN,imperial.insendi.com
-DOMAIN-SUFFIX,oxfordpoliticstrove.com
+DOMAIN-SUFFIX,oxfordmusiconline.com
 DOMAIN-SUFFIX,universitypressscholarship.com
+DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,oxfordmedicine.com
+DOMAIN-SUFFIX,oxfordfirstsource.com
 DOMAIN-SUFFIX,oxfordscholarlyeditions.com
 DOMAIN-SUFFIX,amamanualofstyle.com
 DOMAIN-SUFFIX,epigeum.com
 DOMAIN-SUFFIX,oxfordhandbooks.com
-DOMAIN-SUFFIX,oxfordmedicine.com
-DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,omscr.com
+DOMAIN-SUFFIX,oxfordbibliographies.com
 DOMAIN-SUFFIX,ouplaw.com
-DOMAIN-SUFFIX,veryshortintroductions.com
+DOMAIN-SUFFIX,ac.uk
 DOMAIN-SUFFIX,oxfordaasc.com
 DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordlawtrove.com
@@ -24,10 +27,10 @@ DOMAIN-SUFFIX,oxfordclinicalpsych.com
 DOMAIN-SUFFIX,oxforddnb.com
 DOMAIN-SUFFIX,blackstonespoliceservice.com
 DOMAIN-SUFFIX,oed.com
-DOMAIN-SUFFIX,ac.uk
-DOMAIN-SUFFIX,omscr.com
-DOMAIN-SUFFIX,imperialbusiness.school
-DOMAIN-SUFFIX,oxfordbibliographies.com
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,cambridgedigital.net
+DOMAIN-SUFFIX,veryshortintroductions.com
+DOMAIN-SUFFIX,oxfordpoliticstrove.com
 DOMAIN-SUFFIX,oxfordre.com
 DOMAIN-SUFFIX,oxfordreference.com
 DOMAIN-SUFFIX,anb.org
@@ -35,10 +38,9 @@ DOMAIN-SUFFIX,oxfordscholarship.com
 DOMAIN-SUFFIX,oxfordwesternmusic.com
 DOMAIN-SUFFIX,sipriyearbook.org
 DOMAIN-SUFFIX,ukwhoswho.com
-DOMAIN-SUFFIX,oxfordfirstsource.com
-DOMAIN-SUFFIX,oxfordmusiconline.com
-DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,imperialbusiness.school
 DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
-DOMAIN-SUFFIX,cambridgedigital.net
-DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu
+DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,dlib.eastview.com
