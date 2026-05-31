@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 25605
-# TOTAL: 25699
+# DOMAIN-SUFFIX: 25610
+# TOTAL: 25704
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -6848,6 +6848,7 @@ DOMAIN-SUFFIX,disneyturkiye.com.tr
 DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,disp.cc
+DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
@@ -24415,11 +24416,15 @@ DOMAIN-SUFFIX,xhamster.xxx
 DOMAIN-SUFFIX,xhamster18.com
 DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamster19.com
+DOMAIN-SUFFIX,xhamster2.com
 DOMAIN-SUFFIX,xhamster3.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhot.pro
+DOMAIN-SUFFIX,xhpingcdn.com
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,xhreal5.com
 DOMAIN-SUFFIX,xhub.tv
 DOMAIN-SUFFIX,xiangrikui-app.com
 DOMAIN-SUFFIX,xianir.xyz
