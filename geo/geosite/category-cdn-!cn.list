@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-31 07:53:46
+# UPDATED: 2026-06-01 07:58:55
 # TOTAL: 194
 # DOMAIN-SUFFIX: 194
 
@@ -82,6 +82,14 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
+DOMAIN-SUFFIX,pagecdn.com
+DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
+DOMAIN-SUFFIX,quantil.com
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com
@@ -148,13 +156,6 @@ DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
-DOMAIN-SUFFIX,pagecdn.com
-DOMAIN-SUFFIX,pagecdn.io
-DOMAIN-SUFFIX,stackpath.com
-DOMAIN-SUFFIX,stackpath.dev
-DOMAIN-SUFFIX,vrcdn.cloud
-DOMAIN-SUFFIX,vrcdn.live
-DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
@@ -166,7 +167,6 @@ DOMAIN-SUFFIX,llnw.com
 DOMAIN-SUFFIX,llnw.net
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
-DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,akamai.co.kr
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,accdn.com.cn
