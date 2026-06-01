@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 112752
-# TOTAL: 112757
+# DOMAIN-SUFFIX: 112755
+# TOTAL: 112760
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -24643,6 +24643,7 @@ DOMAIN-SUFFIX,cnside.com
 DOMAIN-SUFFIX,cnsihai.com
 DOMAIN-SUFFIX,cnsikao.com
 DOMAIN-SUFFIX,cnsimeng.com
+DOMAIN-SUFFIX,cnsimg.net
 DOMAIN-SUFFIX,cnsimin.com
 DOMAIN-SUFFIX,cnsiwu.com
 DOMAIN-SUFFIX,cnskg.com
@@ -89699,6 +89700,7 @@ DOMAIN-SUFFIX,tianxing.com
 DOMAIN-SUFFIX,tianxingjianyiliao.com
 DOMAIN-SUFFIX,tianxinkeji.com
 DOMAIN-SUFFIX,tianya.com
+DOMAIN-SUFFIX,tianya.net
 DOMAIN-SUFFIX,tianya.tv
 DOMAIN-SUFFIX,tianya66.com
 DOMAIN-SUFFIX,tianyabook.com
@@ -100617,6 +100619,7 @@ DOMAIN-SUFFIX,xinmeihu.com
 DOMAIN-SUFFIX,xinmeijiutian.com
 DOMAIN-SUFFIX,xinmeinuo.com
 DOMAIN-SUFFIX,xinmem.com
+DOMAIN-SUFFIX,xinmeng.info
 DOMAIN-SUFFIX,xinmenglife.com
 DOMAIN-SUFFIX,xinmeow.com
 DOMAIN-SUFFIX,xinmeti.com
