@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 25612
-# TOTAL: 25706
+# DOMAIN-SUFFIX: 25613
+# TOTAL: 25707
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -21923,6 +21923,7 @@ DOMAIN-SUFFIX,tomonews.net
 DOMAIN-SUFFIX,tomp3.cc
 DOMAIN-SUFFIX,tomsguide.com
 DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,toncenter.com
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,tonicmovies.com
 DOMAIN-SUFFIX,toolforge.org
