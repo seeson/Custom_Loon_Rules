@@ -1,7 +1,7 @@
 # NAME: category-browser-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-02 08:07:46
+# UPDATED: 2026-06-03 08:23:39
 # TOTAL: 30
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 29
@@ -9,7 +9,7 @@
 DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,librewolf.net
-DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,kiwibrowser.com
-DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,netsurf-browser.org
@@ -31,8 +31,8 @@ DOMAIN-SUFFIX,qutebrowser.org
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
-DOMAIN-SUFFIX,censorship.no
-DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,browser.kagi.com

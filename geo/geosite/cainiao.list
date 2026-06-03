@@ -1,13 +1,17 @@
 # NAME: cainiao
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-02 08:07:34
-# TOTAL: 6
-# DOMAIN-SUFFIX: 6
+# UPDATED: 2026-06-03 08:23:33
+# TOTAL: 10
+# DOMAIN-SUFFIX: 10
 
+DOMAIN-SUFFIX,56xiniao.com
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,danniao.com
+DOMAIN-SUFFIX,dianwoda.cn
+DOMAIN-SUFFIX,dianwoda.com
 DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
