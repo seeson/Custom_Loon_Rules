@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:22 CST
 # DOMAIN: 53
-# DOMAIN-SUFFIX: 64
-# TOTAL: 117
+# DOMAIN-SUFFIX: 66
+# TOTAL: 119
 
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -115,9 +115,11 @@ DOMAIN-SUFFIX,hdslb.net
 DOMAIN-SUFFIX,hdslb.org
 DOMAIN-SUFFIX,huasheng.cn
 DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,maoer.com
 DOMAIN-SUFFIX,maoercdn.com
 DOMAIN-SUFFIX,mcbbs.net
 DOMAIN-SUFFIX,mincdn.com
+DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,sharejoytech.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
