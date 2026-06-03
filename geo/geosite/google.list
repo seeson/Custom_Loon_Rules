@@ -1,10 +1,10 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-05-21 05:29:17
+# UPDATED: 2026-06-04 06:22:12
 # DOMAIN: 233
-# DOMAIN-SUFFIX: 836
-# TOTAL: 1069
+# DOMAIN-SUFFIX: 833
+# TOTAL: 1066
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -245,7 +245,6 @@ DOMAIN-SUFFIX,1ucrs.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,466453.com
-DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,admob-cn.com
@@ -740,7 +739,6 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,guge
-DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt1.com
@@ -851,6 +849,7 @@ DOMAIN-SUFFIX,stxmosquitoproject.com
 DOMAIN-SUFFIX,stxmosquitoproject.net
 DOMAIN-SUFFIX,stxmosquitoproject.org
 DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,thecleversense.com
@@ -869,13 +868,11 @@ DOMAIN-SUFFIX,usvimosquitoproject.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 DOMAIN-SUFFIX,velostrata.com
-DOMAIN-SUFFIX,verily.com
 DOMAIN-SUFFIX,verilylifesciences.com
 DOMAIN-SUFFIX,verilystudyhub.com
 DOMAIN-SUFFIX,verilystudywatch.com
 DOMAIN-SUFFIX,verilystudywatch.org
 DOMAIN-SUFFIX,wallet.com
-DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,web.dev
