@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4251
-# TOTAL: 4251
+# DOMAIN-SUFFIX: 4252
+# TOTAL: 4252
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -2727,7 +2727,6 @@ DOMAIN-SUFFIX,pachosting.com
 DOMAIN-SUFFIX,pacom.mil
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,page.link
-DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,paimon.moe
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pandafan.pub
@@ -3340,6 +3339,7 @@ DOMAIN-SUFFIX,surfeasy.com
 DOMAIN-SUFFIX,surfeasy.com.au
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surrenderat20.net
+DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,swagbucks.com
 DOMAIN-SUFFIX,swapspace.co
 DOMAIN-SUFFIX,swissinfo.ch
@@ -4023,6 +4023,7 @@ DOMAIN-SUFFIX,wowhead.com
 DOMAIN-SUFFIX,wowporn.com
 DOMAIN-SUFFIX,woyaolian.org
 DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wplace.live
 DOMAIN-SUFFIX,wpoforum.com
 DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,wsj.com
