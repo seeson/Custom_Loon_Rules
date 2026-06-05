@@ -1,25 +1,25 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-04 08:25:36
-# TOTAL: 100
+# UPDATED: 2026-06-05 08:00:01
+# TOTAL: 101
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 98
+# DOMAIN-SUFFIX: 99
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,linka2a.net
+DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,liblib.tv
-DOMAIN-SUFFIX,rwkv.cn
+DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,tapnow.top
 DOMAIN-SUFFIX,xiaomimimo.com
-DOMAIN-SUFFIX,qianwen.com
-DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,xiaoaiassist.com
-DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,antafu.com
 DOMAIN-SUFFIX,antaq.com
 DOMAIN-SUFFIX,miaibox.com
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
+DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,baichuan-ai.com
@@ -55,9 +56,9 @@ DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,skillhub.cn
 DOMAIN-SUFFIX,safeskill.cn
 DOMAIN-SUFFIX,zhiexa.com
-DOMAIN-SUFFIX,linka2a.net
-DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,butterflyai.cn
@@ -97,9 +98,9 @@ DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mcprev.cn
-DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,yuanqi.tencent.com
+DOMAIN-SUFFIX,yuanbao.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn
