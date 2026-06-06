@@ -1,9 +1,9 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-05 08:00:10
-# TOTAL: 175
-# DOMAIN: 33
+# UPDATED: 2026-06-06 07:59:54
+# TOTAL: 176
+# DOMAIN: 34
 # DOMAIN-SUFFIX: 142
 
 DOMAIN-SUFFIX,avito.ru
@@ -148,6 +148,7 @@ DOMAIN-SUFFIX,ozonru.co.il
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,wildberries.co.il
+DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru

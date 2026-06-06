@@ -1,7 +1,7 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-05 08:00:01
+# UPDATED: 2026-06-06 07:59:49
 # TOTAL: 101
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 99
@@ -14,15 +14,15 @@ DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,tapnow.top
-DOMAIN-SUFFIX,xiaomimimo.com
-DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
-DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,tongyi.com
 DOMAIN-SUFFIX,antafu.com
 DOMAIN-SUFFIX,antaq.com
-DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
@@ -32,14 +32,14 @@ DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
-DOMAIN-SUFFIX,diandianlife.top
-DOMAIN-SUFFIX,trae.guru
-DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,n.cn
@@ -58,10 +58,7 @@ DOMAIN-SUFFIX,safeskill.cn
 DOMAIN-SUFFIX,zhiexa.com
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,liblib.cloud
-DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,butterfly-static.cn
-DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,coze-dns-01.com
 DOMAIN-SUFFIX,coze.cn
 DOMAIN-SUFFIX,coze.email
@@ -98,12 +95,15 @@ DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,yuanbao.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
-DOMAIN-SUFFIX,marscode.com.cn
-DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
 DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,qianwen.aliyun.com

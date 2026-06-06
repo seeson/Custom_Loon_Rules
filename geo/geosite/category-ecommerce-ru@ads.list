@@ -1,10 +1,11 @@
 # NAME: category-ecommerce-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-05 08:00:11
-# TOTAL: 33
-# DOMAIN: 33
+# UPDATED: 2026-06-06 07:59:54
+# TOTAL: 34
+# DOMAIN: 34
 
+DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
