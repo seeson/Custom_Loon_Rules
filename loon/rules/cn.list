@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 112477
-# TOTAL: 112482
+# DOMAIN-SUFFIX: 112475
+# TOTAL: 112480
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -51549,7 +51549,6 @@ DOMAIN-SUFFIX,infoldgames.com
 DOMAIN-SUFFIX,infomorning.com
 DOMAIN-SUFFIX,infong.net
 DOMAIN-SUFFIX,infoobs.com
-DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,infoqstatic.com
 DOMAIN-SUFFIX,inforbus.com
 DOMAIN-SUFFIX,inforeenviro.com
@@ -51879,7 +51878,6 @@ DOMAIN-SUFFIX,iotyes.com
 DOMAIN-SUFFIX,iouluo.com
 DOMAIN-SUFFIX,ioxqm.com
 DOMAIN-SUFFIX,ioxunyun.com
-DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ip-guard.net
 DOMAIN-SUFFIX,ip-hercules.com
 DOMAIN-SUFFIX,ip-soc.com
