@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 60
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 800
-# TOTAL: 864
+# DOMAIN-SUFFIX: 802
+# TOTAL: 866
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -197,6 +197,7 @@ DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
 DOMAIN-SUFFIX,doom.com
+DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dragonage.com
 DOMAIN-SUFFIX,dragonagekeep.com
 DOMAIN-SUFFIX,dragonagemovie.com
@@ -787,6 +788,7 @@ DOMAIN-SUFFIX,unrealtournament.com
 DOMAIN-SUFFIX,uo.com
 DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,uplay.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,vigorgame.com
