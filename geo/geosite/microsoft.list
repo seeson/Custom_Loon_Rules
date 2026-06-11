@@ -1,10 +1,10 @@
 # NAME: microsoft
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-04 06:22:13
+# UPDATED: 2026-06-12 05:52:25
 # DOMAIN: 95
-# DOMAIN-SUFFIX: 617
-# TOTAL: 712
+# DOMAIN-SUFFIX: 618
+# TOTAL: 713
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -304,6 +304,7 @@ DOMAIN-SUFFIX,gearstactics.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,gigjam.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai

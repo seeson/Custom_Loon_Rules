@@ -1,10 +1,10 @@
 # NAME: github
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-04 06:22:12
+# UPDATED: 2026-06-12 05:52:25
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 29
-# TOTAL: 61
+# DOMAIN-SUFFIX: 30
+# TOTAL: 62
 
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
