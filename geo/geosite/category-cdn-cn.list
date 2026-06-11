@@ -1,9 +1,9 @@
 # NAME: category-cdn-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-10 08:06:03
-# TOTAL: 92
-# DOMAIN-SUFFIX: 92
+# UPDATED: 2026-06-11 08:09:38
+# TOTAL: 93
+# DOMAIN-SUFFIX: 93
 
 DOMAIN-SUFFIX,aocde.com
 DOMAIN-SUFFIX,chuangcache.com
@@ -12,19 +12,6 @@ DOMAIN-SUFFIX,funcdn.com
 DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,yunaq.com
-DOMAIN-SUFFIX,fastcdn.com
-DOMAIN-SUFFIX,acadn.cn
-DOMAIN-SUFFIX,bbbcdns.com
-DOMAIN-SUFFIX,dlgslb.cn
-DOMAIN-SUFFIX,dlgslb.net
-DOMAIN-SUFFIX,dwion.com
-DOMAIN-SUFFIX,acadn.com
-DOMAIN-SUFFIX,tlgslb.com
-DOMAIN-SUFFIX,globalcdn.cn
-DOMAIN-SUFFIX,flxdns.com
-DOMAIN-SUFFIX,flxdns.cn
-DOMAIN-SUFFIX,mcadn.cn
-DOMAIN-SUFFIX,tlgslb.cn
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniucdn.com
@@ -54,6 +41,7 @@ DOMAIN-SUFFIX,lxdns.net
 DOMAIN-SUFFIX,lxdns.org
 DOMAIN-SUFFIX,mwcdns.com
 DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,npsv6.com
 DOMAIN-SUFFIX,ourdvsss.com
 DOMAIN-SUFFIX,qtlcdn.cn
 DOMAIN-SUFFIX,qtlcdn.com
@@ -76,6 +64,19 @@ DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,bootcdn.net
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,phpcomposer.com
+DOMAIN-SUFFIX,fastcdn.com
+DOMAIN-SUFFIX,acadn.cn
+DOMAIN-SUFFIX,bbbcdns.com
+DOMAIN-SUFFIX,dlgslb.cn
+DOMAIN-SUFFIX,dlgslb.net
+DOMAIN-SUFFIX,dwion.com
+DOMAIN-SUFFIX,acadn.com
+DOMAIN-SUFFIX,tlgslb.com
+DOMAIN-SUFFIX,globalcdn.cn
+DOMAIN-SUFFIX,flxdns.com
+DOMAIN-SUFFIX,flxdns.cn
+DOMAIN-SUFFIX,mcadn.cn
+DOMAIN-SUFFIX,tlgslb.cn
 DOMAIN-SUFFIX,dfyun.com.cn
 DOMAIN-SUFFIX,fastcdn.com.cn
 DOMAIN-SUFFIX,cf-china.info

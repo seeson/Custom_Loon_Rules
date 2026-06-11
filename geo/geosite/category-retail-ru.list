@@ -1,7 +1,7 @@
 # NAME: category-retail-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-10 08:06:28
+# UPDATED: 2026-06-11 08:09:52
 # TOTAL: 78
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 74
@@ -39,6 +39,12 @@ DOMAIN-SUFFIX,myspar.ru
 DOMAIN-SUFFIX,sushiwok.ru
 DOMAIN-SUFFIX,winelab.ru
 DOMAIN-SUFFIX,vkusvill.ru
+DOMAIN-SUFFIX,sokolov.io
+DOMAIN-SUFFIX,sokolov.ru
+DOMAIN-SUFFIX,kazanexpress.ru
+DOMAIN-SUFFIX,magnit.com
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru
 DOMAIN-SUFFIX,acmvid.com
 DOMAIN-SUFFIX,mvideo.ru
 DOMAIN-SUFFIX,oskelly.co
@@ -75,12 +81,6 @@ DOMAIN-SUFFIX,x5paket.ru
 DOMAIN-SUFFIX,x5q.ru
 DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,x5w.ru
-DOMAIN-SUFFIX,sokolov.io
-DOMAIN-SUFFIX,sokolov.ru
-DOMAIN-SUFFIX,kazanexpress.ru
-DOMAIN-SUFFIX,magnit.com
-DOMAIN-SUFFIX,magnit.ru
-DOMAIN-SUFFIX,mm.ru
 DOMAIN,ads.x5.ru
 DOMAIN,ads.x5media.ru
 DOMAIN,sentry.x5.ru
