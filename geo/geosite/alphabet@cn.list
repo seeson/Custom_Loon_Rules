@@ -1,10 +1,10 @@
 # NAME: alphabet@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-11 08:09:09
-# TOTAL: 125
+# UPDATED: 2026-06-12 08:14:38
+# TOTAL: 126
 # DOMAIN: 114
-# DOMAIN-SUFFIX: 9
+# DOMAIN-SUFFIX: 10
 
 DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,g.cn
@@ -12,10 +12,13 @@ DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstaticcnapps.cn
+DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN,recaptcha-cn.net
+DOMAIN,recaptcha.net
+DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
-DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,admob-cn.com
@@ -40,7 +43,6 @@ DOMAIN,clickserver.googleads.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cn.widevine.com
 DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,csi.gstatic.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dg-meta.video.google.com
@@ -89,8 +91,6 @@ DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,qiao-cn.com
 DOMAIN,qpx.googleflights.net
-DOMAIN,recaptcha-cn.net
-DOMAIN,recaptcha.net
 DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.chat.google.com
 DOMAIN,redirector.c.mail.google.com
@@ -111,7 +111,6 @@ DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
 DOMAIN,tac.googleapis.com
 DOMAIN,tools.google.com
-DOMAIN,update.crashlytics.com
 DOMAIN,update.googleapis.com
 DOMAIN,wear.googleapis.com
 DOMAIN,www-google-analytics.l.google.com
@@ -119,6 +118,12 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,update.crashlytics.com
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
+DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
+DOMAIN,redirector.c.play.google.com
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -127,7 +132,3 @@ DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN-SUFFIX,ggpht.cn
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-DOMAIN,redirector.c.play.google.com

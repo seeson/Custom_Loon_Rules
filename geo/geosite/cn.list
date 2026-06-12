@@ -1,9 +1,9 @@
 # NAME: cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-11 08:10:05
-# TOTAL: 112788
-# DOMAIN-SUFFIX: 112788
+# UPDATED: 2026-06-12 08:15:37
+# TOTAL: 112796
+# DOMAIN-SUFFIX: 112796
 
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,xn--zfr164b
@@ -50,8 +50,8 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,jsddbs.com
-DOMAIN-SUFFIX,ishangu.com
+DOMAIN-SUFFIX,jsddhjt.com
+DOMAIN-SUFFIX,maiyanju.com
 DOMAIN-SUFFIX,027hxzy.com
 DOMAIN-SUFFIX,027hy.com
 DOMAIN-SUFFIX,027idc.com
@@ -7963,7 +7963,7 @@ DOMAIN-SUFFIX,8295099d311031.beer
 DOMAIN-SUFFIX,8295dc6e7e797638.com
 DOMAIN-SUFFIX,82987977.com
 DOMAIN-SUFFIX,829e30d07853f4fd.com
-DOMAIN-SUFFIX,82d5d0e4f10291.beer
+DOMAIN-SUFFIX,jsjsgroup.com
 DOMAIN-SUFFIX,82e0dd98d1edbbb1.com
 DOMAIN-SUFFIX,82flex.com
 DOMAIN-SUFFIX,82ip.com
@@ -10296,6 +10296,7 @@ DOMAIN-SUFFIX,ahcaw.com
 DOMAIN-SUFFIX,ahceisc.com
 DOMAIN-SUFFIX,ahcfrc.com
 DOMAIN-SUFFIX,ahchanye.com
+DOMAIN-SUFFIX,ahcjw.com
 DOMAIN-SUFFIX,ahcnb.com
 DOMAIN-SUFFIX,ahcoating.com
 DOMAIN-SUFFIX,ahcsdz.com
@@ -42295,6 +42296,7 @@ DOMAIN-SUFFIX,gxxlzxs.com
 DOMAIN-SUFFIX,gxxlzyc.com
 DOMAIN-SUFFIX,gxxmglzx.com
 DOMAIN-SUFFIX,gxxmjjs.com
+DOMAIN-SUFFIX,gxxmt.com
 DOMAIN-SUFFIX,gxxmyjs.com
 DOMAIN-SUFFIX,gxxqsm.com
 DOMAIN-SUFFIX,gxxrf.com
@@ -52417,7 +52419,7 @@ DOMAIN-SUFFIX,ishang.net
 DOMAIN-SUFFIX,ishanghome.com
 DOMAIN-SUFFIX,ishangman.com
 DOMAIN-SUFFIX,ishangtong.com
-DOMAIN-SUFFIX,jsjsgroup.com
+DOMAIN-SUFFIX,ishangu.com
 DOMAIN-SUFFIX,ishansong.com
 DOMAIN-SUFFIX,ishaohuang.com
 DOMAIN-SUFFIX,isharepc.com
@@ -52430,6 +52432,7 @@ DOMAIN-SUFFIX,ishengxue.com
 DOMAIN-SUFFIX,ishenping.com
 DOMAIN-SUFFIX,ishenyou.com
 DOMAIN-SUFFIX,ishijing.com
+DOMAIN-SUFFIX,ishijue.com
 DOMAIN-SUFFIX,ishipoffshore.com
 DOMAIN-SUFFIX,ishouhong.com
 DOMAIN-SUFFIX,ishouka.com
@@ -56246,8 +56249,8 @@ DOMAIN-SUFFIX,jsd2021.com
 DOMAIN-SUFFIX,jsdagua.com
 DOMAIN-SUFFIX,jsdas.com
 DOMAIN-SUFFIX,jsdcly.com
+DOMAIN-SUFFIX,jsddbs.com
 DOMAIN-SUFFIX,0.zone
-DOMAIN-SUFFIX,jsddhjt.com
 DOMAIN-SUFFIX,jsddz.net
 DOMAIN-SUFFIX,jsdebang.com
 DOMAIN-SUFFIX,jsdehui.com
@@ -56420,10 +56423,10 @@ DOMAIN-SUFFIX,jsjljy.com
 DOMAIN-SUFFIX,jsjnsw.com
 DOMAIN-SUFFIX,jsjnw.org
 DOMAIN-SUFFIX,jsjrtzjt.com
-DOMAIN-SUFFIX,plesk-cn.com
+DOMAIN-SUFFIX,jsjs1982.com
+DOMAIN-SUFFIX,82d5d0e4f10291.beer
 DOMAIN-SUFFIX,027htxt.com
-DOMAIN-SUFFIX,zhiyuanxinglvye.com
-DOMAIN-SUFFIX,jsjszgz.com
+DOMAIN-SUFFIX,l2cn.com
 DOMAIN-SUFFIX,jsjtxx.com
 DOMAIN-SUFFIX,jsjunma.com
 DOMAIN-SUFFIX,jsjwkg.com
@@ -60066,7 +60069,7 @@ DOMAIN-SUFFIX,l-zb.com
 DOMAIN-SUFFIX,l.biz
 DOMAIN-SUFFIX,l178.info
 DOMAIN-SUFFIX,l1yu.com
-DOMAIN-SUFFIX,l2cn.com
+DOMAIN-SUFFIX,jsjszgz.com
 DOMAIN-SUFFIX,l2h.site
 DOMAIN-SUFFIX,l2t7.cc
 DOMAIN-SUFFIX,l2z4l.net
@@ -60250,6 +60253,7 @@ DOMAIN-SUFFIX,landchina.com
 DOMAIN-SUFFIX,landed.cc
 DOMAIN-SUFFIX,landhonor.com
 DOMAIN-SUFFIX,landi.com
+DOMAIN-SUFFIX,landian.news
 DOMAIN-SUFFIX,landian.vip
 DOMAIN-SUFFIX,landian.xyz
 DOMAIN-SUFFIX,landiannews.com
@@ -64693,7 +64697,7 @@ DOMAIN-SUFFIX,maixiaodao.com
 DOMAIN-SUFFIX,maixinxin.com
 DOMAIN-SUFFIX,maiya91.com
 DOMAIN-SUFFIX,maiyadi.com
-DOMAIN-SUFFIX,maiyanju.com
+DOMAIN-SUFFIX,jsjskgjt.com
 DOMAIN-SUFFIX,maiyaole.com
 DOMAIN-SUFFIX,maiyatian.com
 DOMAIN-SUFFIX,maiyayk.com
@@ -69379,6 +69383,7 @@ DOMAIN-SUFFIX,nfmedia.com
 DOMAIN-SUFFIX,nfmrtfv.com
 DOMAIN-SUFFIX,nfnews.com
 DOMAIN-SUFFIX,nfoservers.com
+DOMAIN-SUFFIX,nfpeople.com
 DOMAIN-SUFFIX,nfqbyp.com
 DOMAIN-SUFFIX,nfs-china.com
 DOMAIN-SUFFIX,nfschina.com
@@ -70821,6 +70826,7 @@ DOMAIN-SUFFIX,npqx.com
 DOMAIN-SUFFIX,nprc.net
 DOMAIN-SUFFIX,npsdyyy.com
 DOMAIN-SUFFIX,npsel.com
+DOMAIN-SUFFIX,npsv6.com
 DOMAIN-SUFFIX,nptpark.com
 DOMAIN-SUFFIX,nptparking.com
 DOMAIN-SUFFIX,nptwedding.com
@@ -73747,7 +73753,7 @@ DOMAIN-SUFFIX,plcloud.com
 DOMAIN-SUFFIX,plctlab.com
 DOMAIN-SUFFIX,plentypolymer.com
 DOMAIN-SUFFIX,pleo-securelogin.com
-DOMAIN-SUFFIX,jsjs1982.com
+DOMAIN-SUFFIX,plesk-cn.com
 DOMAIN-SUFFIX,plex2.com
 DOMAIN-SUFFIX,plexpt.com
 DOMAIN-SUFFIX,plfrog.com
@@ -92436,6 +92442,7 @@ DOMAIN-SUFFIX,ucnest.com
 DOMAIN-SUFFIX,ucpaas.com
 DOMAIN-SUFFIX,ucpchina.com
 DOMAIN-SUFFIX,ucpopo.com
+DOMAIN-SUFFIX,ucppt.com
 DOMAIN-SUFFIX,ucren.com
 DOMAIN-SUFFIX,ucsanya.com
 DOMAIN-SUFFIX,ucss.ninja
@@ -93475,6 +93482,7 @@ DOMAIN-SUFFIX,vcchar.com
 DOMAIN-SUFFIX,vcd.io
 DOMAIN-SUFFIX,vcdnga.com
 DOMAIN-SUFFIX,vcg.com
+DOMAIN-SUFFIX,vcgapi.com
 DOMAIN-SUFFIX,vchangyi.com
 DOMAIN-SUFFIX,vcimg.com
 DOMAIN-SUFFIX,vcinchina.com
@@ -109709,7 +109717,7 @@ DOMAIN-SUFFIX,zhiyu-china.com
 DOMAIN-SUFFIX,zhiyuan-robot.com
 DOMAIN-SUFFIX,zhiyuanbang.com
 DOMAIN-SUFFIX,zhiyuanshijie.com
-DOMAIN-SUFFIX,jsjskgjt.com
+DOMAIN-SUFFIX,zhiyuanxinglvye.com
 DOMAIN-SUFFIX,zhiyuanyun.com
 DOMAIN-SUFFIX,zhiyuanzhongyi.com
 DOMAIN-SUFFIX,zhiyuapp.com
