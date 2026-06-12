@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 93
-# DOMAIN-SUFFIX: 25895
-# TOTAL: 25988
+# DOMAIN-SUFFIX: 25896
+# TOTAL: 25989
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -16698,6 +16698,7 @@ DOMAIN-SUFFIX,nsfw.xxx
 DOMAIN-SUFFIX,nsfw247.to
 DOMAIN-SUFFIX,nsfwmemes.com
 DOMAIN-SUFFIX,nsimg.net
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,ntc.party
 DOMAIN-SUFFIX,ntd.com
 DOMAIN-SUFFIX,ntd.tv
