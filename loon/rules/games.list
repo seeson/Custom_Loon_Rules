@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
-# DOMAIN: 60
+# DOMAIN: 61
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 802
-# TOTAL: 866
+# TOTAL: 867
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -40,6 +40,7 @@ DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
 DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 DOMAIN,store-images.s-microsoft.com
 DOMAIN,ubisoft.siteintercept.qualtrics.com
 DOMAIN,ubistatic1-a.akamaihd.net
