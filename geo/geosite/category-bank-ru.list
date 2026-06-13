@@ -1,16 +1,16 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-12 08:15:07
-# TOTAL: 307
+# UPDATED: 2026-06-13 08:14:25
+# TOTAL: 308
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 299
+# DOMAIN-SUFFIX: 300
 
 DOMAIN,sberpro.vedomosti.ru
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
-DOMAIN-SUFFIX,jivochat.es
-DOMAIN-SUFFIX,jivosite.ru
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivo.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
@@ -53,12 +53,13 @@ DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,absolutbank.ru
 DOMAIN-SUFFIX,akbars.ru
 DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,ankb.ru
 DOMAIN-SUFFIX,asia-pay.ru
-DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,atb.su
 DOMAIN-SUFFIX,autokreditbank.ru
 DOMAIN-SUFFIX,avangard.ru
 DOMAIN-SUFFIX,aversbank.ru
@@ -119,7 +120,7 @@ DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
 DOMAIN-SUFFIX,sbercloud.ru
-DOMAIN-SUFFIX,sbercloud.tech
+DOMAIN-SUFFIX,jivochat.de
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
 DOMAIN-SUFFIX,sberfactoring.ru
@@ -146,18 +147,18 @@ DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,jivo.chat
-DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.es
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okkoapi.tv
-DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sberbankaktivno.ru
-DOMAIN-SUFFIX,alfa.me
-DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,jivochat.de
 DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2gis.tj
+DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,atb.su
+DOMAIN-SUFFIX,t-bank-app.su
+DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivochat.com
 DOMAIN-SUFFIX,payecom.ru
@@ -254,7 +255,7 @@ DOMAIN-SUFFIX,sage-observability.tech
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru
-DOMAIN-SUFFIX,t-bank-app.su
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,t-bank.by
 DOMAIN-SUFFIX,t-calls.ru
 DOMAIN-SUFFIX,t-capital-funds.ru
