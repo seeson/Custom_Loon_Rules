@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 112154
-# TOTAL: 112159
+# DOMAIN-SUFFIX: 112151
+# TOTAL: 112156
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -17786,7 +17786,6 @@ DOMAIN-SUFFIX,bscabank.com
 DOMAIN-SUFFIX,bsccdn.com
 DOMAIN-SUFFIX,bsccdn.net
 DOMAIN-SUFFIX,bscdns.com
-DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,bscea.org
 DOMAIN-SUFFIX,bscedge.com
 DOMAIN-SUFFIX,bscgslb.com
@@ -38818,7 +38817,6 @@ DOMAIN-SUFFIX,gmt-cn.com
 DOMAIN-SUFFIX,gmtv.cc
 DOMAIN-SUFFIX,gmtzy.com
 DOMAIN-SUFFIX,gmugmu.com
-DOMAIN-SUFFIX,gmw.com
 DOMAIN-SUFFIX,gmwiki.com
 DOMAIN-SUFFIX,gmxmym.ren
 DOMAIN-SUFFIX,gmya.net
@@ -65263,11 +65261,11 @@ DOMAIN-SUFFIX,meishi.cc
 DOMAIN-SUFFIX,meishi13.com
 DOMAIN-SUFFIX,meishichina.com
 DOMAIN-SUFFIX,meishiffx.online
-DOMAIN-SUFFIX,meishij.net
 DOMAIN-SUFFIX,meishijr.com
 DOMAIN-SUFFIX,meishilife.com
 DOMAIN-SUFFIX,meishiqin.com
 DOMAIN-SUFFIX,meishischool.com
+DOMAIN-SUFFIX,meishitx.com
 DOMAIN-SUFFIX,meishiwangluo.com
 DOMAIN-SUFFIX,meishizuofa.com
 DOMAIN-SUFFIX,meishow.com
@@ -100152,7 +100150,6 @@ DOMAIN-SUFFIX,xinshengku.com
 DOMAIN-SUFFIX,xinshengsemi.com
 DOMAIN-SUFFIX,xinshi525.com
 DOMAIN-SUFFIX,xinshiba.com
-DOMAIN-SUFFIX,xinshipu.com
 DOMAIN-SUFFIX,xinshishen.com
 DOMAIN-SUFFIX,xinshouyou.com
 DOMAIN-SUFFIX,xinshouzhanzhang.com
