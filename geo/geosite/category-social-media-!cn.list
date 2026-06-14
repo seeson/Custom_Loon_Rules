@@ -1,7 +1,7 @@
 # NAME: category-social-media-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-13 08:15:02
+# UPDATED: 2026-06-14 07:59:40
 # TOTAL: 626
 # DOMAIN: 15
 # DOMAIN-SUFFIX: 611
@@ -37,11 +37,11 @@ DOMAIN-SUFFIX,misskey.cloud
 DOMAIN-SUFFIX,misskey.design
 DOMAIN-SUFFIX,misskey.flowers
 DOMAIN-SUFFIX,9ineverse.com
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net
 DOMAIN-SUFFIX,odnoklassniki.eu
 DOMAIN-SUFFIX,odnoklasniki.ua
 DOMAIN-SUFFIX,apiok.ru
-DOMAIN-SUFFIX,odnoklasniki.by
-DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linkedin.at
@@ -52,6 +52,11 @@ DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,facebookwork.com
 DOMAIN-SUFFIX,zuckerberg.net
+DOMAIN-SUFFIX,zuckerberg.com
+DOMAIN-SUFFIX,wwwmfacebook.com
+DOMAIN-SUFFIX,wwwfacebook.com
+DOMAIN-SUFFIX,odnoklasniki.by
+DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.am
 DOMAIN-SUFFIX,odnoklassniki.by
 DOMAIN-SUFFIX,odnoklassniki.ru
@@ -63,14 +68,10 @@ DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,oktech.ru
-DOMAIN-SUFFIX,zuckerberg.com
-DOMAIN-SUFFIX,wwwmfacebook.com
-DOMAIN-SUFFIX,wwwfacebook.com
 DOMAIN-SUFFIX,wwwfacebok.com
 DOMAIN-SUFFIX,www-facebook.com
 DOMAIN-SUFFIX,worldhack.com
-DOMAIN-SUFFIX,threads.com
-DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,whyfacebook.com
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
@@ -93,8 +94,8 @@ DOMAIN-SUFFIX,vktech-static.ru
 DOMAIN-SUFFIX,vkuser.net
 DOMAIN-SUFFIX,vkusercdn.ru
 DOMAIN-SUFFIX,vkuserphoto.ru
-DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuseraudio.ru
 DOMAIN-SUFFIX,vkuserlive.com
 DOMAIN-SUFFIX,vkuserlive.net
@@ -170,8 +171,8 @@ DOMAIN-SUFFIX,instamgram.com
 DOMAIN-SUFFIX,instangram.com
 DOMAIN-SUFFIX,instanttelegram.com
 DOMAIN-SUFFIX,instaplayer.net
-DOMAIN-SUFFIX,instastyle.tv
 DOMAIN-SUFFIX,facebook.shop
+DOMAIN-SUFFIX,instgram.com
 DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intgram.com
@@ -183,9 +184,8 @@ DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
-DOMAIN-SUFFIX,mixi.jp
-DOMAIN-SUFFIX,mixi.net
-DOMAIN-SUFFIX,whyfacebook.com
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
@@ -310,9 +310,9 @@ DOMAIN-SUFFIX,facebook.hu
 DOMAIN-SUFFIX,facebook.in
 DOMAIN-SUFFIX,fecebook.net
 DOMAIN-SUFFIX,facebook.nl
-DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,truthsocial.com
-DOMAIN-SUFFIX,instgram.com
+DOMAIN-SUFFIX,instastyle.tv
 DOMAIN-SUFFIX,facebook.tv
 DOMAIN-SUFFIX,facebook.us
 DOMAIN-SUFFIX,facebook.wang
@@ -600,13 +600,13 @@ DOMAIN-SUFFIX,msk.kitazawa.me
 DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,msk.ilnk.info
 DOMAIN-SUFFIX,misskey.04.si
-DOMAIN-SUFFIX,odnoklassniki.co.ee
+DOMAIN-SUFFIX,mixi.co.jp
 DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,misskey.yukineko.me
 DOMAIN-SUFFIX,misskey.always-we-need.games
 DOMAIN-SUFFIX,misskey.ranranhome.info
 DOMAIN-SUFFIX,misskey.noellabo.jp
-DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,odnoklassniki.co.ee
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,twitter.map.fastly.net
 DOMAIN-SUFFIX,adv.vk.com
