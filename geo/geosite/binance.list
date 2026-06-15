@@ -1,10 +1,13 @@
 # NAME: binance
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-14 07:59:14
-# TOTAL: 38
-# DOMAIN-SUFFIX: 38
+# UPDATED: 2026-06-15 08:02:25
+# TOTAL: 45
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 43
 
+DOMAIN,zftksc.cdn-settings.appsflyersdk.com
+DOMAIN,zftksc.launches.appsflyersdk.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.cloud
@@ -34,12 +37,17 @@ DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binanceru.net
+DOMAIN-SUFFIX,bmwweb.solutions
+DOMAIN-SUFFIX,bnappweb.black
 DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnbchain.org
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bsappapi.cc
 DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,nftstatic.com
-DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.info
 DOMAIN-SUFFIX,saasexch.io
