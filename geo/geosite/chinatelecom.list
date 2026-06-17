@@ -1,12 +1,13 @@
 # NAME: chinatelecom
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-16 08:24:16
-# TOTAL: 15
-# DOMAIN-SUFFIX: 15
+# UPDATED: 2026-06-17 08:10:35
+# TOTAL: 16
+# DOMAIN-SUFFIX: 16
 
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,189smarthome.com
+DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,bestpay.cn
 DOMAIN-SUFFIX,chinatelecom-h.com
 DOMAIN-SUFFIX,chntel.com

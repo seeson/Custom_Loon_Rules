@@ -1,9 +1,9 @@
 # NAME: category-media-ir
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-16 08:24:04
-# TOTAL: 26
-# DOMAIN-SUFFIX: 26
+# UPDATED: 2026-06-17 08:10:23
+# TOTAL: 28
+# DOMAIN-SUFFIX: 28
 
 DOMAIN-SUFFIX,cinematicket.org
 DOMAIN-SUFFIX,filmnet.ir
@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,irib.ir
 DOMAIN-SUFFIX,iribtv.ir
 DOMAIN-SUFFIX,irinn.ir
 DOMAIN-SUFFIX,jjtvn.ir
+DOMAIN-SUFFIX,melodify.app
+DOMAIN-SUFFIX,melodify.pw
 DOMAIN-SUFFIX,namava.ir
 DOMAIN-SUFFIX,qurantv.ir
 DOMAIN-SUFFIX,radio.ir
