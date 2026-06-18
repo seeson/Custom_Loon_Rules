@@ -1,16 +1,16 @@
 # NAME: category-entertainment@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-17 08:10:18
+# UPDATED: 2026-06-18 08:08:11
 # TOTAL: 8
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 4
 
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
-DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN,adeventtracker.spotify.com
 DOMAIN,adstudio-assets.scdn.co
 DOMAIN,bloodhound.spotify.com
 DOMAIN-SUFFIX,analytics.tiktok.com
-DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN,disney.my.sentry.io

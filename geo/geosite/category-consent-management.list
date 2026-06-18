@@ -1,0 +1,21 @@
+# NAME: category-consent-management
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-06-18 08:08:06
+# TOTAL: 14
+# DOMAIN-SUFFIX: 14
+
+DOMAIN-SUFFIX,appconsent.io
+DOMAIN-SUFFIX,axept.io
+DOMAIN-SUFFIX,cdn-cookieyes.com
+DOMAIN-SUFFIX,consentmanager.net
+DOMAIN-SUFFIX,consentpro.com
+DOMAIN-SUFFIX,cookiebot.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,cookieyes.com
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,termly.io
+DOMAIN-SUFFIX,trustarc.com
+DOMAIN-SUFFIX,usercentrics.eu
