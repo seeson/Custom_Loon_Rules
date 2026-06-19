@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 18
-# DOMAIN-SUFFIX: 221
-# TOTAL: 239
+# DOMAIN-SUFFIX: 222
+# TOTAL: 240
 
 DOMAIN,cdn-cn.apple-mapkit.com
 DOMAIN,certs-lb.apple.com.akadns.net
@@ -180,6 +180,7 @@ DOMAIN-SUFFIX,livephotos.cn
 DOMAIN-SUFFIX,livephotos.com.cn
 DOMAIN-SUFFIX,macbookair.cn
 DOMAIN-SUFFIX,macbookair.com.cn
+DOMAIN-SUFFIX,mensura.cdn-apple.com
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com

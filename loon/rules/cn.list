@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 112007
-# TOTAL: 112012
+# DOMAIN-SUFFIX: 112008
+# TOTAL: 112013
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -13820,6 +13820,7 @@ DOMAIN-SUFFIX,azt365.com
 DOMAIN-SUFFIX,azuiblc.com
 DOMAIN-SUFFIX,azure-wave.com
 DOMAIN-SUFFIX,azure.cc
+DOMAIN-SUFFIX,azureflame.cloud
 DOMAIN-SUFFIX,azureflying.com
 DOMAIN-SUFFIX,azuremigrate.download.prss.microsoft.com
 DOMAIN-SUFFIX,azuremigratetest.download.prss.microsoft.com
@@ -16004,7 +16005,6 @@ DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,bilimanga.net
 DOMAIN-SUFFIX,bilinl.com
-DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliui.com
 DOMAIN-SUFFIX,bilive.com
 DOMAIN-SUFFIX,bilivideo.com
@@ -16415,6 +16415,7 @@ DOMAIN-SUFFIX,bjanjili.com
 DOMAIN-SUFFIX,bjartmuseum.com
 DOMAIN-SUFFIX,bjatv.com
 DOMAIN-SUFFIX,bjbaidianfeng.com
+DOMAIN-SUFFIX,bjbaifan.com
 DOMAIN-SUFFIX,bjbalb.com
 DOMAIN-SUFFIX,bjbaodao.net
 DOMAIN-SUFFIX,bjbb.com
@@ -18851,6 +18852,7 @@ DOMAIN-SUFFIX,cangdu.org
 DOMAIN-SUFFIX,cangfengzhe.com
 DOMAIN-SUFFIX,canghaiip.com
 DOMAIN-SUFFIX,canghaimachine.com
+DOMAIN-SUFFIX,cangjggame.com
 DOMAIN-SUFFIX,canglanghospital.com
 DOMAIN-SUFFIX,cangmang.xyz
 DOMAIN-SUFFIX,cangoonline.com
@@ -20468,6 +20470,7 @@ DOMAIN-SUFFIX,chacheku.com
 DOMAIN-SUFFIX,chachengji.com
 DOMAIN-SUFFIX,chacihai.com
 DOMAIN-SUFFIX,chacuo.net
+DOMAIN-SUFFIX,chadaodao.com
 DOMAIN-SUFFIX,chadianhua.net
 DOMAIN-SUFFIX,chadoc.com
 DOMAIN-SUFFIX,chaej.com
@@ -34404,6 +34407,7 @@ DOMAIN-SUFFIX,feierlaiedu.com
 DOMAIN-SUFFIX,feiersmart.com
 DOMAIN-SUFFIX,feifandesign.com
 DOMAIN-SUFFIX,feifanindustry.com
+DOMAIN-SUFFIX,feifanmi.com
 DOMAIN-SUFFIX,feifantxt.com
 DOMAIN-SUFFIX,feifantxt.net
 DOMAIN-SUFFIX,feifdx.com
@@ -36218,7 +36222,6 @@ DOMAIN-SUFFIX,futurejuzhen.vip
 DOMAIN-SUFFIX,futurenetlab.com
 DOMAIN-SUFFIX,futureprize.org
 DOMAIN-SUFFIX,futurescontest.com
-DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fuwa.org
 DOMAIN-SUFFIX,fuwahgroup.com
 DOMAIN-SUFFIX,fuwai.com
@@ -75099,6 +75102,7 @@ DOMAIN-SUFFIX,qingmuxinli.com
 DOMAIN-SUFFIX,qingnianlvxing.com
 DOMAIN-SUFFIX,qingniantuzhai.com
 DOMAIN-SUFFIX,qingnianwang.com
+DOMAIN-SUFFIX,qingning88.com
 DOMAIN-SUFFIX,qingpanduola.com
 DOMAIN-SUFFIX,qingpin.vip
 DOMAIN-SUFFIX,qingping.co
@@ -89238,11 +89242,8 @@ DOMAIN-SUFFIX,tiger-code.com
 DOMAIN-SUFFIX,tiger-info.com
 DOMAIN-SUFFIX,tiger-motion.com
 DOMAIN-SUFFIX,tiger2doudou.com
-DOMAIN-SUFFIX,tigerbrokers.com
-DOMAIN-SUFFIX,tigerbrokers.net
 DOMAIN-SUFFIX,tigerdns.com
 DOMAIN-SUFFIX,tigeresop.com
-DOMAIN-SUFFIX,tigerfintech.com
 DOMAIN-SUFFIX,tigermed.net
 DOMAIN-SUFFIX,tigermedgrp.com
 DOMAIN-SUFFIX,tigersecurities.com
@@ -92104,6 +92105,7 @@ DOMAIN-SUFFIX,uniostay.com
 DOMAIN-SUFFIX,uniow.com
 DOMAIN-SUFFIX,unipack-tech.com
 DOMAIN-SUFFIX,uniproud.com
+DOMAIN-SUFFIX,unisapps.com
 DOMAIN-SUFFIX,uniscope.com
 DOMAIN-SUFFIX,unisdigital.com
 DOMAIN-SUFFIX,unisedu.com
@@ -108755,7 +108757,6 @@ DOMAIN-SUFFIX,zhijia.com
 DOMAIN-SUFFIX,zhijian114.com
 DOMAIN-SUFFIX,zhijianbao.com
 DOMAIN-SUFFIX,zhijianchuhai.com
-DOMAIN-SUFFIX,zhijianfengyi.com
 DOMAIN-SUFFIX,zhijiangames.com
 DOMAIN-SUFFIX,zhijiannuoche.com
 DOMAIN-SUFFIX,zhijiaow.com

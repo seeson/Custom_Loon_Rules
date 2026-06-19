@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 96
-# DOMAIN-SUFFIX: 25976
-# TOTAL: 26072
+# DOMAIN-SUFFIX: 26005
+# TOTAL: 26101
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -685,6 +685,7 @@ DOMAIN-SUFFIX,9k6v4y.cyou
 DOMAIN-SUFFIX,9nation.com.au
 DOMAIN-SUFFIX,9news.com.au
 DOMAIN-SUFFIX,9now.com.au
+DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com
 DOMAIN-SUFFIX,9tak-nav.buzz
 DOMAIN-SUFFIX,9to5google.com
 DOMAIN-SUFFIX,9to5mac.com
@@ -1906,6 +1907,7 @@ DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,api-secure.recaptcha.net
 DOMAIN-SUFFIX,api-verify.recaptcha.net
 DOMAIN-SUFFIX,api.ai
+DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,api.news
 DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,api.recaptcha.net
@@ -3616,6 +3618,7 @@ DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
+DOMAIN-SUFFIX,bilinovel.com
 DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,bill-safe.com
@@ -5248,6 +5251,7 @@ DOMAIN-SUFFIX,cfl.re
 DOMAIN-SUFFIX,cfna.com
 DOMAIN-SUFFIX,cfr.org
 DOMAIN-SUFFIX,cfwives.com
+DOMAIN-SUFFIX,cg.play-analytics.com
 DOMAIN-SUFFIX,cgdepot.org
 DOMAIN-SUFFIX,ch9.ms
 DOMAIN-SUFFIX,chainid.network
@@ -9452,9 +9456,21 @@ DOMAIN-SUFFIX,futanarihq.com
 DOMAIN-SUFFIX,futhead.com
 DOMAIN-SUFFIX,futpromos.com
 DOMAIN-SUFFIX,futu.cn
+DOMAIN-SUFFIX,futu.com
 DOMAIN-SUFFIX,futu.link
+DOMAIN-SUFFIX,futu0.com
+DOMAIN-SUFFIX,futu1.com
+DOMAIN-SUFFIX,futu2.com
+DOMAIN-SUFFIX,futu3.com
+DOMAIN-SUFFIX,futu4.com
 DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futu6.com
+DOMAIN-SUFFIX,futu7.com
+DOMAIN-SUFFIX,futu8.com
+DOMAIN-SUFFIX,futu9.com
 DOMAIN-SUFFIX,futuau.com
+DOMAIN-SUFFIX,futubull.cn
+DOMAIN-SUFFIX,futuchain.com
 DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,futufin.com
 DOMAIN-SUFFIX,futuhk.com
@@ -9463,6 +9479,7 @@ DOMAIN-SUFFIX,futuhk2.com
 DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,futuhn.com
 DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuinc.com
 DOMAIN-SUFFIX,futunited.com
 DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,futunn.com
@@ -9476,6 +9493,7 @@ DOMAIN-SUFFIX,futureshop.ca
 DOMAIN-SUFFIX,futusg.com
 DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,fuxporn.com
 DOMAIN-SUFFIX,fuzokudx.com
 DOMAIN-SUFFIX,fw.cm
@@ -14093,6 +14111,7 @@ DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longmabook.com
 DOMAIN-SUFFIX,longmabookcn.com
 DOMAIN-SUFFIX,longman.ch
+DOMAIN-SUFFIX,longportapp.cn
 DOMAIN-SUFFIX,longportapp.com
 DOMAIN-SUFFIX,longtailvideo.com
 DOMAIN-SUFFIX,longtermly.net
@@ -19843,6 +19862,7 @@ DOMAIN-SUFFIX,schiffvitamins.com
 DOMAIN-SUFFIX,scholarpedia.org
 DOMAIN-SUFFIX,schwab.co.uk
 DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.cn
 DOMAIN-SUFFIX,schwab.com.hk
 DOMAIN-SUFFIX,schwab.com.sg
 DOMAIN-SUFFIX,schwabassetmanagement.com
@@ -20213,6 +20233,7 @@ DOMAIN-SUFFIX,sg120.me
 DOMAIN-SUFFIX,sg1lib.org
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,sgp1.fun
+DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
 DOMAIN-SUFFIX,sgr.com.br
 DOMAIN-SUFFIX,sgspe.de
 DOMAIN-SUFFIX,sgspt.buzz
@@ -20368,6 +20389,7 @@ DOMAIN-SUFFIX,shoppinguheadphones.com
 DOMAIN-SUFFIX,shops-disney.com
 DOMAIN-SUFFIX,shopspeedtv.com
 DOMAIN-SUFFIX,shoptraivip.com
+DOMAIN-SUFFIX,shortconn.im.qcloud.com
 DOMAIN-SUFFIX,shorturl.at
 DOMAIN-SUFFIX,shotgridsoftware.com
 DOMAIN-SUFFIX,shotgridstudio.com
@@ -22104,6 +22126,10 @@ DOMAIN-SUFFIX,tiffany-towers.com
 DOMAIN-SUFFIX,tig-ol-bitties.live
 DOMAIN-SUFFIX,tigerbbs.cn
 DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,tigerbrokers.net
+DOMAIN-SUFFIX,tigerbrokers.nz
+DOMAIN-SUFFIX,tigerfintech.com
 DOMAIN-SUFFIX,tigervpn.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok-minis.com
@@ -22334,6 +22360,7 @@ DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,tracking-location.com
+DOMAIN-SUFFIX,tradeup.com
 DOMAIN-SUFFIX,tradevip1.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,trae.ai
@@ -25949,6 +25976,8 @@ DOMAIN-SUFFIX,zhao.1984.city
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhenxiang.biz
+DOMAIN-SUFFIX,zhijianfengyi.cn
+DOMAIN-SUFFIX,zhijianfengyi.com
 DOMAIN-SUFFIX,zhimeishe888.com
 DOMAIN-SUFFIX,zhizhu.top
 DOMAIN-SUFFIX,zhongguo.ca
