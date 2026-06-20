@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 96
+# DOMAIN: 97
 # DOMAIN-SUFFIX: 26005
-# TOTAL: 26101
+# TOTAL: 26102
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -34,6 +34,7 @@ DOMAIN,faronics.kayako.com
 DOMAIN,firstsearch.oclc.org
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,holoxx.f5.si
 DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,hub.slarker.me
