@@ -1,9 +1,9 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-21 07:59:20
-# TOTAL: 287
-# DOMAIN: 226
+# UPDATED: 2026-06-22 08:03:35
+# TOTAL: 288
+# DOMAIN: 227
 # DOMAIN-SUFFIX: 61
 
 DOMAIN-SUFFIX,apple.cn
@@ -209,6 +209,7 @@ DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
+DOMAIN,mensura.cdn-apple.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com

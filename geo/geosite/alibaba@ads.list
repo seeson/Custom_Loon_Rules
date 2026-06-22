@@ -1,7 +1,7 @@
 # NAME: alibaba@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-21 07:59:14
+# UPDATED: 2026-06-22 08:03:26
 # TOTAL: 87
 # DOMAIN-SUFFIX: 87
 
@@ -34,8 +34,6 @@ DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
-DOMAIN-SUFFIX,ads.uc.cn
-DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -69,6 +67,8 @@ DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
+DOMAIN-SUFFIX,ads.uc.cn
+DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com

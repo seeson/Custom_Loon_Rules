@@ -1,10 +1,10 @@
 # NAME: azure
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-21 07:59:24
-# TOTAL: 144
+# UPDATED: 2026-06-22 08:03:41
+# TOTAL: 148
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 142
+# DOMAIN-SUFFIX: 146
 
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
 DOMAIN-SUFFIX,azure-connectedvehicles.cn
 DOMAIN-SUFFIX,azure-devices-provisioning.cn
 DOMAIN-SUFFIX,azure-devices.cn
+DOMAIN-SUFFIX,azure-mobile.cn
 DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,azurecr-test.cn
 DOMAIN-SUFFIX,azurecr.cn
@@ -115,9 +116,12 @@ DOMAIN-SUFFIX,mschcdn.com
 DOMAIN-SUFFIX,msftcloudes.cn
 DOMAIN-SUFFIX,msidentity.cn
 DOMAIN-SUFFIX,msidlabpbmc.cn
+DOMAIN-SUFFIX,sovcloud-mx.cn
+DOMAIN-SUFFIX,sovcloud-static.cn
+DOMAIN-SUFFIX,sovcloud-usercontent.cn
+DOMAIN-SUFFIX,sovcloud.cn
 DOMAIN-SUFFIX,trafficmanager.cn
 DOMAIN-SUFFIX,trustcenter.cn
-DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,windowsazure.cn
 DOMAIN-SUFFIX,windowsazurestatus.cn
 DOMAIN-SUFFIX,azchcdna.com
