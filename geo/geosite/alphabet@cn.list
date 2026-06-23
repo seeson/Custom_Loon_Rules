@@ -1,7 +1,7 @@
 # NAME: alphabet@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-23 07:59:51
+# UPDATED: 2026-06-24 07:48:59
 # TOTAL: 126
 # DOMAIN: 114
 # DOMAIN-SUFFIX: 10
@@ -118,6 +118,7 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,update.crashlytics.com
@@ -131,4 +132,3 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN-SUFFIX,ggpht.cn
