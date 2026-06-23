@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 97
-# DOMAIN-SUFFIX: 26007
-# TOTAL: 26104
+# DOMAIN: 96
+# DOMAIN-SUFFIX: 26018
+# TOTAL: 26114
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -24,7 +24,6 @@ DOMAIN,cisco.evergage.com
 DOMAIN,crl.versign.net
 DOMAIN,databank.worldbank.org
 DOMAIN,datarouter.apps.netherrealm.com
-DOMAIN,default.exp-tas.com
 DOMAIN,deribit.cdn.prismic.io
 DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,dl.begellhouse.com
@@ -1505,6 +1504,7 @@ DOMAIN-SUFFIX,allpornsitespass.com
 DOMAIN-SUFFIX,allspyclips.com
 DOMAIN-SUFFIX,allswingersclubs.org
 DOMAIN-SUFFIX,allthefallen.moe
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,alohatube.com
 DOMAIN-SUFFIX,alotporn.com
 DOMAIN-SUFFIX,alphabet.asia
@@ -4744,6 +4744,7 @@ DOMAIN-SUFFIX,bustynudebabes.com
 DOMAIN-SUFFIX,bustyoldsluts.com
 DOMAIN-SUFFIX,bustysammieblack.com
 DOMAIN-SUFFIX,busu.org
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,buy-from-shanghai.com
 DOMAIN-SUFFIX,buyaapl.com
 DOMAIN-SUFFIX,buyaapl.net
@@ -8128,6 +8129,7 @@ DOMAIN-SUFFIX,exmormon.org
 DOMAIN-SUFFIX,exoav.com
 DOMAIN-SUFFIX,exotic-ghana.com
 DOMAIN-SUFFIX,exoticuganda.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,expatshield.com
 DOMAIN-SUFFIX,expecthim.com
 DOMAIN-SUFFIX,expekt.com
@@ -9922,6 +9924,7 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitgud.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -13905,6 +13908,7 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,licenseparser.com
 DOMAIN-SUFFIX,life-global.org
+DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,lifemiles.com
 DOMAIN-SUFFIX,lifeselector.com
 DOMAIN-SUFFIX,lifestyle-tec.ru
@@ -14410,6 +14414,7 @@ DOMAIN-SUFFIX,manhuntdaily.com
 DOMAIN-SUFFIX,manhwa24h.com
 DOMAIN-SUFFIX,manhwahentai.me
 DOMAIN-SUFFIX,maniakey.homes
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,manorama.com
 DOMAIN-SUFFIX,manoramanews.com
 DOMAIN-SUFFIX,manoramaonline.com
@@ -19456,6 +19461,7 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rocksextube.com
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,rojo.com
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
@@ -20974,6 +20980,7 @@ DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,spraynwash.com
 DOMAIN-SUFFIX,spreadprivacy.com
@@ -23952,7 +23959,10 @@ DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,vsemrabota.ru
 DOMAIN-SUFFIX,vsex.in
 DOMAIN-SUFFIX,vsezoo.com
