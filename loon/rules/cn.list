@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 111852
-# TOTAL: 111857
+# DOMAIN-SUFFIX: 111853
+# TOTAL: 111858
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -30343,6 +30343,7 @@ DOMAIN-SUFFIX,downke.com
 DOMAIN-SUFFIX,downkr.com
 DOMAIN-SUFFIX,downkuai.com
 DOMAIN-SUFFIX,download.microsoft.com
+DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,downloadcenter.samsung.com
 DOMAIN-SUFFIX,downloads.ltd
