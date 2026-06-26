@@ -1,7 +1,7 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-25 07:59:52
+# UPDATED: 2026-06-26 08:04:53
 # TOTAL: 105
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 103
@@ -9,7 +9,7 @@
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
 DOMAIN-SUFFIX,safeskill.cn
-DOMAIN-SUFFIX,doubaocdn.com
+DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,antafu.com
 DOMAIN-SUFFIX,antaq.com
 DOMAIN-SUFFIX,dumate.cn
 DOMAIN-SUFFIX,miaoda.cn
-DOMAIN-SUFFIX,diandianlife.top
+DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,mcpworld.com
 DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
@@ -33,16 +33,16 @@ DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,xiaomimimo.com
 DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
-DOMAIN-SUFFIX,miaibox.com
-DOMAIN-SUFFIX,liblib.art
-DOMAIN-SUFFIX,yoma.cn
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,n.cn
@@ -58,9 +58,11 @@ DOMAIN-SUFFIX,dui.ai
 DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,skillhub.cn
-DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,tapnow.top
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,butterfly-static.cn
 DOMAIN-SUFFIX,butterflyai.cn
@@ -82,9 +84,9 @@ DOMAIN-SUFFIX,cozetest3.cn
 DOMAIN-SUFFIX,dbbuilding.fun
 DOMAIN-SUFFIX,building.fun
 DOMAIN-SUFFIX,instreet.com
-DOMAIN-SUFFIX,doubao-dev.com
-DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,maoxiangai.com
 DOMAIN-SUFFIX,myparallelstory.com
@@ -100,14 +102,12 @@ DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mcprev.cn
-DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,trae.cn
-DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yuanqi.tencent.com
-DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,yuanbao.tencent.com
 DOMAIN-SUFFIX,hunyuan.tencent.com
 DOMAIN-SUFFIX,xinghuo.xfyun.cn
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yiyan.baidu.com
 DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,qianwen.aliyun.com

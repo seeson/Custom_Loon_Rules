@@ -1,16 +1,16 @@
 # NAME: category-mobile-repair
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-25 08:00:14
+# UPDATED: 2026-06-26 08:05:21
 # TOTAL: 9
 # DOMAIN-SUFFIX: 9
 
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,unlocktool.net
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com
 DOMAIN-SUFFIX,borneo.world
 DOMAIN-SUFFIX,borneoasia.com
 DOMAIN-SUFFIX,borneoschematic.com
 DOMAIN-SUFFIX,bosharso.net
 DOMAIN-SUFFIX,hostborneo.org
-DOMAIN-SUFFIX,easy-jtag.com
-DOMAIN-SUFFIX,z3x-team.com
