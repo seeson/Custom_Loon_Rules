@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 18
-# DOMAIN-SUFFIX: 222
-# TOTAL: 240
+# DOMAIN-SUFFIX: 223
+# TOTAL: 241
 
 DOMAIN,cdn-cn.apple-mapkit.com
 DOMAIN,certs-lb.apple.com.akadns.net
@@ -139,6 +139,7 @@ DOMAIN-SUFFIX,guzzoni.smoot.apple.com
 DOMAIN-SUFFIX,homepod.cn
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
