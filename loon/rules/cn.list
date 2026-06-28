@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 111887
-# TOTAL: 111892
+# DOMAIN-SUFFIX: 111886
+# TOTAL: 111891
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -58770,7 +58770,6 @@ DOMAIN-SUFFIX,kscdns.com
 DOMAIN-SUFFIX,kschuangku.com
 DOMAIN-SUFFIX,kscloudapi.com
 DOMAIN-SUFFIX,ksco.cc
-DOMAIN-SUFFIX,kscord.com
 DOMAIN-SUFFIX,ksdedu.com
 DOMAIN-SUFFIX,ksdhgy.com
 DOMAIN-SUFFIX,ksecit.com
