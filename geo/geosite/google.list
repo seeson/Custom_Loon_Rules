@@ -1,10 +1,10 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-25 05:15:21
+# UPDATED: 2026-06-29 04:50:20
 # DOMAIN: 233
-# DOMAIN-SUFFIX: 835
-# TOTAL: 1068
+# DOMAIN-SUFFIX: 836
+# TOTAL: 1069
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -379,6 +379,7 @@ DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromebook.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
