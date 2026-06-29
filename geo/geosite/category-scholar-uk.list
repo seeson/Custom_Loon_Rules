@@ -1,35 +1,25 @@
 # NAME: category-scholar-uk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-29 08:02:15
+# UPDATED: 2026-06-30 07:56:30
 # TOTAL: 38
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 37
 
 DOMAIN,imperial.insendi.com
-DOMAIN-SUFFIX,oxfordlawtrove.com
-DOMAIN-SUFFIX,cambridgedigital.net
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
-DOMAIN-SUFFIX,oxfordartonline.com
-DOMAIN-SUFFIX,cambridgemaths.org
-DOMAIN-SUFFIX,opac-project.eu
-DOMAIN-SUFFIX,livinno.org
-DOMAIN-SUFFIX,universitypressscholarship.com
-DOMAIN-SUFFIX,imperialbusiness.school
-DOMAIN-SUFFIX,ukwhoswho.com
-DOMAIN-SUFFIX,oxfordaasc.com
-DOMAIN-SUFFIX,oxfordfirstsource.com
-DOMAIN-SUFFIX,ac.uk
+DOMAIN-SUFFIX,oxfordreference.com
 DOMAIN-SUFFIX,amamanualofstyle.com
+DOMAIN-SUFFIX,oxfordscholarlyeditions.com
+DOMAIN-SUFFIX,oxfordre.com
 DOMAIN-SUFFIX,epigeum.com
 DOMAIN-SUFFIX,oxfordhandbooks.com
 DOMAIN-SUFFIX,omscr.com
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ouplaw.com
 DOMAIN-SUFFIX,veryshortintroductions.com
-DOMAIN-SUFFIX,sipriyearbook.org
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,oxfordscholarlyeditions.com
+DOMAIN-SUFFIX,oxfordpoliticstrove.com
+DOMAIN-SUFFIX,oxfordartonline.com
+DOMAIN-SUFFIX,ac.uk
 DOMAIN-SUFFIX,oxfordclinicalpsych.com
 DOMAIN-SUFFIX,oxforddnb.com
 DOMAIN-SUFFIX,blackstonespoliceservice.com
@@ -37,10 +27,20 @@ DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,oxfordbibliographies.com
 DOMAIN-SUFFIX,oxfordmedicine.com
 DOMAIN-SUFFIX,oxfordmusiconline.com
-DOMAIN-SUFFIX,oxfordpoliticstrove.com
-DOMAIN-SUFFIX,oxfordre.com
-DOMAIN-SUFFIX,oxfordreference.com
+DOMAIN-SUFFIX,oxfordaasc.com
+DOMAIN-SUFFIX,oxfordfirstsource.com
+DOMAIN-SUFFIX,oxfordlawtrove.com
 DOMAIN-SUFFIX,anb.org
 DOMAIN-SUFFIX,oxfordscholarship.com
 DOMAIN-SUFFIX,oxfordwesternmusic.com
+DOMAIN-SUFFIX,sipriyearbook.org
+DOMAIN-SUFFIX,ukwhoswho.com
+DOMAIN-SUFFIX,universitypressscholarship.com
+DOMAIN-SUFFIX,imperialbusiness.school
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu
+DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,cambridgedigital.net
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
 DOMAIN-SUFFIX,dlib.eastview.com

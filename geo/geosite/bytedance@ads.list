@@ -1,7 +1,7 @@
 # NAME: bytedance@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-06-29 08:01:39
+# UPDATED: 2026-06-30 07:55:36
 # TOTAL: 42
 # DOMAIN: 15
 # DOMAIN-SUFFIX: 27
@@ -32,7 +32,6 @@ DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shoppingads.cn
-DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -48,3 +47,4 @@ DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN-SUFFIX,analytics.tiktok.com
