@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 96
-# DOMAIN-SUFFIX: 26052
-# TOTAL: 26148
+# DOMAIN-SUFFIX: 26054
+# TOTAL: 26150
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -5916,6 +5916,7 @@ DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,coova.net
 DOMAIN-SUFFIX,coova.org
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copro.pw
 DOMAIN-SUFFIX,copy-manga.com
 DOMAIN-SUFFIX,copy20.com
@@ -24216,6 +24217,7 @@ DOMAIN-SUFFIX,webpass.net
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,websdr.org
+DOMAIN-SUFFIX,webshare.io
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,webtoonscorp.com

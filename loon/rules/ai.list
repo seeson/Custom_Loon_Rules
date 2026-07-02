@@ -2,10 +2,10 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
-# DOMAIN: 23
+# DOMAIN: 24
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 146
-# TOTAL: 172
+# DOMAIN-SUFFIX: 147
+# TOTAL: 174
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -21,6 +21,7 @@ DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -71,6 +72,7 @@ DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,crewai.com
