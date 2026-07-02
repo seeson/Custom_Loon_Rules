@@ -1,9 +1,9 @@
 # NAME: yt
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-01 08:01:15
-# TOTAL: 125
-# IP-CIDR: 125
+# UPDATED: 2026-07-02 08:03:55
+# TOTAL: 124
+# IP-CIDR: 124
 
 IP-CIDR,5.57.96.0/20
 IP-CIDR,5.102.72.0/24
@@ -127,6 +127,5 @@ IP-CIDR,2a09:bac4:17a0::/45
 IP-CIDR,2a09:bac5:d4a8::/45
 IP-CIDR,2a09:bac6:d4a8::/45
 IP-CIDR,2a0b:4e07:3:1750::/60
-IP-CIDR,2a13:a5c7:25f6::/48
 IP-CIDR,2a14:2d45:f400::/40
 IP-CIDR,2c0f:3781::/32

@@ -1,16 +1,16 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-01 07:59:23
-# TOTAL: 308
+# UPDATED: 2026-07-02 08:01:53
+# TOTAL: 309
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 300
+# DOMAIN-SUFFIX: 301
 
 DOMAIN,sberpro.vedomosti.ru
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
-DOMAIN-SUFFIX,jivochat.ng
-DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.com
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bankermak.ru
 DOMAIN-SUFFIX,bfa.ru
+DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,bm-bank.ru
 DOMAIN-SUFFIX,bspb.ru
 DOMAIN-SUFFIX,commerzbank.ru
@@ -120,7 +121,7 @@ DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
 DOMAIN-SUFFIX,sbercloud.ru
-DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
 DOMAIN-SUFFIX,sberfactoring.ru
@@ -131,7 +132,7 @@ DOMAIN-SUFFIX,sberhealth.ru
 DOMAIN-SUFFIX,sberleasing.ru
 DOMAIN-SUFFIX,sberlogistics.ru
 DOMAIN-SUFFIX,sbermegamarket.ru
-DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,sberpb.ru
 DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,okko.sport
@@ -143,11 +144,11 @@ DOMAIN-SUFFIX,eapteka.ru
 DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,kuper.ru
 DOMAIN-SUFFIX,restnproducts.ru
-DOMAIN-SUFFIX,samokat.ru
+DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,jivo.chat
-DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivo.ru
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,jivosite.ru
@@ -155,12 +156,12 @@ DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sberbankaktivno.ru
 DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,sbercloud.tech
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,sbermobile.ru
 DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,t-bank-app.su
-DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,jivosite.com
-DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.ng
 DOMAIN-SUFFIX,payecom.ru
 DOMAIN-SUFFIX,platiecom.ru
 DOMAIN-SUFFIX,otello.ru
@@ -255,7 +256,7 @@ DOMAIN-SUFFIX,sage-observability.tech
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru
-DOMAIN-SUFFIX,alfa.me
+DOMAIN-SUFFIX,t-bank-app.su
 DOMAIN-SUFFIX,t-bank.by
 DOMAIN-SUFFIX,t-calls.ru
 DOMAIN-SUFFIX,t-capital-funds.ru

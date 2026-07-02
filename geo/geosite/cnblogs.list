@@ -1,12 +1,13 @@
 # NAME: cnblogs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-01 08:00:11
-# TOTAL: 7
-# DOMAIN-SUFFIX: 7
+# UPDATED: 2026-07-02 08:02:44
+# TOTAL: 8
+# DOMAIN-SUFFIX: 8
 
 DOMAIN-SUFFIX,blogjava.net
 DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,cnblogs.vip
 DOMAIN-SUFFIX,cnitblog.com
 DOMAIN-SUFFIX,cnweblog.com
 DOMAIN-SUFFIX,cppblog.com
