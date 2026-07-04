@@ -1,15 +1,16 @@
 # NAME: azure
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-04 07:57:23
-# TOTAL: 148
+# UPDATED: 2026-07-05 07:53:59
+# TOTAL: 150
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 146
+# DOMAIN-SUFFIX: 148
 
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,aadrm.com
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-devices-int.net
 DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-mobile.net
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,azureplanetscale.net
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,cosmosdb.info
