@@ -1,10 +1,10 @@
 # NAME: microsoft
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-04 04:50:55
+# UPDATED: 2026-07-06 04:44:30
 # DOMAIN: 114
-# DOMAIN-SUFFIX: 628
-# TOTAL: 742
+# DOMAIN-SUFFIX: 630
+# TOTAL: 744
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -169,6 +169,7 @@ DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -232,6 +233,7 @@ DOMAIN-SUFFIX,azuresandbox.cn
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b2clogin.cn
 DOMAIN-SUFFIX,b3itech.cn
