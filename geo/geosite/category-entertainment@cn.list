@@ -1,54 +1,11 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-06 07:58:11
+# UPDATED: 2026-07-07 08:00:47
 # TOTAL: 91
 # DOMAIN: 48
 # DOMAIN-SUFFIX: 41
 
-DOMAIN-SUFFIX,ggpht.cn
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,csgo.com.cn
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dota2.com.cn
-DOMAIN-SUFFIX,dota2.wmsj.cn
-DOMAIN-SUFFIX,wmsjsteam.com
-DOMAIN-SUFFIX,client-update.queniuqe.com
-DOMAIN-SUFFIX,dl.steam.clngaa.com
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,steamstatic.com.8686c.com
-DOMAIN,alibaba.cdn.steampipe.steamcontent.com
-DOMAIN,lv.queniujq.cn
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN,gog.qtlglb.com
-DOMAIN-SUFFIX,yostar.cn
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN-SUFFIX,legendofzelda.cn
-DOMAIN-SUFFIX,legendofzelda.com.cn
-DOMAIN-SUFFIX,miitomo.com.cn
-DOMAIN-SUFFIX,nintendolabo.cn
-DOMAIN-SUFFIX,nintendoswitch.cn
-DOMAIN-SUFFIX,nintendoswitch.com.cn
-DOMAIN-SUFFIX,supersmashbros.cn
-DOMAIN-SUFFIX,supersmashbros.com.cn
-DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
-DOMAIN-SUFFIX,mariokart.cn
-DOMAIN-SUFFIX,mariokart.com.cn
-DOMAIN-SUFFIX,supermariobros.com.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
@@ -97,3 +54,46 @@ DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,csgo.com.cn
+DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.com.cn
+DOMAIN-SUFFIX,dota2.wmsj.cn
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,client-update.queniuqe.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,steampowered.com.8686c.com
+DOMAIN-SUFFIX,steamstatic.com.8686c.com
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-SUFFIX,legendofzelda.cn
+DOMAIN-SUFFIX,legendofzelda.com.cn
+DOMAIN-SUFFIX,miitomo.com.cn
+DOMAIN-SUFFIX,nintendolabo.cn
+DOMAIN-SUFFIX,nintendoswitch.cn
+DOMAIN-SUFFIX,nintendoswitch.com.cn
+DOMAIN-SUFFIX,supersmashbros.cn
+DOMAIN-SUFFIX,supersmashbros.com.cn
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+DOMAIN-SUFFIX,mariokart.cn
+DOMAIN-SUFFIX,mariokart.com.cn
+DOMAIN-SUFFIX,supermariobros.com.cn
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
