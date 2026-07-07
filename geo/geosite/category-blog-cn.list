@@ -1,9 +1,9 @@
 # NAME: category-blog-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-07 08:00:32
-# TOTAL: 21
-# DOMAIN-SUFFIX: 21
+# UPDATED: 2026-07-08 07:49:01
+# TOTAL: 23
+# DOMAIN-SUFFIX: 23
 
 DOMAIN-SUFFIX,114blog.com
 DOMAIN-SUFFIX,4thworkshop.cn
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,aloys233.top
 DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,huangyuhui.net
 DOMAIN-SUFFIX,lg3000.top
+DOMAIN-SUFFIX,lovestu.com
 DOMAIN-SUFFIX,misaka-net.top
 DOMAIN-SUFFIX,moliranran.com
 DOMAIN-SUFFIX,mryys.cn
@@ -25,4 +26,5 @@ DOMAIN-SUFFIX,tai3.cn
 DOMAIN-SUFFIX,tianhw.top
 DOMAIN-SUFFIX,topwd.top
 DOMAIN-SUFFIX,vtdd.vip
+DOMAIN-SUFFIX,xrbk.cn
 DOMAIN-SUFFIX,zway.top

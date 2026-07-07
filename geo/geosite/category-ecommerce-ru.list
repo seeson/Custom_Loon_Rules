@@ -1,13 +1,18 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-07 08:00:41
-# TOTAL: 176
+# UPDATED: 2026-07-08 07:49:14
+# TOTAL: 181
 # DOMAIN: 34
-# DOMAIN-SUFFIX: 142
+# DOMAIN-SUFFIX: 147
 
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ozon.travel
 DOMAIN-SUFFIX,ozonstatus.ru
 DOMAIN-SUFFIX,ozoncard.ru
