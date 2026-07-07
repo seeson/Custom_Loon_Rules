@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 28
-# DOMAIN-SUFFIX: 298
-# TOTAL: 326
+# DOMAIN-SUFFIX: 310
+# TOTAL: 338
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
@@ -34,6 +34,8 @@ DOMAIN,ubisoftconnect.eo-edgefunctions7.com
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
@@ -220,10 +222,14 @@ DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nikkigames.cn
+DOMAIN-SUFFIX,nikkigames.com.cn
 DOMAIN-SUFFIX,nn.com
 DOMAIN-SUFFIX,nnbooster.com
 DOMAIN-SUFFIX,nzsiteres.com
 DOMAIN-SUFFIX,oojsq.com
+DOMAIN-SUFFIX,papegames.cn
+DOMAIN-SUFFIX,papegames.com
 DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
 DOMAIN-SUFFIX,phira.cn
 DOMAIN-SUFFIX,playcool.com
@@ -266,6 +272,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,supercellcommunity.cn
 DOMAIN-SUFFIX,supercellsupport.cn
 DOMAIN-SUFFIX,syxlgame.com
+DOMAIN-SUFFIX,tanwan.com
 DOMAIN-SUFFIX,tcfmglobal.com
 DOMAIN-SUFFIX,tencent-gcloud.com
 DOMAIN-SUFFIX,tencentstart.com
@@ -282,6 +289,8 @@ DOMAIN-SUFFIX,timibase.com
 DOMAIN-SUFFIX,tmjiasuqi.com
 DOMAIN-SUFFIX,tuer123.com
 DOMAIN-SUFFIX,tuyoo.com
+DOMAIN-SUFFIX,twyx.cn
+DOMAIN-SUFFIX,twyxh.com
 DOMAIN-SUFFIX,uu.163.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,vrzwk.cn
@@ -314,6 +323,8 @@ DOMAIN-SUFFIX,xxghh.biz
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yebaojiasu.com
 DOMAIN-SUFFIX,yeshen.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com
 DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,yjwujian.cn
 DOMAIN-SUFFIX,yokaverse.com
@@ -332,3 +343,4 @@ DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,zhuoyuegame.com
 DOMAIN-SUFFIX,zjshulong.com
+DOMAIN-SUFFIX,zx.com

@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 111731
-# TOTAL: 111736
+# DOMAIN-SUFFIX: 111733
+# TOTAL: 111738
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -91034,6 +91034,7 @@ DOMAIN-SUFFIX,twtstudio.com
 DOMAIN-SUFFIX,twty.vip
 DOMAIN-SUFFIX,twwtn.com
 DOMAIN-SUFFIX,twyuxin.com
+DOMAIN-SUFFIX,twyxh.com
 DOMAIN-SUFFIX,twyxi.com
 DOMAIN-SUFFIX,twzilla.com
 DOMAIN-SUFFIX,twzui6.com
@@ -111262,6 +111263,7 @@ DOMAIN-SUFFIX,zwzsh.net
 DOMAIN-SUFFIX,zwzyzx.com
 DOMAIN-SUFFIX,zx-tour.com
 DOMAIN-SUFFIX,zx-xcx.com
+DOMAIN-SUFFIX,zx.com
 DOMAIN-SUFFIX,zx0093.com
 DOMAIN-SUFFIX,zx017.com
 DOMAIN-SUFFIX,zx017.net
