@@ -1,17 +1,8 @@
 # NAME: 1337x
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:48:19
-# TOTAL: 10
-# DOMAIN-SUFFIX: 10
+# UPDATED: 2026-07-09 08:00:20
+# TOTAL: 2
 
-DOMAIN-SUFFIX,1337x.to
-DOMAIN-SUFFIX,1337x.gd
-DOMAIN-SUFFIX,1337x.is
-DOMAIN-SUFFIX,1337x.st
-DOMAIN-SUFFIX,1337x.tw
-DOMAIN-SUFFIX,1337xto.to
-DOMAIN-SUFFIX,1337xx.to
-DOMAIN-SUFFIX,x1337x.eu
-DOMAIN-SUFFIX,x1337x.se
-DOMAIN-SUFFIX,x1337x.ws
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

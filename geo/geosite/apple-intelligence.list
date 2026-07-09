@@ -1,12 +1,8 @@
 # NAME: apple-intelligence
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:48:39
-# TOTAL: 5
-# DOMAIN: 5
+# UPDATED: 2026-07-09 08:03:51
+# TOTAL: 2
 
-DOMAIN,apple-relay.apple.com
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,apple-relay.mask.apple-dns.net
-DOMAIN,gspe1-ssl.ls.apple.com
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

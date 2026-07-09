@@ -1,13 +1,8 @@
 # NAME: cheetahmobile
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:49:48
-# TOTAL: 6
-# DOMAIN-SUFFIX: 6
+# UPDATED: 2026-07-09 08:11:49
+# TOTAL: 2
 
-DOMAIN-SUFFIX,cmcm.com
-DOMAIN-SUFFIX,cmcmcdn.com
-DOMAIN-SUFFIX,liebao.cn
-DOMAIN-SUFFIX,duba.com
-DOMAIN-SUFFIX,duba.net
-DOMAIN-SUFFIX,ijinshan.com
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

@@ -1,20 +1,8 @@
 # NAME: alibabacloud
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:48:33
-# TOTAL: 12
-# DOMAIN: 4
-# DOMAIN-SUFFIX: 8
+# UPDATED: 2026-07-09 08:02:30
+# TOTAL: 2
 
-DOMAIN-SUFFIX,alibabacloud.co.in
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabacloud.com.au
-DOMAIN-SUFFIX,alibabacloud.com.hk
-DOMAIN-SUFFIX,alibabacloud.com.my
-DOMAIN-SUFFIX,alibabacloud.com.sg
-DOMAIN-SUFFIX,alibabacloud.com.tw
-DOMAIN-SUFFIX,alicloud.com
-DOMAIN,account-cn.alibabacloud.com
-DOMAIN,api.alibabacloud.com
-DOMAIN,cn.alibabacloud.com
-DOMAIN,status.alibabacloud.com
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

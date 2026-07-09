@@ -1,10 +1,8 @@
 # NAME: 17zuoye
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:48:19
-# TOTAL: 3
-# DOMAIN-SUFFIX: 3
+# UPDATED: 2026-07-09 08:00:24
+# TOTAL: 2
 
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.net
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

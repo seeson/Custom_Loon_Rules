@@ -1,13 +1,13 @@
 # NAME: category-dev-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:49:11
+# UPDATED: 2026-07-09 08:08:45
 # TOTAL: 6
 # DOMAIN-SUFFIX: 6
 
-DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
 DOMAIN-SUFFIX,splash-ads.unitychina.cn
 DOMAIN-SUFFIX,unityads.unity.cn
 DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,badjs.weixinbridge.com

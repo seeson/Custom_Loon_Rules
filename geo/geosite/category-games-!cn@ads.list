@@ -1,9 +1,9 @@
 # NAME: category-games-!cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:49:18
+# UPDATED: 2026-07-09 08:09:53
 # TOTAL: 2
 # DOMAIN-SUFFIX: 2
 
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,insights-collector.gog.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

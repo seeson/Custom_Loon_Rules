@@ -1,18 +1,8 @@
 # NAME: biliintl
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:48:47
-# TOTAL: 11
-# DOMAIN-SUFFIX: 11
+# UPDATED: 2026-07-09 08:05:09
+# TOTAL: 2
 
-DOMAIN-SUFFIX,bstarstatic.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,apm-misaka.biliapi.net
-DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
-DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,upos-sz-mirrorcosbstar1.bilivideo.com
-DOMAIN-SUFFIX,upos-sz-mirroralibstar1.bilivideo.com
-DOMAIN-SUFFIX,app.global.bilibili.com
-DOMAIN-SUFFIX,api.global.bilibili.com
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

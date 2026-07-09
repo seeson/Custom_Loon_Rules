@@ -1,40 +1,8 @@
 # NAME: chaoxing
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-08 07:49:47
-# TOTAL: 33
-# DOMAIN-SUFFIX: 33
+# UPDATED: 2026-07-09 08:11:40
+# TOTAL: 2
 
-DOMAIN-SUFFIX,ssreader.cn
-DOMAIN-SUFFIX,dayainfo.com
-DOMAIN-SUFFIX,aichaoxing.com
-DOMAIN-SUFFIX,16q.cn
-DOMAIN-SUFFIX,chaoxing.com
-DOMAIN-SUFFIX,chaoxingv.com
-DOMAIN-SUFFIX,cxbiji.com
-DOMAIN-SUFFIX,zhihang100.com
-DOMAIN-SUFFIX,hongbo100.com
-DOMAIN-SUFFIX,lnlib.net
-DOMAIN-SUFFIX,mndqlib.net
-DOMAIN-SUFFIX,mti100.com
-DOMAIN-SUFFIX,nihaoafrica.org
-DOMAIN-SUFFIX,ssvideo.cn
-DOMAIN-SUFFIX,sslawy.com
-DOMAIN-SUFFIX,sslibrary.com
-DOMAIN-SUFFIX,chaoxing.cc
-DOMAIN-SUFFIX,5read.com
-DOMAIN-SUFFIX,nihaorwanda.cn
-DOMAIN-SUFFIX,zaifan.com
-DOMAIN-SUFFIX,ylike.net
-DOMAIN-SUFFIX,superlib.com
-DOMAIN-SUFFIX,superlib.net
-DOMAIN-SUFFIX,uonline-sh.com
-DOMAIN-SUFFIX,uonline-sh.net
-DOMAIN-SUFFIX,xuexi365.com
-DOMAIN-SUFFIX,xxtmail.com
-DOMAIN-SUFFIX,xuexi365.net
-DOMAIN-SUFFIX,xuexi365.com.cn
-DOMAIN-SUFFIX,study360.com.cn
-DOMAIN-SUFFIX,ssvideo.com.cn
-DOMAIN-SUFFIX,zaifan.com.cn
-DOMAIN-SUFFIX,ssreader.com.cn
+429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
