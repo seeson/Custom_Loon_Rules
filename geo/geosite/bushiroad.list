@@ -1,8 +1,39 @@
 # NAME: bushiroad
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-09 08:06:46
-# TOTAL: 2
+# UPDATED: 2026-07-10 07:58:42
+# TOTAL: 32
+# DOMAIN-SUFFIX: 32
 
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+DOMAIN-SUFFIX,d4dj-pj.com
+DOMAIN-SUFFIX,ws-blau.com
+DOMAIN-SUFFIX,bushi-navi.com
+DOMAIN-SUFFIX,bushimo.jp
+DOMAIN-SUFFIX,bushiroad-creative.com
+DOMAIN-SUFFIX,bushiroad-global-online-store.com
+DOMAIN-SUFFIX,argo-bdp.com
+DOMAIN-SUFFIX,bushiroad-music.com
+DOMAIN-SUFFIX,bushiroad-store.com
+DOMAIN-SUFFIX,bushiroad-works.com
+DOMAIN-SUFFIX,comic-growl.com
+DOMAIN-SUFFIX,bushiroad.com
+DOMAIN-SUFFIX,bushiroadgames.com
+DOMAIN-SUFFIX,cf-vanguard.com
+DOMAIN-SUFFIX,wwr-stardom.com
+DOMAIN-SUFFIX,bang-dream.com
+DOMAIN-SUFFIX,bushiroad-move.com
+DOMAIN-SUFFIX,dreamorder.com
+DOMAIN-SUFFIX,fc-buddyfight.com
+DOMAIN-SUFFIX,gamebiz.jp
+DOMAIN-SUFFIX,gekkan-bushi.com
+DOMAIN-SUFFIX,hibiki-cast.jp
+DOMAIN-SUFFIX,ws-tcg.com
+DOMAIN-SUFFIX,comicbushi-web.com
+DOMAIN-SUFFIX,njpw1972.com
+DOMAIN-SUFFIX,our-notes.jp
+DOMAIN-SUFFIX,rebirth-fy.com
+DOMAIN-SUFFIX,revuestarlight.com
+DOMAIN-SUFFIX,shadowverse-evolve.com
+DOMAIN-SUFFIX,njpw.co.jp
+DOMAIN-SUFFIX,hikosen.co.jp
+DOMAIN-SUFFIX,bushiroad.co.jp

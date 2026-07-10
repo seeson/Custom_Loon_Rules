@@ -1,0 +1,9 @@
+# NAME: apple-podcasts@cn
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-07-10 07:58:20
+# TOTAL: 2
+# DOMAIN: 2
+
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com

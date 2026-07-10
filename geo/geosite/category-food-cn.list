@@ -1,53 +1,54 @@
 # NAME: category-food-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-09 08:09:41
-# TOTAL: 60
-# DOMAIN-SUFFIX: 60
+# UPDATED: 2026-07-10 07:59:03
+# TOTAL: 61
+# DOMAIN-SUFFIX: 61
 
-DOMAIN-SUFFIX,qmai.com
+DOMAIN-SUFFIX,yili.com
 DOMAIN-SUFFIX,brighticecream.com
 DOMAIN-SUFFIX,haidilao.com
-DOMAIN-SUFFIX,hdlcdns.com
-DOMAIN-SUFFIX,kiwa-tech.com
+DOMAIN-SUFFIX,qmai.cn
+DOMAIN-SUFFIX,qmai.com
 DOMAIN-SUFFIX,heytea.com
-DOMAIN-SUFFIX,3songshu.com
-DOMAIN-SUFFIX,yyds.co
+DOMAIN-SUFFIX,anlaiye.com
+DOMAIN-SUFFIX,lppzimg.com
 DOMAIN-SUFFIX,imcoming.com
 DOMAIN-SUFFIX,imcome.net
 DOMAIN-SUFFIX,meican.com
 DOMAIN-SUFFIX,meicanstatic.com
 DOMAIN-SUFFIX,nongfuspring.com
-DOMAIN-SUFFIX,qmai.cn
-DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,lppz.com
+DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,whhhealth.com
 DOMAIN-SUFFIX,shuxinyc.com
 DOMAIN-SUFFIX,mxbc.com
-DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,mxbc.net
 DOMAIN-SUFFIX,hophing.cn
-DOMAIN-SUFFIX,lppzimg.com
+DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,bkchina.cn
 DOMAIN-SUFFIX,hwwt8.com
-DOMAIN-SUFFIX,lppz.com
-DOMAIN-SUFFIX,mxbc.net
-DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
-DOMAIN-SUFFIX,qmimg.cn
 DOMAIN-SUFFIX,517lppz.com
+DOMAIN-SUFFIX,kiwa-tech.com
+DOMAIN-SUFFIX,hdlcdns.com
+DOMAIN-SUFFIX,qmimg.cn
+DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,kemen.cn
-DOMAIN-SUFFIX,shuanghui.net
+DOMAIN-SUFFIX,micun.com
 DOMAIN-SUFFIX,cofco.com
-DOMAIN-SUFFIX,luhua.cn
+DOMAIN-SUFFIX,shuanghui.net
 DOMAIN-SUFFIX,chinabdh.com
 DOMAIN-SUFFIX,hacl.cn
 DOMAIN-SUFFIX,4008117117.com
 DOMAIN-SUFFIX,brightdairy.com
 DOMAIN-SUFFIX,vipbcw.com
 DOMAIN-SUFFIX,chinacow.com
-DOMAIN-SUFFIX,yili.com
+DOMAIN-SUFFIX,3songshu.com
+DOMAIN-SUFFIX,luhua.cn
 DOMAIN-SUFFIX,junlebaoruye.com
-DOMAIN-SUFFIX,mengniu.com.cn
 DOMAIN-SUFFIX,yihaikerry.net.cn
+DOMAIN-SUFFIX,mengniu.com.cn
 DOMAIN-SUFFIX,greatwallwine.com.cn
 DOMAIN-SUFFIX,chinatea.com.cn
 DOMAIN-SUFFIX,dicos.com.cn

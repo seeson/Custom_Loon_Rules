@@ -1,8 +1,24 @@
 # NAME: bybit
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-09 08:06:56
-# TOTAL: 2
+# UPDATED: 2026-07-10 07:58:42
+# TOTAL: 16
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 14
 
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com

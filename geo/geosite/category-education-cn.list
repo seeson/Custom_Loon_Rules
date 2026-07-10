@@ -1,16 +1,16 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-09 08:09:05
-# TOTAL: 169
+# UPDATED: 2026-07-10 07:58:58
+# TOTAL: 170
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 166
+# DOMAIN-SUFFIX: 167
 
 DOMAIN,moocs.unipus.cn
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,study.163.com
-DOMAIN-SUFFIX,magedu.com
-DOMAIN-SUFFIX,zgjsks.com
+DOMAIN-SUFFIX,llsserver.com
+DOMAIN-SUFFIX,eoffcn.com
 DOMAIN-SUFFIX,yushiyan.net
 DOMAIN-SUFFIX,xuetangx.com
 DOMAIN-SUFFIX,smartedu.cn
@@ -19,27 +19,27 @@ DOMAIN-SUFFIX,chesicc.cn
 DOMAIN-SUFFIX,chesicc.com
 DOMAIN-SUFFIX,chesicc.net
 DOMAIN-SUFFIX,chsi.cn
-DOMAIN-SUFFIX,yeshj.com
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,tongxuepie.com
+DOMAIN-SUFFIX,schoopia.com
 DOMAIN-SUFFIX,mojidict.com
 DOMAIN-SUFFIX,shareintelli.com
 DOMAIN-SUFFIX,hugecore.net
 DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,yuketang.cn
+DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,gfbzb.cn
 DOMAIN-SUFFIX,gfbzb.com
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,zuowen.com
+DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,ncss.cn
-DOMAIN-SUFFIX,zhongkao.com
-DOMAIN-SUFFIX,youjiao.com
-DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,yeshj.com
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,hjfile.cn
 DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,hjapi.com
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 DOMAIN-SUFFIX,21cnjy.com
@@ -50,26 +50,27 @@ DOMAIN-SUFFIX,iyunxiao.com
 DOMAIN-SUFFIX,yunxiao.com
 DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baicizhan.org
-DOMAIN-SUFFIX,maimemostatus.com
+DOMAIN-SUFFIX,bczcdn.com
 DOMAIN-SUFFIX,bczeducation.cn
 DOMAIN-SUFFIX,banxiaoer.com
 DOMAIN-SUFFIX,banxiaoer.net
-DOMAIN-SUFFIX,beie.org
+DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,biyehome.net
 DOMAIN-SUFFIX,burningvocabulary.cn
 DOMAIN-SUFFIX,burningvocabulary.com
 DOMAIN-SUFFIX,centuryenglish.com
 DOMAIN-SUFFIX,cugbonline.cn
+DOMAIN-SUFFIX,dcshfu.com
 DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,dict.cn
 DOMAIN-SUFFIX,duifene.com
 DOMAIN-SUFFIX,eduei.com
-DOMAIN-SUFFIX,eoffcn.com
+DOMAIN-SUFFIX,magedu.com
 DOMAIN-SUFFIX,jinrongren.net
 DOMAIN-SUFFIX,offcn.com
 DOMAIN-SUFFIX,zggqzp.com
-DOMAIN-SUFFIX,maimemo.com
+DOMAIN-SUFFIX,zgjsks.com
 DOMAIN-SUFFIX,zgsydw.com
 DOMAIN-SUFFIX,gk100.com
 DOMAIN-SUFFIX,guojibk.com
@@ -77,7 +78,7 @@ DOMAIN-SUFFIX,huatu.com
 DOMAIN-SUFFIX,sydw8.com
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
-DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,xir.cn
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com
@@ -89,11 +90,11 @@ DOMAIN-SUFFIX,ketangpai.com
 DOMAIN-SUFFIX,kuaiduizuoye.com
 DOMAIN-SUFFIX,liulishuo.com
 DOMAIN-SUFFIX,llsapp.com
-DOMAIN-SUFFIX,edu.cn
-DOMAIN-SUFFIX,llsserver.com
 DOMAIN-SUFFIX,llscdn.com
+DOMAIN-SUFFIX,beie.org
 DOMAIN-SUFFIX,yudou.cn
-DOMAIN-SUFFIX,bczcdn.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,maimemostatus.com
 DOMAIN-SUFFIX,markji.com
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
@@ -121,22 +122,25 @@ DOMAIN-SUFFIX,zuowen8.com
 DOMAIN-SUFFIX,zuowenjun.com
 DOMAIN-SUFFIX,zuowenku.net
 DOMAIN-SUFFIX,zuowenwang.net
-DOMAIN-SUFFIX,rainclassroom.com
-DOMAIN-SUFFIX,yuketang.cn
-DOMAIN-SUFFIX,chinesemooc.org
-DOMAIN-SUFFIX,cnmooc.org
-DOMAIN-SUFFIX,icourse163.org
-DOMAIN-SUFFIX,icourses.cn
-DOMAIN-SUFFIX,mooc.cn
-DOMAIN-SUFFIX,openlearning.com
-DOMAIN-SUFFIX,pmphmooc.com
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koopass.com
+DOMAIN-SUFFIX,100tal.com
+DOMAIN-SUFFIX,aoshu.com
+DOMAIN-SUFFIX,eduu.com
+DOMAIN-SUFFIX,eduuu.com
+DOMAIN-SUFFIX,gaokao.com
 DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,applysquare.com
-DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,youjiao.com
+DOMAIN-SUFFIX,zhongkao.com
+DOMAIN-SUFFIX,zuowen.com
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
-DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,maimemo.com
 DOMAIN-SUFFIX,yuansouti.com
 DOMAIN-SUFFIX,yuantiku.com
 DOMAIN-SUFFIX,fbstatic.cn
@@ -145,18 +149,15 @@ DOMAIN-SUFFIX,fenbike.cn
 DOMAIN-SUFFIX,fenbike.com
 DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,fenbilantian.com
-DOMAIN-SUFFIX,koocdn.com
-DOMAIN-SUFFIX,koolearn.com
-DOMAIN-SUFFIX,koopass.com
-DOMAIN-SUFFIX,schoopia.com
-DOMAIN-SUFFIX,tongxuepie.com
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,shanbay.com
-DOMAIN-SUFFIX,100tal.com
-DOMAIN-SUFFIX,aoshu.com
-DOMAIN-SUFFIX,eduu.com
-DOMAIN-SUFFIX,eduuu.com
-DOMAIN-SUFFIX,gaokao.com
+DOMAIN-SUFFIX,chinesemooc.org
+DOMAIN-SUFFIX,cnmooc.org
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,icourses.cn
+DOMAIN-SUFFIX,mooc.cn
+DOMAIN-SUFFIX,openlearning.com
+DOMAIN-SUFFIX,pmphmooc.com
+DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,cbern.com.cn
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,chinayz.com.cn

@@ -1,8 +1,13 @@
 # NAME: bahamut
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-09 08:04:24
-# TOTAL: 2
+# UPDATED: 2026-07-10 07:58:27
+# TOTAL: 5
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
 
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
