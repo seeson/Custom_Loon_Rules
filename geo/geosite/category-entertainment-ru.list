@@ -1,12 +1,12 @@
 # NAME: category-entertainment-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-10 07:59:01
+# UPDATED: 2026-07-11 07:50:21
 # TOTAL: 28
 # DOMAIN-SUFFIX: 28
 
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,more.tv
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,kinorium.com
 DOMAIN-SUFFIX,24h.tv
@@ -17,19 +17,19 @@ DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,tvigle.ru
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,wink.ru
-DOMAIN-SUFFIX,restream.ru
-DOMAIN-SUFFIX,more.tv
-DOMAIN-SUFFIX,wink.am
-DOMAIN-SUFFIX,cdnvideo.ru
-DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,viju.ru
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,kinopoisk.ru
-DOMAIN-SUFFIX,viju.ru
+DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,okkoapi.tv
-DOMAIN-SUFFIX,promodj.com
+DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,promodj.com
+DOMAIN-SUFFIX,wink.am
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
