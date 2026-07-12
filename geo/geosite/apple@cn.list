@@ -1,7 +1,7 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-12 07:44:04
+# UPDATED: 2026-07-13 07:43:38
 # TOTAL: 294
 # DOMAIN: 232
 # DOMAIN-SUFFIX: 62
@@ -214,6 +214,14 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,beats1.cn
 DOMAIN-SUFFIX,beats1.com.cn
 DOMAIN-SUFFIX,beats2.com.cn
@@ -240,14 +248,6 @@ DOMAIN,music.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,play.music.apple.com
 DOMAIN,speedysub.music.apple.com
-DOMAIN,certs-lb.apple.com.akadns.net
-DOMAIN,certs.apple.com
-DOMAIN,crl-lb.apple.com.akadns.net
-DOMAIN,crl.apple.com
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2.apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,podcasts.apple.com
 DOMAIN-SUFFIX,apple-itunes.cn

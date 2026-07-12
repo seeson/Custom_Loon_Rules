@@ -1,7 +1,7 @@
 # NAME: category-travel-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-12 07:45:02
+# UPDATED: 2026-07-13 07:44:30
 # TOTAL: 24
 # DOMAIN: 7
 # DOMAIN-SUFFIX: 17
@@ -25,8 +25,8 @@ DOMAIN-SUFFIX,rzd-bonus.ru
 DOMAIN-SUFFIX,rzd.ru
 DOMAIN-SUFFIX,tutu.ru
 DOMAIN-SUFFIX,fasten.ru
-DOMAIN-SUFFIX,mosmetro.ru
-DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,avs.io
 DOMAIN-SUFFIX,aviasales.ru
 DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,mosmetro.ru
+DOMAIN-SUFFIX,mosmetro.tech

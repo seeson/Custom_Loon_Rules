@@ -1,7 +1,7 @@
 # NAME: category-media-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-12 07:44:54
+# UPDATED: 2026-07-13 07:44:21
 # TOTAL: 135
 # DOMAIN-SUFFIX: 135
 
@@ -11,6 +11,23 @@ DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
 DOMAIN-SUFFIX,eurasiadaily.su
+DOMAIN-SUFFIX,1prime.ru
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,ria.ru
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,arctic.ru
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+DOMAIN-SUFFIX,inosmi.ru
+DOMAIN-SUFFIX,ukraina.ru
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+DOMAIN-SUFFIX,tok.media
 DOMAIN-SUFFIX,asiangooglenetwork.com
 DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rtnewsru.com
@@ -122,21 +139,4 @@ DOMAIN-SUFFIX,rt-school.online
 DOMAIN-SUFFIX,ruptly.agency
 DOMAIN-SUFFIX,ruptly.tv
 DOMAIN-SUFFIX,ruptly.video
-DOMAIN-SUFFIX,1prime.ru
-DOMAIN-SUFFIX,rossiyasegodnya.com
-DOMAIN-SUFFIX,ria.ru
-DOMAIN-SUFFIX,jinrieluosi.cn
-DOMAIN-SUFFIX,arctic.ru
-DOMAIN-SUFFIX,baltnews.com
-DOMAIN-SUFFIX,baltnews.lt
-DOMAIN-SUFFIX,inosmi.ru
-DOMAIN-SUFFIX,ukraina.ru
-DOMAIN-SUFFIX,pressria.ru
-DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
-DOMAIN-SUFFIX,radiosputnik.ru
-DOMAIN-SUFFIX,sputnikglobe.com
-DOMAIN-SUFFIX,sputnikimages.com
-DOMAIN-SUFFIX,sputnikmediabank.com
-DOMAIN-SUFFIX,sputniknews.com
-DOMAIN-SUFFIX,tok.media
 DOMAIN-SUFFIX,gazetarussa.com.br
