@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 95
-# DOMAIN-SUFFIX: 26083
-# TOTAL: 26178
+# DOMAIN: 91
+# DOMAIN-SUFFIX: 26081
+# TOTAL: 26172
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -59,10 +59,6 @@ DOMAIN,ntp7.ntp-servers.net
 DOMAIN,ntppool1.time.nl
 DOMAIN,ntppool2.time.nl
 DOMAIN,ood.opsource.net
-DOMAIN,practivate.adobe
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,rink.hockeyapp.net
 DOMAIN,roovza-launches.appsflyersdk.com
@@ -1395,7 +1391,6 @@ DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,alfa.me
-DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
@@ -5288,6 +5283,7 @@ DOMAIN-SUFFIX,chat.lmsys.org
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,chatgptvideo.xyz
 DOMAIN-SUFFIX,chatgptvideob.buzz
 DOMAIN-SUFFIX,chatpdf.com
@@ -10142,7 +10138,6 @@ DOMAIN-SUFFIX,gongm.in
 DOMAIN-SUFFIX,gonike.com
 DOMAIN-SUFFIX,gonzo-movies.com
 DOMAIN-SUFFIX,gonzo.com
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,gooblox.com
@@ -12357,7 +12352,6 @@ DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intc.com
 DOMAIN-SUFFIX,integral7.com
-DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,intel-research.net
 DOMAIN-SUFFIX,intel-university-collaboration.net
 DOMAIN-SUFFIX,intel.ac
@@ -13532,6 +13526,7 @@ DOMAIN-SUFFIX,khatrimaza.org
 DOMAIN-SUFFIX,khotruyentranhx.com
 DOMAIN-SUFFIX,kichiku-doujinko.com
 DOMAIN-SUFFIX,kichikuou.com
+DOMAIN-SUFFIX,kick.com
 DOMAIN-SUFFIX,kickporn.com
 DOMAIN-SUFFIX,kickshatchannel.com
 DOMAIN-SUFFIX,kicksnike1.com
@@ -13658,7 +13653,6 @@ DOMAIN-SUFFIX,kompozer.net
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
 DOMAIN-SUFFIX,konachan.wjcodes.com
-DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,konami-igaming.online
 DOMAIN-SUFFIX,konami.co.jp
 DOMAIN-SUFFIX,konami.com

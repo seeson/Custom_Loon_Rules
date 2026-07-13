@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 111670
-# TOTAL: 111675
+# DOMAIN-SUFFIX: 111672
+# TOTAL: 111677
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -30719,6 +30719,7 @@ DOMAIN-SUFFIX,duliangaotu.com
 DOMAIN-SUFFIX,dulife.com
 DOMAIN-SUFFIX,dulifei.com
 DOMAIN-SUFFIX,dullr.com
+DOMAIN-SUFFIX,dulupay.com
 DOMAIN-SUFFIX,dulwich.org
 DOMAIN-SUFFIX,dumall.com
 DOMAIN-SUFFIX,dumanhua.com
@@ -106824,6 +106825,7 @@ DOMAIN-SUFFIX,yzs.com
 DOMAIN-SUFFIX,yzs.io
 DOMAIN-SUFFIX,yzsbh.com
 DOMAIN-SUFFIX,yzsfuer.com
+DOMAIN-SUFFIX,yzsgo.com
 DOMAIN-SUFFIX,yzshkjxx.com
 DOMAIN-SUFFIX,yzshyzz.com
 DOMAIN-SUFFIX,yzsljz.com
