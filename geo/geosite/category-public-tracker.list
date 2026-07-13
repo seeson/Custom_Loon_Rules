@@ -1,9 +1,9 @@
 # NAME: category-public-tracker
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-13 07:44:25
-# TOTAL: 438
-# DOMAIN: 407
+# UPDATED: 2026-07-14 07:44:13
+# TOTAL: 437
+# DOMAIN: 406
 # DOMAIN-SUFFIX: 31
 
 DOMAIN,0123456789nonexistent.com
@@ -163,7 +163,6 @@ DOMAIN,pubt.net
 DOMAIN,qg.lorzl.gq
 DOMAIN,retracker.ip.ncnet.ru
 DOMAIN,retracker.lanta.me
-DOMAIN,retracker.local
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,run.publictracker.xyz

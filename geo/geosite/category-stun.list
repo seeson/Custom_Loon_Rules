@@ -1,9 +1,9 @@
 # NAME: category-stun
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-13 07:44:29
-# TOTAL: 361
-# DOMAIN: 360
+# UPDATED: 2026-07-14 07:44:16
+# TOTAL: 359
+# DOMAIN: 358
 # DOMAIN-SUFFIX: 1
 
 DOMAIN,iphone-stun.strato-iphone.de
@@ -251,7 +251,6 @@ DOMAIN,stun.sippeer.dk
 DOMAIN,stun.sipthor.net
 DOMAIN,stun.siptraffic.com
 DOMAIN,stun.siptrunk.com
-DOMAIN,stun.sipus
 DOMAIN,stun.skydrone.aero
 DOMAIN,stun.skylink.ru
 DOMAIN,stun.sma.de
@@ -272,7 +271,6 @@ DOMAIN,stun.ssl7.net
 DOMAIN,stun.stochastix.de
 DOMAIN,stun.streamnow.ch
 DOMAIN,stun.stunprotocol.org
-DOMAIN,stun.stunprotocol.prg
 DOMAIN,stun.symform.com
 DOMAIN,stun.symplicity.com
 DOMAIN,stun.sysadminman.net
