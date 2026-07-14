@@ -1,10 +1,10 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-06 04:44:30
+# UPDATED: 2026-07-15 04:47:50
 # DOMAIN: 233
-# DOMAIN-SUFFIX: 836
-# TOTAL: 1069
+# DOMAIN-SUFFIX: 835
+# TOTAL: 1068
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -472,7 +472,6 @@ DOMAIN-SUFFIX,golang.com
 DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,gonglchuangl.net
-DOMAIN-SUFFIX,goo
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,googel.com
