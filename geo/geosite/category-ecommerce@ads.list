@@ -1,11 +1,12 @@
 # NAME: category-ecommerce@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-14 07:44:02
+# UPDATED: 2026-07-15 07:43:03
 # TOTAL: 45
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 11
 
+DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -39,7 +40,6 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
-DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,ad.games.dmm.com
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,fout.jp
