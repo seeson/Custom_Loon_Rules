@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 111672
-# TOTAL: 111677
+# DOMAIN-SUFFIX: 111676
+# TOTAL: 111681
 
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -36783,6 +36783,7 @@ DOMAIN-SUFFIX,gaohr.com
 DOMAIN-SUFFIX,gaohuasec.com
 DOMAIN-SUFFIX,gaojer.com
 DOMAIN-SUFFIX,gaoji.ren
+DOMAIN-SUFFIX,gaojidata.com
 DOMAIN-SUFFIX,gaojie.com
 DOMAIN-SUFFIX,gaojihealth.com
 DOMAIN-SUFFIX,gaojima.com
@@ -42139,6 +42140,7 @@ DOMAIN-SUFFIX,gzads.com
 DOMAIN-SUFFIX,gzanquan.com
 DOMAIN-SUFFIX,gzap.net
 DOMAIN-SUFFIX,gzaptech.net
+DOMAIN-SUFFIX,gzasc.com
 DOMAIN-SUFFIX,gzasp.net
 DOMAIN-SUFFIX,gzate.com
 DOMAIN-SUFFIX,gzautojet.com
@@ -61136,7 +61138,6 @@ DOMAIN-SUFFIX,lijizhong.com
 DOMAIN-SUFFIX,lijjj.com
 DOMAIN-SUFFIX,likamao.com
 DOMAIN-SUFFIX,likangwei.com
-DOMAIN-SUFFIX,like.video
 DOMAIN-SUFFIX,like996.icu
 DOMAIN-SUFFIX,likeaboat2023.com
 DOMAIN-SUFFIX,likeacg.com
@@ -61144,7 +61145,6 @@ DOMAIN-SUFFIX,likebuy.com
 DOMAIN-SUFFIX,likecha.com
 DOMAIN-SUFFIX,likechuxing.com
 DOMAIN-SUFFIX,likecs.com
-DOMAIN-SUFFIX,likee.video
 DOMAIN-SUFFIX,likeface.com
 DOMAIN-SUFFIX,likefar.com
 DOMAIN-SUFFIX,likefont.com
@@ -76206,6 +76206,7 @@ DOMAIN-SUFFIX,qvpublish.com
 DOMAIN-SUFFIX,qvxz.com
 DOMAIN-SUFFIX,qw5599.com
 DOMAIN-SUFFIX,qwbk.cc
+DOMAIN-SUFFIX,qwdjapp.com
 DOMAIN-SUFFIX,qwe1e.com
 DOMAIN-SUFFIX,qweapi.com
 DOMAIN-SUFFIX,qweather.com
@@ -77719,6 +77720,7 @@ DOMAIN-SUFFIX,rrrdai.com
 DOMAIN-SUFFIX,rrrrdaimao.com
 DOMAIN-SUFFIX,rrrxz.com
 DOMAIN-SUFFIX,rrs.com
+DOMAIN-SUFFIX,rrsp.app
 DOMAIN-SUFFIX,rrsurg.com
 DOMAIN-SUFFIX,rrswl.com
 DOMAIN-SUFFIX,rrting.net
@@ -94390,6 +94392,7 @@ DOMAIN-SUFFIX,webmulu.com
 DOMAIN-SUFFIX,webok.me
 DOMAIN-SUFFIX,webok.net
 DOMAIN-SUFFIX,webond.net
+DOMAIN-SUFFIX,weboss.hk
 DOMAIN-SUFFIX,webpackjs.com
 DOMAIN-SUFFIX,webportal.cc
 DOMAIN-SUFFIX,webportalapi.com
@@ -103189,6 +103192,7 @@ DOMAIN-SUFFIX,yichengfood.net
 DOMAIN-SUFFIX,yichengji.com
 DOMAIN-SUFFIX,yichengnews.com
 DOMAIN-SUFFIX,yichengwangluo.net
+DOMAIN-SUFFIX,yichengwlkj.com
 DOMAIN-SUFFIX,yicheshi.com
 DOMAIN-SUFFIX,yichi.tech
 DOMAIN-SUFFIX,yichip.com
