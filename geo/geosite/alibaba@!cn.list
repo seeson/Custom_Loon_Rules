@@ -1,7 +1,7 @@
 # NAME: alibaba@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-15 07:42:22
+# UPDATED: 2026-07-16 07:51:14
 # TOTAL: 36
 # DOMAIN-SUFFIX: 36
 
@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,fliggy.hk
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuplay.com
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au
@@ -39,5 +41,3 @@ DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
-DOMAIN-SUFFIX,youku.tv
-DOMAIN-SUFFIX,youkuplay.com

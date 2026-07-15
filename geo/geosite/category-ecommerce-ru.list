@@ -1,17 +1,13 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-15 07:43:03
+# UPDATED: 2026-07-16 07:52:04
 # TOTAL: 182
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 148
 
-DOMAIN-SUFFIX,avito.ru
-DOMAIN-SUFFIX,avito.st
-DOMAIN-SUFFIX,flowwow-images.com
-DOMAIN-SUFFIX,flowwow.com
-DOMAIN-SUFFIX,funpay.com
-DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,wbr.by
+DOMAIN-SUFFIX,vamzakaz.ru
 DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ozon.travel
 DOMAIN-SUFFIX,ozonstatus.ru
@@ -52,7 +48,7 @@ DOMAIN-SUFFIX,ozonsport.ru
 DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,digital-wb.ru
-DOMAIN-SUFFIX,digitalwb.ru
+DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,etradebook.ru
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,mp.world
@@ -64,7 +60,7 @@ DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rwbautomation.ru
 DOMAIN-SUFFIX,rwbautomation.tech
 DOMAIN-SUFFIX,rwbgeo.ru
-DOMAIN-SUFFIX,vamzakaz.ru
+DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,vsemrabota.ru
 DOMAIN-SUFFIX,warehouse.domains
 DOMAIN-SUFFIX,wb-bank.ru
@@ -83,8 +79,8 @@ DOMAIN-SUFFIX,wbdubna.ru
 DOMAIN-SUFFIX,wbkids.ru
 DOMAIN-SUFFIX,wbmail.ru
 DOMAIN-SUFFIX,wbmotivator.ru
-DOMAIN-SUFFIX,wbpay.ru
-DOMAIN-SUFFIX,wbr.by
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,digitalwb.ru
 DOMAIN-SUFFIX,wbrep.ru
 DOMAIN-SUFFIX,wbstatic.net
 DOMAIN-SUFFIX,wbstatic.ru
@@ -149,12 +145,15 @@ DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
-DOMAIN-SUFFIX,ozon.com.by
-DOMAIN-SUFFIX,ozonru.co.il
-DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,ewisdom.us.kg
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozonru.co.il
+DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,wildberries.co.il
-DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -188,3 +187,4 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru
