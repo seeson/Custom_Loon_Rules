@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:32 CST
-# DOMAIN: 15
+# DOMAIN: 16
 # DOMAIN-SUFFIX: 123
-# TOTAL: 138
+# TOTAL: 139
 
 DOMAIN,asusrouter.com
 DOMAIN,board.zash.run.place
@@ -21,6 +21,7 @@ DOMAIN,sing-box-dashboard.sagernet.org
 DOMAIN,www.asusrouter.com
 DOMAIN,www.miwifi.com
 DOMAIN,yacd.metacubex.one
+DOMAIN,zephyruso.github.io
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,100.100.in-addr.arpa
