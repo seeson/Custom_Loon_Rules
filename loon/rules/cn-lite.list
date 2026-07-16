@@ -2,12 +2,13 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 19
+# DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 5238
-# TOTAL: 5266
+# DOMAIN-SUFFIX: 5239
+# TOTAL: 5268
 
 DOMAIN,analytics.strava.com
+DOMAIN,api.blipsandchitz.me
 DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
 DOMAIN,ctdsb.clouddiffuse.xyz
@@ -2257,6 +2258,7 @@ DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
 DOMAIN-SUFFIX,hr-welink.com
+DOMAIN-SUFFIX,hrsecn.com
 DOMAIN-SUFFIX,hsfund.com
 DOMAIN-SUFFIX,hsqh.net
 DOMAIN-SUFFIX,htcases.com

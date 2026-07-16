@@ -2,10 +2,11 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
-# DOMAIN: 5
-# DOMAIN-SUFFIX: 111442
-# TOTAL: 111447
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 111443
+# TOTAL: 111449
 
+DOMAIN,api.blipsandchitz.me
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
 DOMAIN,izattime.qcomgeo2.com
@@ -47017,6 +47018,7 @@ DOMAIN-SUFFIX,hrpackage.com
 DOMAIN-SUFFIX,hrs100.com
 DOMAIN-SUFFIX,hrsalon.org
 DOMAIN-SUFFIX,hrsay.com
+DOMAIN-SUFFIX,hrsecn.com
 DOMAIN-SUFFIX,hrsee.com
 DOMAIN-SUFFIX,hrsel.com
 DOMAIN-SUFFIX,hrsoft-china.com
