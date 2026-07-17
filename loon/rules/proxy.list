@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 26098
-# TOTAL: 26192
+# DOMAIN-SUFFIX: 26099
+# TOTAL: 26193
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -18965,6 +18965,7 @@ DOMAIN-SUFFIX,qmov.net
 DOMAIN-SUFFIX,qmp4.com
 DOMAIN-SUFFIX,qmttqg3k.me
 DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,qnapsupport.net
 DOMAIN-SUFFIX,qobuz.com
 DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,qombol.com
