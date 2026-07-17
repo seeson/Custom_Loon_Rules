@@ -1,13 +1,13 @@
 # NAME: aws
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:32
+# UPDATED: 2026-07-18 07:42:57
 # TOTAL: 77
 # DOMAIN-SUFFIX: 74
 
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,awsbraket.com
-DOMAIN-SUFFIX,elasticbeanstalk.com
+DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,aesworkshops.com
 DOMAIN-SUFFIX,amazonaws-china.com
 DOMAIN-SUFFIX,amazonaws.biz
@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,amazonaws.net
 DOMAIN-SUFFIX,amazonaws.org
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazoncognito.com
-DOMAIN-SUFFIX,amazonses.com
+DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
@@ -28,16 +28,16 @@ DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
 DOMAIN-SUFFIX,awsapps.com
 DOMAIN-SUFFIX,awsautopilot.com
-DOMAIN-SUFFIX,amzndns.net
 DOMAIN-SUFFIX,acmvalidationsaws.com
-DOMAIN-SUFFIX,awseducate.net
+DOMAIN-SUFFIX,awsautoscaling.com
+DOMAIN-SUFFIX,awsloft-stockholm.com
 DOMAIN-SUFFIX,awsedstart.com
 DOMAIN-SUFFIX,awseducate.com
-DOMAIN-SUFFIX,awscommandlineinterface.com
+DOMAIN-SUFFIX,awseducate.net
 DOMAIN-SUFFIX,awseducate.org
 DOMAIN-SUFFIX,awsglobalaccelerator.com
 DOMAIN-SUFFIX,awsloft-johannesburg.com
-DOMAIN-SUFFIX,awsloft-stockholm.com
+DOMAIN-SUFFIX,awscommandlineinterface.com
 DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awsthinkbox.com
@@ -47,9 +47,9 @@ DOMAIN-SUFFIX,cdkworkshop.com
 DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
-DOMAIN-SUFFIX,acmvalidations.com
+DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,thinkboxsoftware.com
-DOMAIN-SUFFIX,awsautoscaling.com
+DOMAIN-SUFFIX,amzndns.net
 DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-SUFFIX,amazonaws.co.uk

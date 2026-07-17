@@ -1,7 +1,7 @@
 # NAME: category-public-tracker
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:21
+# UPDATED: 2026-07-18 07:43:26
 # TOTAL: 437
 # DOMAIN: 406
 # DOMAIN-SUFFIX: 31
@@ -413,8 +413,8 @@ DOMAIN,yolo.liberbear.com
 DOMAIN,z.paranoid.agency
 DOMAIN,zupix.online
 DOMAIN-SUFFIX,peckservers.com
-DOMAIN-SUFFIX,zone-torrent.net
-DOMAIN-SUFFIX,all4nothin.net
+DOMAIN-SUFFIX,shnflac.net
+DOMAIN-SUFFIX,bitseduce.com
 DOMAIN-SUFFIX,biztorrents.com
 DOMAIN-SUFFIX,blackcats-games.net
 DOMAIN-SUFFIX,elitezones.ro
@@ -426,16 +426,16 @@ DOMAIN-SUFFIX,megatorrents.kg
 DOMAIN-SUFFIX,mvgroup.org
 DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnm-club.info
-DOMAIN-SUFFIX,bitseduce.com
-DOMAIN-SUFFIX,shnflac.net
 DOMAIN-SUFFIX,bit-hdtv.com
-DOMAIN-SUFFIX,siambt.com
+DOMAIN-SUFFIX,all4nothin.net
 DOMAIN-SUFFIX,thegeeks.bz
+DOMAIN-SUFFIX,siambt.com
+DOMAIN-SUFFIX,searchtor.to
 DOMAIN-SUFFIX,theoccult.bz
 DOMAIN-SUFFIX,theplace.bz
 DOMAIN-SUFFIX,thetradersden.org
 DOMAIN-SUFFIX,thevault.bz
-DOMAIN-SUFFIX,searchtor.to
+DOMAIN-SUFFIX,zone-torrent.net
 DOMAIN-SUFFIX,torrentsnipe.info
 DOMAIN-SUFFIX,tribalmixes.com
 DOMAIN-SUFFIX,tvnihon.com

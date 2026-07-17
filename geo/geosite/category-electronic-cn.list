@@ -1,20 +1,20 @@
 # NAME: category-electronic-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:06
+# UPDATED: 2026-07-18 07:43:17
 # TOTAL: 73
 # DOMAIN-SUFFIX: 73
 
 DOMAIN-SUFFIX,jlc-drm.com
-DOMAIN-SUFFIX,zxhgroup.com
+DOMAIN-SUFFIX,jlc-ecad.com
 DOMAIN-SUFFIX,avermedia.cn
 DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,bouffalolab.com
-DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,cxmt.com
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,hqchip.com
-DOMAIN-SUFFIX,hqdoc.com
+DOMAIN-SUFFIX,jlc-erp.com
 DOMAIN-SUFFIX,hqpcb.com
 DOMAIN-SUFFIX,infineon.cn
 DOMAIN-SUFFIX,listenai.com
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,maixhub.com
 DOMAIN-SUFFIX,ymtc.cn
 DOMAIN-SUFFIX,ymtc.com
-DOMAIN-SUFFIX,jlc-ecad.com
+DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,wch.cn
@@ -41,12 +41,12 @@ DOMAIN-SUFFIX,jlc-cad.com
 DOMAIN-SUFFIX,jlc-cam.com
 DOMAIN-SUFFIX,jlc-cnc.com
 DOMAIN-SUFFIX,jlc-dfm.com
-DOMAIN-SUFFIX,cxmt.com
 DOMAIN-SUFFIX,arrow.cn
-DOMAIN-SUFFIX,jlc-jh.com
+DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,jlc-fpc.com
 DOMAIN-SUFFIX,jlc-gw.com
-DOMAIN-SUFFIX,jlc-erp.com
+DOMAIN-SUFFIX,jlc-jh.com
 DOMAIN-SUFFIX,jlc-layout.com
 DOMAIN-SUFFIX,jlc-pcb.com
 DOMAIN-SUFFIX,jlc-smt.com

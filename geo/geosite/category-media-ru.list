@@ -1,7 +1,7 @@
 # NAME: category-media-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:16
+# UPDATED: 2026-07-18 07:43:23
 # TOTAL: 135
 # DOMAIN-SUFFIX: 135
 
@@ -12,19 +12,19 @@ DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
 DOMAIN-SUFFIX,eurasiadaily.su
 DOMAIN-SUFFIX,1prime.ru
+DOMAIN-SUFFIX,sputnikimages.com
 DOMAIN-SUFFIX,rossiyasegodnya.com
-DOMAIN-SUFFIX,ria.ru
-DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
 DOMAIN-SUFFIX,arctic.ru
 DOMAIN-SUFFIX,baltnews.com
 DOMAIN-SUFFIX,baltnews.lt
 DOMAIN-SUFFIX,inosmi.ru
-DOMAIN-SUFFIX,ukraina.ru
 DOMAIN-SUFFIX,pressria.ru
-DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
+DOMAIN-SUFFIX,ukraina.ru
+DOMAIN-SUFFIX,ria.ru
 DOMAIN-SUFFIX,radiosputnik.ru
 DOMAIN-SUFFIX,sputnikglobe.com
-DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,jinrieluosi.cn
 DOMAIN-SUFFIX,sputnikmediabank.com
 DOMAIN-SUFFIX,sputniknews.com
 DOMAIN-SUFFIX,tok.media

@@ -1,12 +1,12 @@
 # NAME: category-netdisk-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:17
+# UPDATED: 2026-07-18 07:43:24
 # TOTAL: 91
 # DOMAIN-SUFFIX: 91
 
 DOMAIN-SUFFIX,lanzoum.com
-DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,lanzouo.com
 DOMAIN-SUFFIX,123278.com
 DOMAIN-SUFFIX,123294.com
 DOMAIN-SUFFIX,123624.com
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,123860.com
 DOMAIN-SUFFIX,123912.com
 DOMAIN-SUFFIX,123952.com
 DOMAIN-SUFFIX,123957.com
-DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,123panpay.com
 DOMAIN-SUFFIX,guangyacdn.com
@@ -27,15 +27,15 @@ DOMAIN-SUFFIX,feimaoyun.com
 DOMAIN-SUFFIX,filez.com
 DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,wss.zone
-DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,wss.show
+DOMAIN-SUFFIX,wss.pet
 DOMAIN-SUFFIX,share123.top
 DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,wss.pet
+DOMAIN-SUFFIX,wss.ink
 DOMAIN-SUFFIX,yunpan.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
-DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,115cloud.cn
 DOMAIN-SUFFIX,115cloud.com
 DOMAIN-SUFFIX,115cloud.net
@@ -49,9 +49,9 @@ DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
-DOMAIN-SUFFIX,lanzouk.com
 DOMAIN-SUFFIX,123254.com
-DOMAIN-SUFFIX,wss.ink
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,123pan.cn
 DOMAIN-SUFFIX,wss.email
 DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,cowcs.com
@@ -69,10 +69,10 @@ DOMAIN-SUFFIX,lanzoug.com
 DOMAIN-SUFFIX,lanzouh.com
 DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzouj.com
-DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,lanzouk.com
 DOMAIN-SUFFIX,lanzoul.com
 DOMAIN-SUFFIX,123245.com
-DOMAIN-SUFFIX,lanzouo.com
+DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,lanzoup.com
 DOMAIN-SUFFIX,lanzouq.com
 DOMAIN-SUFFIX,lanzous.com
@@ -91,8 +91,8 @@ DOMAIN-SUFFIX,wenxiaozhan.com
 DOMAIN-SUFFIX,wenxiaozhan.net
 DOMAIN-SUFFIX,wss.cc
 DOMAIN-SUFFIX,yunpan.aliyun.com
-DOMAIN-SUFFIX,pan.quark.cn
 DOMAIN-SUFFIX,yun.139.com
 DOMAIN-SUFFIX,pan.xunlei.com
+DOMAIN-SUFFIX,pan.quark.cn
 DOMAIN-SUFFIX,pan.baidu.com
 DOMAIN-SUFFIX,cloud.189.cn

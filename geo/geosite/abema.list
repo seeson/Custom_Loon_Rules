@@ -1,7 +1,7 @@
 # NAME: abema
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:07
+# UPDATED: 2026-07-18 07:42:41
 # TOTAL: 21
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 16
@@ -12,15 +12,15 @@ DOMAIN,ds-vod-abematv.akamaized.net
 DOMAIN,linear-abematv.akamaized.net
 DOMAIN,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,amebaowndme.com
-DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,ameblo.jp
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,winticket.jp
-DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,adx.promo
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,amebaownd.com
-DOMAIN-SUFFIX,adx.promo
-DOMAIN-SUFFIX,ameblo.jp
 DOMAIN-SUFFIX,bucketeer.jp
 DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,hayabusa.dev

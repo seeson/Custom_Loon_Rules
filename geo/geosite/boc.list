@@ -1,24 +1,24 @@
 # NAME: boc
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:44
+# UPDATED: 2026-07-18 07:43:03
 # TOTAL: 20
 # DOMAIN-SUFFIX: 20
 
 DOMAIN-SUFFIX,bocgi.com
-DOMAIN-SUFFIX,bocifunds.cn
-DOMAIN-SUFFIX,boc.cn
-DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,bocgins.com
 DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bocaviation.com
 DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boccfc.cn
-DOMAIN-SUFFIX,bankofchina.com
-DOMAIN-SUFFIX,bocgins.com
-DOMAIN-SUFFIX,bocichina.com
-DOMAIN-SUFFIX,bocichina.cn
-DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocifunds.cn
 DOMAIN-SUFFIX,bocifunds.com
 DOMAIN-SUFFIX,bocigroup.com
 DOMAIN-SUFFIX,bocifunds.com.cn

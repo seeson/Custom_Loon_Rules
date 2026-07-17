@@ -1,7 +1,7 @@
 # NAME: archive
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:27
+# UPDATED: 2026-07-18 07:42:53
 # TOTAL: 18
 # DOMAIN-SUFFIX: 18
 
@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,megalodon.jp
 DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,webcitation.org
+DOMAIN-SUFFIX,4pcdn.org
+DOMAIN-SUFFIX,4plebs.org
 DOMAIN-SUFFIX,archive.today
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
@@ -21,5 +23,3 @@ DOMAIN-SUFFIX,archive.vn
 DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,openlibrary.org
-DOMAIN-SUFFIX,4pcdn.org
-DOMAIN-SUFFIX,4plebs.org

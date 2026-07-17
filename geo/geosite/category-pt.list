@@ -1,7 +1,7 @@
 # NAME: category-pt
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:21
+# UPDATED: 2026-07-18 07:43:26
 # TOTAL: 122
 # DOMAIN-SUFFIX: 122
 
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,ianon.app
 DOMAIN-SUFFIX,kufei.com
 DOMAIN-SUFFIX,kufei.org
 DOMAIN-SUFFIX,leaves.red
-DOMAIN-SUFFIX,morethantv.me
+DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,totheglory.im
@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptsbao.club
-DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,pttime.top
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,nanyangpt.com
@@ -61,9 +61,9 @@ DOMAIN-SUFFIX,hdbits.org
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,jptv.club
-DOMAIN-SUFFIX,nicept.net
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,morethantv.me
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,redacted.sh
 DOMAIN-SUFFIX,sportscult.org
@@ -78,7 +78,7 @@ DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,chddiy.xyz
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,rainbowisland.co
-DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,hdkylin.top
 DOMAIN-SUFFIX,hdkylin.work
 DOMAIN-SUFFIX,hitpt.com
@@ -90,7 +90,7 @@ DOMAIN-SUFFIX,zmpt.cc
 DOMAIN-SUFFIX,wintersakura.net
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,cyanbug.net
 DOMAIN-SUFFIX,ilovelemonhd.me
 DOMAIN-SUFFIX,lemonhd.club
@@ -103,18 +103,18 @@ DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,hdcmct.org
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,pt.hd4fans.org
 DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,pt.0ff.cc
 DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,share.ilolicon.com
 DOMAIN-SUFFIX,pt.upxin.net
-DOMAIN-SUFFIX,pt.hdupt.com
 DOMAIN-SUFFIX,neu6.edu.cn
-DOMAIN-SUFFIX,pt.btschool.club
-DOMAIN-SUFFIX,pt.nwsuaf6.edu.cn
-DOMAIN-SUFFIX,pt.sjtu.edu.cn
+DOMAIN-SUFFIX,pt.hdupt.com
+DOMAIN-SUFFIX,pt.hd4fans.org
 DOMAIN-SUFFIX,pt.xauat.edu.cn
+DOMAIN-SUFFIX,pt.sjtu.edu.cn
+DOMAIN-SUFFIX,pt.nwsuaf6.edu.cn
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,nebulance.io

@@ -1,14 +1,14 @@
 # NAME: category-game-accelerator-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:10
+# UPDATED: 2026-07-18 07:43:20
 # TOTAL: 45
 # DOMAIN-SUFFIX: 45
 
 DOMAIN-SUFFIX,funjsq.com
-DOMAIN-SUFFIX,guaiku.com
+DOMAIN-SUFFIX,golink.com
 DOMAIN-SUFFIX,leigodjsq.com
-DOMAIN-SUFFIX,xxghh.biz
+DOMAIN-SUFFIX,leigod.cn
 DOMAIN-SUFFIX,leigod.com
 DOMAIN-SUFFIX,ls66.cn
 DOMAIN-SUFFIX,nnbooster.com
@@ -18,18 +18,18 @@ DOMAIN-SUFFIX,tmjiasuqi.com
 DOMAIN-SUFFIX,99jiasu.net
 DOMAIN-SUFFIX,xunyou.com
 DOMAIN-SUFFIX,xunyou.mobi
-DOMAIN-SUFFIX,bohejiasuqi.com
-DOMAIN-SUFFIX,biubiu001.com
-DOMAIN-SUFFIX,golink.com
-DOMAIN-SUFFIX,golinkapi.com
 DOMAIN-SUFFIX,qiyou.cn
+DOMAIN-SUFFIX,guaiku.com
+DOMAIN-SUFFIX,biubiu001.com
+DOMAIN-SUFFIX,golinkapi.com
+DOMAIN-SUFFIX,golinkcn.com
 DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,rmbgame.net
 DOMAIN-SUFFIX,steam302.xyz
 DOMAIN-SUFFIX,benfuip.com
-DOMAIN-SUFFIX,leigod.cn
 DOMAIN-SUFFIX,gangwan.com
-DOMAIN-SUFFIX,golinkcn.com
+DOMAIN-SUFFIX,xxghh.biz
+DOMAIN-SUFFIX,bohejiasuqi.com
 DOMAIN-SUFFIX,htjsq.com
 DOMAIN-SUFFIX,htjsq.mobi
 DOMAIN-SUFFIX,fhyx.com

@@ -1,7 +1,7 @@
 # NAME: category-emby
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:06
+# UPDATED: 2026-07-18 07:43:17
 # TOTAL: 89
 # DOMAIN: 59
 # DOMAIN-SUFFIX: 30
@@ -66,8 +66,8 @@ DOMAIN,emby.p-p.men
 DOMAIN,emby.aiyowei.ml
 DOMAIN,cc.ccemby.tk
 DOMAIN-SUFFIX,mius.uk
-DOMAIN-SUFFIX,nvidia.rip
-DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
+DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,embyplus.club
 DOMAIN-SUFFIX,404.sb
@@ -79,19 +79,19 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,texon.fans
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,hongxingyunmovie.vip
-DOMAIN-SUFFIX,pololine.ml
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,nvidia.rip
 DOMAIN-SUFFIX,gfwemby.org
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,feverss.cloud
-DOMAIN-SUFFIX,stream.synn.cc
+DOMAIN-SUFFIX,stream.ntrrr.top
 DOMAIN-SUFFIX,media-1.co.uk
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,cn-music.mefun.vip
-DOMAIN-SUFFIX,server2.cn2gias.uk
+DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,emby1.69yun69.com
 DOMAIN-SUFFIX,singularity.deja-vu.beauty
-DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,server2.cn2gias.uk

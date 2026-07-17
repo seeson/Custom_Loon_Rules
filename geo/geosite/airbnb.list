@@ -1,12 +1,12 @@
 # NAME: airbnb
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:12
+# UPDATED: 2026-07-18 07:42:45
 # TOTAL: 83
 # DOMAIN-SUFFIX: 83
 
 DOMAIN-SUFFIX,airbnb.rs
-DOMAIN-SUFFIX,airbnb.gr
+DOMAIN-SUFFIX,airbnb.cl
 DOMAIN-SUFFIX,airbnb.ae
 DOMAIN-SUFFIX,airbnb.al
 DOMAIN-SUFFIX,airbnb.am
@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,airbnb.be
 DOMAIN-SUFFIX,airbnb.ca
 DOMAIN-SUFFIX,airbnb.cat
 DOMAIN-SUFFIX,airbnb.ch
-DOMAIN-SUFFIX,airbnb.cl
+DOMAIN-SUFFIX,airbnb.com
 DOMAIN-SUFFIX,airbnb.cn
 DOMAIN-SUFFIX,vamo.com
 DOMAIN-SUFFIX,muscache.com
@@ -27,16 +27,16 @@ DOMAIN-SUFFIX,airbnb.si
 DOMAIN-SUFFIX,airbnb.se
 DOMAIN-SUFFIX,abb.travel
 DOMAIN-SUFFIX,airbnb.ru
-DOMAIN-SUFFIX,airbnb.dk
 DOMAIN-SUFFIX,accomable.com
-DOMAIN-SUFFIX,airbnb.no
+DOMAIN-SUFFIX,airbnb.cz
+DOMAIN-SUFFIX,airbnb.lv
 DOMAIN-SUFFIX,airbnb.pl
 DOMAIN-SUFFIX,airbnb.org
-DOMAIN-SUFFIX,airbnb.pt
+DOMAIN-SUFFIX,airbnb.no
 DOMAIN-SUFFIX,airbnb.nl
 DOMAIN-SUFFIX,airbnb.mx
 DOMAIN-SUFFIX,airbnb.me
-DOMAIN-SUFFIX,airbnb.lv
+DOMAIN-SUFFIX,airbnb.pt
 DOMAIN-SUFFIX,airbnb.lu
 DOMAIN-SUFFIX,airbnb.lt
 DOMAIN-SUFFIX,airbnb.la
@@ -46,11 +46,11 @@ DOMAIN-SUFFIX,airbnb.is
 DOMAIN-SUFFIX,airbnb.ie
 DOMAIN-SUFFIX,airbnb.hu
 DOMAIN-SUFFIX,airbnb.gy
-DOMAIN-SUFFIX,airbnb.com
+DOMAIN-SUFFIX,airbnb.gr
 DOMAIN-SUFFIX,airbnb.fr
 DOMAIN-SUFFIX,airbnb.fi
 DOMAIN-SUFFIX,airbnb.es
-DOMAIN-SUFFIX,airbnb.cz
+DOMAIN-SUFFIX,airbnb.dk
 DOMAIN-SUFFIX,airbnb.de
 DOMAIN-SUFFIX,airbnb.co.uk
 DOMAIN-SUFFIX,airbnb.com.tw

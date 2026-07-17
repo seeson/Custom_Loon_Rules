@@ -1,20 +1,20 @@
 # NAME: appledaily
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:26
+# UPDATED: 2026-07-18 07:42:53
 # TOTAL: 32
 # DOMAIN-SUFFIX: 32
 
 DOMAIN-SUFFIX,privilege.tw
-DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,privilege.hk
 DOMAIN-SUFFIX,tomonews.net
 DOMAIN-SUFFIX,appledaily.hk
-DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,applefruity.com
 DOMAIN-SUFFIX,sharpdaily.tw
 DOMAIN-SUFFIX,twnextdigital.com
+DOMAIN-SUFFIX,atnext.com
+DOMAIN-SUFFIX,appledaily.com
 DOMAIN-SUFFIX,bestmallawards.com
-DOMAIN-SUFFIX,applefruity.com
-DOMAIN-SUFFIX,privilege.hk
 DOMAIN-SUFFIX,next.hk
 DOMAIN-SUFFIX,omoplanet.com
 DOMAIN-SUFFIX,nextwork.tw

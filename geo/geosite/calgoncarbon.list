@@ -1,26 +1,26 @@
 # NAME: calgoncarbon
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:51
+# UPDATED: 2026-07-18 07:43:08
 # TOTAL: 19
 # DOMAIN-SUFFIX: 19
 
 DOMAIN-SUFFIX,calgon.fr
 DOMAIN-SUFFIX,calgon.ru
-DOMAIN-SUFFIX,calgon.ie
-DOMAIN-SUFFIX,calgon.it
+DOMAIN-SUFFIX,calgon.ch
+DOMAIN-SUFFIX,calgonit.com
 DOMAIN-SUFFIX,calgon.com
-DOMAIN-SUFFIX,calgon.at
+DOMAIN-SUFFIX,calgoncarbon.com
 DOMAIN-SUFFIX,calgon.de
 DOMAIN-SUFFIX,calgon.es
-DOMAIN-SUFFIX,calgonit.com
-DOMAIN-SUFFIX,calgon.ch
-DOMAIN-SUFFIX,calgoncarbon.com
+DOMAIN-SUFFIX,calgon.be
+DOMAIN-SUFFIX,calgon.it
+DOMAIN-SUFFIX,calgon.ie
 DOMAIN-SUFFIX,calgon.nl
 DOMAIN-SUFFIX,calgon.pt
-DOMAIN-SUFFIX,calgon.be
+DOMAIN-SUFFIX,calgon.at
 DOMAIN-SUFFIX,calgon.tv
 DOMAIN-SUFFIX,calgoncarbon-china.com
-DOMAIN-SUFFIX,calgon.co.uk
 DOMAIN-SUFFIX,calgon.com.tr
+DOMAIN-SUFFIX,calgon.co.uk
 DOMAIN-SUFFIX,calgon.cn

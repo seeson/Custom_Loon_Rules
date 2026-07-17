@@ -1,15 +1,15 @@
 # NAME: category-media-ru-blocked
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:16
+# UPDATED: 2026-07-18 07:43:23
 # TOTAL: 131
 # DOMAIN-SUFFIX: 131
 
 DOMAIN-SUFFIX,ovdinfo.legal
-DOMAIN-SUFFIX,fn-volga.ru
+DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,arbatmedia.kz
-DOMAIN-SUFFIX,arsvest.ru
+DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,astra.press
 DOMAIN-SUFFIX,azathabar.com
 DOMAIN-SUFFIX,azattyq.org
@@ -30,8 +30,8 @@ DOMAIN-SUFFIX,ej.ru
 DOMAIN-SUFFIX,ekhokavkaza.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,euroradio.fm
-DOMAIN-SUFFIX,ozodi.org
-DOMAIN-SUFFIX,fonge.org
+DOMAIN-SUFFIX,fn-volga.ru
+DOMAIN-SUFFIX,paperpaper.ru
 DOMAIN-SUFFIX,fortanga.org
 DOMAIN-SUFFIX,freeburyatia.org
 DOMAIN-SUFFIX,freemedia.io
@@ -64,21 +64,21 @@ DOMAIN-SUFFIX,mignews.com
 DOMAIN-SUFFIX,newizv.ru
 DOMAIN-SUFFIX,newtimes.ru
 DOMAIN-SUFFIX,novaya.media
-DOMAIN-SUFFIX,paperpaper.ru
+DOMAIN-SUFFIX,novayagazeta.eu
 DOMAIN-SUFFIX,novayagazeta.ru
 DOMAIN-SUFFIX,openmedia.io
 DOMAIN-SUFFIX,opposition-news.com
 DOMAIN-SUFFIX,ovd.info
-DOMAIN-SUFFIX,prosleduet.media
+DOMAIN-SUFFIX,arsvest.ru
 DOMAIN-SUFFIX,activatica.org
-DOMAIN-SUFFIX,novayagazeta.eu
+DOMAIN-SUFFIX,fonge.org
 DOMAIN-SUFFIX,poligon.media
 DOMAIN-SUFFIX,polit.ru
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,pravda.com
 DOMAIN-SUFFIX,votvot.tv
 DOMAIN-SUFFIX,proekt.media
-DOMAIN-SUFFIX,24.kg
+DOMAIN-SUFFIX,prosleduet.media
 DOMAIN-SUFFIX,provereno.media
 DOMAIN-SUFFIX,vot-tak.tv
 DOMAIN-SUFFIX,radiosakharov.org

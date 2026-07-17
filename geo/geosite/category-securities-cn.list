@@ -1,13 +1,13 @@
 # NAME: category-securities-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:52:24
+# UPDATED: 2026-07-18 07:43:28
 # TOTAL: 163
 # DOMAIN-SUFFIX: 163
 
 DOMAIN-SUFFIX,hongtastock.com
-DOMAIN-SUFFIX,99fund.com
-DOMAIN-SUFFIX,szse.cn
+DOMAIN-SUFFIX,ubssdic.com
+DOMAIN-SUFFIX,hongdefund.com
 DOMAIN-SUFFIX,zlfund.cn
 DOMAIN-SUFFIX,ajzq.com
 DOMAIN-SUFFIX,avicsec.com
@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,chinalions.com
 DOMAIN-SUFFIX,howbuy.com
 DOMAIN-SUFFIX,cicc.com
 DOMAIN-SUFFIX,ciccwm.com
-DOMAIN-SUFFIX,bosera.com
+DOMAIN-SUFFIX,cindasc.com
 DOMAIN-SUFFIX,cjsc.com
 DOMAIN-SUFFIX,cnhbstock.com
 DOMAIN-SUFFIX,fund123.cn
@@ -31,11 +31,11 @@ DOMAIN-SUFFIX,ctsec.com
 DOMAIN-SUFFIX,zofund.com
 DOMAIN-SUFFIX,dfham.com
 DOMAIN-SUFFIX,zhfund.com
-DOMAIN-SUFFIX,hongdefund.com
+DOMAIN-SUFFIX,ydamc.com
 DOMAIN-SUFFIX,xqfunds.com
 DOMAIN-SUFFIX,xf-fund.com
 DOMAIN-SUFFIX,dxzq.net
-DOMAIN-SUFFIX,ubssdic.com
+DOMAIN-SUFFIX,hsfund.com
 DOMAIN-SUFFIX,tongtaiamc.com
 DOMAIN-SUFFIX,swsmu.com
 DOMAIN-SUFFIX,fcsc.cn
@@ -47,7 +47,7 @@ DOMAIN-SUFFIX,ocfund.cn
 DOMAIN-SUFFIX,nffund.com
 DOMAIN-SUFFIX,mfcteda.com
 DOMAIN-SUFFIX,grzq.com
-DOMAIN-SUFFIX,gsgh.cn
+DOMAIN-SUFFIX,bosera.com
 DOMAIN-SUFFIX,gszq.com
 DOMAIN-SUFFIX,gtja.com
 DOMAIN-SUFFIX,guodu.com
@@ -57,9 +57,9 @@ DOMAIN-SUFFIX,hazq.com
 DOMAIN-SUFFIX,hczq.com
 DOMAIN-SUFFIX,igwfmc.com
 DOMAIN-SUFFIX,hlzqgs.com
-DOMAIN-SUFFIX,cindasc.com
+DOMAIN-SUFFIX,gsgh.cn
 DOMAIN-SUFFIX,sseinfo.com
-DOMAIN-SUFFIX,ydamc.com
+DOMAIN-SUFFIX,szse.cn
 DOMAIN-SUFFIX,htsec.com
 DOMAIN-SUFFIX,huajingsec.com
 DOMAIN-SUFFIX,huajinsc.cn
@@ -105,7 +105,7 @@ DOMAIN-SUFFIX,cryuantafund.com
 DOMAIN-SUFFIX,zszq.com
 DOMAIN-SUFFIX,ztfsec.com
 DOMAIN-SUFFIX,changanfunds.com
-DOMAIN-SUFFIX,hsfund.com
+DOMAIN-SUFFIX,99fund.com
 DOMAIN-SUFFIX,abc-ca.com
 DOMAIN-SUFFIX,avicfund.cn
 DOMAIN-SUFFIX,bdfund.cn

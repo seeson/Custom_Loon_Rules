@@ -1,14 +1,14 @@
 # NAME: bmw
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:43
+# UPDATED: 2026-07-18 07:43:03
 # TOTAL: 729
 # DOMAIN-SUFFIX: 729
 
 DOMAIN-SUFFIX,mini
 DOMAIN-SUFFIX,bmw
 DOMAIN-SUFFIX,mini-connected.se
-DOMAIN-SUFFIX,mybmw.com
+DOMAIN-SUFFIX,bmw.tt
 DOMAIN-SUFFIX,bmw-abudhabi.com
 DOMAIN-SUFFIX,bmw-adventskalender.com
 DOMAIN-SUFFIX,bmw-albania.com
@@ -97,7 +97,7 @@ DOMAIN-SUFFIX,bmw-lebanon.com
 DOMAIN-SUFFIX,bmw-m-safetycar.com
 DOMAIN-SUFFIX,bmw-m.com
 DOMAIN-SUFFIX,bmw-mdrivetour.com
-DOMAIN-SUFFIX,bmw-me.com
+DOMAIN-SUFFIX,bmwmperformance.com
 DOMAIN-SUFFIX,bmw-military-sales.com
 DOMAIN-SUFFIX,bmw-motorcycle.com
 DOMAIN-SUFFIX,bmw-motorcycles.vn
@@ -222,7 +222,7 @@ DOMAIN-SUFFIX,minilangley.ca
 DOMAIN-SUFFIX,minikelowna.com
 DOMAIN-SUFFIX,minikelowna.ca
 DOMAIN-SUFFIX,miniitalianjob.com
-DOMAIN-SUFFIX,miniinvasion.ca
+DOMAIN-SUFFIX,mini.kz
 DOMAIN-SUFFIX,minihk.com
 DOMAIN-SUFFIX,minihalifax.com
 DOMAIN-SUFFIX,minihalifax.ca
@@ -241,7 +241,7 @@ DOMAIN-SUFFIX,minidealer.com
 DOMAIN-SUFFIX,minicooper.ca
 DOMAIN-SUFFIX,miniccrc.ca
 DOMAIN-SUFFIX,minicaribbean.com
-DOMAIN-SUFFIX,mini.lu
+DOMAIN-SUFFIX,minicanada.ca
 DOMAIN-SUFFIX,minibrossard.com
 DOMAIN-SUFFIX,minibrossard.ca
 DOMAIN-SUFFIX,miniargentina.com
@@ -261,7 +261,7 @@ DOMAIN-SUFFIX,mini.no
 DOMAIN-SUFFIX,mini.nl
 DOMAIN-SUFFIX,mini.nc
 DOMAIN-SUFFIX,bmw.cw
-DOMAIN-SUFFIX,bmw.cz
+DOMAIN-SUFFIX,bmwmotorshowblog.com
 DOMAIN-SUFFIX,bmw.de
 DOMAIN-SUFFIX,bmw.dk
 DOMAIN-SUFFIX,bmw.dz
@@ -306,7 +306,7 @@ DOMAIN-SUFFIX,bmw.si
 DOMAIN-SUFFIX,bmw.sk
 DOMAIN-SUFFIX,bmw.sn
 DOMAIN-SUFFIX,bmw.tm
-DOMAIN-SUFFIX,bmw.tt
+DOMAIN-SUFFIX,bmwmotorsport.com
 DOMAIN-SUFFIX,bmw.ua
 DOMAIN-SUFFIX,bmw.uz
 DOMAIN-SUFFIX,bmw.vn
@@ -369,9 +369,9 @@ DOMAIN-SUFFIX,mini.mu
 DOMAIN-SUFFIX,mini.mq
 DOMAIN-SUFFIX,mini.md
 DOMAIN-SUFFIX,bmwmotorradhk.com
-DOMAIN-SUFFIX,alphabet.be
+DOMAIN-SUFFIX,bmw.cz
 DOMAIN-SUFFIX,bayareabmw.com
-DOMAIN-SUFFIX,mini-stjohns.com
+DOMAIN-SUFFIX,bmw-me.com
 DOMAIN-SUFFIX,bmwmuseum.net
 DOMAIN-SUFFIX,bmwmyanmar.com
 DOMAIN-SUFFIX,bmwofannapolis.com
@@ -425,7 +425,7 @@ DOMAIN-SUFFIX,minneapolisbmw.com
 DOMAIN-SUFFIX,minneapolisbmw.net
 DOMAIN-SUFFIX,motorshowblog.com
 DOMAIN-SUFFIX,mybmw.ca
-DOMAIN-SUFFIX,bmwmotorsport.com
+DOMAIN-SUFFIX,mybmw.com
 DOMAIN-SUFFIX,newhampshirebmw.com
 DOMAIN-SUFFIX,nmbmw.com
 DOMAIN-SUFFIX,ocbmwdealers.com
@@ -448,11 +448,11 @@ DOMAIN-SUFFIX,the-m-festival.com
 DOMAIN-SUFFIX,tristatebmw.com
 DOMAIN-SUFFIX,vancouverbmwretailers.ca
 DOMAIN-SUFFIX,washingtondcbmw.com
-DOMAIN-SUFFIX,mini-connected.no
+DOMAIN-SUFFIX,minispecialoffers.ca
 DOMAIN-SUFFIX,aboutyourmini.com
 DOMAIN-SUFFIX,alfera.in
 DOMAIN-SUFFIX,alfera.my
-DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
+DOMAIN-SUFFIX,miniinvasion.ca
 DOMAIN-SUFFIX,4myminicard.com
 DOMAIN-SUFFIX,alphera-finance.in
 DOMAIN-SUFFIX,alphera.ca
@@ -481,18 +481,18 @@ DOMAIN-SUFFIX,alpherafs.my
 DOMAIN-SUFFIX,premiumfs.de
 DOMAIN-SUFFIX,alphabet.asia
 DOMAIN-SUFFIX,alphabet.at
-DOMAIN-SUFFIX,bmwmotorshowblog.com
+DOMAIN-SUFFIX,alphabet.be
 DOMAIN-SUFFIX,alphabet.biz
 DOMAIN-SUFFIX,alphabet.ch
 DOMAIN-SUFFIX,mini.dz
-DOMAIN-SUFFIX,minispecialoffers.ca
 DOMAIN-SUFFIX,minispygear.com
-DOMAIN-SUFFIX,alphabet.com
 DOMAIN-SUFFIX,ministcatharines.ca
+DOMAIN-SUFFIX,alphabet.com
 DOMAIN-SUFFIX,ministeagathe.com
 DOMAIN-SUFFIX,ministjohns.ca
 DOMAIN-SUFFIX,minitakesthestates.com
 DOMAIN-SUFFIX,minitoronto.ca
+DOMAIN-SUFFIX,minitroisrivieres.ca
 DOMAIN-SUFFIX,alphabet.cz
 DOMAIN-SUFFIX,alphabet.de
 DOMAIN-SUFFIX,alphabet.es
@@ -505,7 +505,7 @@ DOMAIN-SUFFIX,alphabet.lu
 DOMAIN-SUFFIX,alphabet.lv
 DOMAIN-SUFFIX,alphabet.mx
 DOMAIN-SUFFIX,alphabet.no
-DOMAIN-SUFFIX,minitroisrivieres.ca
+DOMAIN-SUFFIX,miniusa.com
 DOMAIN-SUFFIX,alphabet.pl
 DOMAIN-SUFFIX,alphabet.pt
 DOMAIN-SUFFIX,alphabet.uk
@@ -519,10 +519,10 @@ DOMAIN-SUFFIX,rrtis.com
 DOMAIN-SUFFIX,spiritofecstasy.com
 DOMAIN-SUFFIX,baltimorebmw.com
 DOMAIN-SUFFIX,mini.jp
-DOMAIN-SUFFIX,minicanada.ca
+DOMAIN-SUFFIX,minivalueservice.com
 DOMAIN-SUFFIX,atlantaminidealers.com
 DOMAIN-SUFFIX,greatergothammini.com
-DOMAIN-SUFFIX,mini.kz
+DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
 DOMAIN-SUFFIX,mini-abudhabi.com
 DOMAIN-SUFFIX,mini-antilles.fr
 DOMAIN-SUFFIX,mini-bahrain.com
@@ -545,7 +545,7 @@ DOMAIN-SUFFIX,mini-connected.lt
 DOMAIN-SUFFIX,mini-connected.lu
 DOMAIN-SUFFIX,mini-connected.lv
 DOMAIN-SUFFIX,mini-connected.nl
-DOMAIN-SUFFIX,mini.ma
+DOMAIN-SUFFIX,mini-connected.no
 DOMAIN-SUFFIX,mini-connected.pl
 DOMAIN-SUFFIX,mini-connected.pt
 DOMAIN-SUFFIX,approvedusedbmw.com
@@ -566,7 +566,7 @@ DOMAIN-SUFFIX,mini-oman.com
 DOMAIN-SUFFIX,mini-qatar.com
 DOMAIN-SUFFIX,mini-srilanka.com
 DOMAIN-SUFFIX,mini-stjohns.ca
-DOMAIN-SUFFIX,bmwmperformance.com
+DOMAIN-SUFFIX,mini-stjohns.com
 DOMAIN-SUFFIX,mini-tahiti.com
 DOMAIN-SUFFIX,mini-vietnam.com
 DOMAIN-SUFFIX,mini-windsor.ca
@@ -601,12 +601,12 @@ DOMAIN-SUFFIX,minivictoria.ca
 DOMAIN-SUFFIX,minivaughanwest.com
 DOMAIN-SUFFIX,minivaughanwest.ca
 DOMAIN-SUFFIX,minivancouver.ca
-DOMAIN-SUFFIX,minivalueservice.com
+DOMAIN-SUFFIX,mini.lu
 DOMAIN-SUFFIX,miniusatires.com
+DOMAIN-SUFFIX,mini.ma
 DOMAIN-SUFFIX,miniusaservice.com
-DOMAIN-SUFFIX,miniusa.com
-DOMAIN-SUFFIX,bmw.com.au
-DOMAIN-SUFFIX,bmw.co.za
+DOMAIN-SUFFIX,alphabet.org.uk
+DOMAIN-SUFFIX,bmw.co.ao
 DOMAIN-SUFFIX,alphabet.com.pl
 DOMAIN-SUFFIX,alphabet.com.mx
 DOMAIN-SUFFIX,alphabet.com.lv
@@ -620,13 +620,13 @@ DOMAIN-SUFFIX,alpherafs.co.nz
 DOMAIN-SUFFIX,alpherafinance.com.hk
 DOMAIN-SUFFIX,alphera.com.my
 DOMAIN-SUFFIX,alphera.com.hk
-DOMAIN-SUFFIX,alphera.com.es
+DOMAIN-SUFFIX,bmw.co.id
 DOMAIN-SUFFIX,alphera.co.nz
 DOMAIN-SUFFIX,alphera.co.in
 DOMAIN-SUFFIX,alphera-finance.com.hk
 DOMAIN-SUFFIX,alphera-finance.co.in
 DOMAIN-SUFFIX,alfera.com.my
-DOMAIN-SUFFIX,bmw.co.id
+DOMAIN-SUFFIX,alfera.com.hk
 DOMAIN-SUFFIX,bmwmotorrad.com.sg
 DOMAIN-SUFFIX,bmwmotorrad.com.ph
 DOMAIN-SUFFIX,bmwmotorrad.com.au
@@ -644,7 +644,7 @@ DOMAIN-SUFFIX,bmw.com.pa
 DOMAIN-SUFFIX,bmw.com.ni
 DOMAIN-SUFFIX,bmw.com.my
 DOMAIN-SUFFIX,bmw.com.mx
-DOMAIN-SUFFIX,bmw.com.mt
+DOMAIN-SUFFIX,bmw.co.ke
 DOMAIN-SUFFIX,bmw.com.mo
 DOMAIN-SUFFIX,bmw.com.mk
 DOMAIN-SUFFIX,bmw.com.ky
@@ -659,19 +659,19 @@ DOMAIN-SUFFIX,bmw.com.br
 DOMAIN-SUFFIX,bmw.com.bo
 DOMAIN-SUFFIX,bmw.com.bn
 DOMAIN-SUFFIX,bmw.com.bd
-DOMAIN-SUFFIX,bmw.co.jp
+DOMAIN-SUFFIX,bmw.com.au
 DOMAIN-SUFFIX,bmw.com.ar
-DOMAIN-SUFFIX,bmw-motorrad.co.nz
+DOMAIN-SUFFIX,bmw.co.za
 DOMAIN-SUFFIX,bmw.co.uk
 DOMAIN-SUFFIX,bmw.co.th
 DOMAIN-SUFFIX,bmw.co.nz
 DOMAIN-SUFFIX,bmw.co.kr
-DOMAIN-SUFFIX,mini.co.id
-DOMAIN-SUFFIX,bmw-connecteddrive.com.au
+DOMAIN-SUFFIX,bmw.co.il
 DOMAIN-SUFFIX,alphabet.com.pt
-DOMAIN-SUFFIX,alfera.com.hk
+DOMAIN-SUFFIX,bmw.co.jp
+DOMAIN-SUFFIX,alphera.com.es
 DOMAIN-SUFFIX,bmw.co.cr
-DOMAIN-SUFFIX,bmw.co.ao
+DOMAIN-SUFFIX,bmw.com.mt
 DOMAIN-SUFFIX,bmw-pma.com.sg
 DOMAIN-SUFFIX,bmw-motorrad.com.tr
 DOMAIN-SUFFIX,bmw-motorrad.com.py
@@ -686,7 +686,7 @@ DOMAIN-SUFFIX,bmw-motorrad.com.ar
 DOMAIN-SUFFIX,bmw-motorrad.co.za
 DOMAIN-SUFFIX,bmw-motorrad.co.uk
 DOMAIN-SUFFIX,bmw-motorrad.co.th
-DOMAIN-SUFFIX,bmw.co.il
+DOMAIN-SUFFIX,bmw-motorrad.co.nz
 DOMAIN-SUFFIX,bmw-motorrad.co.kr
 DOMAIN-SUFFIX,bmw-motorrad.co.id
 DOMAIN-SUFFIX,bmw-driving-center.co.kr
@@ -695,29 +695,29 @@ DOMAIN-SUFFIX,bmw-connecteddrive.com.kw
 DOMAIN-SUFFIX,bmw-connecteddrive.com.hr
 DOMAIN-SUFFIX,bmw-connecteddrive.com.cy
 DOMAIN-SUFFIX,bmw-connecteddrive.com.br
-DOMAIN-SUFFIX,alphabet.org.uk
+DOMAIN-SUFFIX,bmw-connecteddrive.com.au
 DOMAIN-SUFFIX,bmw-connecteddrive.co.za
 DOMAIN-SUFFIX,bmw-connecteddrive.co.uk
 DOMAIN-SUFFIX,bmw-connecteddrive.co.nz
-DOMAIN-SUFFIX,mini.com.mx
-DOMAIN-SUFFIX,mini.com.mt
-DOMAIN-SUFFIX,mini.com.pl
-DOMAIN-SUFFIX,mini.com.sg
-DOMAIN-SUFFIX,mini.com.pe
-DOMAIN-SUFFIX,mini.com.pa
 DOMAIN-SUFFIX,mini.com.co
 DOMAIN-SUFFIX,mini.com.mo
+DOMAIN-SUFFIX,mini.com.py
+DOMAIN-SUFFIX,mini.com.pl
+DOMAIN-SUFFIX,mini.com.ph
+DOMAIN-SUFFIX,mini.com.pe
+DOMAIN-SUFFIX,mini.com.pa
+DOMAIN-SUFFIX,mini.com.mx
+DOMAIN-SUFFIX,mini.com.mt
 DOMAIN-SUFFIX,mini.com.br
-DOMAIN-SUFFIX,mini.com.mk
 DOMAIN-SUFFIX,mini.com.hr
 DOMAIN-SUFFIX,mini.com.gt
 DOMAIN-SUFFIX,mini.com.gr
-DOMAIN-SUFFIX,mini.com.bn
-DOMAIN-SUFFIX,mini.com.do
-DOMAIN-SUFFIX,mini.com.ph
-DOMAIN-SUFFIX,mini.com.cy
-DOMAIN-SUFFIX,mini.com.py
 DOMAIN-SUFFIX,mini.com.ec
+DOMAIN-SUFFIX,mini.com.do
+DOMAIN-SUFFIX,mini.com.mk
+DOMAIN-SUFFIX,mini.com.sg
+DOMAIN-SUFFIX,mini.com.bn
+DOMAIN-SUFFIX,mini.com.cy
 DOMAIN-SUFFIX,mini.com.ar
 DOMAIN-SUFFIX,mini.co.za
 DOMAIN-SUFFIX,mini.co.uk
@@ -725,7 +725,7 @@ DOMAIN-SUFFIX,mini.co.th
 DOMAIN-SUFFIX,mini.co.me
 DOMAIN-SUFFIX,mini.co.kr
 DOMAIN-SUFFIX,mini.co.il
-DOMAIN-SUFFIX,bmw.co.ke
+DOMAIN-SUFFIX,mini.co.id
 DOMAIN-SUFFIX,mini.co.cr
 DOMAIN-SUFFIX,mini-connected.co.uk
 DOMAIN-SUFFIX,mini.com.tr

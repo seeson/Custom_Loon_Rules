@@ -1,7 +1,7 @@
 # NAME: apple-dev
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-16 07:51:23
+# UPDATED: 2026-07-18 07:42:51
 # TOTAL: 37
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 32
@@ -12,18 +12,18 @@ DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN-SUFFIX,macruby.com
-DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,appleswift.com
 DOMAIN-SUFFIX,webobjects.com
 DOMAIN-SUFFIX,wpewebkit.org
 DOMAIN-SUFFIX,calendarserver.org
-DOMAIN-SUFFIX,macruby.org
-DOMAIN-SUFFIX,macosforge.org
-DOMAIN-SUFFIX,servicetalk.io
-DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,foundationdb.org
+DOMAIN-SUFFIX,macruby.org
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,macosforge.org
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,carekit.org
@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,researchkit.hk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
 DOMAIN-SUFFIX,researchkit.tv
-DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,servicetalk.io
 DOMAIN-SUFFIX,timestamp.apple.com
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 DOMAIN-SUFFIX,developerservices2.apple.com
