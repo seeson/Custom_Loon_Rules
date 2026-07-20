@@ -4933,7 +4933,7 @@ IP-CIDR6,2406:840:e304::/48,no-resolve
 IP-CIDR6,2406:840:e306::/48,no-resolve
 IP-CIDR6,2406:840:e330::/44,no-resolve
 IP-CIDR6,2406:840:e600::/44,no-resolve
-IP-CIDR6,2406:840:e620::/47,no-resolve
+IP-CIDR6,2406:840:e621::/48,no-resolve
 IP-CIDR6,2406:840:e80f::/48,no-resolve
 IP-CIDR6,2406:840:eb00::/46,no-resolve
 IP-CIDR6,2406:840:eb04::/47,no-resolve
