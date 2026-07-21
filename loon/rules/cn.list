@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 111508
-# TOTAL: 111514
+# DOMAIN-SUFFIX: 111512
+# TOTAL: 111518
 
 DOMAIN,api.blipsandchitz.me
 DOMAIN,end-api.shallow.ink
@@ -19488,6 +19488,7 @@ DOMAIN-SUFFIX,cd-wx.net
 DOMAIN-SUFFIX,cd-zc.com
 DOMAIN-SUFFIX,cd00c44f211031.beer
 DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,cd120.info
 DOMAIN-SUFFIX,cd12371.com
 DOMAIN-SUFFIX,cd1958.com
 DOMAIN-SUFFIX,cd20.net
@@ -66294,6 +66295,7 @@ DOMAIN-SUFFIX,moe233.org
 DOMAIN-SUFFIX,moe321.com
 DOMAIN-SUFFIX,moeclub.org
 DOMAIN-SUFFIX,moedot.net
+DOMAIN-SUFFIX,moedu.com
 DOMAIN-SUFFIX,moeelf.com
 DOMAIN-SUFFIX,moefactory.com
 DOMAIN-SUFFIX,moefantasy.com
@@ -90267,6 +90269,7 @@ DOMAIN-SUFFIX,tsingoofoods.com
 DOMAIN-SUFFIX,tsingpost.com
 DOMAIN-SUFFIX,tsingshang.com
 DOMAIN-SUFFIX,tsingtek.com
+DOMAIN-SUFFIX,tsingtengms.com
 DOMAIN-SUFFIX,tsingtoo.com
 DOMAIN-SUFFIX,tsingtuo.com
 DOMAIN-SUFFIX,tsingyangroup.com
@@ -97897,6 +97900,7 @@ DOMAIN-SUFFIX,xcxwo.com
 DOMAIN-SUFFIX,xcxymw.com
 DOMAIN-SUFFIX,xcxzww.com
 DOMAIN-SUFFIX,xcyg.net
+DOMAIN-SUFFIX,xcz.im
 DOMAIN-SUFFIX,xczhmzb.com
 DOMAIN-SUFFIX,xczhsh.com
 DOMAIN-SUFFIX,xczim.com
