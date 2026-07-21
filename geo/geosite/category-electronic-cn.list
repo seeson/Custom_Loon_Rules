@@ -1,49 +1,60 @@
 # NAME: category-electronic-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-21 07:49:11
-# TOTAL: 73
-# DOMAIN-SUFFIX: 73
+# UPDATED: 2026-07-22 07:49:29
+# TOTAL: 87
+# DOMAIN-SUFFIX: 87
 
-DOMAIN-SUFFIX,jlc-cam.com
-DOMAIN-SUFFIX,jlc-cnc.com
+DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,wch-ic.com
 DOMAIN-SUFFIX,avermedia.cn
 DOMAIN-SUFFIX,boe.com
+DOMAIN-SUFFIX,ymtc.cn
 DOMAIN-SUFFIX,bouffalolab.com
 DOMAIN-SUFFIX,cxmt.com
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,hqchip.com
-DOMAIN-SUFFIX,jlc-dfm.com
+DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
 DOMAIN-SUFFIX,infineon.cn
+DOMAIN-SUFFIX,gosinoic.com
+DOMAIN-SUFFIX,h3c.com
+DOMAIN-SUFFIX,moedu.com
+DOMAIN-SUFFIX,thunis.com
+DOMAIN-SUFFIX,jlc-3dp.com
+DOMAIN-SUFFIX,tsingtengms.com
+DOMAIN-SUFFIX,unicloud.com
+DOMAIN-SUFFIX,ymtc.com
+DOMAIN-SUFFIX,uniscan.cn
+DOMAIN-SUFFIX,unisdigital.com
+DOMAIN-SUFFIX,unisemicon.com
+DOMAIN-SUFFIX,unisoc.com
+DOMAIN-SUFFIX,unispc.com
+DOMAIN-SUFFIX,uniswdc.com
 DOMAIN-SUFFIX,listenai.com
 DOMAIN-SUFFIX,quecmall.cn
+DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,rock-chips.com
 DOMAIN-SUFFIX,seeed.cn
 DOMAIN-SUFFIX,seeed.cc
-DOMAIN-SUFFIX,sipeed.com
-DOMAIN-SUFFIX,maixhub.com
-DOMAIN-SUFFIX,zxhgroup.com
 DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,szlcsc.com
+DOMAIN-SUFFIX,sipeed.com
+DOMAIN-SUFFIX,maixhub.com
 DOMAIN-SUFFIX,szjlc.cn
-DOMAIN-SUFFIX,sz-jlc.com
 DOMAIN-SUFFIX,wch.cn
-DOMAIN-SUFFIX,wch-ic.com
-DOMAIN-SUFFIX,ymtc.com
-DOMAIN-SUFFIX,ymtc.cn
-DOMAIN-SUFFIX,sanweihou.com
-DOMAIN-SUFFIX,fa-part.com
-DOMAIN-SUFFIX,forface3d.com
 DOMAIN-SUFFIX,jlc-3dp.cn
-DOMAIN-SUFFIX,jlc-3dp.com
-DOMAIN-SUFFIX,jlc-bbs.com
-DOMAIN-SUFFIX,jlc-cad.com
+DOMAIN-SUFFIX,fa-part.com
 DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,analog.com
-DOMAIN-SUFFIX,hqdoc.com
+DOMAIN-SUFFIX,tsinghuaic.com
+DOMAIN-SUFFIX,jlc-bbs.com
+DOMAIN-SUFFIX,jlc-cad.com
+DOMAIN-SUFFIX,jlc-cam.com
+DOMAIN-SUFFIX,jlc-cnc.com
+DOMAIN-SUFFIX,jlc-dfm.com
 DOMAIN-SUFFIX,jlc-drm.com
 DOMAIN-SUFFIX,jlc-ecad.com
 DOMAIN-SUFFIX,jlc-erp.com
@@ -72,9 +83,12 @@ DOMAIN-SUFFIX,jlcsmt.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
 DOMAIN-SUFFIX,oshwhub.com
-DOMAIN-SUFFIX,ymtc.com.cn
+DOMAIN-SUFFIX,sanweihou.com
+DOMAIN-SUFFIX,sz-jlc.com
 DOMAIN-SUFFIX,ti.com.cn
 DOMAIN-SUFFIX,seeedstudio.com.cn
 DOMAIN-SUFFIX,seeed.com.cn
 DOMAIN-SUFFIX,quectel.com.cn
+DOMAIN-SUFFIX,unigroup.com.cn
 DOMAIN-SUFFIX,boe.com.cn
+DOMAIN-SUFFIX,ymtc.com.cn

@@ -1,10 +1,10 @@
 # NAME: category-hospital-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-21 07:49:22
-# TOTAL: 8
+# UPDATED: 2026-07-22 07:49:36
+# TOTAL: 9
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 6
+# DOMAIN-SUFFIX: 7
 
 DOMAIN,hospital.pku.edu.cn
 DOMAIN,ss.bjmu.edu.cn
@@ -13,4 +13,5 @@ DOMAIN-SUFFIX,pkuh6.cn
 DOMAIN-SUFFIX,yctdyy.com
 DOMAIN-SUFFIX,smuszh.com
 DOMAIN-SUFFIX,cd120.com
+DOMAIN-SUFFIX,cd120.info
 DOMAIN-SUFFIX,puh3.net.cn
