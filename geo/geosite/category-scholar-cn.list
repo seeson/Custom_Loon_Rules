@@ -1,12 +1,12 @@
 # NAME: category-scholar-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-22 07:49:54
+# UPDATED: 2026-07-23 07:55:56
 # TOTAL: 90
 # DOMAIN-SUFFIX: 90
 
-DOMAIN-SUFFIX,zhihang100.com
-DOMAIN-SUFFIX,chaoxingv.com
+DOMAIN-SUFFIX,sslawy.com
+DOMAIN-SUFFIX,aichaoxing.com
 DOMAIN-SUFFIX,ancientbooks.cn
 DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,bjinfobank.com
@@ -51,15 +51,18 @@ DOMAIN-SUFFIX,tokyotrial.cn
 DOMAIN-SUFFIX,tongxianghuicn.com
 DOMAIN-SUFFIX,sbsjk.com
 DOMAIN-SUFFIX,airitilibrary.cn
-DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,ssvideo.cn
+DOMAIN-SUFFIX,uonline-sh.net
 DOMAIN-SUFFIX,yiigle.com
-DOMAIN-SUFFIX,ssreader.cn
+DOMAIN-SUFFIX,uonline-sh.com
 DOMAIN-SUFFIX,wenxin-ge.com
-DOMAIN-SUFFIX,aichaoxing.com
+DOMAIN-SUFFIX,superlib.net
+DOMAIN-SUFFIX,ssreader.cn
+DOMAIN-SUFFIX,xuexi365.com
+DOMAIN-SUFFIX,superlib.com
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,chaoxing.com
-DOMAIN-SUFFIX,uonline-sh.net
+DOMAIN-SUFFIX,chaoxingv.com
 DOMAIN-SUFFIX,cxbiji.com
 DOMAIN-SUFFIX,dayainfo.com
 DOMAIN-SUFFIX,hongbo100.com
@@ -68,30 +71,27 @@ DOMAIN-SUFFIX,mndqlib.net
 DOMAIN-SUFFIX,mti100.com
 DOMAIN-SUFFIX,nihaoafrica.org
 DOMAIN-SUFFIX,nihaorwanda.cn
-DOMAIN-SUFFIX,sslawy.com
+DOMAIN-SUFFIX,51ccd.com
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,5read.com
-DOMAIN-SUFFIX,51ccd.com
+DOMAIN-SUFFIX,zhihang100.com
 DOMAIN-SUFFIX,16q.cn
 DOMAIN-SUFFIX,zaifan.com
 DOMAIN-SUFFIX,ylike.net
-DOMAIN-SUFFIX,superlib.com
-DOMAIN-SUFFIX,superlib.net
-DOMAIN-SUFFIX,uonline-sh.com
-DOMAIN-SUFFIX,data.pharmacodia.com
-DOMAIN-SUFFIX,ssreader.com.cn
+DOMAIN-SUFFIX,ssvideo.com.cn
+DOMAIN-SUFFIX,study360.com.cn
+DOMAIN-SUFFIX,csdl.ac.cn
+DOMAIN-SUFFIX,wind.com.cn
+DOMAIN-SUFFIX,iscas.ac.cn
 DOMAIN-SUFFIX,pishu.com.cn
 DOMAIN-SUFFIX,drcnet.com.cn
-DOMAIN-SUFFIX,xuexi365.com.cn
-DOMAIN-SUFFIX,study360.com.cn
-DOMAIN-SUFFIX,ssvideo.com.cn
 DOMAIN-SUFFIX,unihan.com.cn
-DOMAIN-SUFFIX,wind.com.cn
-DOMAIN-SUFFIX,ccf.org.cn
+DOMAIN-SUFFIX,las.ac.cn
 DOMAIN-SUFFIX,zaifan.com.cn
+DOMAIN-SUFFIX,xuexi365.com.cn
+DOMAIN-SUFFIX,ssreader.com.cn
+DOMAIN-SUFFIX,data.pharmacodia.com
+DOMAIN-SUFFIX,ccf.org.cn
 DOMAIN-SUFFIX,cnki.com.cn
 DOMAIN-SUFFIX,cidp.com.cn
 DOMAIN-SUFFIX,wanfangdata.com.cn
-DOMAIN-SUFFIX,csdl.ac.cn
-DOMAIN-SUFFIX,iscas.ac.cn
-DOMAIN-SUFFIX,las.ac.cn
