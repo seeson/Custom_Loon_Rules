@@ -1,9 +1,9 @@
 # NAME: tk
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-23 07:56:42
-# TOTAL: 97
-# IP-CIDR: 97
+# UPDATED: 2026-07-24 07:55:22
+# TOTAL: 96
+# IP-CIDR: 96
 
 IP-CIDR,14.1.92.0/23
 IP-CIDR,27.96.24.0/21
@@ -101,4 +101,3 @@ IP-CIDR,2a09:bac4:16d0::/45
 IP-CIDR,2a09:bac5:5870::/45
 IP-CIDR,2a09:bac6:5870::/45
 IP-CIDR,2a0b:4e07:3:7720::/60
-IP-CIDR,2a14:2d45:da00::/40

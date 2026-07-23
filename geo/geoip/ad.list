@@ -1,9 +1,9 @@
 # NAME: ad
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-23 07:56:09
-# TOTAL: 358
-# IP-CIDR: 358
+# UPDATED: 2026-07-24 07:54:37
+# TOTAL: 357
+# IP-CIDR: 357
 
 IP-CIDR,5.62.60.5/32
 IP-CIDR,5.62.60.6/31
@@ -361,5 +361,4 @@ IP-CIDR,2a0e:ec05:7fc0::/42
 IP-CIDR,2a0e:ec05:8000::/40
 IP-CIDR,2a0e:ec05:8100::/41
 IP-CIDR,2a0e:ec05:8180::/42
-IP-CIDR,2a14:2d45::/40
 IP-CIDR,2a14:67c2:897::/48
