@@ -1,7 +1,7 @@
 # NAME: category-education-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-25 07:57:03
+# UPDATED: 2026-07-26 07:53:01
 # TOTAL: 179
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 176
@@ -38,9 +38,9 @@ DOMAIN-SUFFIX,gfbzb.net
 DOMAIN-SUFFIX,ncss.cn
 DOMAIN-SUFFIX,aoshu.com
 DOMAIN-SUFFIX,100tal.com
-DOMAIN-SUFFIX,tongxuepie.com
+DOMAIN-SUFFIX,shanbay.com
 DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,schoopia.com
+DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 DOMAIN-SUFFIX,21cnjy.com
@@ -137,13 +137,8 @@ DOMAIN-SUFFIX,17zuoye.net
 DOMAIN-SUFFIX,hugecore.net
 DOMAIN-SUFFIX,shareintelli.com
 DOMAIN-SUFFIX,mojidict.com
-DOMAIN-SUFFIX,cctalk.com
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,yeshj.com
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,shanbay.com
+DOMAIN-SUFFIX,schoopia.com
+DOMAIN-SUFFIX,tongxuepie.com
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
@@ -166,6 +161,11 @@ DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,applysquare.net
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com
 DOMAIN-SUFFIX,icve.com.cn
 DOMAIN-SUFFIX,chsi.com.cn
 DOMAIN-SUFFIX,modex.com.cn

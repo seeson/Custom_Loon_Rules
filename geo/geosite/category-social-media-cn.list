@@ -1,7 +1,7 @@
 # NAME: category-social-media-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-25 07:57:14
+# UPDATED: 2026-07-26 07:53:20
 # TOTAL: 37
 # DOMAIN-SUFFIX: 37
 
@@ -22,22 +22,22 @@ DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,gracg.com
 DOMAIN-SUFFIX,procg.cn
 DOMAIN-SUFFIX,tieba.com
-DOMAIN-SUFFIX,meipian.me
+DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,shihuo.cn
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,ivwen.com
 DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,meipian.me
 DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,okjike.com
 DOMAIN-SUFFIX,okjk.co
 DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,laiyagushi.com
-DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,ivwen.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,crash2.zhihu.com
