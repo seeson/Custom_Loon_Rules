@@ -1,10 +1,10 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-26 07:53:09
-# TOTAL: 160
+# UPDATED: 2026-07-27 07:53:21
+# TOTAL: 161
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 153
+# DOMAIN-SUFFIX: 154
 
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyndns.org
@@ -14,8 +14,8 @@ DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN,whatismyip.akamai.com
 DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,country.is
-DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,2ip.ua
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
 DOMAIN-SUFFIX,apiip.net
@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,bigdatacloud.net
 DOMAIN-SUFFIX,check-host.net
 DOMAIN-SUFFIX,checkip.org
 DOMAIN-SUFFIX,checkip.ru
-DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,country.is
 DOMAIN-SUFFIX,curlmyip.net
 DOMAIN-SUFFIX,dadata.ru
 DOMAIN-SUFFIX,db-ip.com
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,find-my-ip.net
 DOMAIN-SUFFIX,findip.net
 DOMAIN-SUFFIX,flagfox.net
 DOMAIN-SUFFIX,fraudguard.io
-DOMAIN-SUFFIX,fraudlogix.com
+DOMAIN-SUFFIX,ipligence.com
 DOMAIN-SUFFIX,freegeoip.app
 DOMAIN-SUFFIX,freeipapi.com
 DOMAIN-SUFFIX,geodatatool.com
@@ -75,9 +75,9 @@ DOMAIN-SUFFIX,ipaddress.my
 DOMAIN-SUFFIX,ipaddress.sh
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipapi.com
-DOMAIN-SUFFIX,ipligence.com
+DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,ipbase.com
-DOMAIN-SUFFIX,ipbot.com
+DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,ipcalf.com
 DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,ipchicken.com
@@ -87,9 +87,9 @@ DOMAIN-SUFFIX,ipfind.io
 DOMAIN-SUFFIX,ipfinder.io
 DOMAIN-SUFFIX,ipgeolocation.io
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,2ip.ua
+DOMAIN-SUFFIX,ipbot.com
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,fraudlogix.com
 DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocation.com
 DOMAIN-SUFFIX,iplocation.io
@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,my-ip.io
 DOMAIN-SUFFIX,myexternalip.com
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,myip.expert
+DOMAIN-SUFFIX,myip.link
 DOMAIN-SUFFIX,myip.ms
 DOMAIN-SUFFIX,myip.ru
 DOMAIN-SUFFIX,myip.wtf
