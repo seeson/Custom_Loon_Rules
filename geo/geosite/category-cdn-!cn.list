@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-28 07:56:56
+# UPDATED: 2026-07-29 07:52:26
 # TOTAL: 194
 # DOMAIN-SUFFIX: 194
 
@@ -24,8 +24,8 @@ DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,pagecdn.com
 DOMAIN-SUFFIX,pagecdn.io
 DOMAIN-SUFFIX,quantil.com
-DOMAIN-SUFFIX,stackpath.com
-DOMAIN-SUFFIX,stackpath.dev
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cfargotunnel.com
@@ -88,6 +88,10 @@ DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
 DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,vrcdn.cloud
 DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,vrcdn.video
@@ -160,10 +164,6 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
-DOMAIN-SUFFIX,cdn77.com
-DOMAIN-SUFFIX,cdn77.org
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net

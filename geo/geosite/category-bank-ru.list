@@ -1,16 +1,16 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-28 07:56:55
-# TOTAL: 312
+# UPDATED: 2026-07-29 07:52:25
+# TOTAL: 313
 # DOMAIN: 8
-# DOMAIN-SUFFIX: 304
+# DOMAIN-SUFFIX: 305
 
 DOMAIN,sberpro.vedomosti.ru
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
-DOMAIN-SUFFIX,jivochat.ng
-DOMAIN-SUFFIX,enterly.ru
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,bfa.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,absolutbank.ru
 DOMAIN-SUFFIX,akbars.ru
-DOMAIN-SUFFIX,alefbank.com
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,ankb.ru
 DOMAIN-SUFFIX,asia-pay.ru
 DOMAIN-SUFFIX,atb.su
@@ -68,14 +68,14 @@ DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bankermak.ru
 DOMAIN-SUFFIX,best2pay.net
-DOMAIN-SUFFIX,bfa.ru
+DOMAIN-SUFFIX,jivochat.ng
 DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,bm-bank.ru
 DOMAIN-SUFFIX,bspb.ru
 DOMAIN-SUFFIX,commerzbank.ru
 DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,forshtadt.ru
-DOMAIN-SUFFIX,alfa.me
+DOMAIN-SUFFIX,homecredit.ru
 DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,jpmorgan.ru
@@ -104,14 +104,14 @@ DOMAIN-SUFFIX,tagbank.ru
 DOMAIN-SUFFIX,tatsotsbank.ru
 DOMAIN-SUFFIX,tinkoff-edu.ru
 DOMAIN-SUFFIX,tkbbank.ru
-DOMAIN-SUFFIX,ubs.com
+DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,uralsib.ru
 DOMAIN-SUFFIX,vlb100.ru
 DOMAIN-SUFFIX,westernunion.ru
 DOMAIN-SUFFIX,yoobusiness.ru
 DOMAIN-SUFFIX,ziraatbank.ru
-DOMAIN-SUFFIX,spasibosberbank.ru
-DOMAIN-SUFFIX,sberbankaktivno.ru
+DOMAIN-SUFFIX,getsynapse.io
+DOMAIN-SUFFIX,spasibo.market
 DOMAIN-SUFFIX,sber.ru
 DOMAIN-SUFFIX,sberbank.com
 DOMAIN-SUFFIX,sberbank.ru
@@ -121,19 +121,20 @@ DOMAIN-SUFFIX,megamarket.ru
 DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sberbank-tele.com
+DOMAIN-SUFFIX,sberbankaktivno.ru
+DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sbercloud.ru
 DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
 DOMAIN-SUFFIX,sberfactoring.ru
-DOMAIN-SUFFIX,sberindex.ru
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,sberleasing.ru
 DOMAIN-SUFFIX,sberlogistics.ru
 DOMAIN-SUFFIX,sbermegamarket.ru
-DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,2gis.ge
 DOMAIN-SUFFIX,sberpb.ru
 DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,afisha.ru
@@ -150,17 +151,17 @@ DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,gitverse.ru
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,sber-bank.by
-DOMAIN-SUFFIX,okkoapi.tv
-DOMAIN-SUFFIX,jivochat.com
-DOMAIN-SUFFIX,2gis.ge
 DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,sber-bank.by
+DOMAIN-SUFFIX,2gis.kg
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,2gis.am
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,homecredit.ru
-DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,ubs.com
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,payecom.ru
@@ -170,26 +171,26 @@ DOMAIN-SUFFIX,sber.pro
 DOMAIN-SUFFIX,cplsb.ru
 DOMAIN-SUFFIX,sberspasibo.ru
 DOMAIN-SUFFIX,spasibo.digital
-DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,jivochat.com
 DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
-DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,accesspoint.uz
-DOMAIN-SUFFIX,getsynapse.io
+DOMAIN-SUFFIX,bps-sberbank.by
 DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,2gis.cz
 DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,2gis.az
 DOMAIN-SUFFIX,2gis.by
 DOMAIN-SUFFIX,2gis.com
 DOMAIN-SUFFIX,2gis.tech
-DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,2gis.ae
-DOMAIN-SUFFIX,2gis.am
-DOMAIN-SUFFIX,2gis.kz
-DOMAIN-SUFFIX,2gis.ru
 DOMAIN-SUFFIX,prodcontest.com
 DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,centraluniversity.ru
@@ -200,7 +201,7 @@ DOMAIN-SUFFIX,xn--90aifd0az.shop
 DOMAIN-SUFFIX,unidraw.io
 DOMAIN-SUFFIX,travel-tec.ru
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
-DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
 DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,2w.ru
@@ -221,7 +222,7 @@ DOMAIN-SUFFIX,deltacredit.ru
 DOMAIN-SUFFIX,depository.ru
 DOMAIN-SUFFIX,dolyame.ru
 DOMAIN-SUFFIX,electronicsignature.ru
-DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,enterly.ru
 DOMAIN-SUFFIX,era-invest.ru
 DOMAIN-SUFFIX,etna.ai
 DOMAIN-SUFFIX,gainstech.ru
@@ -299,13 +300,13 @@ DOMAIN-SUFFIX,tinsurance.ru
 DOMAIN-SUFFIX,tinsurancefuture.ru
 DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tpension.ru
-DOMAIN-SUFFIX,jivochat.com.co
-DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,2gis.com.cy
 DOMAIN-SUFFIX,jivochat.co.za
 DOMAIN-SUFFIX,jivochat.co.in
-DOMAIN-SUFFIX,2gis.com.cy
+DOMAIN-SUFFIX,jivochat.com.co
 DOMAIN-SUFFIX,jivochat.com.pe
 DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.com.br
 DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,vtb-grants.fut.ru

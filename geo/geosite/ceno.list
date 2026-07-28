@@ -1,8 +1,9 @@
 # NAME: ceno
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-28 07:57:27
-# TOTAL: 1
-# DOMAIN-SUFFIX: 1
+# UPDATED: 2026-07-29 07:52:53
+# TOTAL: 2
+# DOMAIN-SUFFIX: 2
 
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no

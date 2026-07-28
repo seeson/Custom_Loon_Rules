@@ -1,9 +1,9 @@
 # NAME: category-media-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-28 07:57:12
-# TOTAL: 135
-# DOMAIN-SUFFIX: 135
+# UPDATED: 2026-07-29 07:52:41
+# TOTAL: 137
+# DOMAIN-SUFFIX: 137
 
 DOMAIN-SUFFIX,eadaily.com
 DOMAIN-SUFFIX,eadaily.info
@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
 DOMAIN-SUFFIX,eurasiadaily.su
+DOMAIN-SUFFIX,ixbt.com
+DOMAIN-SUFFIX,ixbt.site
 DOMAIN-SUFFIX,1prime.ru
 DOMAIN-SUFFIX,sputnikimages.com
 DOMAIN-SUFFIX,rossiyasegodnya.com

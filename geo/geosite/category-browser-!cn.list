@@ -1,22 +1,22 @@
 # NAME: category-browser-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-28 07:56:56
-# TOTAL: 33
+# UPDATED: 2026-07-29 07:52:26
+# TOTAL: 34
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 32
+# DOMAIN-SUFFIX: 33
 
 DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN-SUFFIX,chrome
 DOMAIN-SUFFIX,netsurf-browser.org
-DOMAIN-SUFFIX,opera.com
+DOMAIN-SUFFIX,palemoon.org
 DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,bromite.org
-DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,cromite.org
 DOMAIN-SUFFIX,decentr.net
-DOMAIN-SUFFIX,dothq.org
+DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,kiwibrowser.com
@@ -24,18 +24,19 @@ DOMAIN-SUFFIX,kmeleonbrowser.org
 DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,minbrowser.org
-DOMAIN-SUFFIX,pulsebrowser.app
-DOMAIN-SUFFIX,palemoon.org
+DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,qutebrowser.org
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
-DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,browser.kagi.com
