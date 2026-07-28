@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 111512
-# TOTAL: 111518
+# DOMAIN-SUFFIX: 111513
+# TOTAL: 111519
 
 DOMAIN,api.blipsandchitz.me
 DOMAIN,end-api.shallow.ink
@@ -100273,6 +100273,7 @@ DOMAIN-SUFFIX,xmmtu.com
 DOMAIN-SUFFIX,xmmuye.com
 DOMAIN-SUFFIX,xmnjdwx.com
 DOMAIN-SUFFIX,xmocloud01.com
+DOMAIN-SUFFIX,xmoj.tech
 DOMAIN-SUFFIX,xmonecode.com
 DOMAIN-SUFFIX,xmos.tv
 DOMAIN-SUFFIX,xmov.ai
