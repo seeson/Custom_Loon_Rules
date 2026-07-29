@@ -1,25 +1,26 @@
 # NAME: category-companies@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-29 07:52:28
+# UPDATED: 2026-07-30 07:54:26
 # TOTAL: 232
 # DOMAIN: 89
 # DOMAIN-SUFFIX: 143
 
-DOMAIN,api-eu.carrotquest.app
-DOMAIN,api-eu.carrotquest.io
-DOMAIN,api-ru.carrotquest.app
-DOMAIN,api-ru.carrotquest.io
-DOMAIN,api-secure.carrotquest.app
-DOMAIN,api-secure.carrottrack.app
-DOMAIN,api.carrotquest.app
-DOMAIN,api.carrotquest.io
-DOMAIN,api.carrottrack.app
-DOMAIN,api.dashly.app
-DOMAIN,api.dashlytrack.app
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,tubemogul.com
 DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
@@ -62,13 +63,36 @@ DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,pixel.yandex.com
 DOMAIN,report.ap.yandex-net.ru
-DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
 DOMAIN,ads-img.mozilla.org
 DOMAIN,ads.mozilla.org
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,samsungadhub.com
+DOMAIN-SUFFIX,samsungads.com
+DOMAIN-SUFFIX,advertising.apple.com
+DOMAIN-SUFFIX,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+DOMAIN-SUFFIX,iad.apple.com
+DOMAIN-SUFFIX,qwapi.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com
@@ -122,6 +146,7 @@ DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
 DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN-SUFFIX,adsadvisor.io
@@ -192,20 +217,17 @@ DOMAIN,stats.vk-portal.net
 DOMAIN,target.vk.com
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,ms.dzen.ru
-DOMAIN,sentry.hetzner.company
-DOMAIN-SUFFIX,ads-api.duolingo.com
-DOMAIN-SUFFIX,analytics.vpc.duolingo.com
-DOMAIN-SUFFIX,metrics.duolingo.com
-DOMAIN-SUFFIX,e.mindbox.ru
-DOMAIN-SUFFIX,g.mindbox.ru
-DOMAIN-SUFFIX,s.mindbox.ru
-DOMAIN,api-js.mindbox.ru
-DOMAIN,api-ru.mindbox.cloud
-DOMAIN,api-staging.mindbox.ru
-DOMAIN,api.mindbox.cloud
-DOMAIN,api.mindbox.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,msads.net
@@ -216,25 +238,3 @@ DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,advertising.adobe.com
-DOMAIN-SUFFIX,tubemogul.com
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN-SUFFIX,advertising.apple.com
-DOMAIN-SUFFIX,api-adservices.apple.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,iad.apple.com
-DOMAIN-SUFFIX,qwapi.com
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,analytics.facebook.com
-DOMAIN-SUFFIX,facebookads.com
-DOMAIN-SUFFIX,pixel.facebook.com
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
-DOMAIN-SUFFIX,samsungadhub.com
-DOMAIN-SUFFIX,samsungads.com
-DOMAIN-SUFFIX,a.mts.ru
-DOMAIN-SUFFIX,obs.mts.ru

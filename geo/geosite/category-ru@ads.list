@@ -1,7 +1,7 @@
 # NAME: category-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-29 07:52:47
+# UPDATED: 2026-07-30 07:54:47
 # TOTAL: 188
 # DOMAIN: 125
 # DOMAIN-SUFFIX: 63
@@ -10,16 +10,22 @@ DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,targetads.io
-DOMAIN-SUFFIX,e.mindbox.ru
-DOMAIN-SUFFIX,g.mindbox.ru
-DOMAIN-SUFFIX,s.mindbox.ru
-DOMAIN,api-js.mindbox.ru
-DOMAIN,api-ru.mindbox.cloud
-DOMAIN,api-staging.mindbox.ru
-DOMAIN,api.mindbox.cloud
-DOMAIN,api.mindbox.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
+DOMAIN,ads.x5.ru
+DOMAIN,ads.x5media.ru
+DOMAIN,sentry.x5.ru
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN-SUFFIX,adsadvisor.io
@@ -99,20 +105,6 @@ DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN-SUFFIX,a.mts.ru
-DOMAIN-SUFFIX,obs.mts.ru
-DOMAIN,api-eu.carrotquest.app
-DOMAIN,api-eu.carrotquest.io
-DOMAIN,api-ru.carrotquest.app
-DOMAIN,api-ru.carrotquest.io
-DOMAIN,api-secure.carrotquest.app
-DOMAIN,api-secure.carrottrack.app
-DOMAIN,api.carrotquest.app
-DOMAIN,api.carrotquest.io
-DOMAIN,api.carrottrack.app
-DOMAIN,api.dashly.app
-DOMAIN,api.dashlytrack.app
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
@@ -189,8 +181,16 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
-DOMAIN,ads.x5.ru
-DOMAIN,ads.x5media.ru
-DOMAIN,sentry.x5.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,sentry.kontur.host
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
