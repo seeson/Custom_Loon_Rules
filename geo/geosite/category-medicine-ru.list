@@ -1,12 +1,12 @@
 # NAME: category-medicine-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-30 07:54:41
-# TOTAL: 33
-# DOMAIN-SUFFIX: 33
+# UPDATED: 2026-07-31 07:55:08
+# TOTAL: 34
+# DOMAIN-SUFFIX: 34
 
 DOMAIN-SUFFIX,mosgorzdrav.ru
-DOMAIN-SUFFIX,farmlend.ru
+DOMAIN-SUFFIX,aptekiplus.ru
 DOMAIN-SUFFIX,zdravcity.ru
 DOMAIN-SUFFIX,emias.ru
 DOMAIN-SUFFIX,vipmed.ru
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,reso-med.ru
 DOMAIN-SUFFIX,mgfoms.ru
 DOMAIN-SUFFIX,spboms.ru
 DOMAIN-SUFFIX,uteka.ru
-DOMAIN-SUFFIX,mofoms.ru
+DOMAIN-SUFFIX,zub.ru
 DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,medsi.com
 DOMAIN-SUFFIX,medsi.pro
@@ -23,14 +23,15 @@ DOMAIN-SUFFIX,medsi.ru
 DOMAIN-SUFFIX,smartmed.pro
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,polyclinika.ru
-DOMAIN-SUFFIX,klinikabudzdorov.ru
+DOMAIN-SUFFIX,mofoms.ru
+DOMAIN-SUFFIX,b17.ru
 DOMAIN-SUFFIX,reaviz.com
 DOMAIN-SUFFIX,reaviz.ru
 DOMAIN-SUFFIX,stolichki.ru
 DOMAIN-SUFFIX,apteka.ru
 DOMAIN-SUFFIX,apteka-april.ru
-DOMAIN-SUFFIX,aptekiplus.ru
-DOMAIN-SUFFIX,zub.ru
+DOMAIN-SUFFIX,klinikabudzdorov.ru
+DOMAIN-SUFFIX,farmlend.ru
 DOMAIN-SUFFIX,gorzdrav.org
 DOMAIN-SUFFIX,megapteka.ru
 DOMAIN-SUFFIX,planetazdorovo.ru

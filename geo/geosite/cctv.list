@@ -1,13 +1,13 @@
 # NAME: cctv
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-30 07:54:54
-# TOTAL: 43
-# DOMAIN-SUFFIX: 43
+# UPDATED: 2026-07-31 07:55:21
+# TOTAL: 44
+# DOMAIN-SUFFIX: 44
 
-DOMAIN-SUFFIX,tvcc.cn
+DOMAIN-SUFFIX,ottcn.com
 DOMAIN-SUFFIX,icntvcdn.com
-DOMAIN-SUFFIX,ipanda.cn
+DOMAIN-SUFFIX,cctv4g.com
 DOMAIN-SUFFIX,cctvlib.cn
 DOMAIN-SUFFIX,zggbdszt.cn
 DOMAIN-SUFFIX,cctvlibrary.cn
@@ -22,22 +22,23 @@ DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
-DOMAIN-SUFFIX,cntvwb.cn
-DOMAIN-SUFFIX,gjgbdszt.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+DOMAIN-SUFFIX,cri.cn
+DOMAIN-SUFFIX,gjgbdszt.cn
 DOMAIN-SUFFIX,cctv.com
-DOMAIN-SUFFIX,cctv.cn
-DOMAIN-SUFFIX,cctv4g.com
+DOMAIN-SUFFIX,tvcc.cn
+DOMAIN-SUFFIX,cntvwb.cn
+DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com
-DOMAIN-SUFFIX,ottcn.com
+DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,olympicchannelchina.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
-DOMAIN-SUFFIX,gjgbdszt.net.cn
-DOMAIN-SUFFIX,tvcc.com.cn
 DOMAIN-SUFFIX,gjgbdszt.com.cn
+DOMAIN-SUFFIX,tvcc.com.cn
+DOMAIN-SUFFIX,gjgbdszt.net.cn
 DOMAIN-SUFFIX,cntv.com.cn
 DOMAIN-SUFFIX,cctvpro.com.cn
 DOMAIN-SUFFIX,cnms.net.cn
