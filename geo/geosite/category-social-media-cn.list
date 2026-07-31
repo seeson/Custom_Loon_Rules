@@ -1,12 +1,12 @@
 # NAME: category-social-media-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-07-31 07:55:16
+# UPDATED: 2026-08-01 07:55:26
 # TOTAL: 37
 # DOMAIN-SUFFIX: 37
 
-DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,gracg.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,dandanvoice.com
 DOMAIN-SUFFIX,fanfou.com
@@ -16,28 +16,28 @@ DOMAIN-SUFFIX,xiaochuankeji.cn
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com
 DOMAIN-SUFFIX,zsxq.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,coolapk.com
-DOMAIN-SUFFIX,coolapkmarket.com
-DOMAIN-SUFFIX,coolapkmarket.net
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,tieba.com
-DOMAIN-SUFFIX,vzuu.com
-DOMAIN-SUFFIX,procg.cn
+DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,hupucdn.com
 DOMAIN-SUFFIX,shihuo.cn
-DOMAIN-SUFFIX,laiyagushi.com
-DOMAIN-SUFFIX,jike.city
-DOMAIN-SUFFIX,jikecdn.com
-DOMAIN-SUFFIX,okjike.com
 DOMAIN-SUFFIX,okjk.co
-DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,ivwen.com
 DOMAIN-SUFFIX,meipian.cn
 DOMAIN-SUFFIX,meipian.me
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,gracg.com
+DOMAIN-SUFFIX,procg.cn
+DOMAIN-SUFFIX,jike.city
+DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,okjike.com
 DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,crash2.zhihu.com
