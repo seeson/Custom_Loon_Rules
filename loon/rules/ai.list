@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 24
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 151
-# TOTAL: 178
+# DOMAIN-SUFFIX: 152
+# TOTAL: 179
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mozilla.ai
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,oaistatic.com
