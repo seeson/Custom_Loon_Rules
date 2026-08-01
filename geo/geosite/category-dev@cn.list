@@ -1,19 +1,19 @@
 # NAME: category-dev@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-01 07:55:04
+# UPDATED: 2026-08-02 07:49:27
 # TOTAL: 14
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 9
 
-DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,update.crashlytics.com
 DOMAIN,cdn.ampproject.org
 DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,update.crashlytics.com
 DOMAIN-SUFFIX,microsoftreactor.cn
 DOMAIN-SUFFIX,microsoftreactor.com.cn
 DOMAIN-SUFFIX,reactorms.com.cn

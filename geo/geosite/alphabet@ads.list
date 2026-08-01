@@ -1,10 +1,10 @@
 # NAME: alphabet@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-01 07:54:14
-# TOTAL: 53
+# UPDATED: 2026-08-02 07:49:02
+# TOTAL: 54
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 52
+# DOMAIN-SUFFIX: 53
 
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,analytics-alv.google.com
+DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-analytics-services-att.com
 DOMAIN-SUFFIX,app-measurement-cn.com
