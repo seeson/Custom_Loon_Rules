@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 138
-# TOTAL: 138
+# DOMAIN: 137
+# TOTAL: 137
 
 DOMAIN,004430.xyz
 DOMAIN,0123456789nonexistent.com
@@ -14,7 +14,6 @@ DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
 DOMAIN,archive.torrentonline.cc
-DOMAIN,asiatorrent.giize.com
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.poletracker.org
 DOMAIN,bt1.archive.org
@@ -64,7 +63,6 @@ DOMAIN,torrentclub.online
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
-DOMAIN,tr.btube3.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -92,7 +90,6 @@ DOMAIN,tracker.dmcomic.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.gmi.gd
@@ -120,6 +117,7 @@ DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.sbsub.com
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
 DOMAIN,tracker.therarbg.to
@@ -143,3 +141,4 @@ DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrentsnipe.info
 DOMAIN,www.wareztorrent.com
+DOMAIN,zer0day.ch
