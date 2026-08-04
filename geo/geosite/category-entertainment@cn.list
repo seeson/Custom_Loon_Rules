@@ -1,23 +1,15 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-03 07:51:35
+# UPDATED: 2026-08-04 08:00:34
 # TOTAL: 102
 # DOMAIN: 59
 # DOMAIN-SUFFIX: 41
 
-DOMAIN,amp-api-edge.music.apple.com
-DOMAIN,amp-api.music.apple.com
-DOMAIN,js-cdn.music.apple.com
-DOMAIN,music.apple.com
-DOMAIN,musicstatus.music.apple.com
-DOMAIN,play.music.apple.com
-DOMAIN,speedysub.music.apple.com
-DOMAIN-SUFFIX,ggpht.cn
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN,gog.qtlglb.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -30,13 +22,6 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,mariokart.cn
 DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,supermariobros.com.cn
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN,gog.qtlglb.com
-DOMAIN-SUFFIX,yostar.cn
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.com.cn
@@ -56,6 +41,21 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN,amp-api-edge.music.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,music.apple.com
+DOMAIN,musicstatus.music.apple.com
+DOMAIN,play.music.apple.com
+DOMAIN,speedysub.music.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
@@ -106,5 +106,5 @@ DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,podcasts.apple.com
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn

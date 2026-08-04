@@ -1,13 +1,18 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-03 07:51:32
+# UPDATED: 2026-08-04 08:00:30
 # TOTAL: 196
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 162
 
-DOMAIN-SUFFIX,wbbasket.ru
-DOMAIN-SUFFIX,wbcontent.net
+DOMAIN-SUFFIX,drom.ru
+DOMAIN-SUFFIX,rdrom.ru
+DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,auto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,cm.expert
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,cian.ru
@@ -70,7 +75,7 @@ DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,paywb.ru
 DOMAIN-SUFFIX,russoutdoor.ru
 DOMAIN-SUFFIX,rwb.ru
-DOMAIN-SUFFIX,drom.ru
+DOMAIN-SUFFIX,rwbautomation.ru
 DOMAIN-SUFFIX,rwbautomation.tech
 DOMAIN-SUFFIX,rwbgeo.ru
 DOMAIN-SUFFIX,vamzakaz.ru
@@ -86,9 +91,9 @@ DOMAIN-SUFFIX,wb.kz
 DOMAIN-SUFFIX,wb.ru
 DOMAIN-SUFFIX,wbautomation.ru
 DOMAIN-SUFFIX,wbautomation.tech
-DOMAIN-SUFFIX,rwbautomation.ru
-DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,wilberry.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbcontent.net
+DOMAIN-SUFFIX,wbdubna.ru
 DOMAIN-SUFFIX,wbkids.ru
 DOMAIN-SUFFIX,wbmail.ru
 DOMAIN-SUFFIX,wbmotivator.ru
@@ -135,7 +140,7 @@ DOMAIN-SUFFIX,wieldberris.ru
 DOMAIN-SUFFIX,wilberes.ru
 DOMAIN-SUFFIX,wilberies.ru
 DOMAIN-SUFFIX,wilberris.ru
-DOMAIN-SUFFIX,wbdubna.ru
+DOMAIN-SUFFIX,wilberry.ru
 DOMAIN-SUFFIX,wildbaries.ru
 DOMAIN-SUFFIX,wildbarries.ru
 DOMAIN-SUFFIX,wildbeeries.ru
@@ -158,15 +163,10 @@ DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
-DOMAIN-SUFFIX,apiauto.ru
-DOMAIN-SUFFIX,cm.expert
-DOMAIN-SUFFIX,avto.ru
-DOMAIN-SUFFIX,autoru.me
-DOMAIN-SUFFIX,auto.ru
-DOMAIN-SUFFIX,ewisdom.us.kg
-DOMAIN-SUFFIX,ozon.com.kz
-DOMAIN-SUFFIX,ozonru.co.il
 DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozonru.co.il
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,wildberries.co.il
 DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru

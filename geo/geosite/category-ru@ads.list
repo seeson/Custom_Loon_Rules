@@ -1,7 +1,7 @@
 # NAME: category-ru@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-03 07:51:49
+# UPDATED: 2026-08-04 08:00:48
 # TOTAL: 188
 # DOMAIN: 125
 # DOMAIN-SUFFIX: 63
@@ -10,20 +10,6 @@ DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,targetads.io
-DOMAIN,api-eu.carrotquest.app
-DOMAIN,api-eu.carrotquest.io
-DOMAIN,api-ru.carrotquest.app
-DOMAIN,api-ru.carrotquest.io
-DOMAIN,api-secure.carrotquest.app
-DOMAIN,api-secure.carrottrack.app
-DOMAIN,api.carrotquest.app
-DOMAIN,api.carrotquest.io
-DOMAIN,api.carrottrack.app
-DOMAIN,api.dashly.app
-DOMAIN,api.dashlytrack.app
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN-SUFFIX,adsadvisor.io
@@ -77,6 +63,8 @@ DOMAIN,t.mail.ru
 DOMAIN,top-staging.mail.ru
 DOMAIN,whiteline.mail.ru
 DOMAIN,xray.mail.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
 DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,analytics.vk.com
 DOMAIN-SUFFIX,ms.vk.com
@@ -92,8 +80,9 @@ DOMAIN,advk.vk.ru
 DOMAIN,analytics.vk.ru
 DOMAIN,stats.vk-portal.net
 DOMAIN,target.vk.com
-DOMAIN-SUFFIX,log.dzen.ru
-DOMAIN-SUFFIX,ms.dzen.ru
+DOMAIN,ads.x5.ru
+DOMAIN,ads.x5media.ru
+DOMAIN,sentry.x5.ru
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
@@ -136,6 +125,31 @@ DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,pixel.yandex.com
 DOMAIN,report.ap.yandex-net.ru
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app
 DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
@@ -179,18 +193,4 @@ DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
-DOMAIN-SUFFIX,e.mindbox.ru
-DOMAIN-SUFFIX,g.mindbox.ru
-DOMAIN-SUFFIX,s.mindbox.ru
-DOMAIN,api-js.mindbox.ru
-DOMAIN,api-ru.mindbox.cloud
-DOMAIN,api-staging.mindbox.ru
-DOMAIN,api.mindbox.cloud
-DOMAIN,api.mindbox.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
-DOMAIN,ads.x5.ru
-DOMAIN,ads.x5media.ru
-DOMAIN,sentry.x5.ru
-DOMAIN-SUFFIX,a.mts.ru
-DOMAIN-SUFFIX,obs.mts.ru
+DOMAIN,sentry.iptv.rt.ru

@@ -1,14 +1,14 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-03 07:51:24
+# UPDATED: 2026-08-04 08:00:22
 # TOTAL: 102
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 100
 
 DOMAIN,trojan-gfw.github.io
 DOMAIN,xtls.github.io
-DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,happ.info
 DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,hiddify.com
-DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,lokinet.org
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ntc.party
@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
-DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,tunsafe.com
 DOMAIN-SUFFIX,turkeyblocks.org
 DOMAIN-SUFFIX,uproxy.org
@@ -54,11 +54,21 @@ DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,ipns.co
-DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,tribler.org
 DOMAIN-SUFFIX,akasha.world
-DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,docs.rw
+DOMAIN-SUFFIX,log.rw
+DOMAIN-SUFFIX,try.rw
+DOMAIN-SUFFIX,ipns.co
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,via0.com
@@ -69,36 +79,26 @@ DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,epicbrowser.com
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,wikiunblocked.org
+DOMAIN-SUFFIX,pao-pao.net
+DOMAIN-SUFFIX,greatfirevpn.com
+DOMAIN-SUFFIX,ahmia.fi
+DOMAIN-SUFFIX,googlecensorship.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,opengw.net
+DOMAIN-SUFFIX,vpngate.jp
+DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,try.rw
-DOMAIN-SUFFIX,log.rw
-DOMAIN-SUFFIX,docs.rw
-DOMAIN-SUFFIX,ahmia.fi
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,freezhihu.org
-DOMAIN-SUFFIX,googlecensorship.org
-DOMAIN-SUFFIX,greatfire.org
-DOMAIN-SUFFIX,greatfirevpn.com
-DOMAIN-SUFFIX,pao-pao.net
-DOMAIN-SUFFIX,wikiunblocked.org
-DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,vpngate.jp
-DOMAIN-SUFFIX,vpngate.net
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.fleek.co
