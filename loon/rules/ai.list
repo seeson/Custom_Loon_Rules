@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 24
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 152
-# TOTAL: 179
+# DOMAIN-SUFFIX: 154
+# TOTAL: 181
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -85,6 +85,8 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,diabrowser.engineering

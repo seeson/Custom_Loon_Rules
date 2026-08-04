@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
-# DOMAIN: 20
+# DOMAIN: 22
 # DOMAIN-SUFFIX: 223
-# TOTAL: 243
+# TOTAL: 245
 
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,cdn-cn.apple-mapkit.com
@@ -26,6 +26,8 @@ DOMAIN,s2.mzstatic.com
 DOMAIN,s3.mzstatic.com
 DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
+DOMAIN,tj-pod2-smp-device.apple.com
+DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
