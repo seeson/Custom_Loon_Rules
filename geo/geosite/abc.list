@@ -1,10 +1,11 @@
 # NAME: abc
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-05 07:55:20
-# TOTAL: 3
-# DOMAIN-SUFFIX: 3
+# UPDATED: 2026-08-06 07:50:23
+# TOTAL: 4
+# DOMAIN-SUFFIX: 4
 
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abcnews.com
 DOMAIN-SUFFIX,edgedatg.com

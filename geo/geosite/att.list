@@ -1,9 +1,9 @@
 # NAME: att
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-05 07:55:50
-# TOTAL: 133
-# DOMAIN-SUFFIX: 133
+# UPDATED: 2026-08-06 07:50:37
+# TOTAL: 135
+# DOMAIN-SUFFIX: 135
 
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,atandt.com
@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,att-rsvp.com
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,att.jobs
 DOMAIN-SUFFIX,att.net
-DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,attalascom.com
 DOMAIN-SUFFIX,attbelieves.com
 DOMAIN-SUFFIX,attbusiness.net
@@ -36,7 +35,6 @@ DOMAIN-SUFFIX,attspecial.com
 DOMAIN-SUFFIX,attssl.com
 DOMAIN-SUFFIX,attstadium.com
 DOMAIN-SUFFIX,attsuppliers.com
-DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
@@ -54,7 +52,6 @@ DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,mymmode.com
 DOMAIN-SUFFIX,naturalvoices.com
-DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,openapiplatform.com
 DOMAIN-SUFFIX,openapiservice.com
 DOMAIN-SUFFIX,patentgold.net
@@ -136,5 +133,10 @@ DOMAIN-SUFFIX,mydirectvchannels.com
 DOMAIN-SUFFIX,redzonechannel.com
 DOMAIN-SUFFIX,txdirectv.com
 DOMAIN-SUFFIX,xandr.com
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,att.cn
 DOMAIN-SUFFIX,attcorp.cn

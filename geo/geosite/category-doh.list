@@ -1,9 +1,9 @@
 # NAME: category-doh
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-05 07:56:39
-# TOTAL: 121
-# DOMAIN: 118
+# UPDATED: 2026-08-06 07:50:57
+# TOTAL: 127
+# DOMAIN: 124
 # DOMAIN-SUFFIX: 3
 
 DOMAIN,dns.adguard.com
@@ -121,9 +121,15 @@ DOMAIN,jp.tiar.app
 DOMAIN,rx.techomespace.com
 DOMAIN,public.ns.nwps.fi
 DOMAIN,kids.ns.nwps.fi
+DOMAIN,dns.astracat.ru
 DOMAIN,frd4wvnobp.cloudflare-gateway.com
 DOMAIN,dnsguard.pub
 DOMAIN,doh.18bit.cn
+DOMAIN,5u35p8m9i7.cloudflare-gateway.com
+DOMAIN,dns.malw.link
+DOMAIN,dns.mafioznik.xyz
+DOMAIN,dns.geohide.ru
+DOMAIN,xbox-dns.ru
 DOMAIN-SUFFIX,opendns.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,nextdns.io
