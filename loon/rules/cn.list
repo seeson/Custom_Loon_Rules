@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 110857
-# TOTAL: 110863
+# DOMAIN-SUFFIX: 110860
+# TOTAL: 110866
 
 DOMAIN,api.blipsandchitz.me
 DOMAIN,end-api.shallow.ink
@@ -63288,6 +63288,7 @@ DOMAIN-SUFFIX,madailicai.com
 DOMAIN-SUFFIX,madajiefood.com
 DOMAIN-SUFFIX,madaomall.com
 DOMAIN-SUFFIX,madboxi.com
+DOMAIN-SUFFIX,made-in-china.com
 DOMAIN-SUFFIX,madefuns.com
 DOMAIN-SUFFIX,madeinchinastone.com
 DOMAIN-SUFFIX,madewei.com
@@ -65024,6 +65025,7 @@ DOMAIN-SUFFIX,microwu.com
 DOMAIN-SUFFIX,microxiang.com
 DOMAIN-SUFFIX,microyan.com
 DOMAIN-SUFFIX,microzuji.com
+DOMAIN-SUFFIX,micstatic.com
 DOMAIN-SUFFIX,mictormedical.com
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,micun.com
@@ -72616,6 +72618,7 @@ DOMAIN-SUFFIX,powerchinashow.com
 DOMAIN-SUFFIX,powerchinayun.com
 DOMAIN-SUFFIX,powerde.com
 DOMAIN-SUFFIX,powereasy.net
+DOMAIN-SUFFIX,poweremarket.com
 DOMAIN-SUFFIX,powerex1.com
 DOMAIN-SUFFIX,powerflow-tech.com
 DOMAIN-SUFFIX,powerfulchina.com
