@@ -1,14 +1,15 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-06 07:51:03
-# TOTAL: 164
-# DOMAIN: 8
+# UPDATED: 2026-08-08 07:26:11
+# TOTAL: 165
+# DOMAIN: 9
 # DOMAIN-SUFFIX: 156
 
 DOMAIN,checkip.amazonaws.com
 DOMAIN,checkip.dyndns.org
 DOMAIN,checkip.dyn.com
+DOMAIN,ip-check-perf.radar.cloudflare.com
 DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com

@@ -1,11 +1,12 @@
 # NAME: aliyun@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-06 07:50:29
-# TOTAL: 16
-# DOMAIN-SUFFIX: 16
+# UPDATED: 2026-08-08 07:25:08
+# TOTAL: 17
+# DOMAIN-SUFFIX: 17
 
 DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com

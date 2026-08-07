@@ -1,22 +1,10 @@
-# NAME: airchina
+# NAME: airchina@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-08 07:25:04
-# TOTAL: 40
-# DOMAIN-SUFFIX: 40
+# UPDATED: 2026-08-08 07:25:05
+# TOTAL: 28
+# DOMAIN-SUFFIX: 28
 
-DOMAIN-SUFFIX,airchina.cn
-DOMAIN-SUFFIX,airchina.com
-DOMAIN-SUFFIX,airchinacargo.com
-DOMAIN-SUFFIX,airchinagroup.com
-DOMAIN-SUFFIX,airchinalimited.cn
-DOMAIN-SUFFIX,airchinalimited.com
-DOMAIN-SUFFIX,fly-airchina.com
-DOMAIN-SUFFIX,phoenixmiles.cn
-DOMAIN-SUFFIX,phoenixmiles.com
-DOMAIN-SUFFIX,airchina.com.cn
-DOMAIN-SUFFIX,airchinalimited.com.cn
-DOMAIN-SUFFIX,phoenixmiles.com.cn
 DOMAIN-SUFFIX,airchina.ae
 DOMAIN-SUFFIX,airchina.at
 DOMAIN-SUFFIX,airchina.ca

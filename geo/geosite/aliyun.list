@@ -1,9 +1,9 @@
 # NAME: aliyun
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-06 07:50:29
-# TOTAL: 82
-# DOMAIN-SUFFIX: 82
+# UPDATED: 2026-08-08 07:25:08
+# TOTAL: 88
+# DOMAIN-SUFFIX: 88
 
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
@@ -47,8 +47,12 @@ DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
+DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX,log-global.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-chengdu.aliyuncs.com
@@ -62,7 +66,9 @@ DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-wulanchabu.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX,registry.aliyuncs.com
 DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
