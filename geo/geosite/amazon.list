@@ -1,7 +1,7 @@
 # NAME: amazon
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-08 07:25:10
+# UPDATED: 2026-08-09 07:18:40
 # TOTAL: 248
 # DOMAIN: 12
 # DOMAIN-SUFFIX: 233
@@ -21,9 +21,9 @@ DOMAIN-SUFFIX,xn--cckwcxetd
 DOMAIN-SUFFIX,xn--jlq480n2rg
 DOMAIN-SUFFIX,yamaxun
 DOMAIN-SUFFIX,zappos
-DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,kindle
+DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,aboutamazon.es
@@ -42,17 +42,17 @@ DOMAIN-SUFFIX,amazon-launchpad.com
 DOMAIN-SUFFIX,amazon.ae
 DOMAIN-SUFFIX,amazon.ca
 DOMAIN-SUFFIX,amazon.cl
-DOMAIN-SUFFIX,media-imdb.com
-DOMAIN-SUFFIX,imdb.to
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,boxofficemojo.com
-DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,amzndns.net
 DOMAIN-SUFFIX,thinkboxsoftware.com
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,containersonaws.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudfront.com
+DOMAIN-SUFFIX,cdkworkshop.com
+DOMAIN-SUFFIX,awswaf.com
+DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,amazon.eg
@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,amazon.nl
 DOMAIN-SUFFIX,amazon.pl
 DOMAIN-SUFFIX,amazon.red
 DOMAIN-SUFFIX,amazon.sa
-DOMAIN-SUFFIX,kindle.de
+DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,amazon.sg
 DOMAIN-SUFFIX,amazonalexavoxcon.com
 DOMAIN-SUFFIX,amazonauthorinsights.com
@@ -88,7 +88,7 @@ DOMAIN-SUFFIX,amazonstudiosguilds.com
 DOMAIN-SUFFIX,amazonvideodirect.com
 DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
-DOMAIN-SUFFIX,kindle.es
+DOMAIN-SUFFIX,awsthinkbox.com
 DOMAIN-SUFFIX,amznl.com
 DOMAIN-SUFFIX,associates-amazon.com
 DOMAIN-SUFFIX,gameon-masters.com
@@ -98,19 +98,24 @@ DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,primeday.info
 DOMAIN-SUFFIX,seattlespheres.com
 DOMAIN-SUFFIX,siege-amazon.com
-DOMAIN-SUFFIX,kindle.fr
+DOMAIN-SUFFIX,kindle.it
 DOMAIN-SUFFIX,ueberamazon.de
 DOMAIN-SUFFIX,yamaxun.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,audible.com
-DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,aboutamazon.com
-DOMAIN-SUFFIX,kindle.it
-DOMAIN-SUFFIX,kindleoasis.com
-DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
 DOMAIN-SUFFIX,amazon.se
 DOMAIN-SUFFIX,aboutamazon.de
 DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,kindleoasis.com
+DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,kindle.de
+DOMAIN-SUFFIX,kindle.es
+DOMAIN-SUFFIX,kindle.fr
 DOMAIN-SUFFIX,kindleproject.com
 DOMAIN-SUFFIX,kindle.in
 DOMAIN-SUFFIX,kindle.jp
@@ -119,8 +124,8 @@ DOMAIN-SUFFIX,kindleoasis.info
 DOMAIN-SUFFIX,kindleoasis.jp
 DOMAIN-SUFFIX,kindleoasis.org
 DOMAIN-SUFFIX,kindleoasis.us
-DOMAIN-SUFFIX,cloudfront.com
-DOMAIN-SUFFIX,cdkworkshop.com
+DOMAIN-SUFFIX,awssecworkshops.com
+DOMAIN-SUFFIX,awscommandlineinterface.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,amazonprimevideos.com
 DOMAIN-SUFFIX,amazonvideo.cc
@@ -131,18 +136,18 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
-DOMAIN-SUFFIX,awswaf.com
+DOMAIN-SUFFIX,awsloft-johannesburg.com
 DOMAIN-SUFFIX,wfm.com
 DOMAIN-SUFFIX,wholecitiesfoundation.org
 DOMAIN-SUFFIX,wholefoods.com
 DOMAIN-SUFFIX,wholefoodsmarket.com
 DOMAIN-SUFFIX,wholekidsfoundation.org
 DOMAIN-SUFFIX,wholeplanetfoundation.org
-DOMAIN-SUFFIX,awstrack.me
+DOMAIN-SUFFIX,awsglobalaccelerator.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,ss2.us
-DOMAIN-SUFFIX,awsthinkbox.com
+DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,awsbraket.com
 DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,aesworkshops.com
@@ -172,28 +177,23 @@ DOMAIN-SUFFIX,awsedstart.com
 DOMAIN-SUFFIX,awseducate.com
 DOMAIN-SUFFIX,awseducate.net
 DOMAIN-SUFFIX,awseducate.org
-DOMAIN-SUFFIX,awsglobalaccelerator.com
-DOMAIN-SUFFIX,awsloft-johannesburg.com
-DOMAIN-SUFFIX,awscommandlineinterface.com
-DOMAIN-SUFFIX,awssecworkshops.com
-DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,amazon.com.co
 DOMAIN-SUFFIX,amazon.com.br
 DOMAIN-SUFFIX,amazon.com.mx
-DOMAIN-SUFFIX,kindle.co.uk
 DOMAIN-SUFFIX,kindle.co.jp
 DOMAIN-SUFFIX,aboutamazon.com.au
-DOMAIN-SUFFIX,amazon.com.tr
 DOMAIN-SUFFIX,aboutamazon.co.uk
+DOMAIN-SUFFIX,amazon.com.tr
 DOMAIN-SUFFIX,wholefoodsmarket.co.uk
-DOMAIN-SUFFIX,amazon.com.ng
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-SUFFIX,amazonaws.co.uk
+DOMAIN-SUFFIX,amazon.com.ng
+DOMAIN-SUFFIX,kindle.co.uk
 DOMAIN-SUFFIX,amazon.com.be
 DOMAIN-SUFFIX,amazon.com.au
 DOMAIN-SUFFIX,amazon.co.za
 DOMAIN-SUFFIX,amazon.co.uk
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,alexafund.cn

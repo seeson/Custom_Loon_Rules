@@ -1,10 +1,11 @@
 # NAME: category-media-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-08 07:26:13
+# UPDATED: 2026-08-09 07:19:17
 # TOTAL: 18
 # DOMAIN-SUFFIX: 18
 
+DOMAIN-SUFFIX,adx.36kr.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
@@ -21,5 +22,4 @@ DOMAIN-SUFFIX,qpb.sohu.com
 DOMAIN-SUFFIX,qpb1.sohu.com
 DOMAIN-SUFFIX,reke.at.sohu.com
 DOMAIN-SUFFIX,track.sohu.com
-DOMAIN-SUFFIX,adx.36kr.com
 DOMAIN-SUFFIX,ad.cctv.com
