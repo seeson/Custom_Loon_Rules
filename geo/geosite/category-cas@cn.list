@@ -1,11 +1,18 @@
 # NAME: category-cas@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-09 07:19:06
+# UPDATED: 2026-08-10 07:21:37
 # TOTAL: 31
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 13
 
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsigncdn.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net
 DOMAIN-SUFFIX,sslcom.cn
 DOMAIN,www.entrust.cn
 DOMAIN-SUFFIX,oemssl.cn
@@ -30,10 +37,3 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
-DOMAIN-SUFFIX,alphassl.com
-DOMAIN-SUFFIX,easy-signing.com
-DOMAIN-SUFFIX,globalsign.cn
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsigncdn.com
-DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
-DOMAIN,crl.globalsign.net

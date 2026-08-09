@@ -1,7 +1,7 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-09 07:19:06
+# UPDATED: 2026-08-10 07:21:37
 # TOTAL: 195
 # DOMAIN-SUFFIX: 195
 
@@ -13,6 +13,11 @@ DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcore.pro
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,quantil.com
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,fastly-edge.com
@@ -22,6 +27,9 @@ DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,lldns.net
@@ -32,6 +40,9 @@ DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,llnwi.net
 DOMAIN-SUFFIX,pagecdn.com
 DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,ak1.net
 DOMAIN-SUFFIX,aka-ai.com
 DOMAIN-SUFFIX,aka-ai.net
@@ -157,17 +168,6 @@ DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net
-DOMAIN-SUFFIX,esm.run
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,quantil.com
-DOMAIN-SUFFIX,stackpath.com
-DOMAIN-SUFFIX,stackpath.dev
-DOMAIN-SUFFIX,vrcdn.cloud
-DOMAIN-SUFFIX,vrcdn.live
-DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,akamai.co.kr
 DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,accdn.com.cn
