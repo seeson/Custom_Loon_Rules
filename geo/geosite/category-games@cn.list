@@ -1,15 +1,12 @@
 # NAME: category-games@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-11 07:26:28
+# UPDATED: 2026-08-12 07:31:05
 # TOTAL: 41
 # DOMAIN: 5
 # DOMAIN-SUFFIX: 33
 
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-DOMAIN,gog.qtlglb.com
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,csgo.com.cn
@@ -29,9 +26,12 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,yostar.cn
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN,gog.qtlglb.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -44,6 +44,6 @@ DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
 DOMAIN-SUFFIX,mariokart.cn
 DOMAIN-SUFFIX,mariokart.com.cn
 DOMAIN-SUFFIX,supermariobros.com.cn
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,yostar.cn

@@ -1,10 +1,10 @@
 # NAME: blizzard
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-11 07:25:57
-# TOTAL: 23
+# UPDATED: 2026-08-12 07:30:35
+# TOTAL: 25
 # DOMAIN: 9
-# DOMAIN-SUFFIX: 14
+# DOMAIN-SUFFIX: 16
 
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
@@ -19,7 +19,9 @@ DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blz-contentstack.com
 DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo4.com
 DOMAIN-SUFFIX,diabloimmortal.com
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,playhearthstone.com
