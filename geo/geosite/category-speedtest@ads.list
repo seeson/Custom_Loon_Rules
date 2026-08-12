@@ -1,7 +1,7 @@
 # NAME: category-speedtest@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-12 07:31:19
+# UPDATED: 2026-08-13 07:31:19
 # TOTAL: 1
 
 DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

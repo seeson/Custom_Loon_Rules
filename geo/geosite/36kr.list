@@ -1,11 +1,12 @@
 # NAME: 36kr
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-12 07:29:55
-# TOTAL: 5
-# DOMAIN-SUFFIX: 5
+# UPDATED: 2026-08-13 07:30:23
+# TOTAL: 6
+# DOMAIN-SUFFIX: 6
 
 DOMAIN-SUFFIX,36dianping.com
+DOMAIN-SUFFIX,36linkr.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com

@@ -1,13 +1,13 @@
 # NAME: 58tongcheng
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-12 07:29:57
-# TOTAL: 43
-# DOMAIN-SUFFIX: 43
+# UPDATED: 2026-08-13 07:30:24
+# TOTAL: 42
+# DOMAIN-SUFFIX: 42
 
 DOMAIN-SUFFIX,daojia.com
-DOMAIN-SUFFIX,fang.com
-DOMAIN-SUFFIX,5858.com
+DOMAIN-SUFFIX,diandao.org
+DOMAIN-SUFFIX,jxedt.com
 DOMAIN-SUFFIX,58antenna.cn
 DOMAIN-SUFFIX,58antenna.com
 DOMAIN-SUFFIX,ganjistatic1.com
@@ -22,16 +22,15 @@ DOMAIN-SUFFIX,58xinghuo.cn
 DOMAIN-SUFFIX,58xinghuo.com
 DOMAIN-SUFFIX,58xueche.com
 DOMAIN-SUFFIX,anjuke.com
-DOMAIN-SUFFIX,diandao.org
+DOMAIN-SUFFIX,anjukestatic.com
 DOMAIN-SUFFIX,chinahr.com
 DOMAIN-SUFFIX,chrstatic.com
 DOMAIN-SUFFIX,ganji.com
 DOMAIN-SUFFIX,58.com
-DOMAIN-SUFFIX,anjukestatic.com
-DOMAIN-SUFFIX,sofun.com
-DOMAIN-SUFFIX,soufunimg.com
-DOMAIN-SUFFIX,jxedt.com
+DOMAIN-SUFFIX,5858.com
 DOMAIN-SUFFIX,jxksw.net
+DOMAIN-SUFFIX,kgdc.cn
+DOMAIN-SUFFIX,kgtest.cn
 DOMAIN-SUFFIX,roomeet.cn
 DOMAIN-SUFFIX,58ganji-corp.com
 DOMAIN-SUFFIX,xinchong.com

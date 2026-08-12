@@ -1,14 +1,15 @@
 # NAME: category-securities-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-12 07:31:17
-# TOTAL: 163
-# DOMAIN-SUFFIX: 163
+# UPDATED: 2026-08-13 07:31:18
+# TOTAL: 164
+# DOMAIN-SUFFIX: 164
 
-DOMAIN-SUFFIX,hongtastock.com
-DOMAIN-SUFFIX,ubssdic.com
-DOMAIN-SUFFIX,hongdefund.com
+DOMAIN-SUFFIX,hlzqgs.com
+DOMAIN-SUFFIX,ytzq.com
+DOMAIN-SUFFIX,szse.cn
 DOMAIN-SUFFIX,zlfund.cn
+DOMAIN-SUFFIX,chinaclear.cn
 DOMAIN-SUFFIX,ajzq.com
 DOMAIN-SUFFIX,avicsec.com
 DOMAIN-SUFFIX,ccnew.com
@@ -35,7 +36,7 @@ DOMAIN-SUFFIX,ydamc.com
 DOMAIN-SUFFIX,xqfunds.com
 DOMAIN-SUFFIX,xf-fund.com
 DOMAIN-SUFFIX,dxzq.net
-DOMAIN-SUFFIX,hsfund.com
+DOMAIN-SUFFIX,ubssdic.com
 DOMAIN-SUFFIX,tongtaiamc.com
 DOMAIN-SUFFIX,swsmu.com
 DOMAIN-SUFFIX,fcsc.cn
@@ -47,7 +48,7 @@ DOMAIN-SUFFIX,ocfund.cn
 DOMAIN-SUFFIX,nffund.com
 DOMAIN-SUFFIX,mfcteda.com
 DOMAIN-SUFFIX,grzq.com
-DOMAIN-SUFFIX,bosera.com
+DOMAIN-SUFFIX,gsgh.cn
 DOMAIN-SUFFIX,gszq.com
 DOMAIN-SUFFIX,gtja.com
 DOMAIN-SUFFIX,guodu.com
@@ -56,14 +57,14 @@ DOMAIN-SUFFIX,jsfund.cn
 DOMAIN-SUFFIX,hazq.com
 DOMAIN-SUFFIX,hczq.com
 DOMAIN-SUFFIX,igwfmc.com
-DOMAIN-SUFFIX,hlzqgs.com
-DOMAIN-SUFFIX,gsgh.cn
 DOMAIN-SUFFIX,sseinfo.com
-DOMAIN-SUFFIX,szse.cn
+DOMAIN-SUFFIX,bosera.com
+DOMAIN-SUFFIX,huayingsc.com
+DOMAIN-SUFFIX,hongdefund.com
 DOMAIN-SUFFIX,htsec.com
 DOMAIN-SUFFIX,huajingsec.com
 DOMAIN-SUFFIX,huajinsc.cn
-DOMAIN-SUFFIX,huayingsc.com
+DOMAIN-SUFFIX,hsfund.com
 DOMAIN-SUFFIX,hftfund.com
 DOMAIN-SUFFIX,hxzq.cn
 DOMAIN-SUFFIX,hffunds.cn
@@ -100,7 +101,7 @@ DOMAIN-SUFFIX,xsdzq.cn
 DOMAIN-SUFFIX,fadfunds.com
 DOMAIN-SUFFIX,ctfund.com
 DOMAIN-SUFFIX,ykzq.com
-DOMAIN-SUFFIX,ytzq.com
+DOMAIN-SUFFIX,hongtastock.com
 DOMAIN-SUFFIX,cryuantafund.com
 DOMAIN-SUFFIX,zszq.com
 DOMAIN-SUFFIX,ztfsec.com
@@ -111,7 +112,7 @@ DOMAIN-SUFFIX,avicfund.cn
 DOMAIN-SUFFIX,bdfund.cn
 DOMAIN-SUFFIX,bobbns.com
 DOMAIN-SUFFIX,cfund108.com
-DOMAIN-SUFFIX,gkzq.com.cn
+DOMAIN-SUFFIX,swsc.com.cn
 DOMAIN-SUFFIX,ccfund.com.cn
 DOMAIN-SUFFIX,boscam.com.cn
 DOMAIN-SUFFIX,zts.com.cn
@@ -124,7 +125,7 @@ DOMAIN-SUFFIX,efunds.com.cn
 DOMAIN-SUFFIX,xyzq.com.cn
 DOMAIN-SUFFIX,wkzq.com.cn
 DOMAIN-SUFFIX,tebon.com.cn
-DOMAIN-SUFFIX,swsc.com.cn
+DOMAIN-SUFFIX,sse.com.cn
 DOMAIN-SUFFIX,stocke.com.cn
 DOMAIN-SUFFIX,fullgoal.com.cn
 DOMAIN-SUFFIX,furamc.com.cn
@@ -143,7 +144,7 @@ DOMAIN-SUFFIX,gyzq.com.cn
 DOMAIN-SUFFIX,guosen.com.cn
 DOMAIN-SUFFIX,glsc.com.cn
 DOMAIN-SUFFIX,msjyfund.com.cn
-DOMAIN-SUFFIX,sse.com.cn
+DOMAIN-SUFFIX,gkzq.com.cn
 DOMAIN-SUFFIX,gjzq.com.cn
 DOMAIN-SUFFIX,ghzq.com.cn
 DOMAIN-SUFFIX,phfund.com.cn
