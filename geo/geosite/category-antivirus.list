@@ -1,7 +1,7 @@
 # NAME: category-antivirus
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-13 07:30:58
+# UPDATED: 2026-08-14 07:32:13
 # TOTAL: 166
 # DOMAIN: 98
 # DOMAIN-SUFFIX: 68
@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,f-secure.com
 DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,pandasecurity.com
-DOMAIN-SUFFIX,symantec.com
-DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,comodo.net
 DOMAIN-SUFFIX,drweb.by
@@ -60,6 +58,8 @@ DOMAIN-SUFFIX,kaspersky.de
 DOMAIN-SUFFIX,kaspersky.dk
 DOMAIN-SUFFIX,kaspersky.dz
 DOMAIN-SUFFIX,kaspersky.es
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
 DOMAIN-SUFFIX,drweb.co.jp
 DOMAIN-SUFFIX,kaspersky.co.uk
 DOMAIN-SUFFIX,kaspersky.com.vn
