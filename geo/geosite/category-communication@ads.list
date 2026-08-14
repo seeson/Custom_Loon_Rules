@@ -1,10 +1,10 @@
 # NAME: category-communication@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-14 07:32:17
+# UPDATED: 2026-08-15 07:13:17
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
 
+DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,adsgram.ai

@@ -1,16 +1,14 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-14 07:32:21
+# UPDATED: 2026-08-15 07:13:20
 # TOTAL: 199
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 165
 
-DOMAIN-SUFFIX,wbrep.ru
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,drom.ru
-DOMAIN-SUFFIX,flowwow.com
-DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ozon.tm
@@ -25,9 +23,9 @@ DOMAIN-SUFFIX,ozon-tech.ru
 DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
-DOMAIN-SUFFIX,wbstatic.net
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,ozoncamp.pro
-DOMAIN-SUFFIX,ozon.dev
+DOMAIN-SUFFIX,wbtek.ru
 DOMAIN-SUFFIX,ozon.travel
 DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
@@ -88,11 +86,11 @@ DOMAIN-SUFFIX,wbmail.ru
 DOMAIN-SUFFIX,wbmotivator.ru
 DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
-DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,wbrep.ru
+DOMAIN-SUFFIX,wbstatic.net
+DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,wldberris.ru
-DOMAIN-SUFFIX,wbtek.ru
-DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,wbwh.tech
 DOMAIN-SUFFIX,wibes.com
 DOMAIN-SUFFIX,wibes.ru
@@ -148,15 +146,15 @@ DOMAIN-SUFFIX,wildeberris.ru
 DOMAIN-SUFFIX,wiliberes.ru
 DOMAIN-SUFFIX,willberiess.ru
 DOMAIN-SUFFIX,willberis.ru
-DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
+DOMAIN-SUFFIX,wbwh.ru
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
 DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
-DOMAIN-SUFFIX,poudobnee.com
-DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autoru.me
 DOMAIN-SUFFIX,avto.ru
@@ -166,6 +164,8 @@ DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,cian.ru
 DOMAIN-SUFFIX,cian.site
 DOMAIN-SUFFIX,ciangroup.ru
+DOMAIN-SUFFIX,dmir.ru
+DOMAIN-SUFFIX,poudobnee.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozonru.co.il
