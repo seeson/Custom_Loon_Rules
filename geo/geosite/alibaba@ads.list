@@ -1,7 +1,7 @@
 # NAME: alibaba@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-16 07:11:23
+# UPDATED: 2026-08-17 07:10:59
 # TOTAL: 87
 # DOMAIN-SUFFIX: 87
 
@@ -29,6 +29,15 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
+DOMAIN-SUFFIX,adashx.ut.ele.me
+DOMAIN-SUFFIX,h-adashx.ut.ele.me
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -61,14 +70,6 @@ DOMAIN-SUFFIX,atanx2.alicdn.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,tce.alicdn.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
-DOMAIN-SUFFIX,dualstack-logs.amap.com
-DOMAIN-SUFFIX,logs.amap.com
-DOMAIN-SUFFIX,optimus-ads.amap.com
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
-DOMAIN-SUFFIX,adashx.ut.ele.me
-DOMAIN-SUFFIX,h-adashx.ut.ele.me
-DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
@@ -91,4 +92,3 @@ DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,utoken.umeng.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
-DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com

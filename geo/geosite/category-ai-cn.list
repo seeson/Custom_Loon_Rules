@@ -1,20 +1,21 @@
 # NAME: category-ai-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-16 07:11:48
-# TOTAL: 113
+# UPDATED: 2026-08-17 07:11:54
+# TOTAL: 114
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 111
+# DOMAIN-SUFFIX: 112
 
 DOMAIN,cueme-api.quark.cn
 DOMAIN,ai.zhaomi.cn
-DOMAIN-SUFFIX,clawhub-mirror.com
-DOMAIN-SUFFIX,oceancloudapi.com
+DOMAIN-SUFFIX,skillhub.cn
+DOMAIN-SUFFIX,zhipuai.cn
 DOMAIN-SUFFIX,liblib.tv
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,tapnow.top
 DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qianwenai.com
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,tongyi.com
@@ -32,21 +33,21 @@ DOMAIN-SUFFIX,tiangong.cn
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
 DOMAIN-SUFFIX,z.ai
-DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,moonshot.ai
 DOMAIN-SUFFIX,moonshot.cn
 DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,miaibox.com
-DOMAIN-SUFFIX,safeskill.cn
+DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
-DOMAIN-SUFFIX,yoma.cn
 DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,baichuan-ai.com
 DOMAIN-SUFFIX,cueme.cn
 DOMAIN-SUFFIX,n.cn
@@ -55,16 +56,16 @@ DOMAIN-SUFFIX,miaoyanai.com
 DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,kechuangai.com
 DOMAIN-SUFFIX,kling-ai.com
-DOMAIN-SUFFIX,klingai.com
+DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,meta.law
 DOMAIN-SUFFIX,metaso.cn
 DOMAIN-SUFFIX,xiezuocat.com
 DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,dui.ai
-DOMAIN-SUFFIX,duiopen.com
+DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,liblib.cloud
 DOMAIN-SUFFIX,liblib.art
-DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,safeskill.cn
 DOMAIN-SUFFIX,zhiexa.com
 DOMAIN-SUFFIX,linka2a.net
 DOMAIN-SUFFIX,yzsgo.com
@@ -98,7 +99,7 @@ DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,maoxiangai.com
 DOMAIN-SUFFIX,myparallelstory.com
-DOMAIN-SUFFIX,skillhub.cn
+DOMAIN-SUFFIX,oceancloudapi.com
 DOMAIN-SUFFIX,obriccloud.com
 DOMAIN-SUFFIX,obricclouddw.com
 DOMAIN-SUFFIX,picpic-ai.cn
@@ -110,10 +111,10 @@ DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,mcprev.cn
-DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,yuanqi.tencent.com
 DOMAIN-SUFFIX,yuanbao.tencent.com
 DOMAIN-SUFFIX,hunyuan.tencent.com
+DOMAIN-SUFFIX,xinghuo.xfyun.cn
 DOMAIN-SUFFIX,marscode.com.cn
 DOMAIN-SUFFIX,trae.com.cn
 DOMAIN-SUFFIX,yiyan.baidu.com

@@ -1,12 +1,12 @@
 # NAME: category-urlshortner
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-16 07:12:08
+# UPDATED: 2026-08-17 07:12:35
 # TOTAL: 5
 # DOMAIN-SUFFIX: 5
 
+DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,bitly.is
 DOMAIN-SUFFIX,shorturl.at
-DOMAIN-SUFFIX,tinyurl.com
