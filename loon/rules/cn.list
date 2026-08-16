@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 110867
-# TOTAL: 110873
+# DOMAIN-SUFFIX: 110868
+# TOTAL: 110874
 
 DOMAIN,api.blipsandchitz.me
 DOMAIN,end-api.shallow.ink
@@ -73890,6 +73890,7 @@ DOMAIN-SUFFIX,qianvisa.com
 DOMAIN-SUFFIX,qianwa.com
 DOMAIN-SUFFIX,qianwanku.com
 DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qianwenai.com
 DOMAIN-SUFFIX,qianxiangbank.com
 DOMAIN-SUFFIX,qianxibj.net
 DOMAIN-SUFFIX,qianximiye.com
