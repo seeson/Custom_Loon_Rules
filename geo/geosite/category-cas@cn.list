@@ -1,7 +1,7 @@
 # NAME: category-cas@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-17 07:11:58
+# UPDATED: 2026-08-18 07:14:11
 # TOTAL: 31
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 13
@@ -13,22 +13,8 @@ DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,trust-provider.cn
 DOMAIN-SUFFIX,dcocsp.cn
 DOMAIN-SUFFIX,digicert.cn
-DOMAIN-SUFFIX,alphassl.com
-DOMAIN-SUFFIX,easy-signing.com
-DOMAIN-SUFFIX,globalsign.cn
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsigncdn.com
-DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
-DOMAIN,crl.globalsign.net
 DOMAIN-SUFFIX,sslcom.cn
 DOMAIN,www.entrust.cn
-DOMAIN,pki-goog.l.google.com
-DOMAIN,c.pki.goog
-DOMAIN,i.pki.goog
-DOMAIN,o.pki.goog
-DOMAIN,crl.pki.goog
-DOMAIN,crls.pki.goog
-DOMAIN,ocsp.pki.goog
 DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,certs.apple.com
 DOMAIN,crl-lb.apple.com.akadns.net
@@ -37,3 +23,17 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsigncdn.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net
+DOMAIN,pki-goog.l.google.com
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
+DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
+DOMAIN,ocsp.pki.goog
