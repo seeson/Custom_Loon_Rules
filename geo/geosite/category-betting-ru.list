@@ -1,10 +1,13 @@
 # NAME: category-betting-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-18 07:14:10
+# UPDATED: 2026-08-19 07:14:01
 # TOTAL: 13
 # DOMAIN-SUFFIX: 13
 
+DOMAIN-SUFFIX,win-line.ru
+DOMAIN-SUFFIX,winline.ru
+DOMAIN-SUFFIX,winlinebet.ru
 DOMAIN-SUFFIX,betboom.ru
 DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,bk6bba-resources.com
@@ -15,6 +18,3 @@ DOMAIN-SUFFIX,ligadobra.ru
 DOMAIN-SUFFIX,ligastavok-csr.ru
 DOMAIN-SUFFIX,ligastavok.ru
 DOMAIN-SUFFIX,sozvezdie-dobra.ru
-DOMAIN-SUFFIX,win-line.ru
-DOMAIN-SUFFIX,winline.ru
-DOMAIN-SUFFIX,winlinebet.ru
