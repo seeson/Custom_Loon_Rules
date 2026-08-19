@@ -1,9 +1,10 @@
 # NAME: 5ch
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-19 07:12:51
-# TOTAL: 2
-# DOMAIN-SUFFIX: 2
+# UPDATED: 2026-08-20 07:14:13
+# TOTAL: 3
+# DOMAIN-SUFFIX: 3
 
 DOMAIN-SUFFIX,2ch.net
+DOMAIN-SUFFIX,5ch.io
 DOMAIN-SUFFIX,5ch.net

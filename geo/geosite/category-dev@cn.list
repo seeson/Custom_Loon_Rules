@@ -1,21 +1,11 @@
 # NAME: category-dev@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-19 07:14:08
+# UPDATED: 2026-08-20 07:15:22
 # TOTAL: 24
 # DOMAIN: 15
 # DOMAIN-SUFFIX: 9
 
-DOMAIN-SUFFIX,microsoftreactor.cn
-DOMAIN-SUFFIX,microsoftreactor.com.cn
-DOMAIN-SUFFIX,reactorms.com.cn
-DOMAIN,download.visualstudio.microsoft.com
-DOMAIN,cdn.ampproject.org
-DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,update.crashlytics.com
-DOMAIN-SUFFIX,jetbrains.com.cn
-DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN,cdn.apple-mapkit.com
 DOMAIN,cdn1.apple-mapkit.com
 DOMAIN,cdn2.apple-mapkit.com
@@ -30,3 +20,13 @@ DOMAIN-SUFFIX,researchkit.cn
 DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.cn
 DOMAIN-SUFFIX,swiftui.com.cn
+DOMAIN-SUFFIX,microsoftreactor.cn
+DOMAIN-SUFFIX,microsoftreactor.com.cn
+DOMAIN-SUFFIX,reactorms.com.cn
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,cdn.jetbrains.com
+DOMAIN,cdn.ampproject.org

@@ -1,24 +1,24 @@
 # NAME: aws
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-19 07:13:26
-# TOTAL: 77
-# DOMAIN-SUFFIX: 74
+# UPDATED: 2026-08-20 07:14:44
+# TOTAL: 80
+# DOMAIN-SUFFIX: 77
 
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,awsbraket.com
-DOMAIN-SUFFIX,amazonses.com
+DOMAIN-SUFFIX,thinkboxsoftware.com
 DOMAIN-SUFFIX,aesworkshops.com
 DOMAIN-SUFFIX,amazonaws-china.com
 DOMAIN-SUFFIX,amazonaws.biz
-DOMAIN-SUFFIX,amzndns.org
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonaws.info
 DOMAIN-SUFFIX,amazonaws.net
 DOMAIN-SUFFIX,amazonaws.org
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazoncognito.com
-DOMAIN-SUFFIX,acmvalidations.com
+DOMAIN-SUFFIX,amazonses.com
+DOMAIN-SUFFIX,amazonwebservices.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
@@ -28,16 +28,16 @@ DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com
 DOMAIN-SUFFIX,awsapps.com
 DOMAIN-SUFFIX,awsautopilot.com
-DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,awsautoscaling.com
-DOMAIN-SUFFIX,awsloft-stockholm.com
-DOMAIN-SUFFIX,awsedstart.com
+DOMAIN-SUFFIX,acmvalidations.com
+DOMAIN-SUFFIX,acmvalidationsaws.com
+DOMAIN-SUFFIX,awscommandlineinterface.com
 DOMAIN-SUFFIX,awseducate.com
 DOMAIN-SUFFIX,awseducate.net
 DOMAIN-SUFFIX,awseducate.org
 DOMAIN-SUFFIX,awsglobalaccelerator.com
 DOMAIN-SUFFIX,awsloft-johannesburg.com
-DOMAIN-SUFFIX,awscommandlineinterface.com
+DOMAIN-SUFFIX,awsloft-stockholm.com
 DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,awsthinkbox.com
@@ -48,11 +48,14 @@ DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,containersonaws.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
-DOMAIN-SUFFIX,thinkboxsoftware.com
-DOMAIN-SUFFIX,amzndns.net
+DOMAIN-SUFFIX,awsedstart.com
 DOMAIN-SUFFIX,amzndns.com
-DOMAIN-SUFFIX,amzndns.co.uk
+DOMAIN-SUFFIX,amzndns.org
+DOMAIN-SUFFIX,amzndns.net
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,aws.a2z.com
 DOMAIN-SUFFIX,amazonaws.co.uk
+DOMAIN-SUFFIX,amzndns.co.uk
 DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn

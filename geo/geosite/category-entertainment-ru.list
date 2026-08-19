@@ -1,12 +1,12 @@
 # NAME: category-entertainment-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-19 07:14:14
+# UPDATED: 2026-08-20 07:15:27
 # TOTAL: 31
 # DOMAIN-SUFFIX: 31
 
-DOMAIN-SUFFIX,cdnvideo.ru
-DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,viju.ru
+DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,kinorium.com
@@ -19,15 +19,11 @@ DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,tvigle.ru
-DOMAIN-SUFFIX,viju.ru
-DOMAIN-SUFFIX,promodj.com
-DOMAIN-SUFFIX,okkoapi.tv
-DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,wink.am
 DOMAIN-SUFFIX,wink.ru
 DOMAIN-SUFFIX,rutube.ru
@@ -35,4 +31,8 @@ DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
