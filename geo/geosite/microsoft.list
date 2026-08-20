@@ -1,10 +1,10 @@
 # NAME: microsoft
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-07 08:49:27
-# DOMAIN: 114
+# UPDATED: 2026-08-21 04:15:45
+# DOMAIN: 113
 # DOMAIN-SUFFIX: 633
-# TOTAL: 747
+# TOTAL: 746
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -34,7 +34,6 @@ DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,flightsimulator.azureedge.net
 DOMAIN,github-api.arkoselabs.com
