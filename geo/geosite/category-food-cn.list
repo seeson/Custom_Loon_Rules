@@ -1,7 +1,7 @@
 # NAME: category-food-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-20 07:15:29
+# UPDATED: 2026-08-21 07:18:14
 # TOTAL: 62
 # DOMAIN-SUFFIX: 62
 
@@ -62,8 +62,8 @@ DOMAIN-SUFFIX,logger.qmai.cn
 DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
 DOMAIN-SUFFIX,trackingprd.hwwt8.com
 DOMAIN-SUFFIX,trackserver.shuxinyc.com
-DOMAIN-SUFFIX,starbucks.com.cn
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,mcd.cn
 DOMAIN-SUFFIX,mcdchina.net
 DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,starbucks.com.cn

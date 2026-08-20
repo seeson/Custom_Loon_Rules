@@ -1,9 +1,9 @@
 # NAME: gy
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-20 07:16:49
-# TOTAL: 142
-# IP-CIDR: 142
+# UPDATED: 2026-08-21 07:19:07
+# TOTAL: 143
+# IP-CIDR: 143
 
 IP-CIDR,45.11.243.192/26
 IP-CIDR,57.74.246.0/23
@@ -142,6 +142,7 @@ IP-CIDR,2a09:bac5:3978::/45
 IP-CIDR,2a09:bac6:3978::/45
 IP-CIDR,2a09:bac6:daa0::/45
 IP-CIDR,2a0b:4e07:3:3280::/60
+IP-CIDR,2a0e:cbc0:138::/48
 IP-CIDR,2a0e:ec05:a5c0::/42
 IP-CIDR,2a0e:ec05:a600::/40
 IP-CIDR,2a0e:ec05:a700::/41

@@ -1,16 +1,24 @@
 # NAME: bing@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-20 07:14:55
-# TOTAL: 8
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 7
+# UPDATED: 2026-08-21 07:17:43
+# TOTAL: 16
 
-DOMAIN-SUFFIX,bing.com.cn
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,cn.bing.net
-DOMAIN-SUFFIX,cn.mm.bing.net
-DOMAIN-SUFFIX,ditu.live.com
-DOMAIN-SUFFIX,r.bing.com
-DOMAIN-SUFFIX,th.bing.com
-DOMAIN,bj1.api.bing.com
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 first byte timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 first byte timeout</h1>
+    <p>first byte timeout</p>
+    <h3>Error 54113</h3>
+    <p>Details: cache-bfi-kbfi7400083-BFI 1787267864 1521265506</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+
