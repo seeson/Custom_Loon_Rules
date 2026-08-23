@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:29 CST
-# DOMAIN-SUFFIX: 4383
-# TOTAL: 4383
+# DOMAIN-SUFFIX: 4385
+# TOTAL: 4385
 
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
@@ -230,6 +230,7 @@ DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,api5.futunn.com
 DOMAIN-SUFFIX,apiary.io
@@ -4199,6 +4200,7 @@ DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x3guide.com
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,xbabe.com
 DOMAIN-SUFFIX,xbookcn.com
 DOMAIN-SUFFIX,xbtce.com

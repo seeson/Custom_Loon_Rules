@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 26270
-# TOTAL: 26364
+# DOMAIN-SUFFIX: 26272
+# TOTAL: 26366
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -1924,6 +1924,7 @@ DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,api.news
 DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,api.recaptcha.net
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,apibay.org
@@ -24935,6 +24936,7 @@ DOMAIN-SUFFIX,x18r.com
 DOMAIN-SUFFIX,x3guide.com
 DOMAIN-SUFFIX,x3vid.com
 DOMAIN-SUFFIX,x6av.com
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,x99av.com
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-SUFFIX,xandr.com
