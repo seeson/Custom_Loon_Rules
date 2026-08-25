@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-25 07:15:28
+# UPDATED: 2026-08-26 07:17:46
 # TOTAL: 123
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 117
@@ -12,8 +12,8 @@ DOMAIN,rabbit-hole-1.gitbook.io
 DOMAIN,throneproj.github.io
 DOMAIN,trojan-gfw.github.io
 DOMAIN,xtls.github.io
-DOMAIN-SUFFIX,whonix.org
-DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,2dust.link
+DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,browserleaks.com
@@ -70,34 +70,15 @@ DOMAIN-SUFFIX,uproxy.org
 DOMAIN-SUFFIX,vpnrouter.homes
 DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,wgtunnel.com
-DOMAIN-SUFFIX,ahmia.fi
-DOMAIN-SUFFIX,2dust.link
-DOMAIN-SUFFIX,freebrowser.org
+DOMAIN-SUFFIX,whonix.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wiresock.net
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,ipns.co
-DOMAIN-SUFFIX,jorropo.net
-DOMAIN-SUFFIX,crustwebsites.net
-DOMAIN-SUFFIX,dweb.link
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,ipfs-gateway.cloud
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,via0.com
-DOMAIN-SUFFIX,nftstorage.link
-DOMAIN-SUFFIX,4everland.io
-DOMAIN-SUFFIX,c4rex.co
-DOMAIN-SUFFIX,ipfs.io
-DOMAIN-SUFFIX,ipfs.tech
-DOMAIN-SUFFIX,ceno.app
-DOMAIN-SUFFIX,censorship.no
-DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,try.rw
-DOMAIN-SUFFIX,log.rw
-DOMAIN-SUFFIX,docs.rw
-DOMAIN-SUFFIX,vpngate.net
-DOMAIN-SUFFIX,vpngate.jp
-DOMAIN-SUFFIX,wireguard.com
+DOMAIN-SUFFIX,citizenlab.ca
+DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,freezhihu.org
@@ -111,20 +92,39 @@ DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,citizenlab.org
+DOMAIN-SUFFIX,ceno.app
+DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ray.cool
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,ipfs.eternum.io
-DOMAIN-SUFFIX,ipfs.lain.la
-DOMAIN-SUFFIX,ipfs.fleek.co
-DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,vpngate.jp
+DOMAIN-SUFFIX,vpngate.net
+DOMAIN-SUFFIX,docs.rw
+DOMAIN-SUFFIX,log.rw
+DOMAIN-SUFFIX,try.rw
+DOMAIN-SUFFIX,ipns.co
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,ipfs-gateway.cloud
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,via0.com
+DOMAIN-SUFFIX,nftstorage.link
+DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,twister.net.co
+DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.best-practice.se
 DOMAIN-SUFFIX,ipfs.anonymize.com
 DOMAIN-SUFFIX,gateway.pinata.cloud

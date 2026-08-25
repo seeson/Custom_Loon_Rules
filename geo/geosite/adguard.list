@@ -1,9 +1,9 @@
 # NAME: adguard
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-25 07:14:39
-# TOTAL: 18
-# DOMAIN-SUFFIX: 18
+# UPDATED: 2026-08-26 07:16:58
+# TOTAL: 19
+# DOMAIN-SUFFIX: 19
 
 DOMAIN-SUFFIX,adguard.app
 DOMAIN-SUFFIX,adguard.com
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adtidy.net
 DOMAIN-SUFFIX,adtidy.org
