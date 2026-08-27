@@ -1,9 +1,9 @@
 # NAME: apple-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-26 07:17:12
-# TOTAL: 164
-# DOMAIN: 164
+# UPDATED: 2026-08-27 12:09:16
+# TOTAL: 165
+# DOMAIN: 165
 
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
@@ -71,6 +71,7 @@ DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,gsp4-cn.ls.apple.com
 DOMAIN,gsp5-cn.ls.apple.com
 DOMAIN,gsp85-cn-ssl.ls.apple.com
+DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe19-2-cn-ssl.ls-apple.com.akadns.net
 DOMAIN,gspe19-2-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn-ssl.ls.apple.com
