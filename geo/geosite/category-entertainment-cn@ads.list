@@ -1,7 +1,7 @@
 # NAME: category-entertainment-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-08-27 12:09:46
+# UPDATED: 2026-08-28 14:26:55
 # TOTAL: 52
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 34
@@ -14,21 +14,7 @@ DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
 DOMAIN,apilog-web.acfun.cn
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com
 DOMAIN-SUFFIX,click.hunantv.com
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
@@ -48,13 +34,27 @@ DOMAIN-SUFFIX,adserviceretry.kugou.com
 DOMAIN-SUFFIX,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,adse.wsa.ximalaya.com
 DOMAIN-SUFFIX,adse.ximalaya.com
-DOMAIN-SUFFIX,apple.www.letv.com
-DOMAIN-SUFFIX,ark.letv.com
-DOMAIN-SUFFIX,dc.letv.com
-DOMAIN-SUFFIX,g3.letv.com
-DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN-SUFFIX,click.gamersky.com
 DOMAIN-SUFFIX,ja.gamersky.com
 DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
+DOMAIN-SUFFIX,apple.www.letv.com
+DOMAIN-SUFFIX,ark.letv.com
+DOMAIN-SUFFIX,dc.letv.com
+DOMAIN-SUFFIX,g3.letv.com
