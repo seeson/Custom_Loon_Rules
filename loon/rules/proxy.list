@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 26280
-# TOTAL: 26374
+# DOMAIN-SUFFIX: 26281
+# TOTAL: 26375
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -9885,6 +9885,7 @@ DOMAIN-SUFFIX,geti2p.net
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,getmonero.org
 DOMAIN-SUFFIX,getnews.jp
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getpaint.net
