@@ -1,30 +1,14 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-01 09:32:19
+# UPDATED: 2026-09-02 08:41:42
 # TOTAL: 199
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 165
 
+DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,drom.ru
-DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,apiauto.ru
-DOMAIN-SUFFIX,auto.ru
-DOMAIN-SUFFIX,autoru.me
-DOMAIN-SUFFIX,avto.ru
-DOMAIN-SUFFIX,cm.expert
-DOMAIN-SUFFIX,avito.ru
-DOMAIN-SUFFIX,avito.st
-DOMAIN-SUFFIX,cian.ru
-DOMAIN-SUFFIX,cian.site
-DOMAIN-SUFFIX,ciangroup.ru
-DOMAIN-SUFFIX,dmir.ru
-DOMAIN-SUFFIX,poudobnee.com
-DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
-DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
-DOMAIN-SUFFIX,flowwow-images.com
-DOMAIN-SUFFIX,flowwow.com
-DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ozon.tm
@@ -41,7 +25,7 @@ DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,ozoncamp.pro
-DOMAIN-SUFFIX,ozon.dev
+DOMAIN-SUFFIX,wbtek.ru
 DOMAIN-SUFFIX,ozon.travel
 DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
@@ -104,9 +88,9 @@ DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
 DOMAIN-SUFFIX,wbrep.ru
 DOMAIN-SUFFIX,wbstatic.net
-DOMAIN-SUFFIX,wbstatic.ru
-DOMAIN-SUFFIX,wbtek.ru
-DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,rdrom.ru
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,wbwh.tech
 DOMAIN-SUFFIX,wibes.com
 DOMAIN-SUFFIX,wibes.ru
@@ -164,14 +148,29 @@ DOMAIN-SUFFIX,willberiess.ru
 DOMAIN-SUFFIX,willberis.ru
 DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
+DOMAIN-SUFFIX,wbwh.ru
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
-DOMAIN-SUFFIX,ozon.com.by
-DOMAIN-SUFFIX,ozonru.co.il
-DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
+DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
+DOMAIN-SUFFIX,auto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,cm.expert
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,cian.ru
+DOMAIN-SUFFIX,cian.site
+DOMAIN-SUFFIX,ciangroup.ru
+DOMAIN-SUFFIX,dmir.ru
+DOMAIN-SUFFIX,poudobnee.com
 DOMAIN-SUFFIX,ewisdom.us.kg
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozonru.co.il
+DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,wildberries.co.il
-DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -205,3 +204,4 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru

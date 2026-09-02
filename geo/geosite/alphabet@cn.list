@@ -1,7 +1,7 @@
 # NAME: alphabet@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-01 09:31:30
+# UPDATED: 2026-09-02 08:41:02
 # TOTAL: 126
 # DOMAIN: 114
 # DOMAIN-SUFFIX: 10
@@ -118,12 +118,13 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,update.crashlytics.com
 DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 DOMAIN,redirector.c.play.google.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN,pki-goog.l.google.com
 DOMAIN,c.pki.goog
 DOMAIN,i.pki.goog
@@ -131,4 +132,3 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
-DOMAIN-SUFFIX,ggpht.cn

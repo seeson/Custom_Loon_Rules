@@ -1,7 +1,7 @@
 # NAME: activision-blizzard
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-01 09:31:21
+# UPDATED: 2026-09-02 08:40:55
 # TOTAL: 52
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 43
@@ -21,6 +21,22 @@ DOMAIN-SUFFIX,activisionblizzard.com
 DOMAIN-SUFFIX,activisionblizzardmedia.com
 DOMAIN-SUFFIX,benefitsforeveryworld.com
 DOMAIN-SUFFIX,europeanwarzoneseries.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,diablo.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo4.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,callofduty.com
 DOMAIN-SUFFIX,callofdutyendowment.com
@@ -42,19 +58,3 @@ DOMAIN-SUFFIX,tonyhawk.com
 DOMAIN-SUFFIX,tonyhawkthegame.com
 DOMAIN-SUFFIX,treyarch.com
 DOMAIN-SUFFIX,worldseriesofwarzone.com
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,blizzardgearstore.com
-DOMAIN-SUFFIX,blz-contentstack.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,diablo.com
-DOMAIN-SUFFIX,diablo3.com
-DOMAIN-SUFFIX,diablo4.com
-DOMAIN-SUFFIX,diabloimmortal.com
-DOMAIN-SUFFIX,firesidegatherings.com
-DOMAIN-SUFFIX,playhearthstone.com
-DOMAIN-SUFFIX,heroesofthestorm.com
-DOMAIN-SUFFIX,playoverwatch.com
-DOMAIN-SUFFIX,starcraft.com
-DOMAIN-SUFFIX,starcraft2.com
-DOMAIN-SUFFIX,playwarcraft3.com
-DOMAIN-SUFFIX,worldofwarcraft.com
