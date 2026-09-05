@@ -1,7 +1,7 @@
 # NAME: category-netdisk-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-04 08:34:13
+# UPDATED: 2026-09-05 08:29:41
 # TOTAL: 54
 # DOMAIN: 2
 # DOMAIN-KEYWORD: 3
@@ -10,38 +10,20 @@
 DOMAIN,paper-attachments.s3.amazonaws.com
 DOMAIN-SUFFIX,onedrive
 DOMAIN-SUFFIX,onedriveupdater
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,getdropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxbusiness.com
-DOMAIN-SUFFIX,dropboxcaptcha.com
-DOMAIN-SUFFIX,dropboxforum.com
-DOMAIN-SUFFIX,dropboxforums.com
-DOMAIN-SUFFIX,dropboxinsiders.com
-DOMAIN-SUFFIX,dropboxmail.com
-DOMAIN-SUFFIX,dropboxpartners.com
-DOMAIN-SUFFIX,dropboxstatic.com
-DOMAIN-SUFFIX,dropboxusercontent.com
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,mega.nz
-DOMAIN-SUFFIX,usersdrive.com
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sharepoint.cn
-DOMAIN-SUFFIX,dropbox.tech
-DOMAIN-SUFFIX,db.tt
-DOMAIN-SUFFIX,userdrive.org
-DOMAIN-SUFFIX,teraboxcdn.com
-DOMAIN-SUFFIX,terabox1024.com
-DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,nephobox.com
-DOMAIN-SUFFIX,freeterabox.com
-DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,nephobox.com
+DOMAIN-SUFFIX,dropboxpartners.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,pickpackapp.com
@@ -49,6 +31,24 @@ DOMAIN-SUFFIX,pikpak.io
 DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,1024terabox.com
+DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,terabox1024.com
+DOMAIN-SUFFIX,teraboxcdn.com
+DOMAIN-SUFFIX,userdrive.org
+DOMAIN-SUFFIX,usersdrive.com
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,freeterabox.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,oneclient.sfx.ms

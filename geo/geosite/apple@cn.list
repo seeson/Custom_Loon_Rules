@@ -1,7 +1,7 @@
 # NAME: apple@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-04 08:33:01
+# UPDATED: 2026-09-05 08:28:54
 # TOTAL: 296
 # DOMAIN: 234
 # DOMAIN-SUFFIX: 62
@@ -213,14 +213,8 @@ DOMAIN,music.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,play.music.apple.com
 DOMAIN,speedysub.music.apple.com
-DOMAIN,certs-lb.apple.com.akadns.net
-DOMAIN,certs.apple.com
-DOMAIN,crl-lb.apple.com.akadns.net
-DOMAIN,crl.apple.com
-DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2.apple.com
-DOMAIN,valid.apple.com
-DOMAIN,valid.origin-apple.com.akadns.net
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com
 DOMAIN-SUFFIX,beats1.cn
 DOMAIN-SUFFIX,beats1.com.cn
 DOMAIN-SUFFIX,beats2.com.cn
@@ -228,30 +222,6 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
-DOMAIN,cdn.apple-mapkit.com
-DOMAIN,cdn1.apple-mapkit.com
-DOMAIN,cdn2.apple-mapkit.com
-DOMAIN,cdn3.apple-mapkit.com
-DOMAIN,cdn4.apple-mapkit.com
-DOMAIN,cdn-cn.apple-mapkit.com
-DOMAIN,cdn-cn1.apple-mapkit.com
-DOMAIN,cdn-cn2.apple-mapkit.com
-DOMAIN,cdn-cn3.apple-mapkit.com
-DOMAIN,cdn-cn4.apple-mapkit.com
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,podcasts.apple.com
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,appleicloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud-content.com.cn
-DOMAIN-SUFFIX,icloud.cn
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
@@ -302,3 +272,33 @@ DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
+DOMAIN-SUFFIX,apple-icloud.cn
+DOMAIN-SUFFIX,appleicloud.cn
+DOMAIN-SUFFIX,icloud-apple.cn
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,icloud.cn
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.net.cn
+DOMAIN-SUFFIX,icloudapple.cn
