@@ -1,18 +1,43 @@
 # NAME: category-cdn-!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-07 08:31:27
+# UPDATED: 2026-09-08 08:49:26
 # TOTAL: 195
 # DOMAIN-SUFFIX: 195
 
-DOMAIN-SUFFIX,delvenetworks.com
-DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,bunny.net
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com
 DOMAIN-SUFFIX,gcore.pro
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-terrarium.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net
+DOMAIN-SUFFIX,pagecdn.com
+DOMAIN-SUFFIX,pagecdn.io
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,vrcdn.cloud
@@ -24,7 +49,7 @@ DOMAIN-SUFFIX,aka-ai.net
 DOMAIN-SUFFIX,akacrypto.net
 DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akadns.com
-DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akadns6.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
@@ -87,18 +112,6 @@ DOMAIN-SUFFIX,iamakamai.com
 DOMAIN-SUFFIX,iamakamai.net
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
-DOMAIN-SUFFIX,bunnycdn.com
-DOMAIN-SUFFIX,bunny.net
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,lldns.net
-DOMAIN-SUFFIX,llnw-trials.com
-DOMAIN-SUFFIX,llnw.com
-DOMAIN-SUFFIX,llnw.net
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,llnwi.net
-DOMAIN-SUFFIX,quantil.com
-DOMAIN-SUFFIX,cdn77.com
-DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,browser.run
 DOMAIN-SUFFIX,cfargotunnel.com
@@ -147,7 +160,7 @@ DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,isbgpsafeyet.com
 DOMAIN-SUFFIX,pacloudflare.com
-DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,trycloudflare.com
 DOMAIN-SUFFIX,videodelivery.net
@@ -155,21 +168,8 @@ DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,pagecdn.com
-DOMAIN-SUFFIX,fastly-edge.com
-DOMAIN-SUFFIX,fastly-terrarium.com
-DOMAIN-SUFFIX,fastly.com
-DOMAIN-SUFFIX,fastly.io
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,fastlylabs.com
-DOMAIN-SUFFIX,fastlylb.net
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net
-DOMAIN-SUFFIX,esm.run
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,akamai.co.kr
+DOMAIN-SUFFIX,one.one.one
 DOMAIN-SUFFIX,accdn.com.cn
 DOMAIN-SUFFIX,akadns88.net
 DOMAIN-SUFFIX,akadns99.net
