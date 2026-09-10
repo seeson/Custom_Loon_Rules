@@ -1,20 +1,26 @@
 # NAME: category-entertainment@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-09 08:53:43
+# UPDATED: 2026-09-10 08:44:08
 # TOTAL: 102
 # DOMAIN: 58
 # DOMAIN-SUFFIX: 42
 
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,shanghaidisneyresort.com
 DOMAIN-SUFFIX,ggpht.cn
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN,gog.qtlglb.com
+DOMAIN,amp-api-edge.music.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,music.apple.com
+DOMAIN,musicstatus.music.apple.com
+DOMAIN,play.music.apple.com
+DOMAIN,speedysub.music.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com
 DOMAIN-SUFFIX,yostar.cn
-DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
-DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-DOMAIN-SUFFIX,leagueoflegends.cn
-DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN,gog.qtlglb.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
 DOMAIN-SUFFIX,miitomo.com.cn
@@ -46,18 +52,12 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
-DOMAIN-SUFFIX,amazonprimevideo.cn
-DOMAIN-SUFFIX,amazonprimevideo.com.cn
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,podcasts.apple.com
-DOMAIN-SUFFIX,shanghaidisneyresort.com
-DOMAIN,amp-api-edge.music.apple.com
-DOMAIN,amp-api.music.apple.com
-DOMAIN,js-cdn.music.apple.com
-DOMAIN,music.apple.com
-DOMAIN,musicstatus.music.apple.com
-DOMAIN,play.music.apple.com
-DOMAIN,speedysub.music.apple.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,bluearchive-cn.com
 DOMAIN-SUFFIX,apple-itunes.cn
 DOMAIN-SUFFIX,itunes-apple.cn
 DOMAIN-SUFFIX,itunesapple.cn
