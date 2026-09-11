@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 26296
-# TOTAL: 26390
+# DOMAIN-SUFFIX: 26297
+# TOTAL: 26391
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -19125,6 +19125,7 @@ DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qt-project.org
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,qtrac.eu
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,qualcomm-email.com
 DOMAIN-SUFFIX,qualcomm-inc.com
 DOMAIN-SUFFIX,qualcomm.co.id
