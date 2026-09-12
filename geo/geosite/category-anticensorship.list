@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-11 08:42:51
+# UPDATED: 2026-09-12 08:49:12
 # TOTAL: 124
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 118
@@ -75,25 +75,6 @@ DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,wiresock.net
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,epicbrowser.com
-DOMAIN-SUFFIX,applecensorship.com
-DOMAIN-SUFFIX,freebrowser.org
-DOMAIN-SUFFIX,freewechat.com
-DOMAIN-SUFFIX,freeweibo.com
-DOMAIN-SUFFIX,freezhihu.org
-DOMAIN-SUFFIX,googlecensorship.org
-DOMAIN-SUFFIX,greatfire.org
-DOMAIN-SUFFIX,greatfirevpn.com
-DOMAIN-SUFFIX,pao-pao.net
-DOMAIN-SUFFIX,wikiunblocked.org
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,torproject.org
-DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,vpngate.jp
-DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,remna.st
@@ -113,14 +94,33 @@ DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,v2fly.org
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,epicbrowser.com
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,opengw.net
+DOMAIN-SUFFIX,vpngate.jp
+DOMAIN-SUFFIX,vpngate.net
+DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,freebrowser.org
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,freeweibo.com
+DOMAIN-SUFFIX,freezhihu.org
+DOMAIN-SUFFIX,googlecensorship.org
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,greatfirevpn.com
+DOMAIN-SUFFIX,pao-pao.net
+DOMAIN-SUFFIX,wikiunblocked.org
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.fleek.co
