@@ -2,9 +2,9 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
-# DOMAIN: 94
-# DOMAIN-SUFFIX: 26297
-# TOTAL: 26391
+# DOMAIN: 95
+# DOMAIN-SUFFIX: 26300
+# TOTAL: 26395
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -62,6 +62,7 @@ DOMAIN,ntp7.ntp-servers.net
 DOMAIN,ntppool1.time.nl
 DOMAIN,ntppool2.time.nl
 DOMAIN,ood.opsource.net
+DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,q676790b.pmhcjk.com
 DOMAIN,rink.hockeyapp.net
@@ -21540,6 +21541,9 @@ DOMAIN-SUFFIX,stripcamfun.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.dev
+DOMAIN-SUFFIX,stripe.events
+DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripparadise.com
