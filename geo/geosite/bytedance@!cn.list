@@ -1,9 +1,9 @@
 # NAME: bytedance@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-14 08:33:17
-# TOTAL: 50
-# DOMAIN: 6
+# UPDATED: 2026-09-15 09:04:50
+# TOTAL: 51
+# DOMAIN: 7
 # DOMAIN-SUFFIX: 44
 
 DOMAIN-SUFFIX,byteglb.com
@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
 DOMAIN-SUFFIX,tiktokv.com.edgekey.net
 DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com

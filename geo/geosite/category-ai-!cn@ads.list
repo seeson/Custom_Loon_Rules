@@ -1,12 +1,12 @@
 # NAME: category-ai-!cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-14 08:33:22
+# UPDATED: 2026-09-15 09:04:54
 # TOTAL: 5
 # DOMAIN: 5
 
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openai.qualtrics.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
