@@ -1,23 +1,25 @@
 # NAME: chinaunicom
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-20 08:32:11
-# TOTAL: 23
-# DOMAIN-SUFFIX: 23
+# UPDATED: 2026-09-21 08:41:12
+# TOTAL: 25
+# DOMAIN-SUFFIX: 25
 
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,xn--8y0a063a
-DOMAIN-SUFFIX,chinaunicom.com
-DOMAIN-SUFFIX,wo.cn
+DOMAIN-SUFFIX,mychinaunicom.com
+DOMAIN-SUFFIX,smartont.net
 DOMAIN-SUFFIX,10155.com
 DOMAIN-SUFFIX,114menhu.com
 DOMAIN-SUFFIX,169ol.com
 DOMAIN-SUFFIX,chinaunicom.cn
-DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,chinaunicom.com
 DOMAIN-SUFFIX,wosms.cn
-DOMAIN-SUFFIX,mychinaunicom.com
-DOMAIN-SUFFIX,unicompayment.com
+DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,wo116114.com
+DOMAIN-SUFFIX,unicompayment.com
+DOMAIN-SUFFIX,wo-adv.cn
+DOMAIN-SUFFIX,wo.cn
 DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,10010.com.cn
 DOMAIN-SUFFIX,wocloud.com.cn

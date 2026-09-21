@@ -1,8 +1,8 @@
-# NAME: category-outsource-cn
+# NAME: category-education-cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-21 08:41:02
+# UPDATED: 2026-09-21 08:40:52
 # TOTAL: 1
 # DOMAIN-SUFFIX: 1
 
-DOMAIN-SUFFIX,mihuashi.com
+DOMAIN-SUFFIX,syh.zybang.com
