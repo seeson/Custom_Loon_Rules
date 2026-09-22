@@ -1,13 +1,13 @@
 # NAME: category-speedtest
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-21 08:41:06
+# UPDATED: 2026-09-22 09:22:20
 # TOTAL: 77
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 74
 
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
-DOMAIN-SUFFIX,pingtest.net
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,fastspeedtest.com
 DOMAIN-SUFFIX,librespeed.org
 DOMAIN-SUFFIX,linkmeter.net
@@ -15,26 +15,26 @@ DOMAIN-SUFFIX,measurementlab.net
 DOMAIN-SUFFIX,meter.net
 DOMAIN-SUFFIX,nperf.com
 DOMAIN-SUFFIX,openspeedtest.ru
-DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,webtest.net
-DOMAIN-SUFFIX,speed.ee
 DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,speed.ee
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,pingtest.net
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedof.me
 DOMAIN-SUFFIX,speedgeo.net
 DOMAIN-SUFFIX,testskorosti.ru
 DOMAIN-SUFFIX,speedtest.ch
-DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,ookla.com
-DOMAIN-SUFFIX,speedtest.de
 DOMAIN-SUFFIX,ekahau.com
+DOMAIN-SUFFIX,speedtest.de
 DOMAIN-SUFFIX,ekahau.cloud
-DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,openspeedtest.com
 DOMAIN-SUFFIX,speedtest.xyz
 DOMAIN-SUFFIX,testmyspeed.com
 DOMAIN-SUFFIX,speedtest.org
@@ -44,23 +44,23 @@ DOMAIN-SUFFIX,speedtest24.ru
 DOMAIN-SUFFIX,speedtest.su
 DOMAIN-SUFFIX,speedtest.uz
 DOMAIN-SUFFIX,speed2.hinet.net
-DOMAIN-SUFFIX,speedtest.co.za
+DOMAIN-SUFFIX,speedtest.dno-it.ru
 DOMAIN-SUFFIX,speedtest.volia.com
 DOMAIN-SUFFIX,speedtest.shaw.ca
 DOMAIN-SUFFIX,speedtest.rt.ru
 DOMAIN-SUFFIX,speedtest.net.uk
 DOMAIN-SUFFIX,speedtest.net.ua
 DOMAIN-SUFFIX,speedtest.net.in
+DOMAIN-SUFFIX,open.cachefly.net
 DOMAIN-SUFFIX,speedtest.mail.ru
 DOMAIN-SUFFIX,speedtest.frontier.com
-DOMAIN-SUFFIX,speedtest.dno-it.ru
 DOMAIN-SUFFIX,speedtest.xfinity.com
+DOMAIN-SUFFIX,speedtest.co.za
 DOMAIN-SUFFIX,speedtest.citylink.pro
 DOMAIN-SUFFIX,speedtest.cesnet.cz
-DOMAIN-SUFFIX,open.cachefly.net
 DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN-SUFFIX,speed.hinet.net
 DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speed.hinet.net
 DOMAIN-SUFFIX,speed.nccu.edu.tw
 DOMAIN-SUFFIX,speed5.ntu.edu.tw
 DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
