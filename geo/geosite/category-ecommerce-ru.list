@@ -1,23 +1,14 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-22 09:22:05
+# UPDATED: 2026-09-23 09:04:50
 # TOTAL: 199
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 165
 
-DOMAIN-SUFFIX,wbautomation.tech
-DOMAIN-SUFFIX,o3team.ru
+DOMAIN-SUFFIX,wbrep.ru
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
 DOMAIN-SUFFIX,drom.ru
-DOMAIN-SUFFIX,avito.st
-DOMAIN-SUFFIX,cian.ru
-DOMAIN-SUFFIX,cian.site
-DOMAIN-SUFFIX,ciangroup.ru
-DOMAIN-SUFFIX,dmir.ru
-DOMAIN-SUFFIX,poudobnee.com
-DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
-DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
-DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,funpay.ru
@@ -25,7 +16,7 @@ DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,o3t.ru
-DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,o3team.ru
 DOMAIN-SUFFIX,o-courier.ru
 DOMAIN-SUFFIX,ocourier.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
@@ -34,7 +25,7 @@ DOMAIN-SUFFIX,ozon-tech.ru
 DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
+DOMAIN-SUFFIX,wbstatic.net
 DOMAIN-SUFFIX,ozoncamp.pro
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.travel
@@ -88,18 +79,18 @@ DOMAIN-SUFFIX,wb.kg
 DOMAIN-SUFFIX,wb.kz
 DOMAIN-SUFFIX,wb.ru
 DOMAIN-SUFFIX,wbautomation.ru
-DOMAIN-SUFFIX,avito.ru
-DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,wildbirris.ru
+DOMAIN-SUFFIX,wbautomation.tech
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbcontent.net
 DOMAIN-SUFFIX,wbdubna.ru
 DOMAIN-SUFFIX,wbkids.ru
 DOMAIN-SUFFIX,wbmail.ru
 DOMAIN-SUFFIX,wbmotivator.ru
 DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
-DOMAIN-SUFFIX,wbrep.ru
-DOMAIN-SUFFIX,wbstatic.net
-DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,rdrom.ru
+DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wbtek.ru
 DOMAIN-SUFFIX,wbwh.ru
 DOMAIN-SUFFIX,wbwh.tech
@@ -148,7 +139,7 @@ DOMAIN-SUFFIX,wildberr.ru
 DOMAIN-SUFFIX,wildberriess.ru
 DOMAIN-SUFFIX,wildberrise.ru
 DOMAIN-SUFFIX,wildbiries.ru
-DOMAIN-SUFFIX,wbcontent.net
+DOMAIN-SUFFIX,wildbirris.ru
 DOMAIN-SUFFIX,wildbress.ru
 DOMAIN-SUFFIX,wildbries.ru
 DOMAIN-SUFFIX,wildbrris.ru
@@ -157,21 +148,29 @@ DOMAIN-SUFFIX,wildeberris.ru
 DOMAIN-SUFFIX,wiliberes.ru
 DOMAIN-SUFFIX,willberiess.ru
 DOMAIN-SUFFIX,willberis.ru
-DOMAIN-SUFFIX,wldberris.ru
+DOMAIN-SUFFIX,wbstatic.ru
 DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,apiauto.ru
-DOMAIN-SUFFIX,cm.expert
-DOMAIN-SUFFIX,avto.ru
-DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
+DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
+DOMAIN-SUFFIX,poudobnee.com
+DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,auto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,cm.expert
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,cian.ru
+DOMAIN-SUFFIX,cian.site
+DOMAIN-SUFFIX,ciangroup.ru
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozonru.co.il
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,wildberries.co.il
-DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
 DOMAIN,adv.ozon.ru
 DOMAIN,agency-adv.ozon.ru
@@ -205,3 +204,4 @@ DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru
