@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 104
-# TOTAL: 104
+# DOMAIN: 100
+# TOTAL: 100
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -17,7 +17,6 @@ DOMAIN,bt2.archive.org
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
-DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.govt.hu
 DOMAIN,kolanopentracker.airdns.org
@@ -43,18 +42,18 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
 DOMAIN,tr.abir.ga
+DOMAIN,tr.btube3.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.0x7c0.com
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
-DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
@@ -65,9 +64,7 @@ DOMAIN,tracker.ducks.party
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
-DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
@@ -83,7 +80,6 @@ DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.peerfect.org
 DOMAIN,tracker.playground.ru
-DOMAIN,tracker.plx.im
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
