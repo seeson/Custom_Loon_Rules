@@ -2,13 +2,12 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 97
-# TOTAL: 97
+# DOMAIN: 96
+# TOTAL: 96
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
-DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -47,6 +46,7 @@ DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
@@ -61,6 +61,7 @@ DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
+DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
@@ -82,7 +83,6 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.waaa.moe
@@ -99,6 +99,5 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
-DOMAIN,v6.vito-tracker.space
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com

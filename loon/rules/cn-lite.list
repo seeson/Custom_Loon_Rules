@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 5586
-# TOTAL: 5615
+# DOMAIN-SUFFIX: 5587
+# TOTAL: 5616
 
 DOMAIN,analytics.strava.com
 DOMAIN,api.blipsandchitz.me
@@ -1304,6 +1304,7 @@ DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cn88.net
 DOMAIN-SUFFIX,cnanzhi.com
 DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,cnb.space
 DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnblogs.vip
