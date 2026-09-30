@@ -1,15 +1,13 @@
 # NAME: category-games@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-29 10:25:58
+# UPDATED: 2026-09-30 09:45:52
 # TOTAL: 40
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 33
 
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
-DOMAIN-SUFFIX,xboxlive.cn
 DOMAIN,gog.qtlglb.com
-DOMAIN-SUFFIX,yostar.cn
 DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
 DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
 DOMAIN-SUFFIX,legendofzelda.cn
@@ -46,3 +44,5 @@ DOMAIN,lv.queniujq.cn
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,yostar.cn
