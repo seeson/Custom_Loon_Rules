@@ -1,10 +1,10 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-09-22 06:54:35
-# DOMAIN: 234
+# UPDATED: 2026-10-01 07:18:15
+# DOMAIN: 236
 # DOMAIN-SUFFIX: 839
-# TOTAL: 1073
+# TOTAL: 1075
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -83,6 +83,8 @@ DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
+DOMAIN,geminiweb-pa.clients.google.com
+DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
 DOMAIN,google-analytics-cn.com
