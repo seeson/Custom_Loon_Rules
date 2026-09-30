@@ -2,12 +2,13 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 96
-# TOTAL: 96
+# DOMAIN: 99
+# TOTAL: 99
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
+DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -26,6 +27,7 @@ DOMAIN,nyaa.tracker.wf
 DOMAIN,open.demonii.com
 DOMAIN,open.ftorrent.com
 DOMAIN,open.stealth.si
+DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.lain.moscow
@@ -46,7 +48,6 @@ DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
@@ -63,6 +64,7 @@ DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
+DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.midnightprogrammer.net
@@ -85,6 +87,7 @@ DOMAIN,tracker.skyts.net
 DOMAIN,tracker.teambelgium.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
