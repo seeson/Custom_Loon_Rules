@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:26 CST
-# IP-CIDR: 9421
-# TOTAL: 9421
+# IP-CIDR: 9416
+# TOTAL: 9416
 
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
@@ -2117,7 +2117,6 @@ IP-CIDR,112.137.48.0/21,no-resolve
 IP-CIDR,112.192.0.0/14,no-resolve
 IP-CIDR,112.224.0.0/11,no-resolve
 IP-CIDR,112.64.0.0/14,no-resolve
-IP-CIDR,112.73.232.0/24,no-resolve
 IP-CIDR,112.73.96.0/19,no-resolve
 IP-CIDR,112.74.0.0/15,no-resolve
 IP-CIDR,112.80.0.0/12,no-resolve
@@ -2767,7 +2766,6 @@ IP-CIDR,123.49.232.0/22,no-resolve
 IP-CIDR,123.49.236.0/24,no-resolve
 IP-CIDR,123.49.240.0/24,no-resolve
 IP-CIDR,123.49.242.0/23,no-resolve
-IP-CIDR,123.49.245.0/24,no-resolve
 IP-CIDR,123.49.248.0/21,no-resolve
 IP-CIDR,123.50.160.0/19,no-resolve
 IP-CIDR,123.52.0.0/14,no-resolve
@@ -3588,7 +3586,6 @@ IP-CIDR,192.55.68.0/22,no-resolve
 IP-CIDR,192.6.87.0/24,no-resolve
 IP-CIDR,193.112.0.0/16,no-resolve
 IP-CIDR,193.119.0.0/19,no-resolve
-IP-CIDR,193.233.49.0/24,no-resolve
 IP-CIDR,194.127.229.0/24,no-resolve
 IP-CIDR,194.138.202.0/23,no-resolve
 IP-CIDR,194.138.245.0/24,no-resolve
@@ -5387,8 +5384,7 @@ IP-CIDR,38.102.232.0/22,no-resolve
 IP-CIDR,38.105.24.0/21,no-resolve
 IP-CIDR,38.134.58.0/23,no-resolve
 IP-CIDR,38.247.24.0/22,no-resolve
-IP-CIDR,38.247.32.0/24,no-resolve
-IP-CIDR,38.247.34.0/23,no-resolve
+IP-CIDR,38.247.32.0/22,no-resolve
 IP-CIDR,38.247.36.0/24,no-resolve
 IP-CIDR,38.247.38.0/23,no-resolve
 IP-CIDR,38.84.220.0/24,no-resolve
@@ -5550,8 +5546,7 @@ IP-CIDR,43.109.22.0/24,no-resolve
 IP-CIDR,43.109.224.0/23,no-resolve
 IP-CIDR,43.109.226.0/24,no-resolve
 IP-CIDR,43.109.238.0/23,no-resolve
-IP-CIDR,43.109.24.0/23,no-resolve
-IP-CIDR,43.109.26.0/24,no-resolve
+IP-CIDR,43.109.24.0/22,no-resolve
 IP-CIDR,43.109.28.0/24,no-resolve
 IP-CIDR,43.109.30.0/23,no-resolve
 IP-CIDR,43.109.32.0/23,no-resolve

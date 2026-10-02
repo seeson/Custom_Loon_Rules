@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 26
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 166
-# TOTAL: 195
+# DOMAIN-SUFFIX: 167
+# TOTAL: 196
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
