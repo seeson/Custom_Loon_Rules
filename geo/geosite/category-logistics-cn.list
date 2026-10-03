@@ -1,14 +1,22 @@
 # NAME: category-logistics-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-02 09:54:41
+# UPDATED: 2026-10-03 09:35:48
 # TOTAL: 158
 # DOMAIN-SUFFIX: 158
 
-DOMAIN-SUFFIX,yto56test.com
+DOMAIN-SUFFIX,ytokj.com
 DOMAIN-SUFFIX,zt-express.com
 DOMAIN-SUFFIX,guoocang.com
-DOMAIN-SUFFIX,dpma.cc
+DOMAIN-SUFFIX,cainiao-inc.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,danniao.com
+DOMAIN-SUFFIX,dianwoda.cn
+DOMAIN-SUFFIX,dianwoda.com
+DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,fcbox.com
+DOMAIN-SUFFIX,fcboxmall.com
 DOMAIN-SUFFIX,upfos.cn
 DOMAIN-SUFFIX,upfos.com
 DOMAIN-SUFFIX,jtexpress.com
@@ -75,31 +83,31 @@ DOMAIN-SUFFIX,tianxiajiameng.cn
 DOMAIN-SUFFIX,tianxiajiameng.com
 DOMAIN-SUFFIX,gpall.net
 DOMAIN-SUFFIX,yto-lgs.com
-DOMAIN-SUFFIX,ytokj.com
-DOMAIN-SUFFIX,yto-lgs.net
-DOMAIN-SUFFIX,ytoluohan.xin
+DOMAIN-SUFFIX,56xiniao.com
+DOMAIN-SUFFIX,kuaidi.com
+DOMAIN-SUFFIX,800bestapi.com
 DOMAIN-SUFFIX,yto.top
 DOMAIN-SUFFIX,yto.vip
 DOMAIN-SUFFIX,yto.xin
 DOMAIN-SUFFIX,ytoluohan.net
 DOMAIN-SUFFIX,ytoluohan.com
-DOMAIN-SUFFIX,deppon.com
-DOMAIN-SUFFIX,kuaidi.com
-DOMAIN-SUFFIX,800best.cn
+DOMAIN-SUFFIX,yto56test.com
+DOMAIN-SUFFIX,ytocargo.com
+DOMAIN-SUFFIX,ytoluohan.cn
 DOMAIN-SUFFIX,ytoexpress.com
 DOMAIN-SUFFIX,ytoholding.com
 DOMAIN-SUFFIX,ytokj.net
 DOMAIN-SUFFIX,ytokj.cn
 DOMAIN-SUFFIX,zto.cn
-DOMAIN-SUFFIX,ytocargo.com
+DOMAIN-SUFFIX,yto-lgs.net
 DOMAIN-SUFFIX,tuxi.com
 DOMAIN-SUFFIX,izto.com
 DOMAIN-SUFFIX,ztoapp.com
-DOMAIN-SUFFIX,fcboxmall.com
-DOMAIN-SUFFIX,fcbox.com
-DOMAIN-SUFFIX,guoguo-app.com
-DOMAIN-SUFFIX,dianwoda.com
-DOMAIN-SUFFIX,dianwoda.cn
+DOMAIN-SUFFIX,dpma.cc
+DOMAIN-SUFFIX,deppon.com
+DOMAIN-SUFFIX,youyitms.com
+DOMAIN-SUFFIX,youyierp.com
+DOMAIN-SUFFIX,xinyuanfin.com
 DOMAIN-SUFFIX,ydsys.cn
 DOMAIN-SUFFIX,yundaex.cn
 DOMAIN-SUFFIX,yundaex.com
@@ -115,7 +123,7 @@ DOMAIN-SUFFIX,800best.com
 DOMAIN-SUFFIX,youyiwms.com
 DOMAIN-SUFFIX,800best.net
 DOMAIN-SUFFIX,800bestapi.cn
-DOMAIN-SUFFIX,800bestapi.com
+DOMAIN-SUFFIX,ytoluohan.xin
 DOMAIN-SUFFIX,800bestapp.cn
 DOMAIN-SUFFIX,800bestapp.com
 DOMAIN-SUFFIX,baishinetwork.com
@@ -123,7 +131,7 @@ DOMAIN-SUFFIX,best-inc.com
 DOMAIN-SUFFIX,bestcrossborder.com
 DOMAIN-SUFFIX,bestdataclub.com
 DOMAIN-SUFFIX,bestincapi.cn
-DOMAIN-SUFFIX,ytoluohan.cn
+DOMAIN-SUFFIX,800best.cn
 DOMAIN-SUFFIX,bestincapp.com
 DOMAIN-SUFFIX,56laile.com
 DOMAIN-SUFFIX,linliyz.com
@@ -134,23 +142,15 @@ DOMAIN-SUFFIX,t8tms.com
 DOMAIN-SUFFIX,t9tms.com
 DOMAIN-SUFFIX,tnettms.com
 DOMAIN-SUFFIX,wangniuwms.com
-DOMAIN-SUFFIX,xinyuanfin.com
-DOMAIN-SUFFIX,youyierp.com
-DOMAIN-SUFFIX,youyitms.com
-DOMAIN-SUFFIX,danniao.com
-DOMAIN-SUFFIX,56xiniao.com
-DOMAIN-SUFFIX,cainiao-inc.com
-DOMAIN-SUFFIX,cainiao.com
-DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,ytokj.com.cn
-DOMAIN-SUFFIX,nellit.com.cn
 DOMAIN-SUFFIX,nellit.org.cn
 DOMAIN-SUFFIX,yto.net.cn
-DOMAIN-SUFFIX,cainiao.com.cn
+DOMAIN-SUFFIX,800best.com.cn
 DOMAIN-SUFFIX,yto56.com.cn
 DOMAIN-SUFFIX,yto56.net.cn
+DOMAIN-SUFFIX,deppon.com.cn
 DOMAIN-SUFFIX,ytocargo.com.cn
-DOMAIN-SUFFIX,800best.com.cn
+DOMAIN-SUFFIX,nellit.com.cn
 DOMAIN-SUFFIX,ytokj.net.cn
 DOMAIN-SUFFIX,sto-express.com.cn
 DOMAIN-SUFFIX,ytojg.com.cn
@@ -159,7 +159,7 @@ DOMAIN-SUFFIX,sf-tech.com.cn
 DOMAIN-SUFFIX,bxexpress.com.cn
 DOMAIN-SUFFIX,jnt-express.com.cn
 DOMAIN-SUFFIX,jtexpress.com.cn
-DOMAIN-SUFFIX,deppon.com.cn
+DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,izto.com.cn
 DOMAIN-SUFFIX,mlzt.com.cn
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
