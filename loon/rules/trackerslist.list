@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 101
-# TOTAL: 101
+# DOMAIN: 99
+# TOTAL: 99
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -11,7 +11,6 @@ DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,anime-tracker.aruku.kro.kr
 DOMAIN,announce.sktorrent.eu
-DOMAIN,archive.torrentonline.cc
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
@@ -20,7 +19,6 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,ipv4announce.sktorrent.eu
-DOMAIN,ipv6.govt.hu
 DOMAIN,kolankoalastree.newtrackon.co.nz
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
@@ -34,6 +32,7 @@ DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
 DOMAIN,opentracker.lain.moscow
 DOMAIN,p4p.arenabg.com
+DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
@@ -42,6 +41,7 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
@@ -52,6 +52,7 @@ DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
+DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.ddunlimited.net
@@ -59,21 +60,19 @@ DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
-DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.internetwarriors.net
-DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.midnightprogrammer.net
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
 DOMAIN,tracker.nyaa.net
 DOMAIN,tracker.nyaa.vc
+DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.com
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -85,7 +84,7 @@ DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
-DOMAIN,tracker.teambelgium.net
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.tryhackx.org
@@ -103,6 +102,5 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
-DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
