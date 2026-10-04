@@ -1,13 +1,11 @@
 # NAME: bytedance
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-03 09:35:23
+# UPDATED: 2026-10-04 10:16:27
 # TOTAL: 955
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 922
 
-DOMAIN,p3-novel.byteimg.com
-DOMAIN,p6-novel.byteimg.com
 DOMAIN,p1-juejin.byteimg.com
 DOMAIN,p2-juejin.byteimg.com
 DOMAIN,p3-juejin.byteimg.com
@@ -17,6 +15,8 @@ DOMAIN,p6-juejin.byteimg.com
 DOMAIN,p7-juejin.byteimg.com
 DOMAIN,p8-juejin.byteimg.com
 DOMAIN,p9-juejin.byteimg.com
+DOMAIN,p3-novel.byteimg.com
+DOMAIN,p6-novel.byteimg.com
 DOMAIN-SUFFIX,ulpay.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,activity-dy.com
@@ -446,6 +446,9 @@ DOMAIN-SUFFIX,99uri.com
 DOMAIN-SUFFIX,fedlearner.net
 DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,open-douyin.com
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,xitu.io
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,fanqiecopyright.com
@@ -476,17 +479,6 @@ DOMAIN-SUFFIX,qznovel.com
 DOMAIN-SUFFIX,qznovelpic.com
 DOMAIN-SUFFIX,qznovelstatic.com
 DOMAIN-SUFFIX,qznovelvod.com
-DOMAIN-SUFFIX,dcarapi.com
-DOMAIN-SUFFIX,dcarimg.com
-DOMAIN-SUFFIX,dcarlive.com
-DOMAIN-SUFFIX,dcarstatic.com
-DOMAIN-SUFFIX,dcarvod.com
-DOMAIN-SUFFIX,dcdapp.com
-DOMAIN-SUFFIX,dongchedi.com
-DOMAIN-SUFFIX,dongchediapp.com
-DOMAIN-SUFFIX,juejin.cn
-DOMAIN-SUFFIX,juejin.im
-DOMAIN-SUFFIX,xitu.io
 DOMAIN-SUFFIX,baseopendev.com
 DOMAIN-SUFFIX,bytecloud.com
 DOMAIN-SUFFIX,byteoc.com
@@ -570,13 +562,13 @@ DOMAIN-SUFFIX,larksuitecdn.com
 DOMAIN-SUFFIX,larksuiteimg-boe.com
 DOMAIN-SUFFIX,larksuiteimg-pre.com
 DOMAIN-SUFFIX,doudou.com
-DOMAIN-SUFFIX,xflowedge.com
-DOMAIN-SUFFIX,xck31.cn
-DOMAIN-SUFFIX,writingo.net
-DOMAIN-SUFFIX,writingo-editor.com
-DOMAIN-SUFFIX,volx.cn
-DOMAIN-SUFFIX,volcwaf001.com
-DOMAIN-SUFFIX,volcwaf.com
+DOMAIN-SUFFIX,dongchediapp.com
+DOMAIN-SUFFIX,dongchedi.com
+DOMAIN-SUFFIX,dcdapp.com
+DOMAIN-SUFFIX,dcarvod.com
+DOMAIN-SUFFIX,dcarstatic.com
+DOMAIN-SUFFIX,dcarlive.com
+DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,marscode.cn
 DOMAIN-SUFFIX,mcbaas.work
 DOMAIN-SUFFIX,mcdemo.show
@@ -586,8 +578,8 @@ DOMAIN-SUFFIX,tcwqqdy.guru
 DOMAIN-SUFFIX,trae.cn
 DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,yoma.cn
-DOMAIN-SUFFIX,volcvod.com
-DOMAIN-SUFFIX,volcvms.com
+DOMAIN-SUFFIX,dcarapi.com
+DOMAIN-SUFFIX,xflowedge.com
 DOMAIN-SUFFIX,volcanoarkshare.com
 DOMAIN-SUFFIX,volcdns.com
 DOMAIN-SUFFIX,aigc-cloud.com
@@ -850,20 +842,28 @@ DOMAIN-SUFFIX,volctraffic.com
 DOMAIN-SUFFIX,volctranscdn.com
 DOMAIN-SUFFIX,volcvehicle.com
 DOMAIN-SUFFIX,volcvideo.com
-DOMAIN-SUFFIX,byteplusapi.com.cn
-DOMAIN-SUFFIX,ibytepluses.com.cn
-DOMAIN-SUFFIX,gogokid.com.cn
-DOMAIN-SUFFIX,ai-guardrail.com.cn
-DOMAIN-SUFFIX,byteplus-api-test.com.cn
-DOMAIN-SUFFIX,okr.com.cn
-DOMAIN-SUFFIX,qishuimusic.com.cn
-DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,volcvms.com
+DOMAIN-SUFFIX,volcvod.com
+DOMAIN-SUFFIX,volcwaf.com
+DOMAIN-SUFFIX,volcwaf001.com
+DOMAIN-SUFFIX,volx.cn
+DOMAIN-SUFFIX,writingo-editor.com
+DOMAIN-SUFFIX,writingo.net
+DOMAIN-SUFFIX,xck31.cn
 DOMAIN-SUFFIX,marscode.com.cn
-DOMAIN-SUFFIX,ve-omnishield.com.cn
-DOMAIN-SUFFIX,byteplus-api.com.cn
+DOMAIN-SUFFIX,okr.com.cn
+DOMAIN-SUFFIX,ai-guardrail.com.cn
 DOMAIN-SUFFIX,bytepluses.com.cn
-DOMAIN-SUFFIX,qishui.com.cn
+DOMAIN-SUFFIX,byteplusapi.com.cn
 DOMAIN-SUFFIX,byteplusapi-test.com.cn
+DOMAIN-SUFFIX,byteplus-api.com.cn
+DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,ve-omnishield.com.cn
+DOMAIN-SUFFIX,gogokid.com.cn
+DOMAIN-SUFFIX,ibytepluses.com.cn
+DOMAIN-SUFFIX,qishui.com.cn
+DOMAIN-SUFFIX,qishuimusic.com.cn
+DOMAIN-SUFFIX,byteplus-api-test.com.cn
 DOMAIN-SUFFIX,larksuite.com.ttdns2.com
 DOMAIN-SUFFIX,larksuite.com.ttdns1.com
 DOMAIN-SUFFIX,byteglb.com
@@ -902,21 +902,13 @@ DOMAIN-SUFFIX,pglstatp-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shoppingads.cn
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
@@ -954,10 +946,18 @@ DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
 DOMAIN-SUFFIX,analytics.tiktok.com
-DOMAIN-SUFFIX,coze.com
-DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,cici.com
-DOMAIN-SUFFIX,ciciai.com
-DOMAIN-SUFFIX,ciciaicdn.com
-DOMAIN-SUFFIX,dola.com
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
