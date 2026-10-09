@@ -1,12 +1,10 @@
 # NAME: category-ai-chat-!cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-08 10:22:39
-# TOTAL: 5
-# DOMAIN: 5
+# UPDATED: 2026-10-09 10:41:23
+# TOTAL: 3
+# DOMAIN: 3
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openai.qualtrics.com
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com

@@ -1,18 +1,18 @@
 # NAME: category-speedtest
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-08 10:23:05
-# TOTAL: 77
+# UPDATED: 2026-10-09 10:42:22
+# TOTAL: 78
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 74
+# DOMAIN-SUFFIX: 75
 
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 DOMAIN-SUFFIX,pingtest.net
-DOMAIN-SUFFIX,fastspeedtest.com
+DOMAIN-SUFFIX,speedtest.ch
 DOMAIN-SUFFIX,librespeed.org
 DOMAIN-SUFFIX,linkmeter.net
 DOMAIN-SUFFIX,measurementlab.net
-DOMAIN-SUFFIX,meter.net
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,nperf.com
 DOMAIN-SUFFIX,openspeedtest.ru
 DOMAIN-SUFFIX,openspeedtest.com
@@ -23,11 +23,11 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedtest.co
 DOMAIN-SUFFIX,speedcheck.org
-DOMAIN-SUFFIX,speedof.me
 DOMAIN-SUFFIX,speedgeo.net
-DOMAIN-SUFFIX,testskorosti.ru
-DOMAIN-SUFFIX,speedtest.ch
-DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speedof.me
+DOMAIN-SUFFIX,fastspeedtest.com
+DOMAIN-SUFFIX,speedtest.xyz
+DOMAIN-SUFFIX,meter.net
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,speedtest.de
 DOMAIN-SUFFIX,ekahau.com
@@ -35,14 +35,15 @@ DOMAIN-SUFFIX,ekahau.cloud
 DOMAIN-SUFFIX,speedtest.im
 DOMAIN-SUFFIX,cellmaps.com
 DOMAIN-SUFFIX,cdnst.net
-DOMAIN-SUFFIX,speedtest.xyz
-DOMAIN-SUFFIX,testmyspeed.com
+DOMAIN-SUFFIX,wifiman.me
+DOMAIN-SUFFIX,testskorosti.ru
 DOMAIN-SUFFIX,speedtest.org
-DOMAIN-SUFFIX,testmy.net
+DOMAIN-SUFFIX,testmyspeed.com
 DOMAIN-SUFFIX,speedtest.ru
-DOMAIN-SUFFIX,speedtest24.ru
+DOMAIN-SUFFIX,testmy.net
 DOMAIN-SUFFIX,speedtest.su
 DOMAIN-SUFFIX,speedtest.uz
+DOMAIN-SUFFIX,speedtest24.ru
 DOMAIN-SUFFIX,speed2.hinet.net
 DOMAIN-SUFFIX,speedtest.co.za
 DOMAIN-SUFFIX,speedtest.volia.com
