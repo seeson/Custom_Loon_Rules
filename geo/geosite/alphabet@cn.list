@@ -1,7 +1,7 @@
 # NAME: alphabet@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-09 10:40:07
+# UPDATED: 2026-10-10 09:59:35
 # TOTAL: 126
 # DOMAIN: 114
 # DOMAIN-SUFFIX: 10
@@ -128,7 +128,7 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
+DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
 DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
 DOMAIN,redirector.c.play.google.com
-DOMAIN-SUFFIX,ggpht.cn
