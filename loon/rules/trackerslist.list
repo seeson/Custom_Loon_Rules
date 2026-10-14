@@ -10,8 +10,6 @@ DOMAIN,1.tracker.eu.org
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,announce.sktorrent.eu
-DOMAIN,archive.torrentonline.cc
-DOMAIN,asiatorrent.giize.com
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt-tracker.de
 DOMAIN,bt1.archive.org
@@ -41,6 +39,7 @@ DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
+DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
@@ -53,7 +52,6 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
-DOMAIN,tracker.adgk.net
 DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
@@ -99,6 +97,7 @@ DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yume-hatsuyuki.moe
+DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.itzmx.com
@@ -107,5 +106,6 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
+DOMAIN,whybother.torrentonline.cc
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
