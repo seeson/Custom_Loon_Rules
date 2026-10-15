@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:34 CST
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 44
-# TOTAL: 54
+# DOMAIN-SUFFIX: 47
+# TOTAL: 57
 
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutapi.com
+DOMAIN-SUFFIX,capcutapi.us
+DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ipstatp.com
