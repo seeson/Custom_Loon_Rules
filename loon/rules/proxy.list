@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 26457
-# TOTAL: 26551
+# DOMAIN-SUFFIX: 26460
+# TOTAL: 26554
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -14556,6 +14556,7 @@ DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,magestic.com
 DOMAIN-SUFFIX,magicalmirai.com
 DOMAIN-SUFFIX,magicmovies.com
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,mahajantech.com
 DOMAIN-SUFFIX,mahjongsoul.com
 DOMAIN-SUFFIX,maidonanews.jp
@@ -16027,6 +16028,7 @@ DOMAIN-SUFFIX,mt.lv
 DOMAIN-SUFFIX,mt0011.site
 DOMAIN-SUFFIX,mtao.fun
 DOMAIN-SUFFIX,mthruf.com
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -18875,6 +18877,7 @@ DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postini.com
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,posts.careerengine.us
 DOMAIN-SUFFIX,posty.kr
 DOMAIN-SUFFIX,postyourgirls.ws
