@@ -1,17 +1,18 @@
 # NAME: category-forums-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-19 08:37:54
-# TOTAL: 10
-# DOMAIN-SUFFIX: 10
+# UPDATED: 2026-10-20 09:23:09
+# TOTAL: 11
+# DOMAIN-SUFFIX: 11
 
 DOMAIN-SUFFIX,dtf.ru
+DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,opennet.dev
 DOMAIN-SUFFIX,opennet.ru
-DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,pikabu.ru
+DOMAIN-SUFFIX,prodota.ru
 DOMAIN-SUFFIX,tischenko.su
 DOMAIN-SUFFIX,vc.ru
+DOMAIN-SUFFIX,yap.ru
 DOMAIN-SUFFIX,yapfiles.ru
 DOMAIN-SUFFIX,yaplakal.com
-DOMAIN-SUFFIX,yap.ru

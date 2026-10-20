@@ -1,13 +1,13 @@
 # NAME: category-media-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-19 08:38:00
-# TOTAL: 141
-# DOMAIN-SUFFIX: 141
+# UPDATED: 2026-10-20 09:23:16
+# TOTAL: 148
+# DOMAIN-SUFFIX: 148
 
+DOMAIN-SUFFIX,rtde.live
+DOMAIN-SUFFIX,eurasiadaily.su
 DOMAIN-SUFFIX,72.ru
-DOMAIN-SUFFIX,amic.ru
-DOMAIN-SUFFIX,e1.ru
 DOMAIN-SUFFIX,ekat.ru
 DOMAIN-SUFFIX,gazeta.ru
 DOMAIN-SUFFIX,rambler.ru
@@ -16,7 +16,14 @@ DOMAIN-SUFFIX,eadaily.info
 DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
-DOMAIN-SUFFIX,eurasiadaily.su
+DOMAIN-SUFFIX,rtde.me
+DOMAIN-SUFFIX,azbyka.ru
+DOMAIN-SUFFIX,posledovania.ru
+DOMAIN-SUFFIX,pravoslavie.ru
+DOMAIN-SUFFIX,webtypikon.ru
+DOMAIN-SUFFIX,xn--80adfddrquddgz.xn--p1ai
+DOMAIN-SUFFIX,pravmir.com
+DOMAIN-SUFFIX,pravmir.ru
 DOMAIN-SUFFIX,1prime.ru
 DOMAIN-SUFFIX,sputnikimages.com
 DOMAIN-SUFFIX,rossiyasegodnya.com
@@ -34,6 +41,7 @@ DOMAIN-SUFFIX,jinrieluosi.cn
 DOMAIN-SUFFIX,sputnikmediabank.com
 DOMAIN-SUFFIX,sputniknews.com
 DOMAIN-SUFFIX,tok.media
+DOMAIN-SUFFIX,ruptly.video
 DOMAIN-SUFFIX,asiangooglenetwork.com
 DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rtnewsru.com
@@ -59,7 +67,7 @@ DOMAIN-SUFFIX,russieactuelle.fr
 DOMAIN-SUFFIX,de-rt.com
 DOMAIN-SUFFIX,de-rt.org
 DOMAIN-SUFFIX,de-rtnews.com
-DOMAIN-SUFFIX,de-rtnews.net
+DOMAIN-SUFFIX,rtde.media
 DOMAIN-SUFFIX,dert.online
 DOMAIN-SUFFIX,dert.site
 DOMAIN-SUFFIX,dert.tech
@@ -71,9 +79,9 @@ DOMAIN-SUFFIX,rtde.expert
 DOMAIN-SUFFIX,rtde.express
 DOMAIN-SUFFIX,rtde.info
 DOMAIN-SUFFIX,rtde.life
-DOMAIN-SUFFIX,rtde.live
-DOMAIN-SUFFIX,rtde.me
-DOMAIN-SUFFIX,rtde.media
+DOMAIN-SUFFIX,e1.ru
+DOMAIN-SUFFIX,amic.ru
+DOMAIN-SUFFIX,de-rtnews.net
 DOMAIN-SUFFIX,rtde.online
 DOMAIN-SUFFIX,rtde.org
 DOMAIN-SUFFIX,rtde.press
@@ -144,5 +152,4 @@ DOMAIN-SUFFIX,rtfestival.ru
 DOMAIN-SUFFIX,rt-school.online
 DOMAIN-SUFFIX,ruptly.agency
 DOMAIN-SUFFIX,ruptly.tv
-DOMAIN-SUFFIX,ruptly.video
 DOMAIN-SUFFIX,gazetarussa.com.br
