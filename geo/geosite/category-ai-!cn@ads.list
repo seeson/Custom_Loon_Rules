@@ -1,10 +1,11 @@
 # NAME: category-ai-!cn@ads
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-20 09:22:54
-# TOTAL: 3
-# DOMAIN: 3
+# UPDATED: 2026-10-21 09:09:26
+# TOTAL: 4
+# DOMAIN: 4
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,openai.qualtrics.com

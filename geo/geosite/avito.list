@@ -1,11 +1,13 @@
 # NAME: avito
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-20 09:22:31
-# TOTAL: 3
+# UPDATED: 2026-10-21 09:09:01
+# TOTAL: 5
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 2
+# DOMAIN-SUFFIX: 4
 
+DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+DOMAIN-SUFFIX,avito.tech
 DOMAIN,stats.avito.ru
