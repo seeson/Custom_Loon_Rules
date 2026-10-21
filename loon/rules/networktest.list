@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:31 CST
 # DOMAIN: 98
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1597
-# TOTAL: 1696
+# DOMAIN-SUFFIX: 1599
+# TOTAL: 1698
 
 DOMAIN,2ip.kamensky-lab.ru
 DOMAIN,2ip.telecom24.link
@@ -449,6 +449,8 @@ DOMAIN-SUFFIX,infoip.ca
 DOMAIN-SUFFIX,infoip.ro
 DOMAIN-SUFFIX,infosniper.net
 DOMAIN-SUFFIX,instantip.org
+DOMAIN-SUFFIX,internet.yandex.com
+DOMAIN-SUFFIX,internet.yandex.ru
 DOMAIN-SUFFIX,ip-1.com
 DOMAIN-SUFFIX,ip-1.ru
 DOMAIN-SUFFIX,ip-addr.es
