@@ -1,7 +1,7 @@
 # NAME: category-cas@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-21 09:09:31
+# UPDATED: 2026-10-22 09:06:35
 # TOTAL: 31
 # DOMAIN: 18
 # DOMAIN-SUFFIX: 13
@@ -22,6 +22,7 @@ DOMAIN,o.pki.goog
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
 DOMAIN,ocsp.pki.goog
+DOMAIN,www.entrust.cn
 DOMAIN-SUFFIX,oemssl.cn
 DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
 DOMAIN-SUFFIX,sectigochina.com
@@ -36,4 +37,3 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
-DOMAIN,www.entrust.cn
