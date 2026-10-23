@@ -1,15 +1,15 @@
 # NAME: category-media-ru-blocked
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-22 09:06:52
-# TOTAL: 131
-# DOMAIN-SUFFIX: 131
+# UPDATED: 2026-10-23 09:07:40
+# TOTAL: 132
+# DOMAIN-SUFFIX: 132
 
-DOMAIN-SUFFIX,ovdinfo.legal
-DOMAIN-SUFFIX,24.kg
+DOMAIN-SUFFIX,ozodi.org
+DOMAIN-SUFFIX,ovd.info
 DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,arbatmedia.kz
-DOMAIN-SUFFIX,ozodi.org
+DOMAIN-SUFFIX,arsvest.ru
 DOMAIN-SUFFIX,astra.press
 DOMAIN-SUFFIX,azathabar.com
 DOMAIN-SUFFIX,azattyq.org
@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,ekhokavkaza.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,euroradio.fm
 DOMAIN-SUFFIX,fn-volga.ru
-DOMAIN-SUFFIX,paperpaper.ru
+DOMAIN-SUFFIX,fonge.org
 DOMAIN-SUFFIX,fortanga.org
 DOMAIN-SUFFIX,freeburyatia.org
 DOMAIN-SUFFIX,freemedia.io
@@ -53,7 +53,7 @@ DOMAIN-SUFFIX,kedr.media
 DOMAIN-SUFFIX,korrespondent.net
 DOMAIN-SUFFIX,kovcheg.live
 DOMAIN-SUFFIX,krymr.com
-DOMAIN-SUFFIX,locals.md
+DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,zerkalo.io
 DOMAIN-SUFFIX,zasekin.ru
 DOMAIN-SUFFIX,zahav.ru
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,mediazona.ca
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,metla.press
 DOMAIN-SUFFIX,mignews.com
+DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,newizv.ru
 DOMAIN-SUFFIX,newtimes.ru
 DOMAIN-SUFFIX,novaya.media
@@ -68,10 +69,10 @@ DOMAIN-SUFFIX,novayagazeta.eu
 DOMAIN-SUFFIX,novayagazeta.ru
 DOMAIN-SUFFIX,openmedia.io
 DOMAIN-SUFFIX,opposition-news.com
-DOMAIN-SUFFIX,ovd.info
-DOMAIN-SUFFIX,arsvest.ru
+DOMAIN-SUFFIX,paperpaper.ru
 DOMAIN-SUFFIX,activatica.org
-DOMAIN-SUFFIX,fonge.org
+DOMAIN-SUFFIX,locals.md
+DOMAIN-SUFFIX,ovdinfo.legal
 DOMAIN-SUFFIX,poligon.media
 DOMAIN-SUFFIX,polit.ru
 DOMAIN-SUFFIX,wonderzine.com
