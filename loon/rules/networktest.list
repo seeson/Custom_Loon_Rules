@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:31 CST
 # DOMAIN: 98
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1846
-# TOTAL: 1945
+# DOMAIN-SUFFIX: 1839
+# TOTAL: 1938
 
 DOMAIN,2ip.kamensky-lab.ru
 DOMAIN,2ip.telecom24.link
@@ -1663,8 +1663,6 @@ DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
 DOMAIN-SUFFIX,test-ipv6.amelek.net
 DOMAIN-SUFFIX,test-ipv6.ams.vr.org
 DOMAIN-SUFFIX,test-ipv6.arauc.br
-DOMAIN-SUFFIX,test-ipv6.belwue.net
-DOMAIN-SUFFIX,test-ipv6.carnet.hr
 DOMAIN-SUFFIX,test-ipv6.cgates.lt
 DOMAIN-SUFFIX,test-ipv6.cl
 DOMAIN-SUFFIX,test-ipv6.coloradointerlink.net
@@ -1676,22 +1674,17 @@ DOMAIN-SUFFIX,test-ipv6.datafiber.nl
 DOMAIN-SUFFIX,test-ipv6.epic.network
 DOMAIN-SUFFIX,test-ipv6.fratec.net
 DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
-DOMAIN-SUFFIX,test-ipv6.go6.si
 DOMAIN-SUFFIX,test-ipv6.hu
 DOMAIN-SUFFIX,test-ipv6.in
-DOMAIN-SUFFIX,test-ipv6.is
 DOMAIN-SUFFIX,test-ipv6.iu13.net
 DOMAIN-SUFFIX,test-ipv6.jp
 DOMAIN-SUFFIX,test-ipv6.karsolink.com
-DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
 DOMAIN-SUFFIX,test-ipv6.nl
 DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
 DOMAIN-SUFFIX,test-ipv6.roedu.net
 DOMAIN-SUFFIX,test-ipv6.run
 DOMAIN-SUFFIX,test-ipv6.se
-DOMAIN-SUFFIX,test-ipv6.sin.vr.org
 DOMAIN-SUFFIX,test-ipv6.triplebit.us
-DOMAIN-SUFFIX,test-ipv6.ttk.ru
 DOMAIN-SUFFIX,test-velocidad.com
 DOMAIN-SUFFIX,test.eolo.it
 DOMAIN-SUFFIX,test.libreqos.com
