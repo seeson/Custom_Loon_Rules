@@ -1,14 +1,14 @@
 # NAME: category-companies@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-25 08:42:15
+# UPDATED: 2026-10-26 08:52:41
 # TOTAL: 6
 # DOMAIN: 4
 # DOMAIN-SUFFIX: 2
 
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
