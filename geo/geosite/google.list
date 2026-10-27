@@ -1,10 +1,10 @@
 # NAME: google
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-20 07:11:40
-# DOMAIN: 236
+# UPDATED: 2026-10-28 07:18:20
+# DOMAIN: 239
 # DOMAIN-SUFFIX: 839
-# TOTAL: 1075
+# TOTAL: 1078
 
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
@@ -29,6 +29,9 @@ DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
 DOMAIN,app-measurement.com
 DOMAIN,apps5.oingo.com
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
 DOMAIN,avail.googleflights.net
 DOMAIN,beacons.gcp.gvt2.com
 DOMAIN,beacons.gvt2.com
