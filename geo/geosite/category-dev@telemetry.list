@@ -1,12 +1,22 @@
 # NAME: category-dev@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-26 08:52:42
-# TOTAL: 4
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 2
+# UPDATED: 2026-10-27 09:45:22
+# TOTAL: 14
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 5
 
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,rt.services.visualstudio.com
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,update.crashlytics.com

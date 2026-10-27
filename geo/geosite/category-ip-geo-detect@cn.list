@@ -1,7 +1,7 @@
 # NAME: category-ip-geo-detect@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-26 08:52:49
+# UPDATED: 2026-10-27 09:45:35
 # TOTAL: 54
 # DOMAIN: 9
 # DOMAIN-SUFFIX: 45
@@ -49,7 +49,6 @@ DOMAIN-SUFFIX,seeip.cn
 DOMAIN-SUFFIX,todetect.cn
 DOMAIN-SUFFIX,whatip.cn
 DOMAIN-SUFFIX,whatismyip.com.cn
-DOMAIN-SUFFIX,testipv6.cn
 DOMAIN,ip.3322.net
 DOMAIN,ip.gymcalc.cn
 DOMAIN,ip.kutool.com
@@ -60,3 +59,4 @@ DOMAIN,ipv6test.wcode.net
 DOMAIN,mip.chinaz.com
 DOMAIN,v6test.ipgg.cn
 DOMAIN-SUFFIX,whois.pconline.com.cn
+DOMAIN-SUFFIX,testipv6.cn

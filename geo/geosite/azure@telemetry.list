@@ -1,0 +1,11 @@
+# NAME: azure@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:44:47
+# TOTAL: 3
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 1
+
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com

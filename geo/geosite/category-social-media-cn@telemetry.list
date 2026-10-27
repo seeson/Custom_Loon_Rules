@@ -1,0 +1,9 @@
+# NAME: category-social-media-cn@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:45:49
+# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

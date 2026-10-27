@@ -1,0 +1,9 @@
+# NAME: aliyun@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:44:24
+# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com

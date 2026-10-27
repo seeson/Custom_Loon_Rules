@@ -1,0 +1,11 @@
+# NAME: amap@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:44:27
+# TOTAL: 4
+# DOMAIN-SUFFIX: 4
+
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com

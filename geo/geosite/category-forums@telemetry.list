@@ -1,0 +1,8 @@
+# NAME: category-forums@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:45:30
+# TOTAL: 1
+# DOMAIN-SUFFIX: 1
+
+DOMAIN-SUFFIX,log.dzen.ru

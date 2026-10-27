@@ -1,7 +1,7 @@
 # NAME: category-flight-simulator
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-26 08:52:46
+# UPDATED: 2026-10-27 09:45:29
 # TOTAL: 79
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 77
@@ -57,6 +57,8 @@ DOMAIN-SUFFIX,x-plane.com
 DOMAIN-SUFFIX,x-plane.org
 DOMAIN-SUFFIX,xenviro.net
 DOMAIN-SUFFIX,xpilot-project.org
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,vatsim.me
 DOMAIN-SUFFIX,vatssa.com
 DOMAIN-SUFFIX,vatcan.ca
@@ -79,8 +81,6 @@ DOMAIN-SUFFIX,vat-apac.com
 DOMAIN-SUFFIX,vatsim.net
 DOMAIN-SUFFIX,vatsim.uk
 DOMAIN-SUFFIX,vatroc.net
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,hifisimtech.zendesk.com
 DOMAIN-SUFFIX,vatsim.com.br
 DOMAIN-SUFFIX,vatmex.com.mx

@@ -1,0 +1,12 @@
+# NAME: category-entertainment@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:45:28
+# TOTAL: 4
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 2
+
+DOMAIN,disney.my.sentry.io
+DOMAIN-SUFFIX,insights-collector.gog.com
+DOMAIN,sentry.ppy.sh
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

@@ -1,0 +1,9 @@
+# NAME: baidu@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:44:48
+# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,pimlog.baidu.com

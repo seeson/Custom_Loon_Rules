@@ -1,9 +1,12 @@
 # NAME: category-ai-chat-!cn@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-26 08:52:37
-# TOTAL: 2
-# DOMAIN: 2
+# UPDATED: 2026-10-27 09:45:13
+# TOTAL: 5
+# DOMAIN: 5
 
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io

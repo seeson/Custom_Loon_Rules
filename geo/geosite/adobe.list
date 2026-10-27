@@ -1,7 +1,7 @@
 # NAME: adobe
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-26 08:52:07
+# UPDATED: 2026-10-27 09:44:15
 # TOTAL: 260
 # DOMAIN: 134
 # DOMAIN-SUFFIX: 126
@@ -257,12 +257,12 @@ DOMAIN-SUFFIX,compresspdf.new
 DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,scene7.com
-DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,mageconf.com.ua
 DOMAIN-SUFFIX,marketo.co.uk
 DOMAIN-SUFFIX,adobedc.cn
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,tubemogul.com

@@ -1,10 +1,10 @@
 # NAME: azure
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-26 08:52:21
-# TOTAL: 151
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 149
+# UPDATED: 2026-10-27 09:44:47
+# TOTAL: 154
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 150
 
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,chinacloudapi.cn
 DOMAIN-SUFFIX,chinacloudapp.cn
 DOMAIN-SUFFIX,chinacloudsites.cn
 DOMAIN-SUFFIX,hdinsightservices.cn
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
 DOMAIN-SUFFIX,management-azure-devices.cn
 DOMAIN-SUFFIX,mcchcdn.com
@@ -146,6 +147,8 @@ DOMAIN-SUFFIX,azchcdnp.com
 DOMAIN-SUFFIX,azchcdnq.com
 DOMAIN-SUFFIX,azchcdnr.com
 DOMAIN-SUFFIX,azchcdns.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN-SUFFIX,azure-dns.cn
 DOMAIN-SUFFIX,azure-dns-1.cn
 DOMAIN-SUFFIX,azure-dns-2.cn

@@ -1,0 +1,12 @@
+# NAME: alphabet@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-10-27 09:44:25
+# TOTAL: 5
+# DOMAIN: 5
+
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,update.crashlytics.com
