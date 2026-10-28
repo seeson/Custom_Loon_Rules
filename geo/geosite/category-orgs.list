@@ -1,7 +1,7 @@
 # NAME: category-orgs
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-27 09:45:41
+# UPDATED: 2026-10-28 09:56:16
 # TOTAL: 131
 # DOMAIN: 10
 # DOMAIN-SUFFIX: 121
@@ -104,16 +104,6 @@ DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,vtsociety.org
-DOMAIN-SUFFIX,acousticbrainz.org
-DOMAIN-SUFFIX,bookbrainz.org
-DOMAIN-SUFFIX,coverartarchive.org
-DOMAIN-SUFFIX,critiquebrainz.org
-DOMAIN-SUFFIX,listenbrainz.org
-DOMAIN-SUFFIX,messybrainz.org
-DOMAIN-SUFFIX,metabrainz.org
-DOMAIN-SUFFIX,musicbrainz.org
-DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openstreetmap.com
 DOMAIN-SUFFIX,openstreetmap.net
@@ -129,11 +119,21 @@ DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
 DOMAIN-SUFFIX,creativecommons.engineering
 DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,emojipedia.org
 DOMAIN-SUFFIX,worldemojiawards.com
 DOMAIN-SUFFIX,worldemojiday.com
 DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,bookbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,messybrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
+DOMAIN-SUFFIX,csis.org
 DOMAIN,sentry.ppy.sh
