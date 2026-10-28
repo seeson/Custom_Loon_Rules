@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:33 CST
 # DOMAIN: 94
-# DOMAIN-SUFFIX: 26505
-# TOTAL: 26599
+# DOMAIN-SUFFIX: 26506
+# TOTAL: 26600
 
 DOMAIN,1password.drift.click
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -13092,6 +13092,7 @@ DOMAIN-SUFFIX,ius.io
 DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,ivacy.com
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivi.tv
 DOMAIN-SUFFIX,ivicdn.tv
 DOMAIN-SUFFIX,ivintageporn.com
 DOMAIN-SUFFIX,ivonblog.com
