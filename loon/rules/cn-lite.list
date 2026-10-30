@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 5602
-# TOTAL: 5631
+# DOMAIN-SUFFIX: 5605
+# TOTAL: 5634
 
 DOMAIN,analytics.strava.com
 DOMAIN,api.blipsandchitz.me
@@ -1860,6 +1860,9 @@ DOMAIN-SUFFIX,fanxian.com
 DOMAIN-SUFFIX,fanxingliveshow.com
 DOMAIN-SUFFIX,fastapi.net
 DOMAIN-SUFFIX,fastcdn.com
+DOMAIN-SUFFIX,favonis.cloud
+DOMAIN-SUFFIX,favonis.com
+DOMAIN-SUFFIX,favonis.space
 DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,fbank.com
 DOMAIN-SUFFIX,fcbox.com
