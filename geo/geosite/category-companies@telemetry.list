@@ -1,13 +1,11 @@
 # NAME: category-companies@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-29 10:01:02
+# UPDATED: 2026-10-30 10:16:52
 # TOTAL: 63
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 30
 
-DOMAIN-SUFFIX,analytics.vpc.duolingo.com
-DOMAIN-SUFFIX,metrics.duolingo.com
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN,sentry-ng.g.smailru.net
@@ -22,8 +20,36 @@ DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN,stats.vk-portal.net
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN-SUFFIX,adobestats.io
+DOMAIN-SUFFIX,applicationinsights.io
+DOMAIN-SUFFIX,applicationinsights.net
+DOMAIN-SUFFIX,aria.ms
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,telemetry.microsoft.com
+DOMAIN-SUFFIX,nelreports.net
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,rt.services.visualstudio.com
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -42,30 +68,4 @@ DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
-DOMAIN-SUFFIX,applicationinsights.io
-DOMAIN-SUFFIX,applicationinsights.net
-DOMAIN-SUFFIX,aria.ms
-DOMAIN-SUFFIX,data.microsoft.com
-DOMAIN-SUFFIX,telemetry.microsoft.com
-DOMAIN-SUFFIX,nelreports.net
-DOMAIN-SUFFIX,in.applicationinsights.azure.com
-DOMAIN,dc.applicationinsights.azure.com
-DOMAIN,live.applicationinsights.azure.com
-DOMAIN-SUFFIX,cafe.github.com
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN,copilot-telemetry-service.githubusercontent.com
-DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN,dc.services.visualstudio.com
-DOMAIN,rt.services.visualstudio.com
-DOMAIN-SUFFIX,browser.events.data.msn.cn
-DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN,sentry.hetzner.company
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
-DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
-DOMAIN,update.crashlytics.com
-DOMAIN-SUFFIX,adobestats.io
-DOMAIN,sentry.iptv.rt.ru
