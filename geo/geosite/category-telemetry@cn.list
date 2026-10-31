@@ -1,13 +1,13 @@
 # NAME: category-telemetry@cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-30 10:17:22
+# UPDATED: 2026-10-31 09:56:42
 # TOTAL: 5
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 2
 
-DOMAIN-SUFFIX,cloudflareinsights-cn.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,update.crashlytics.com
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
