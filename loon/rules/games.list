@@ -4,8 +4,8 @@
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 64
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 850
-# TOTAL: 918
+# DOMAIN-SUFFIX: 851
+# TOTAL: 919
 
 DOMAIN,a.ppy.sh
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
@@ -761,6 +761,7 @@ DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN-SUFFIX,steammobile.akamaized.net
 DOMAIN-SUFFIX,steamos.cloud
+DOMAIN-SUFFIX,steampeek.hu
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
 DOMAIN-SUFFIX,steampipe.akamaized.net
