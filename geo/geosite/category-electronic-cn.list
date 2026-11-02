@@ -1,15 +1,17 @@
 # NAME: category-electronic-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-31 09:56:25
-# TOTAL: 88
-# DOMAIN-SUFFIX: 88
+# UPDATED: 2026-11-02 09:59:17
+# TOTAL: 93
+# DOMAIN-SUFFIX: 93
 
-DOMAIN-SUFFIX,jlc-3dp.cn
-DOMAIN-SUFFIX,jlc.com
+DOMAIN-SUFFIX,wch-ic.com
+DOMAIN-SUFFIX,unisoc.com
+DOMAIN-SUFFIX,arrow.cn
 DOMAIN-SUFFIX,avermedia.cn
 DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,bouffalolab.com
+DOMAIN-SUFFIX,cambricon.com
 DOMAIN-SUFFIX,cxmt.com
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
@@ -26,15 +28,16 @@ DOMAIN-SUFFIX,unicloud.com
 DOMAIN-SUFFIX,uniscan.cn
 DOMAIN-SUFFIX,unisdigital.com
 DOMAIN-SUFFIX,unisemicon.com
-DOMAIN-SUFFIX,unisoc.com
+DOMAIN-SUFFIX,fa-part.com
 DOMAIN-SUFFIX,unispc.com
 DOMAIN-SUFFIX,uniswdc.com
-DOMAIN-SUFFIX,fa-part.com
+DOMAIN-SUFFIX,infineon.cn
 DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,quecmall.cn
 DOMAIN-SUFFIX,listenai.com
-DOMAIN-SUFFIX,nanocorechip.com
+DOMAIN-SUFFIX,mthreads.com
 DOMAIN-SUFFIX,ymtc.cn
+DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,rock-chips.com
 DOMAIN-SUFFIX,seeed.cn
 DOMAIN-SUFFIX,seeed.cc
@@ -44,12 +47,14 @@ DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,maixhub.com
+DOMAIN-SUFFIX,southchip.com
+DOMAIN-SUFFIX,t-head.cn
 DOMAIN-SUFFIX,szjlc.cn
 DOMAIN-SUFFIX,wch.cn
-DOMAIN-SUFFIX,wch-ic.com
-DOMAIN-SUFFIX,infineon.cn
-DOMAIN-SUFFIX,arrow.cn
-DOMAIN-SUFFIX,sz-jlc.com
+DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,allwinnertech.com
+DOMAIN-SUFFIX,jlc-jh.com
+DOMAIN-SUFFIX,jlc-3dp.cn
 DOMAIN-SUFFIX,jlc-3dp.com
 DOMAIN-SUFFIX,jlc-bbs.com
 DOMAIN-SUFFIX,jlc-cad.com
@@ -61,12 +66,12 @@ DOMAIN-SUFFIX,jlc-ecad.com
 DOMAIN-SUFFIX,jlc-erp.com
 DOMAIN-SUFFIX,jlc-fpc.com
 DOMAIN-SUFFIX,jlc-gw.com
-DOMAIN-SUFFIX,jlc-jh.com
+DOMAIN-SUFFIX,forface3d.com
 DOMAIN-SUFFIX,jlc-layout.com
 DOMAIN-SUFFIX,jlc-pcb.com
 DOMAIN-SUFFIX,jlc-smt.com
 DOMAIN-SUFFIX,jlc-zh.com
-DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,jlc.com
 DOMAIN-SUFFIX,jlc3dp.cn
 DOMAIN-SUFFIX,jlccad.com
 DOMAIN-SUFFIX,jlccam.com
@@ -85,7 +90,7 @@ DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
 DOMAIN-SUFFIX,oshwhub.com
 DOMAIN-SUFFIX,sanweihou.com
-DOMAIN-SUFFIX,analog.com
+DOMAIN-SUFFIX,sz-jlc.com
 DOMAIN-SUFFIX,ti.com.cn
 DOMAIN-SUFFIX,seeedstudio.com.cn
 DOMAIN-SUFFIX,seeed.com.cn

@@ -1,18 +1,13 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-10-31 09:56:24
+# UPDATED: 2026-11-02 09:59:15
 # TOTAL: 201
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 167
 
-DOMAIN-SUFFIX,drom.ru
-DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,apiauto.ru
-DOMAIN-SUFFIX,auto.ru
-DOMAIN-SUFFIX,autoru.me
-DOMAIN-SUFFIX,avto.ru
-DOMAIN-SUFFIX,cm.expert
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,ozonru.eu
 DOMAIN-SUFFIX,avito.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
@@ -51,7 +46,7 @@ DOMAIN-SUFFIX,ozon.li
 DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,o3.ru
-DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,drom.ru
 DOMAIN-SUFFIX,ozon.express
 DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
 DOMAIN-SUFFIX,ozoncard.ru
@@ -65,7 +60,7 @@ DOMAIN-SUFFIX,ozonrocet.by
 DOMAIN-SUFFIX,ozonroket.by
 DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
 DOMAIN-SUFFIX,ozonru.com
-DOMAIN-SUFFIX,ozonru.eu
+DOMAIN-SUFFIX,wbautomation.ru
 DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonsport.ru
 DOMAIN-SUFFIX,ozonstatus.ru
@@ -93,9 +88,9 @@ DOMAIN-SUFFIX,wb-sale.ru
 DOMAIN-SUFFIX,wb.am
 DOMAIN-SUFFIX,wb.kg
 DOMAIN-SUFFIX,wb.kz
-DOMAIN-SUFFIX,wb.ru
-DOMAIN-SUFFIX,wbautomation.ru
-DOMAIN-SUFFIX,wbautomation.tech
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,rdrom.ru
+DOMAIN-SUFFIX,cm.expert
 DOMAIN-SUFFIX,wbbasket.ru
 DOMAIN-SUFFIX,wbcontent.net
 DOMAIN-SUFFIX,wbdubna.ru
@@ -168,10 +163,15 @@ DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
-DOMAIN-SUFFIX,ozon.com.by
-DOMAIN-SUFFIX,ozonru.co.il
-DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,wbautomation.tech
+DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,ewisdom.us.kg
+DOMAIN-SUFFIX,ozonru.co.il
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,wildberries.co.il
 DOMAIN,stats.avito.ru
 DOMAIN,ad.ozone.ru
