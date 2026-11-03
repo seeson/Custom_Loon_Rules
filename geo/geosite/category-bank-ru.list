@@ -1,7 +1,7 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-02 09:59:10
+# UPDATED: 2026-11-03 11:47:35
 # TOTAL: 356
 # DOMAIN: 3
 # DOMAIN-SUFFIX: 353
@@ -9,7 +9,7 @@
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
 DOMAIN-SUFFIX,novikom.ru
-DOMAIN-SUFFIX,custody.ru
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
@@ -156,7 +156,7 @@ DOMAIN-SUFFIX,expobank.ru
 DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,finstarbank.ru
 DOMAIN-SUFFIX,forabank.ru
-DOMAIN-SUFFIX,spasibosberbank.ru
+DOMAIN-SUFFIX,tinkoff-edu.ru
 DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,gaztransbank.ru
 DOMAIN-SUFFIX,gebank.ru
@@ -200,9 +200,9 @@ DOMAIN-SUFFIX,rencredit.ru
 DOMAIN-SUFFIX,resocreditbank.ru
 DOMAIN-SUFFIX,rsb.ru
 DOMAIN-SUFFIX,rshb.ru
-DOMAIN-SUFFIX,spasibosb.ru
-DOMAIN-SUFFIX,spasibobonus.ru
-DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,prodcontest.com
+DOMAIN-SUFFIX,cu.ru
+DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,sbibankllc.ru
 DOMAIN-SUFFIX,sdm.ru
 DOMAIN-SUFFIX,seb.ru
@@ -215,7 +215,7 @@ DOMAIN-SUFFIX,slbank.ru
 DOMAIN-SUFFIX,smbcr-bank.ru
 DOMAIN-SUFFIX,sngb.ru
 DOMAIN-SUFFIX,socium-bank.ru
-DOMAIN-SUFFIX,spasibo.digital
+DOMAIN-SUFFIX,xn--h1ao.site
 DOMAIN-SUFFIX,svoi.ru
 DOMAIN-SUFFIX,tagbank.ru
 DOMAIN-SUFFIX,tatsotsbank.ru
@@ -234,8 +234,23 @@ DOMAIN-SUFFIX,vlb100.ru
 DOMAIN-SUFFIX,vlbb.ru
 DOMAIN-SUFFIX,wb-bank.ru
 DOMAIN-SUFFIX,ziraatbank.ru
+DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,sber-bank.by
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,sbrf.ru
+DOMAIN-SUFFIX,yookassa.ru
+DOMAIN-SUFFIX,yoomoney.ru
+DOMAIN-SUFFIX,cplsb.ru
+DOMAIN-SUFFIX,sberspasibo.ru
+DOMAIN-SUFFIX,spasibo.digital
+DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,spasibobonus.ru
+DOMAIN-SUFFIX,spasibosb.ru
+DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,novobank.ru
 DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,2w.ru
@@ -250,7 +265,7 @@ DOMAIN-SUFFIX,capitalt.ru
 DOMAIN-SUFFIX,cardsmobile.ru
 DOMAIN-SUFFIX,cdn-tinkoff.ru
 DOMAIN-SUFFIX,codeseason.by
-DOMAIN-SUFFIX,novobank.ru
+DOMAIN-SUFFIX,custody.ru
 DOMAIN-SUFFIX,data-tscbank.ru
 DOMAIN-SUFFIX,deltacredit.ru
 DOMAIN-SUFFIX,depository.ru
@@ -339,21 +354,6 @@ DOMAIN-SUFFIX,unidraw.io
 DOMAIN-SUFFIX,xn--90aifd0az.shop
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
-DOMAIN-SUFFIX,xn--h1ao.site
-DOMAIN-SUFFIX,centraluniversity.ru
-DOMAIN-SUFFIX,cu.ru
-DOMAIN-SUFFIX,prodcontest.com
-DOMAIN-SUFFIX,tinkoff-edu.ru
-DOMAIN-SUFFIX,bps-sberbank.by
-DOMAIN-SUFFIX,sber-bank.by
-DOMAIN-SUFFIX,sber.ru
-DOMAIN-SUFFIX,sberbank.com
-DOMAIN-SUFFIX,sberbank.ru
-DOMAIN-SUFFIX,sbrf.ru
-DOMAIN-SUFFIX,yookassa.ru
-DOMAIN-SUFFIX,yoomoney.ru
-DOMAIN-SUFFIX,cplsb.ru
-DOMAIN-SUFFIX,sberspasibo.ru
 DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN-SUFFIX,ru.ccb.com
 DOMAIN-SUFFIX,finance.ozon.ru
