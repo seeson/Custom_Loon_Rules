@@ -1,12 +1,12 @@
 # NAME: category-pt
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-03 11:48:03
+# UPDATED: 2026-11-04 10:50:35
 # TOTAL: 126
 # DOMAIN-SUFFIX: 126
 
 DOMAIN-SUFFIX,jptv.club
-DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,hdarea.club
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,ccfbits.org
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,greatposterwall.com
 DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,hdatmos.club
 DOMAIN-SUFFIX,hdcity.city
 DOMAIN-SUFFIX,hddolby.com
@@ -57,22 +57,22 @@ DOMAIN-SUFFIX,blutopia.cc
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,digitalcore.club
-DOMAIN-SUFFIX,exoticaz.to
+DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,hdbits.org
-DOMAIN-SUFFIX,iptorrents.com
-DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,52dic.vip
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,morethantv.me
+DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,redacted.sh
 DOMAIN-SUFFIX,sportscult.org
 DOMAIN-SUFFIX,superbits.org
 DOMAIN-SUFFIX,uhdbits.org
-DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
@@ -81,16 +81,16 @@ DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,chddiy.xyz
 DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,rainbowisland.co
-DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,52dic.vip
 DOMAIN-SUFFIX,hdkylin.top
 DOMAIN-SUFFIX,hdkylin.work
-DOMAIN-SUFFIX,morethantv.me
+DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,ultrahd.net
 DOMAIN-SUFFIX,ptcafe.club
 DOMAIN-SUFFIX,zmpt.cc
-DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,wintersakura.net
 DOMAIN-SUFFIX,pandapt.net
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,icc2022.com
@@ -109,8 +109,8 @@ DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,hdzone.me
 DOMAIN-SUFFIX,pt.soulvoice.club
 DOMAIN-SUFFIX,pt.btschool.club
-DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,pt.hdupt.com
+DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,neu6.edu.cn
 DOMAIN-SUFFIX,pt.upxin.net
 DOMAIN-SUFFIX,pt.0ff.cc

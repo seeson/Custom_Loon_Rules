@@ -1,7 +1,7 @@
 # NAME: category-entertainment-cn@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-03 11:47:47
+# UPDATED: 2026-11-04 10:50:21
 # TOTAL: 18
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 7
@@ -17,10 +17,10 @@ DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
 DOMAIN,apilog-web.acfun.cn
+DOMAIN-SUFFIX,shuqistat.com
+DOMAIN-SUFFIX,log.hunantv.com
+DOMAIN-SUFFIX,log.v2.hunantv.com
 DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,stat.y.qq.com
-DOMAIN-SUFFIX,log.hunantv.com
-DOMAIN-SUFFIX,log.v2.hunantv.com
 DOMAIN-SUFFIX,log-upload.mihoyo.com
-DOMAIN-SUFFIX,shuqistat.com

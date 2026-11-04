@@ -1,9 +1,9 @@
 # NAME: category-emby
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-03 11:47:45
-# TOTAL: 90
-# DOMAIN: 59
+# UPDATED: 2026-11-04 10:50:20
+# TOTAL: 83
+# DOMAIN: 52
 # DOMAIN-SUFFIX: 31
 
 DOMAIN,plex.llon.net
@@ -17,6 +17,7 @@ DOMAIN,embyserver.ga
 DOMAIN,emby.prprcloud.com
 DOMAIN,emby.nyancat.net
 DOMAIN,emby.plusmedia.site
+DOMAIN,emby-sg.plusmedia.site
 DOMAIN,emby-cf.plusmedia.site
 DOMAIN,emby.xeton.dev
 DOMAIN,jellyfin.xeton.dev
@@ -39,14 +40,6 @@ DOMAIN,agasg.odysseyplus.site
 DOMAIN,ru.odysseyplus.site
 DOMAIN,line.emby.men
 DOMAIN,emby.run
-DOMAIN,emby.plusmedia.site
-DOMAIN,emby-sg.plusmedia.site
-DOMAIN,emby-cf.plusmedia.site
-DOMAIN,emby.xeton.dev
-DOMAIN,jellyfin.xeton.dev
-DOMAIN,movie.xeton.dev
-DOMAIN,servers.xeton.dev
-DOMAIN,embyserver.ga
 DOMAIN,jmsooo.com
 DOMAIN,cf.jmsooo.com
 DOMAIN,hk.jmsooo.com
@@ -65,34 +58,34 @@ DOMAIN,play.charontv.com
 DOMAIN,emby.p-p.men
 DOMAIN,emby.aiyowei.ml
 DOMAIN,cc.ccemby.tk
-DOMAIN-SUFFIX,pololine.ml
-DOMAIN-SUFFIX,nvidia.rip
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,embyplus.club
 DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,blueseacdn.com
-DOMAIN-SUFFIX,yunti.online
-DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,texon.fans
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,123456.al
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,hongxingyunmovie.vip
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,emby.ml
-DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,gfwemby.org
+DOMAIN-SUFFIX,pololine.ml
 DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,feverss.cloud
-DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,nvidia.rip
 DOMAIN-SUFFIX,media-1.co.uk
 DOMAIN-SUFFIX,sptv.ii00.cc
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,cn-music.mefun.vip
-DOMAIN-SUFFIX,stream.synn.cc
-DOMAIN-SUFFIX,emby1.69yun69.com
 DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,emby1.69yun69.com
+DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,server2.cn2gias.uk
 DOMAIN-SUFFIX,singularity.deja-vu.beauty
