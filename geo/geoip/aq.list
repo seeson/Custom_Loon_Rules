@@ -1,9 +1,9 @@
 # NAME: aq
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-04 10:50:44
-# TOTAL: 800
-# IP-CIDR: 800
+# UPDATED: 2026-11-05 10:59:33
+# TOTAL: 799
+# IP-CIDR: 799
 
 IP-CIDR,2.27.26.128/27
 IP-CIDR,2.27.27.128/27
@@ -797,7 +797,6 @@ IP-CIDR,2a0e:97c0:7c3::/48
 IP-CIDR,2a0e:aa07:e221::/48
 IP-CIDR,2a0e:b107:198::/48
 IP-CIDR,2a0e:b107:baf::/48
-IP-CIDR,2a0f:1cc5:1ff0::/48
 IP-CIDR,2a0f:85c1:8d0::/48
 IP-CIDR,2a14:7c0:4ba0::/43
 IP-CIDR,2a14:7c0:4bc0::/43
