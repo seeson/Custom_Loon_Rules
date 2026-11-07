@@ -1,34 +1,46 @@
 # NAME: category-automobile-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-06 10:58:51
-# TOTAL: 39
-# DOMAIN-SUFFIX: 39
+# UPDATED: 2026-11-07 10:28:55
+# TOTAL: 51
+# DOMAIN-SUFFIX: 51
 
-DOMAIN-SUFFIX,guazistatic.com
-DOMAIN-SUFFIX,gzurl.cn
-DOMAIN-SUFFIX,dongchediapp.com
+DOMAIN-SUFFIX,nio.com
+DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,autohome.tel
 DOMAIN-SUFFIX,autoimg.cn
-DOMAIN-SUFFIX,dongchedi.com
+DOMAIN-SUFFIX,jiakaobaodian.com
+DOMAIN-SUFFIX,kakamobi.com
+DOMAIN-SUFFIX,maiche.com
+DOMAIN-SUFFIX,mc-cdn.cn
+DOMAIN-SUFFIX,mucang.cn
 DOMAIN-SUFFIX,byd.com
+DOMAIN-SUFFIX,chery.cn
+DOMAIN-SUFFIX,faw.cn
 DOMAIN-SUFFIX,geely.com
-DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,lixiang.com
+DOMAIN-SUFFIX,seres.cn
+DOMAIN-SUFFIX,dongchediapp.com
+DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,xiaopeng.com
+DOMAIN-SUFFIX,lynkco-test.com
+DOMAIN-SUFFIX,lynkco.com
+DOMAIN-SUFFIX,dcdapp.com
+DOMAIN-SUFFIX,dcarvod.com
+DOMAIN-SUFFIX,dcarstatic.com
 DOMAIN-SUFFIX,nio.cn
-DOMAIN-SUFFIX,nio.com
-DOMAIN-SUFFIX,niohome.com
-DOMAIN-SUFFIX,zeekrgroup.com
-DOMAIN-SUFFIX,zeekrlife.com
-DOMAIN-SUFFIX,guazi.net
-DOMAIN-SUFFIX,guazi.com
 DOMAIN-SUFFIX,autohome.com
 DOMAIN-SUFFIX,12365auto.com
 DOMAIN-SUFFIX,wkzuche.com
+DOMAIN-SUFFIX,zeekrlife.com
+DOMAIN-SUFFIX,gzurl.cn
+DOMAIN-SUFFIX,guazi.com
+DOMAIN-SUFFIX,guazistatic.com
+DOMAIN-SUFFIX,guazi.net
+DOMAIN-SUFFIX,1hai.cn
 DOMAIN-SUFFIX,izuche.com
 DOMAIN-SUFFIX,izuchebao.com
-DOMAIN-SUFFIX,1hai.cn
+DOMAIN-SUFFIX,zeekrgroup.com
 DOMAIN-SUFFIX,zuche.com
 DOMAIN-SUFFIX,zuchecdn.com
 DOMAIN-SUFFIX,bitauto.com
@@ -37,10 +49,10 @@ DOMAIN-SUFFIX,cheyisou.com
 DOMAIN-SUFFIX,yiche.com
 DOMAIN-SUFFIX,yccdn.com
 DOMAIN-SUFFIX,dcarapi.com
-DOMAIN-SUFFIX,dcarimg.com
+DOMAIN-SUFFIX,niohome.com
 DOMAIN-SUFFIX,dcarlive.com
-DOMAIN-SUFFIX,dcarstatic.com
-DOMAIN-SUFFIX,dcarvod.com
+DOMAIN-SUFFIX,lynkco.com.cn
+DOMAIN-SUFFIX,jac.com.cn
 DOMAIN-SUFFIX,gwm.com.cn
 DOMAIN-SUFFIX,autoimg.com.cn
 DOMAIN-SUFFIX,autohome.com.cn

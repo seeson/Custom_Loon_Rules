@@ -1,12 +1,13 @@
 # NAME: category-bank-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-06 10:58:51
-# TOTAL: 59
-# DOMAIN-SUFFIX: 59
+# UPDATED: 2026-11-07 10:28:55
+# TOTAL: 60
+# DOMAIN-SUFFIX: 60
 
-DOMAIN-SUFFIX,kcbebank.com
-DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,shrbank.com
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bankcomm.cn
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,unionpaysecure.com
 DOMAIN-SUFFIX,unionpay.net
@@ -18,16 +19,16 @@ DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cup62.cn
-DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,95508.com
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,chinaunionpay.com
-DOMAIN-SUFFIX,shrbank.com
-DOMAIN-SUFFIX,chinaums.com
-DOMAIN-SUFFIX,whccb.com
-DOMAIN-SUFFIX,bankcomm.cn
-DOMAIN-SUFFIX,chinaunionpay.net
 DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,chinaums.com
+DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,whccb.com
+DOMAIN-SUFFIX,kcbebank.com
+DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,ms-bank.cn
 DOMAIN-SUFFIX,tctpwebankcdn.net
 DOMAIN-SUFFIX,wbweilicai.com

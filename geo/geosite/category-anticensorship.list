@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-06 10:58:50
+# UPDATED: 2026-11-07 10:28:54
 # TOTAL: 126
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 120
@@ -72,32 +72,19 @@ DOMAIN-SUFFIX,wgtunnel.com
 DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,vpnrouter.homes
 DOMAIN-SUFFIX,ahmia.fi
-DOMAIN-SUFFIX,epicbrowser.com
+DOMAIN-SUFFIX,softether-download.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wiresock.net
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,ceno.app
+DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,epicbrowser.com
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
-DOMAIN-SUFFIX,applecensorship.com
-DOMAIN-SUFFIX,freebrowser.org
-DOMAIN-SUFFIX,freewechat.com
-DOMAIN-SUFFIX,freeweibo.com
-DOMAIN-SUFFIX,freezhihu.org
-DOMAIN-SUFFIX,googlecensorship.org
-DOMAIN-SUFFIX,googleplaycensorship.com
-DOMAIN-SUFFIX,greatfire.org
-DOMAIN-SUFFIX,greatfirevpn.com
-DOMAIN-SUFFIX,pao-pao.net
-DOMAIN-SUFFIX,wikiunblocked.org
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,remna.st
@@ -115,14 +102,27 @@ DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ipfs.tech
-DOMAIN-SUFFIX,ceno.app
-DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,paskoocheh.com
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,freebrowser.org
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,v2ray.cool
+DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,2dust.link
+DOMAIN-SUFFIX,softether.org
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,freeweibo.com
+DOMAIN-SUFFIX,freezhihu.org
+DOMAIN-SUFFIX,googlecensorship.org
+DOMAIN-SUFFIX,googleplaycensorship.com
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN-SUFFIX,greatfirevpn.com
+DOMAIN-SUFFIX,pao-pao.net
+DOMAIN-SUFFIX,wikiunblocked.org
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.fleek.co
