@@ -1,0 +1,9 @@
+# NAME: anthropic@telemetry
+# AUTHOR: SeesoN
+# REPO: https://github.com/seeson/Custom_Loon_Rules
+# UPDATED: 2026-11-08 09:56:57
+# TOTAL: 2
+# DOMAIN: 2
+
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io
