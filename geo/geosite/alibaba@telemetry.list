@@ -1,7 +1,7 @@
 # NAME: alibaba@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-08 09:56:48
+# UPDATED: 2026-11-09 10:13:28
 # TOTAL: 47
 # DOMAIN-SUFFIX: 47
 
@@ -29,19 +29,7 @@ DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
-DOMAIN-SUFFIX,adashx.ut.ele.me
-DOMAIN-SUFFIX,h-adashx.ut.ele.me
-DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,shuqistat.com
-DOMAIN-SUFFIX,alog.umeng.com
-DOMAIN-SUFFIX,alog.umengcloud.com
-DOMAIN-SUFFIX,alogs.umeng.com
-DOMAIN-SUFFIX,alogus.umeng.com
-DOMAIN-SUFFIX,cnlogs.umeng.com
-DOMAIN-SUFFIX,cnlogs.umengcloud.com
-DOMAIN-SUFFIX,plbslog.umeng.com
-DOMAIN-SUFFIX,ulogs.umeng.com
-DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,adashx.ut.youku.com
 DOMAIN-SUFFIX,e.stat.ykimg.com
 DOMAIN-SUFFIX,h-adashx.ut.youku.com
@@ -52,3 +40,15 @@ DOMAIN-SUFFIX,s-adashx.ut.youku.com
 DOMAIN-SUFFIX,stat.youku.com
 DOMAIN-SUFFIX,statis.api.3g.youku.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+DOMAIN-SUFFIX,adashx.ut.ele.me
+DOMAIN-SUFFIX,h-adashx.ut.ele.me
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com

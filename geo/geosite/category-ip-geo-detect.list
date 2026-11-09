@@ -1,7 +1,7 @@
 # NAME: category-ip-geo-detect
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-08 09:58:01
+# UPDATED: 2026-11-09 10:14:31
 # TOTAL: 1682
 # DOMAIN: 105
 # DOMAIN-SUFFIX: 1577
@@ -192,8 +192,8 @@ DOMAIN-SUFFIX,checkip.co
 DOMAIN-SUFFIX,checkip.com
 DOMAIN-SUFFIX,checkip.de
 DOMAIN-SUFFIX,checkip.dev
+DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,test-ipv6.in
-DOMAIN-SUFFIX,test-ipv6.jp
 DOMAIN-SUFFIX,checkip.gr
 DOMAIN-SUFFIX,checkip.hk
 DOMAIN-SUFFIX,checkip.in
@@ -261,9 +261,9 @@ DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,dnsleak.dev
 DOMAIN-SUFFIX,dnsleak.net
+DOMAIN-SUFFIX,test-ipv6.jp
 DOMAIN-SUFFIX,test-ipv6.cz
 DOMAIN-SUFFIX,test-ipv6.nl
-DOMAIN-SUFFIX,test-ipv6.run
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,dnsleaktest.org
 DOMAIN-SUFFIX,echoip.de
@@ -311,7 +311,7 @@ DOMAIN-SUFFIX,freeipapi.com
 DOMAIN-SUFFIX,fullip.info
 DOMAIN-SUFFIX,geodatatool.com
 DOMAIN-SUFFIX,geoip.cc
-DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6.run
 DOMAIN-SUFFIX,geoip.com
 DOMAIN-SUFFIX,geoip.hu
 DOMAIN-SUFFIX,geoip.online
@@ -363,7 +363,7 @@ DOMAIN-SUFFIX,getmyip.pro
 DOMAIN-SUFFIX,getmyip.se
 DOMAIN-SUFFIX,getmyip.sh
 DOMAIN-SUFFIX,getmyip.uk
-DOMAIN-SUFFIX,test-ipv6.se
+DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,getmyipaddress.io
 DOMAIN-SUFFIX,getmyipaddress.org
 DOMAIN-SUFFIX,grabify.link
@@ -503,8 +503,8 @@ DOMAIN-SUFFIX,ip-trap.com
 DOMAIN-SUFFIX,ip.app
 DOMAIN-SUFFIX,ip.cc
 DOMAIN-SUFFIX,ip.ci
+DOMAIN-SUFFIX,test-ipv6.se
 DOMAIN-SUFFIX,test-ipv6.cl
-DOMAIN-SUFFIX,ip6.ro
 DOMAIN-SUFFIX,ip.fm
 DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,ip.guide
@@ -513,7 +513,7 @@ DOMAIN-SUFFIX,ip.im
 DOMAIN-SUFFIX,ip.info
 DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,ip.net
-DOMAIN-SUFFIX,testipv6.be
+DOMAIN-SUFFIX,ip6.ro
 DOMAIN-SUFFIX,ip.network
 DOMAIN-SUFFIX,ip.pn
 DOMAIN-SUFFIX,ip.sb
@@ -601,7 +601,7 @@ DOMAIN-SUFFIX,ipaddress-lookup.com
 DOMAIN-SUFFIX,ipaddress.ai
 DOMAIN-SUFFIX,ipaddress.be
 DOMAIN-SUFFIX,ipaddress.ca
-DOMAIN-SUFFIX,testipv6.ca
+DOMAIN-SUFFIX,testipv6.be
 DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,ipaddress.dev
 DOMAIN-SUFFIX,ipaddress.es
@@ -622,7 +622,7 @@ DOMAIN-SUFFIX,ipaddress.si
 DOMAIN-SUFFIX,ipaddress.to
 DOMAIN-SUFFIX,ipaddress.uk
 DOMAIN-SUFFIX,ipaddress.you
-DOMAIN-SUFFIX,testipv6.de
+DOMAIN-SUFFIX,testipv6.ca
 DOMAIN-SUFFIX,ipaddressdetails.com
 DOMAIN-SUFFIX,ipaddresslocation.net
 DOMAIN-SUFFIX,ipaddresslocation.org
@@ -663,7 +663,7 @@ DOMAIN-SUFFIX,ipchaxun.com
 DOMAIN-SUFFIX,ipchaxun.org
 DOMAIN-SUFFIX,ipcheck.be
 DOMAIN-SUFFIX,ipcheck.cc
-DOMAIN-SUFFIX,testipv6.net
+DOMAIN-SUFFIX,testipv6.de
 DOMAIN-SUFFIX,ipcheck.dev
 DOMAIN-SUFFIX,ipcheck.fyi
 DOMAIN-SUFFIX,ipcheck.gr
@@ -841,7 +841,7 @@ DOMAIN-SUFFIX,iplocate.io
 DOMAIN-SUFFIX,iplocate.net
 DOMAIN-SUFFIX,iplocate.org
 DOMAIN-SUFFIX,iplocate.ru
-DOMAIN-SUFFIX,sixte.st
+DOMAIN-SUFFIX,testipv6.net
 DOMAIN-SUFFIX,iplocation.com
 DOMAIN-SUFFIX,iplocation.info
 DOMAIN-SUFFIX,iplocation.io
@@ -908,12 +908,12 @@ DOMAIN-SUFFIX,ipqs.org
 DOMAIN-SUFFIX,ipqs.xyz
 DOMAIN-SUFFIX,ipqualityscore.com
 DOMAIN-SUFFIX,ipquery.io
-DOMAIN-SUFFIX,ipv6ready.me
+DOMAIN-SUFFIX,sixte.st
 DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,iprisk.ai
 DOMAIN-SUFFIX,iprisk.top
 DOMAIN-SUFFIX,iproyal.com
-DOMAIN-SUFFIX,ipv6.uz
+DOMAIN-SUFFIX,ipv6ready.me
 DOMAIN-SUFFIX,ipscan.me
 DOMAIN-SUFFIX,ipscan.tr
 DOMAIN-SUFFIX,ipscaner.com
@@ -993,7 +993,7 @@ DOMAIN-SUFFIX,kiemtraip.vn
 DOMAIN-SUFFIX,l2.io
 DOMAIN-SUFFIX,leakcentral.xyz
 DOMAIN-SUFFIX,localizaip.com
-DOMAIN-SUFFIX,test-ipv6.hu
+DOMAIN-SUFFIX,ipv6.uz
 DOMAIN-SUFFIX,location-with-ip.com
 DOMAIN-SUFFIX,lookip.io
 DOMAIN-SUFFIX,lookip.net
@@ -1010,7 +1010,7 @@ DOMAIN-SUFFIX,meip.co
 DOMAIN-SUFFIX,meip.eu
 DOMAIN-SUFFIX,meipaddress.com
 DOMAIN-SUFFIX,meu-ip.pt
-DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,test-ipv6.hu
 DOMAIN-SUFFIX,meuip.app
 DOMAIN-SUFFIX,meuip.co
 DOMAIN-SUFFIX,meuip.com
@@ -1569,7 +1569,7 @@ DOMAIN-SUFFIX,showmyip.co.uk
 DOMAIN-SUFFIX,showip.com.tw
 DOMAIN-SUFFIX,sabermeuip.com.br
 DOMAIN-SUFFIX,queip.com.br
-DOMAIN-SUFFIX,test-ipv6.arauc.br
+DOMAIN-SUFFIX,address.co.il
 DOMAIN-SUFFIX,mylocation.co.kr
 DOMAIN-SUFFIX,myipnumber.com.br
 DOMAIN-SUFFIX,myip.com.ua
@@ -1605,7 +1605,7 @@ DOMAIN-SUFFIX,iplocation.co.uk
 DOMAIN-SUFFIX,ipcheck.com.br
 DOMAIN-SUFFIX,ipaddresscheck.co.uk
 DOMAIN-SUFFIX,ipaddress.co.uk
-DOMAIN-SUFFIX,test.version6.ru
+DOMAIN-SUFFIX,test-ipv6.arauc.br
 DOMAIN-SUFFIX,ip.etc.br
 DOMAIN-SUFFIX,ip.com.ro
 DOMAIN-SUFFIX,getmyipaddress.co.uk
@@ -1613,8 +1613,7 @@ DOMAIN-SUFFIX,geoip.co.uk
 DOMAIN-SUFFIX,dnsleaktest.co.uk
 DOMAIN-SUFFIX,checkip.com.vn
 DOMAIN-SUFFIX,checkip.com.br
-DOMAIN-SUFFIX,test-ipv6.triplebit.us
-DOMAIN-SUFFIX,address.co.il
+DOMAIN-SUFFIX,test.version6.ru
 DOMAIN-SUFFIX,test-ipv6.cgates.lt
 DOMAIN-SUFFIX,test-ipv6.roedu.net
 DOMAIN-SUFFIX,test-ipv6.fratec.net
@@ -1627,12 +1626,13 @@ DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
 DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
 DOMAIN-SUFFIX,test-ipv6.amelek.net
 DOMAIN-SUFFIX,test-ipv6.coloradointerlink.net
+DOMAIN-SUFFIX,test-ipv6.triplebit.us
 DOMAIN-SUFFIX,ipv4.internet.yandex.net
 DOMAIN-SUFFIX,geoip.noc.gov.ru
-DOMAIN-SUFFIX,ipv6.internet.yandex.net
 DOMAIN-SUFFIX,test-ipv6.ams.vr.org
 DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
 DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
+DOMAIN-SUFFIX,ipv6.internet.yandex.net
 DOMAIN-SUFFIX,chaip.me
 DOMAIN-SUFFIX,check-host.cn
 DOMAIN-SUFFIX,cip.cc
@@ -1686,5 +1686,5 @@ DOMAIN,ipv6test.wcode.net
 DOMAIN,mip.chinaz.com
 DOMAIN,v6test.ipgg.cn
 DOMAIN-SUFFIX,whois.pconline.com.cn
-DOMAIN-SUFFIX,myip.la
 DOMAIN-SUFFIX,testipv6.cn
+DOMAIN-SUFFIX,myip.la
