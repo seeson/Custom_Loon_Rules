@@ -1,28 +1,17 @@
 # NAME: category-ru@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-10 12:27:00
+# UPDATED: 2026-11-11 10:24:56
 # TOTAL: 51
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 18
 
+DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.x5.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
-DOMAIN,sentry.iptv.rt.ru
-DOMAIN,sentry.ozon.ru
-DOMAIN,analytics-stage.wildberries.ru
-DOMAIN,analytics.wildberries.ru
-DOMAIN,marketplace-sentry.wb.ru
-DOMAIN,sentry.wb.ru
-DOMAIN,web-analytics.wildberries.ru
-DOMAIN,stats.avito.ru
-DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,metrics.21-school.ru
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN,sentry.x5.ru
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN,sentry-ng.g.smailru.net
@@ -35,8 +24,8 @@ DOMAIN,stats.dahlmessenger.com
 DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
-DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN,stats.vk-portal.net
+DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -55,5 +44,16 @@ DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
-DOMAIN,metrika.kontur.ru
-DOMAIN,sentry.kontur.host
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
+DOMAIN,stats.avito.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN-SUFFIX,clickstream.sberbank.ru

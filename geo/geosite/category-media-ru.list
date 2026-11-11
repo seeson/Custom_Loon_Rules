@@ -1,13 +1,13 @@
 # NAME: category-media-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-10 12:26:50
+# UPDATED: 2026-11-11 10:24:51
 # TOTAL: 148
 # DOMAIN-SUFFIX: 148
 
+DOMAIN-SUFFIX,rtde.live
+DOMAIN-SUFFIX,eurasiadaily.su
 DOMAIN-SUFFIX,72.ru
-DOMAIN-SUFFIX,amic.ru
-DOMAIN-SUFFIX,e1.ru
 DOMAIN-SUFFIX,ekat.ru
 DOMAIN-SUFFIX,gazeta.ru
 DOMAIN-SUFFIX,rambler.ru
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,eadaily.info
 DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
-DOMAIN-SUFFIX,eurasiadaily.su
+DOMAIN-SUFFIX,rtde.me
 DOMAIN-SUFFIX,azbyka.ru
 DOMAIN-SUFFIX,posledovania.ru
 DOMAIN-SUFFIX,pravoslavie.ru
@@ -24,6 +24,24 @@ DOMAIN-SUFFIX,webtypikon.ru
 DOMAIN-SUFFIX,xn--80adfddrquddgz.xn--p1ai
 DOMAIN-SUFFIX,pravmir.com
 DOMAIN-SUFFIX,pravmir.ru
+DOMAIN-SUFFIX,1prime.ru
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
+DOMAIN-SUFFIX,arctic.ru
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+DOMAIN-SUFFIX,inosmi.ru
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,ukraina.ru
+DOMAIN-SUFFIX,ria.ru
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+DOMAIN-SUFFIX,tok.media
+DOMAIN-SUFFIX,ruptly.video
 DOMAIN-SUFFIX,asiangooglenetwork.com
 DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rtnewsru.com
@@ -49,7 +67,7 @@ DOMAIN-SUFFIX,russieactuelle.fr
 DOMAIN-SUFFIX,de-rt.com
 DOMAIN-SUFFIX,de-rt.org
 DOMAIN-SUFFIX,de-rtnews.com
-DOMAIN-SUFFIX,de-rtnews.net
+DOMAIN-SUFFIX,rtde.media
 DOMAIN-SUFFIX,dert.online
 DOMAIN-SUFFIX,dert.site
 DOMAIN-SUFFIX,dert.tech
@@ -61,9 +79,9 @@ DOMAIN-SUFFIX,rtde.expert
 DOMAIN-SUFFIX,rtde.express
 DOMAIN-SUFFIX,rtde.info
 DOMAIN-SUFFIX,rtde.life
-DOMAIN-SUFFIX,rtde.live
-DOMAIN-SUFFIX,rtde.me
-DOMAIN-SUFFIX,rtde.media
+DOMAIN-SUFFIX,e1.ru
+DOMAIN-SUFFIX,amic.ru
+DOMAIN-SUFFIX,de-rtnews.net
 DOMAIN-SUFFIX,rtde.online
 DOMAIN-SUFFIX,rtde.org
 DOMAIN-SUFFIX,rtde.press
@@ -134,22 +152,4 @@ DOMAIN-SUFFIX,rtfestival.ru
 DOMAIN-SUFFIX,rt-school.online
 DOMAIN-SUFFIX,ruptly.agency
 DOMAIN-SUFFIX,ruptly.tv
-DOMAIN-SUFFIX,ruptly.video
-DOMAIN-SUFFIX,1prime.ru
-DOMAIN-SUFFIX,sputnikimages.com
-DOMAIN-SUFFIX,rossiyasegodnya.com
-DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai
-DOMAIN-SUFFIX,arctic.ru
-DOMAIN-SUFFIX,baltnews.com
-DOMAIN-SUFFIX,baltnews.lt
-DOMAIN-SUFFIX,inosmi.ru
-DOMAIN-SUFFIX,pressria.ru
-DOMAIN-SUFFIX,ukraina.ru
-DOMAIN-SUFFIX,ria.ru
-DOMAIN-SUFFIX,radiosputnik.ru
-DOMAIN-SUFFIX,sputnikglobe.com
-DOMAIN-SUFFIX,jinrieluosi.cn
-DOMAIN-SUFFIX,sputnikmediabank.com
-DOMAIN-SUFFIX,sputniknews.com
-DOMAIN-SUFFIX,tok.media
 DOMAIN-SUFFIX,gazetarussa.com.br

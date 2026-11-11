@@ -1,15 +1,13 @@
 # NAME: category-ecommerce-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-10 12:26:33
+# UPDATED: 2026-11-11 10:24:42
 # TOTAL: 201
 # DOMAIN: 34
 # DOMAIN-SUFFIX: 167
 
-DOMAIN-SUFFIX,wbrep.ru
-DOMAIN-SUFFIX,paywb.com
-DOMAIN-SUFFIX,flowwow-images.com
-DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,russoutdoor.ru
 DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,sfunpay.com
@@ -46,9 +44,9 @@ DOMAIN-SUFFIX,ozonglobalevents.com
 DOMAIN-SUFFIX,ozonpartners.by
 DOMAIN-SUFFIX,ozonpartners.ru
 DOMAIN-SUFFIX,ozonrocet.by
-DOMAIN-SUFFIX,drom.ru
+DOMAIN-SUFFIX,ozonroket.by
 DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
-DOMAIN-SUFFIX,ozonru.com
+DOMAIN-SUFFIX,drom.ru
 DOMAIN-SUFFIX,ozonru.eu
 DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonsport.ru
@@ -60,9 +58,9 @@ DOMAIN-SUFFIX,etradebook.ru
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,mp.world
 DOMAIN-SUFFIX,onlyjobs.ru
-DOMAIN-SUFFIX,wbstatic.net
+DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,paywb.ru
-DOMAIN-SUFFIX,russoutdoor.ru
+DOMAIN-SUFFIX,wbtek.ru
 DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rwbautomation.ru
 DOMAIN-SUFFIX,rwbautomation.tech
@@ -88,11 +86,11 @@ DOMAIN-SUFFIX,wbmail.ru
 DOMAIN-SUFFIX,wbmotivator.ru
 DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,wbr.by
-DOMAIN-SUFFIX,ozonroket.by
+DOMAIN-SUFFIX,wbrep.ru
+DOMAIN-SUFFIX,wbstatic.net
+DOMAIN-SUFFIX,ozonru.com
 DOMAIN-SUFFIX,rdrom.ru
-DOMAIN-SUFFIX,cian.site
-DOMAIN-SUFFIX,wbtek.ru
-DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,wbwh.tech
 DOMAIN-SUFFIX,wibes.com
 DOMAIN-SUFFIX,wibes.ru
@@ -153,10 +151,10 @@ DOMAIN-SUFFIX,wolfberries.ru
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,flowwow.com
+DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
 DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
-DOMAIN-SUFFIX,poudobnee.com
-DOMAIN-SUFFIX,dmir.ru
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autoru.me
 DOMAIN-SUFFIX,avto.ru
@@ -166,8 +164,10 @@ DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,avito.tech
 DOMAIN-SUFFIX,cian.ru
-DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,cian.site
 DOMAIN-SUFFIX,ciangroup.ru
+DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,poudobnee.com
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozonru.co.il
