@@ -1,9 +1,9 @@
 # NAME: pw
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-11 10:25:28
-# TOTAL: 117
-# IP-CIDR: 117
+# UPDATED: 2026-11-12 11:31:48
+# TOTAL: 116
+# IP-CIDR: 116
 
 IP-CIDR,31.209.97.0/24
 IP-CIDR,31.209.102.0/23
@@ -121,4 +121,3 @@ IP-CIDR,2a09:bac4:15b8::/45
 IP-CIDR,2a09:bac5:50f8::/45
 IP-CIDR,2a09:bac6:50f8::/45
 IP-CIDR,2a0b:4e07:3:5850::/60
-IP-CIDR,2a14:67c2:8fd::/48
