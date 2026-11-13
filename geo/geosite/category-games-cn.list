@@ -1,7 +1,7 @@
 # NAME: category-games-cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-12 11:30:44
+# UPDATED: 2026-11-13 11:03:53
 # TOTAL: 179
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 176
@@ -56,15 +56,6 @@ DOMAIN-SUFFIX,wo1wan.com
 DOMAIN-SUFFIX,ycgame.com
 DOMAIN-SUFFIX,yjwujian.cn
 DOMAIN-SUFFIX,yysls.cn
-DOMAIN-SUFFIX,cowlevel.net
-DOMAIN-SUFFIX,cdncl.net
-DOMAIN-SUFFIX,dobest.com
-DOMAIN-SUFFIX,langrenclub.com
-DOMAIN-SUFFIX,sanguosha.com
-DOMAIN-SUFFIX,xhlsgs.com
-DOMAIN-SUFFIX,xinwuji.com
-DOMAIN-SUFFIX,yokaverse.com
-DOMAIN-SUFFIX,zhuoyou.com
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
 DOMAIN-SUFFIX,3839.com
@@ -128,6 +119,7 @@ DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,yxhhdl.com
 DOMAIN-SUFFIX,yxhimg.com
+DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com
 DOMAIN-SUFFIX,changyou.com
@@ -135,11 +127,6 @@ DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,playcool.com
 DOMAIN-SUFFIX,yeyou.com
 DOMAIN-SUFFIX,yeyoucdn.com
-DOMAIN-SUFFIX,hero.com
-DOMAIN-SUFFIX,herogame.com
-DOMAIN-SUFFIX,heroesports.com
-DOMAIN-SUFFIX,shyxhy.com
-DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -160,7 +147,17 @@ DOMAIN-SUFFIX,aligames.com
 DOMAIN-SUFFIX,jiaoyimao.cn
 DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,lingxigames.com
-DOMAIN-SUFFIX,sl916.com
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,hero.com
+DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,shyxhy.com
+DOMAIN-SUFFIX,yingxiong.com
 DOMAIN-SUFFIX,seasungames.cn
 DOMAIN-SUFFIX,seasungames.com
 DOMAIN-SUFFIX,seasunwbl.com
@@ -171,16 +168,19 @@ DOMAIN-SUFFIX,cbjq.com
 DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,tiancitycdn.com
+DOMAIN-SUFFIX,dobest.com
+DOMAIN-SUFFIX,langrenclub.com
+DOMAIN-SUFFIX,sanguosha.com
+DOMAIN-SUFFIX,xhlsgs.com
+DOMAIN-SUFFIX,xinwuji.com
+DOMAIN-SUFFIX,yokaverse.com
+DOMAIN-SUFFIX,zhuoyou.com
+DOMAIN-SUFFIX,cowlevel.net
+DOMAIN-SUFFIX,cdncl.net
 DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,37.com.cn
 DOMAIN-SUFFIX,nikkigames.com.cn
 DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$

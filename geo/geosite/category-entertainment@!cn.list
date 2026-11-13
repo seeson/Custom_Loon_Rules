@@ -1,11 +1,12 @@
 # NAME: category-entertainment@!cn
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-12 11:30:39
+# UPDATED: 2026-11-13 11:03:47
 # TOTAL: 40
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 34
 
+DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
@@ -45,4 +46,3 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
-DOMAIN-SUFFIX,webnovel.com
