@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 109
-# TOTAL: 109
+# DOMAIN: 108
+# TOTAL: 108
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -69,11 +69,9 @@ DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.flatuslifir.is
-DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
-DOMAIN,tracker.internetwarriors.net
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.mywaifu.best
@@ -90,6 +88,7 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.run.place
 DOMAIN,tracker.sela.st
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.theoks.net
