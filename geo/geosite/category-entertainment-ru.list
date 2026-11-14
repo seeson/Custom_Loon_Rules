@@ -1,7 +1,7 @@
 # NAME: category-entertainment-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-13 11:03:47
+# UPDATED: 2026-11-14 10:49:30
 # TOTAL: 35
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 33
@@ -9,7 +9,7 @@
 DOMAIN,kp-config-smart-tv.akamaized.net
 DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,promodj.com
-DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,kinorium.com
@@ -25,13 +25,9 @@ DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,viju.ru
 DOMAIN-SUFFIX,cdnvideohub.com
-DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,rtbcdn.ru
-DOMAIN-SUFFIX,rutube.sport
-DOMAIN-SUFFIX,kinopoisk.ru
-DOMAIN-SUFFIX,wink.ru
-DOMAIN-SUFFIX,wink.am
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
@@ -39,5 +35,9 @@ DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
 DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,kp.yandex.net
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net

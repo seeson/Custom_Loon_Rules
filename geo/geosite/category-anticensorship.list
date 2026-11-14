@@ -1,7 +1,7 @@
 # NAME: category-anticensorship
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-13 11:03:32
+# UPDATED: 2026-11-14 10:49:19
 # TOTAL: 127
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 121
@@ -13,7 +13,7 @@ DOMAIN,throneproj.github.io
 DOMAIN,trojan-gfw.github.io
 DOMAIN,xtls.github.io
 DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,ipfs-gateway.cloud
 DOMAIN-SUFFIX,akasha.world
 DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,browserleaks.com
@@ -76,12 +76,28 @@ DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,2dust.link
 DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,ceno.app
-DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,ipns.co
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,wireguard.com
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,via0.com
+DOMAIN-SUFFIX,nftstorage.link
+DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,freebrowser.org
-DOMAIN-SUFFIX,wireguard.com
+DOMAIN-SUFFIX,freewechat.com
+DOMAIN-SUFFIX,try.rw
+DOMAIN-SUFFIX,remna.st
+DOMAIN-SUFFIX,log.rw
+DOMAIN-SUFFIX,docs.rw
+DOMAIN-SUFFIX,vpngate.net
 DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,freezhihu.org
 DOMAIN-SUFFIX,googlecensorship.org
@@ -91,39 +107,23 @@ DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,manyvoices.news
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,wikiunblocked.org
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,paskoocheh.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,ceno.app
+DOMAIN-SUFFIX,censorship.no
+DOMAIN-SUFFIX,citizenlab.ca
+DOMAIN-SUFFIX,citizenlab.org
 DOMAIN-SUFFIX,haveibeenpwned.com
 DOMAIN-SUFFIX,pwnedpasswords.com
-DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,softether.org
 DOMAIN-SUFFIX,softether-download.com
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ray.cool
 DOMAIN-SUFFIX,v2fly.org
-DOMAIN-SUFFIX,docs.rw
-DOMAIN-SUFFIX,log.rw
-DOMAIN-SUFFIX,remna.st
-DOMAIN-SUFFIX,try.rw
-DOMAIN-SUFFIX,ipns.co
-DOMAIN-SUFFIX,jorropo.net
-DOMAIN-SUFFIX,crustwebsites.net
-DOMAIN-SUFFIX,dweb.link
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,ipfs-gateway.cloud
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,via0.com
-DOMAIN-SUFFIX,nftstorage.link
-DOMAIN-SUFFIX,4everland.io
-DOMAIN-SUFFIX,c4rex.co
-DOMAIN-SUFFIX,ipfs.io
-DOMAIN-SUFFIX,ipfs.tech
-DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,citizenlab.org
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,vpngate.net
-DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.fleek.co
