@@ -2,15 +2,16 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
-# DOMAIN: 23
-# DOMAIN-SUFFIX: 223
-# TOTAL: 246
+# DOMAIN: 24
+# DOMAIN-SUFFIX: 224
+# TOTAL: 248
 
 DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,cdn-cn.apple-mapkit.com
 DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
 DOMAIN,communities.apple.com
+DOMAIN,configuration.ls.apple.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,discussionschinese.apple.com
 DOMAIN,fides-pol.apple.com
@@ -78,6 +79,7 @@ DOMAIN-SUFFIX,beats4.cn
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,beatsbydre.com.cn
 DOMAIN-SUFFIX,beatsep.cn
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn2.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn3.apple-mapkit.com
