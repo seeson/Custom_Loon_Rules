@@ -1,7 +1,7 @@
 # NAME: category-ir
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-14 10:49:39
+# UPDATED: 2026-11-15 10:18:21
 # TOTAL: 190
 # DOMAIN-SUFFIX: 190
 
@@ -26,7 +26,36 @@ DOMAIN-SUFFIX,dekapost.com
 DOMAIN-SUFFIX,mahex.com
 DOMAIN-SUFFIX,podro.com
 DOMAIN-SUFFIX,tipaxco.com
+DOMAIN-SUFFIX,quera.org
 DOMAIN-SUFFIX,agrieng.org
+DOMAIN-SUFFIX,bale.ai
+DOMAIN-SUFFIX,eitaa.com
+DOMAIN-SUFFIX,gap.im
+DOMAIN-SUFFIX,gaplication.com
+DOMAIN-SUFFIX,niniban.com
+DOMAIN-SUFFIX,ninisite.com
+DOMAIN-SUFFIX,virasty.com
+DOMAIN-SUFFIX,agri-bank.com
+DOMAIN-SUFFIX,ansarbank.com
+DOMAIN-SUFFIX,blubank.com
+DOMAIN-SUFFIX,hibank24.com
+DOMAIN-SUFFIX,parsian-bank.com
+DOMAIN-SUFFIX,sb24.com
+DOMAIN-SUFFIX,faradars.org
+DOMAIN-SUFFIX,maktabkhooneh.org
+DOMAIN-SUFFIX,newdars.com
+DOMAIN-SUFFIX,toplearn.com
+DOMAIN-SUFFIX,melotar.com
+DOMAIN-SUFFIX,iranlms.org
+DOMAIN-SUFFIX,webinarplus.online
+DOMAIN-SUFFIX,mellatinsurance.com
+DOMAIN-SUFFIX,bimehasia.com
+DOMAIN-SUFFIX,dana-insurance.com
+DOMAIN-SUFFIX,dayins.com
+DOMAIN-SUFFIX,bimeh.com
+DOMAIN-SUFFIX,bimeonline.com
+DOMAIN-SUFFIX,novininsurance.com
+DOMAIN-SUFFIX,sinainsurance.com
 DOMAIN-SUFFIX,vandar.app
 DOMAIN-SUFFIX,behpardakht.com
 DOMAIN-SUFFIX,bitbarg.me
@@ -40,6 +69,7 @@ DOMAIN-SUFFIX,sanjesh.org
 DOMAIN-SUFFIX,sharif.edu
 DOMAIN-SUFFIX,srttu.edu
 DOMAIN-SUFFIX,digi-kala.com
+DOMAIN-SUFFIX,snapptrip.com
 DOMAIN-SUFFIX,janebi.com
 DOMAIN-SUFFIX,sheypoor.com
 DOMAIN-SUFFIX,torob.com
@@ -59,46 +89,9 @@ DOMAIN-SUFFIX,kaprila.com
 DOMAIN-SUFFIX,najva.com
 DOMAIN-SUFFIX,sabavision.com
 DOMAIN-SUFFIX,yektanet.com
-DOMAIN-SUFFIX,agri-bank.com
-DOMAIN-SUFFIX,ansarbank.com
-DOMAIN-SUFFIX,blubank.com
-DOMAIN-SUFFIX,hibank24.com
-DOMAIN-SUFFIX,snapproom.com
-DOMAIN-SUFFIX,parsian-bank.com
-DOMAIN-SUFFIX,sb24.com
-DOMAIN-SUFFIX,mellatinsurance.com
-DOMAIN-SUFFIX,bimehasia.com
-DOMAIN-SUFFIX,dana-insurance.com
-DOMAIN-SUFFIX,dayins.com
-DOMAIN-SUFFIX,bimeh.com
-DOMAIN-SUFFIX,bimeonline.com
-DOMAIN-SUFFIX,novininsurance.com
-DOMAIN-SUFFIX,sinainsurance.com
-DOMAIN-SUFFIX,bale.ai
-DOMAIN-SUFFIX,webinarplus.online
-DOMAIN-SUFFIX,iranlms.org
-DOMAIN-SUFFIX,eitaa.com
-DOMAIN-SUFFIX,gap.im
-DOMAIN-SUFFIX,gaplication.com
-DOMAIN-SUFFIX,niniban.com
-DOMAIN-SUFFIX,ninisite.com
-DOMAIN-SUFFIX,virasty.com
-DOMAIN-SUFFIX,cdnsnapptrip.com
-DOMAIN-SUFFIX,snapp-box.com
-DOMAIN-SUFFIX,snapp.cab
-DOMAIN-SUFFIX,snapp.doctor
-DOMAIN-SUFFIX,snapp.express
-DOMAIN-SUFFIX,snapp.site
-DOMAIN-SUFFIX,snapp.supply
-DOMAIN-SUFFIX,snapp.taxi
-DOMAIN-SUFFIX,snapp.tech
-DOMAIN-SUFFIX,snappcloud.io
-DOMAIN-SUFFIX,snappfood.dev
+DOMAIN-SUFFIX,mellatbroker.com
 DOMAIN-SUFFIX,blogfa.com
 DOMAIN-SUFFIX,blogsky.com
-DOMAIN-SUFFIX,snapp.ninja
-DOMAIN-SUFFIX,snapptrip.com
-DOMAIN-SUFFIX,mellatbroker.com
 DOMAIN-SUFFIX,talarebourse.com
 DOMAIN-SUFFIX,arman-ati.com
 DOMAIN-SUFFIX,maskanbourse.com
@@ -133,8 +126,7 @@ DOMAIN-SUFFIX,ompfinex.com
 DOMAIN-SUFFIX,ramzinex.com
 DOMAIN-SUFFIX,tabdeal.org
 DOMAIN-SUFFIX,tetherland.com
-DOMAIN-SUFFIX,melotar.com
-DOMAIN-SUFFIX,quera.org
+DOMAIN-SUFFIX,snapproom.com
 DOMAIN-SUFFIX,cinematicket.org
 DOMAIN-SUFFIX,melodify.app
 DOMAIN-SUFFIX,melodify.pw
@@ -167,7 +159,6 @@ DOMAIN-SUFFIX,khabarvarzeshi.com
 DOMAIN-SUFFIX,khorasannews.com
 DOMAIN-SUFFIX,resalat-news.com
 DOMAIN-SUFFIX,tehrantimes.com
-DOMAIN-SUFFIX,toplearn.com
 DOMAIN-SUFFIX,abrha.net
 DOMAIN-SUFFIX,afranet.com
 DOMAIN-SUFFIX,arvancloud.com
@@ -192,6 +183,15 @@ DOMAIN-SUFFIX,smshooshmand.com
 DOMAIN-SUFFIX,softgozar.com
 DOMAIN-SUFFIX,yasdl.com
 DOMAIN-SUFFIX,zhaket.com
-DOMAIN-SUFFIX,faradars.org
-DOMAIN-SUFFIX,maktabkhooneh.org
-DOMAIN-SUFFIX,newdars.com
+DOMAIN-SUFFIX,cdnsnapptrip.com
+DOMAIN-SUFFIX,snapp-box.com
+DOMAIN-SUFFIX,snapp.cab
+DOMAIN-SUFFIX,snapp.doctor
+DOMAIN-SUFFIX,snapp.express
+DOMAIN-SUFFIX,snapp.ninja
+DOMAIN-SUFFIX,snapp.site
+DOMAIN-SUFFIX,snapp.supply
+DOMAIN-SUFFIX,snapp.taxi
+DOMAIN-SUFFIX,snapp.tech
+DOMAIN-SUFFIX,snappcloud.io
+DOMAIN-SUFFIX,snappfood.dev
