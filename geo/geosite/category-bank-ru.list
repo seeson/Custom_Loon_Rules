@@ -1,17 +1,17 @@
 # NAME: category-bank-ru
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-15 10:18:01
-# TOTAL: 356
+# UPDATED: 2026-11-16 10:29:40
+# TOTAL: 358
 # DOMAIN: 3
-# DOMAIN-SUFFIX: 353
+# DOMAIN-SUFFIX: 355
 
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
 DOMAIN-SUFFIX,novikom.ru
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,tinkoffjournal.ru
 DOMAIN-SUFFIX,alfabank.st
-DOMAIN-SUFFIX,alfadirect.ru
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,myapelsin.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bank131.ru
@@ -90,6 +90,8 @@ DOMAIN-SUFFIX,vtb.ru
 DOMAIN-SUFFIX,vtbbo.ru
 DOMAIN-SUFFIX,vtbglobalperspectives.com
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
@@ -103,7 +105,7 @@ DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rncoluminis.ru
 DOMAIN-SUFFIX,veb.ru
 DOMAIN-SUFFIX,westernunion.ru
-DOMAIN-SUFFIX,ns-bank.ru
+DOMAIN-SUFFIX,yoobusiness.ru
 DOMAIN-SUFFIX,abr.ru
 DOMAIN-SUFFIX,absolutbank.ru
 DOMAIN-SUFFIX,agroros.ru
@@ -121,7 +123,7 @@ DOMAIN-SUFFIX,autofinancebank.ru
 DOMAIN-SUFFIX,autokreditbank.ru
 DOMAIN-SUFFIX,avangard.ru
 DOMAIN-SUFFIX,aversbank.ru
-DOMAIN-SUFFIX,bancaintesa.ru
+DOMAIN-SUFFIX,ns-bank.ru
 DOMAIN-SUFFIX,bank-arzamas.ru
 DOMAIN-SUFFIX,bank-hlynov.ru
 DOMAIN-SUFFIX,bankermak.ru
@@ -182,9 +184,9 @@ DOMAIN-SUFFIX,nico-bank.ru
 DOMAIN-SUFFIX,nipbank.ru
 DOMAIN-SUFFIX,noosferabank.ru
 DOMAIN-SUFFIX,norvikbank.ru
-DOMAIN-SUFFIX,vfbank.ru
+DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,yoobusiness.ru
+DOMAIN-SUFFIX,bancaintesa.ru
 DOMAIN-SUFFIX,nskbl.ru
 DOMAIN-SUFFIX,okbank.ru
 DOMAIN-SUFFIX,orbank.ru
@@ -229,7 +231,7 @@ DOMAIN-SUFFIX,uralprombank.ru
 DOMAIN-SUFFIX,uralsib.ru
 DOMAIN-SUFFIX,vbrr.ru
 DOMAIN-SUFFIX,venets-bank.ru
-DOMAIN-SUFFIX,alfa.me
+DOMAIN-SUFFIX,vfbank.ru
 DOMAIN-SUFFIX,vlb100.ru
 DOMAIN-SUFFIX,vlbb.ru
 DOMAIN-SUFFIX,wb-bank.ru
@@ -250,7 +252,7 @@ DOMAIN-SUFFIX,spasibobonus.ru
 DOMAIN-SUFFIX,spasibosb.ru
 DOMAIN-SUFFIX,spasibosberbank.ru
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
-DOMAIN-SUFFIX,novobank.ru
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
 DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,2w.ru
@@ -343,7 +345,7 @@ DOMAIN-SUFFIX,tinkoff.ru
 DOMAIN-SUFFIX,tinkoffcapital.ru
 DOMAIN-SUFFIX,tinkoffinsurance.ru
 DOMAIN-SUFFIX,tinkoffinsurancefuture.ru
-DOMAIN-SUFFIX,tinkoffjournal.ru
+DOMAIN-SUFFIX,novobank.ru
 DOMAIN-SUFFIX,tinkoffmobile.com
 DOMAIN-SUFFIX,tinsurance.ru
 DOMAIN-SUFFIX,tinsurancefuture.ru
