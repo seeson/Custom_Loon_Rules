@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 102
-# TOTAL: 102
+# DOMAIN: 101
+# TOTAL: 101
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -43,19 +43,19 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
-DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
 DOMAIN,tracker.alt.cx
-DOMAIN,tracker.aruku.ovh
 DOMAIN,tracker.augrains.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.dhitechnical.com
@@ -64,7 +64,6 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
@@ -84,12 +83,11 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
-DOMAIN,tracker.sela.st
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.transfur.org
-DOMAIN,tracker.vectahosting.eu
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.willy.pro
@@ -105,5 +103,6 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
 DOMAIN,whybother.torrentonline.cc
+DOMAIN,www.all4nothin.net
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
