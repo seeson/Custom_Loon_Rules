@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:23 CST
 # DOMAIN: 6
-# DOMAIN-SUFFIX: 109669
-# TOTAL: 109675
+# DOMAIN-SUFFIX: 109673
+# TOTAL: 109679
 
 DOMAIN,api.blipsandchitz.me
 DOMAIN,end-api.shallow.ink
@@ -58998,6 +58998,7 @@ DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,lenovoconnect.com
 DOMAIN-SUFFIX,lenovoeservice.com
 DOMAIN-SUFFIX,lenovofile.com
+DOMAIN-SUFFIX,lenovofuturecenter.com
 DOMAIN-SUFFIX,lenovogame.com
 DOMAIN-SUFFIX,lenovohci.com
 DOMAIN-SUFFIX,lenovohuishang.com
@@ -73657,6 +73658,7 @@ DOMAIN-SUFFIX,qpjylm.com
 DOMAIN-SUFFIX,qpkaifa.com
 DOMAIN-SUFFIX,qplus.com
 DOMAIN-SUFFIX,qplusstatic.com
+DOMAIN-SUFFIX,qpmcn.com
 DOMAIN-SUFFIX,qpoc.com
 DOMAIN-SUFFIX,qpstar.com
 DOMAIN-SUFFIX,qpwater.com
@@ -88458,6 +88460,7 @@ DOMAIN-SUFFIX,troxchina.com
 DOMAIN-SUFFIX,trpc.center
 DOMAIN-SUFFIX,trpc.group
 DOMAIN-SUFFIX,trpc.tech
+DOMAIN-SUFFIX,trpcdn.com
 DOMAIN-SUFFIX,trpcdn.net
 DOMAIN-SUFFIX,trs-logistics.com
 DOMAIN-SUFFIX,trsoft.vip
@@ -106067,6 +106070,7 @@ DOMAIN-SUFFIX,zhaoketang.com
 DOMAIN-SUFFIX,zhaokuaizhao.com
 DOMAIN-SUFFIX,zhaolaobanla.com
 DOMAIN-SUFFIX,zhaoliangji.com
+DOMAIN-SUFFIX,zhaoliangjipc.com
 DOMAIN-SUFFIX,zhaoliming.net
 DOMAIN-SUFFIX,zhaoming.biz
 DOMAIN-SUFFIX,zhaomishijie.com

@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 101
-# TOTAL: 101
+# DOMAIN: 106
+# TOTAL: 106
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -40,6 +40,8 @@ DOMAIN,seedpeer.net
 DOMAIN,stairs.lat
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
+DOMAIN,t1.itrus.su
+DOMAIN,t2.itrus.su
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
@@ -63,11 +65,14 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.evergarden.uk
+DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
+DOMAIN,tracker.fnix.net
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.internetwarriors.net
+DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
