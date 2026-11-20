@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 106
-# TOTAL: 106
+# DOMAIN: 108
+# TOTAL: 108
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -20,6 +20,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,ht.therarbg.to
 DOMAIN,ipv4announce.sktorrent.eu
+DOMAIN,ipv6.govt.hu
 DOMAIN,kolankoalastree.newtrackon.co.nz
 DOMAIN,mail.segso.net
 DOMAIN,martin-gebhardt.eu
@@ -31,8 +32,6 @@ DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,opentor.org
-DOMAIN,opentracker.lain.moscow
-DOMAIN,opentracker2.lain.moscow
 DOMAIN,p4p.arenabg.com
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker01-msk-virt.corbina.net
@@ -45,6 +44,8 @@ DOMAIN,t2.itrus.su
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
+DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
 DOMAIN,tr3.ysagin.top
@@ -57,9 +58,10 @@ DOMAIN,tracker.alt.cx
 DOMAIN,tracker.augrains.com
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bluefrog.pw
-DOMAIN,tracker.cangku.moe
+DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.cn.nyaa.net
 DOMAIN,tracker.corpscorp.online
+DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -67,7 +69,7 @@ DOMAIN,tracker.ducks.party
 DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.fnix.net
+DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
@@ -88,6 +90,7 @@ DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
@@ -108,6 +111,5 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,v2.iperson.xyz
 DOMAIN,whybother.torrentonline.cc
-DOMAIN,www.all4nothin.net
 DOMAIN,www.wareztorrent.com
 DOMAIN,yuptracker-eu.gaijinent.com
