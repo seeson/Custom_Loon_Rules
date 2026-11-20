@@ -1,10 +1,16 @@
 # NAME: baishancloud
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-18 11:58:04
-# TOTAL: 3
-# DOMAIN-SUFFIX: 3
+# UPDATED: 2026-11-20 11:48:23
+# TOTAL: 9
+# DOMAIN-SUFFIX: 9
 
+DOMAIN-SUFFIX,baishan.com
+DOMAIN-SUFFIX,baishancdnx.cn
+DOMAIN-SUFFIX,baishancloud.com
 DOMAIN-SUFFIX,bsclink.cn
 DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,trpcdn.com
 DOMAIN-SUFFIX,trpcdn.net
+DOMAIN-SUFFIX,yundun.com
+DOMAIN-SUFFIX,saxyit.com

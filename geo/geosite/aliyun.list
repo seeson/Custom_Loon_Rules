@@ -1,9 +1,9 @@
 # NAME: aliyun
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-18 11:57:47
-# TOTAL: 88
-# DOMAIN-SUFFIX: 88
+# UPDATED: 2026-11-20 11:47:54
+# TOTAL: 89
+# DOMAIN-SUFFIX: 89
 
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-wulanchabu.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com
+DOMAIN-SUFFIX,oss-enet.aliyuncs.com
 DOMAIN-SUFFIX,registry.aliyuncs.com
 DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com

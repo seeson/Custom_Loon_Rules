@@ -1,10 +1,10 @@
 # NAME: category-cdn-!cn@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-18 11:58:30
+# UPDATED: 2026-11-20 11:49:04
 # TOTAL: 3
 # DOMAIN-SUFFIX: 3
 
-DOMAIN-SUFFIX,akstat.io
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,akstat.io
