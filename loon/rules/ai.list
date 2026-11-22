@@ -3,9 +3,9 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:21 CST
 # DOMAIN: 34
-# DOMAIN-KEYWORD: 3
+# DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 190
-# TOTAL: 227
+# TOTAL: 228
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -232,5 +232,6 @@ DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,youmind.site
 DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,antigravity
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
