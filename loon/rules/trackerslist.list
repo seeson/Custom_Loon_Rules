@@ -2,8 +2,8 @@
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:35 CST
-# DOMAIN: 105
-# TOTAL: 105
+# DOMAIN: 116
+# TOTAL: 116
 
 DOMAIN,004430.xyz
 DOMAIN,1.tracker.eu.org
@@ -40,19 +40,24 @@ DOMAIN,seedpeer.net
 DOMAIN,stairs.lat
 DOMAIN,t.213891.xyz
 DOMAIN,t.overflow.biz
+DOMAIN,t1.hloli.org
 DOMAIN,t1.itrus.su
 DOMAIN,t2.itrus.su
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abiir.top
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.nyacat.pw
+DOMAIN,tr3.ysagin.top
 DOMAIN,tr4ck3r.duckdns.org
+DOMAIN,track3r.site
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.004430.xyz
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.7471.top
+DOMAIN,tracker.aburaya.live
 DOMAIN,tracker.alt.cx
 DOMAIN,tracker.augrains.com
 DOMAIN,tracker.bittor.pw
@@ -64,13 +69,16 @@ DOMAIN,tracker.dhitechnical.com
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.ducks.party
+DOMAIN,tracker.edkj.club
 DOMAIN,tracker.evergarden.uk
 DOMAIN,tracker.farted.net
 DOMAIN,tracker.filemail.com
+DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.foreverpirates.co
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.ilibr.org
 DOMAIN,tracker.internetwarriors.net
+DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.mywaifu.best
@@ -86,12 +94,15 @@ DOMAIN,tracker.playground.ru
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.qu.ax
 DOMAIN,tracker.renfei.net
+DOMAIN,tracker.sela.st
 DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
+DOMAIN,tracker.t-rb.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrents.observer
 DOMAIN,tracker.transfur.org
+DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vectahosting.eu
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wildkat.net
