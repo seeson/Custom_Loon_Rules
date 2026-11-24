@@ -3,8 +3,8 @@
 # REPO: https://github.com/seeson/Custom_Loon_Rules
 # UPDATED: 2025-09-16 04:24:28 CST
 # DOMAIN: 28
-# DOMAIN-SUFFIX: 232
-# TOTAL: 260
+# DOMAIN-SUFFIX: 236
+# TOTAL: 264
 
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
@@ -109,6 +109,7 @@ DOMAIN-SUFFIX,ccspeed.cn
 DOMAIN-SUFFIX,cdncl.net
 DOMAIN-SUFFIX,cgyouxi.com
 DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,cowlevel.net
 DOMAIN-SUFFIX,cy.com
@@ -168,6 +169,7 @@ DOMAIN-SUFFIX,ls66.cn
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,lxjiasu.com
 DOMAIN-SUFFIX,mail4399.com
+DOMAIN-SUFFIX,maimai.wahlap.com
 DOMAIN-SUFFIX,maindown4399.com
 DOMAIN-SUFFIX,me4399.com
 DOMAIN-SUFFIX,mhystatic.com
@@ -215,6 +217,7 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,tanwan.com
 DOMAIN-SUFFIX,testplus.cn
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 DOMAIN-SUFFIX,themisweeps.com
@@ -230,6 +233,7 @@ DOMAIN-SUFFIX,vrzwk.cn
 DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,waifushangcheng.com
 DOMAIN-SUFFIX,wanmei.com
 DOMAIN-SUFFIX,wanwan4399.com
