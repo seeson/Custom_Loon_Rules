@@ -1,17 +1,18 @@
 # NAME: category-companies@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-24 14:36:20
+# UPDATED: 2026-11-25 13:09:57
 # TOTAL: 63
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 30
 
-DOMAIN,sentry.hetzner.company
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,update.crashlytics.com
+DOMAIN,sentry.hetzner.company
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -46,11 +47,7 @@ DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN,stats.vk-portal.net
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,sentry.iptv.rt.ru
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
 DOMAIN-SUFFIX,applicationinsights.io
 DOMAIN-SUFFIX,applicationinsights.net
 DOMAIN-SUFFIX,aria.ms
@@ -68,4 +65,7 @@ DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
-DOMAIN-SUFFIX,adobestats.io
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
