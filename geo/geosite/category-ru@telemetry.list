@@ -1,12 +1,11 @@
 # NAME: category-ru@telemetry
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-25 13:10:20
+# UPDATED: 2026-11-26 12:37:09
 # TOTAL: 51
 # DOMAIN: 33
 # DOMAIN-SUFFIX: 18
 
-DOMAIN,sentry.x5.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,sentry.kontur.host
 DOMAIN-SUFFIX,apptracer.ru
@@ -23,21 +22,14 @@ DOMAIN,stats.rustore.ru
 DOMAIN,stats.telega.info
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN,stats.vk-portal.net
-DOMAIN,sentry.mindbox.ru
-DOMAIN,sentry.popmechanic.ru
-DOMAIN,analytics-stage.wildberries.ru
-DOMAIN,analytics.wildberries.ru
-DOMAIN,marketplace-sentry.wb.ru
-DOMAIN,sentry.wb.ru
-DOMAIN,web-analytics.wildberries.ru
-DOMAIN,stats.avito.ru
-DOMAIN,sentry.ozon.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,metrics.21-school.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN-SUFFIX,clickstream.sberbank.ru
-DOMAIN,sentry.iptv.rt.ru
+DOMAIN,sentry.x5.ru
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
@@ -56,4 +48,12 @@ DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
-DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN,stats.avito.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
