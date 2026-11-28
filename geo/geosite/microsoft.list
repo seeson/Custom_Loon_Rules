@@ -1,11 +1,12 @@
 # NAME: microsoft
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-25 11:13:23
-# DOMAIN: 120
+# UPDATED: 2026-11-28 10:19:47
+# DOMAIN: 121
 # DOMAIN-SUFFIX: 637
-# TOTAL: 757
+# TOTAL: 758
 
+DOMAIN,aurora-customization-usw2.lithium.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
