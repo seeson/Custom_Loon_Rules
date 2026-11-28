@@ -1,10 +1,10 @@
 # NAME: category-public-tracker
 # AUTHOR: SeesoN
 # REPO: https://github.com/seeson/Custom_Loon_Rules
-# UPDATED: 2026-11-27 12:40:44
-# TOTAL: 437
-# DOMAIN: 406
-# DOMAIN-SUFFIX: 31
+# UPDATED: 2026-11-28 12:25:35
+# TOTAL: 438
+# DOMAIN: 404
+# DOMAIN-SUFFIX: 34
 
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
@@ -147,7 +147,6 @@ DOMAIN,opentor.org
 DOMAIN,opentracker.acgnx.com
 DOMAIN,opentracker.acgnx.se
 DOMAIN,opentracker.io
-DOMAIN,opentrackr.org
 DOMAIN,oscar.reyesleon.xyz
 DOMAIN,p2p.0g.cx
 DOMAIN,p2p.publictracker.xyz
@@ -320,7 +319,6 @@ DOMAIN,tracker.netmap.top
 DOMAIN,tracker.nighthawk.pw
 DOMAIN,tracker.open-internet.nl
 DOMAIN,tracker.openbittorrent.com
-DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.picotorrent.one
 DOMAIN,tracker.pirateparty.gr
 DOMAIN,tracker.plx.im
@@ -413,7 +411,7 @@ DOMAIN,yolo.liberbear.com
 DOMAIN,z.paranoid.agency
 DOMAIN,zupix.online
 DOMAIN-SUFFIX,peckservers.com
-DOMAIN-SUFFIX,shnflac.net
+DOMAIN-SUFFIX,searchtor.to
 DOMAIN-SUFFIX,bitseduce.com
 DOMAIN-SUFFIX,biztorrents.com
 DOMAIN-SUFFIX,blackcats-games.net
@@ -422,15 +420,17 @@ DOMAIN-SUFFIX,freerainbowtables.com
 DOMAIN-SUFFIX,genesis-sp.org
 DOMAIN-SUFFIX,learnbits.me
 DOMAIN-SUFFIX,legittorrents.info
-DOMAIN-SUFFIX,megatorrents.kg
+DOMAIN-SUFFIX,shnflac.net
 DOMAIN-SUFFIX,mvgroup.org
 DOMAIN-SUFFIX,nnm-club.cc
 DOMAIN-SUFFIX,nnm-club.info
+DOMAIN-SUFFIX,opentracker.xyz
+DOMAIN-SUFFIX,opentrackr.org
 DOMAIN-SUFFIX,bit-hdtv.com
 DOMAIN-SUFFIX,all4nothin.net
-DOMAIN-SUFFIX,thegeeks.bz
+DOMAIN-SUFFIX,megatorrents.kg
 DOMAIN-SUFFIX,siambt.com
-DOMAIN-SUFFIX,searchtor.to
+DOMAIN-SUFFIX,thegeeks.bz
 DOMAIN-SUFFIX,theoccult.bz
 DOMAIN-SUFFIX,theplace.bz
 DOMAIN-SUFFIX,thetradersden.org
@@ -442,4 +442,5 @@ DOMAIN-SUFFIX,tvnihon.com
 DOMAIN-SUFFIX,worldboxingvideoarchive.com
 DOMAIN-SUFFIX,xwt-classics.net
 DOMAIN-SUFFIX,yuwabits.net
+DOMAIN-SUFFIX,zer0day.ch
 DOMAIN-SUFFIX,torrent.eu.org
